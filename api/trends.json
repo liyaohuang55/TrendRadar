@@ -1,34 +1,36 @@
 {
-  "generated_at": "2025-12-05T05:34:29.766079+08:00",
-  "total_titles_processed": 476,
+  "generated_at": "2025-12-05T06:39:44.306681+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 股市 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 日本 shein temu 跨境电商",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "周四（12月4日），降息赢家指数跌0.81%，报99.47点。 “特朗普关税输家”指数涨0.23%，散户抱团概念股指数/迷因股（meme stock）指数涨2.27%。",
-          "url": "https://wallstreetcn.com/livenews/3015360",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        },
         {
           "title": "周四（12月4日）纽约尾盘，ICE美元指数涨0.16%，报99.014点，日内交投区间为98.765-99.027点。 彭博美元指数涨0.06%，报1213.71点，日内交投区间为1211.29-1214.66点。",
           "url": "https://wallstreetcn.com/livenews/3015344",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时44分 ~ 06时39分]"
+        },
+        {
+          "title": "周四（12月4日），降息赢家指数跌0.81%，报99.47点。 “特朗普关税输家”指数涨0.23%，散户抱团概念股指数/迷因股（meme stock）指数涨2.27%。",
+          "url": "https://wallstreetcn.com/livenews/3015360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
             15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时44分 ~ 05时34分]"
+          "time_info": "[05时34分 ~ 06时39分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）全球股市指数-欧洲市场（收盘）",
@@ -45,6 +47,30 @@
           "time_info": "[01时46分 ~ 04时44分]"
         },
         {
+          "title": "美元指数4日上涨",
+          "url": "https://flash.jin10.com/detail/20251205043947499800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时39分]"
+        },
+        {
+          "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
+          "url": "https://wallstreetcn.com/livenews/3015345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时34分 ~ 06时39分]"
+        },
+        {
           "title": "纳斯达克金龙中国指数美股盘初冲高回落，一度上涨将近0.8%刷新日高至7762.15点，随后回落至7710点下方，逼近7700点附近的平盘。",
           "url": "https://wallstreetcn.com/livenews/3015261",
           "source": "华尔街见闻-快讯",
@@ -57,26 +83,37 @@
           "time_info": "[00时58分 ~ 01时46分]"
         },
         {
-          "title": "美元指数4日上涨",
-          "url": "https://flash.jin10.com/detail/20251205043947499800",
-          "source": "金十数据",
+          "title": "周四（12月4日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.72%，报92590美元，日内交投于94440-91165美元区间。 CME以太币期货DCR主力合约持平，报3149.50美元，日内交投于3252.50-3080美元区间。 美股加密货币与加密货币关联指数涨2.72%，报71.95点。 最近24小时，MarketVector数字资产100小盘指数跌2.33%，暂报4277.88点。",
+          "url": "https://wallstreetcn.com/livenews/3015370",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "06时39分"
         },
         {
-          "title": "ICE美元指数涨美国10年期国债收益率涨4.26个基点，报4.1059%，全天持续震荡上行。 两年期美债收益率涨4.33个基点，报3.5268%；30年期美债收益率涨3.39个基点，报4.7647%。",
-          "url": "https://wallstreetcn.com/livenews/3015345",
+          "title": "（美股）费城金银指数收涨0.40%，报319.29点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.37%，报2284.55点；北京时间22:30美股开盘之前微跌、持稳于2270点上方，23:08刷新日低至2252.98点，之后快速转涨。",
+          "url": "https://wallstreetcn.com/livenews/3015369",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时39分"
+        },
+        {
+          "title": "金十图示：2025年12月04日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251205051011448800",
+          "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时34分"
+          "time_info": "06时39分"
         }
       ]
     }
