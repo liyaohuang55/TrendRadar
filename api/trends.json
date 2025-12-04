@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T17:08:18.964570+08:00",
-  "total_titles_processed": 1424,
+  "generated_at": "2025-12-04T18:51:27.065853+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 股市 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 日本 shein temu 跨境电商",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时55分"
+        },
+        {
+          "title": "金十图示：2025年12月04日（周四）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20251204182235851800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "日经225指数日内涨幅达2.00%。 日本5年期国债收益率上行1.5个基点，至1.4%，创2008年6月以来新高。",
@@ -250,5 +261,5 @@
       ]
     }
   ],
-  "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
+  "report_image_url": "https://github.com/liyaohuang55/img/news.jpg"
 }
