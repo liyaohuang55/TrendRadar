@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T15:43:07.490834+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2025-12-08T16:58:19.592451+08:00",
+  "total_titles_processed": 1140,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 股市 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 日本 shein temu 跨境电商",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "日经225指数收盘上涨0.2%，报50581.94点。日本东证指数收涨0.6%。",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "金十图示：2025年12月08日（周一）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251208161128517800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时58分"
         },
         {
           "title": "日本11月经济观察家前景指数 50.3，预期 53.1，前值 53.1。",
