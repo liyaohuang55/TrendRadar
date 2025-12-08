@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-09T03:31:24.206207+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2025-12-09T04:43:02.057273+08:00",
+  "total_titles_processed": 556,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 股市 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 日本 shein temu 跨境电商",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "周一（12月8日）纽约尾盘，ICE美元指数涨0.11%，报99.102点，日内交投区间为98.794-99.227点，美股开盘后出现一波显著的上涨行情。 彭博美元指数涨0.12%，报1213.90点，日内交投区间为1210.34-1214.88点。",
+          "url": "https://wallstreetcn.com/livenews/3017150",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
         {
           "title": "非洲股市收盘播报｜周一（12月8日），南非富时/JSE非洲领先40可交易指数收跌1.57%，逼近10.3万点，北京时间15:00大致平开，随后持续下跌。",
           "url": "https://wallstreetcn.com/livenews/3017069",
@@ -18,6 +29,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时41分]"
+        },
+        {
+          "title": "美元指数8日上涨",
+          "url": "https://flash.jin10.com/detail/20251209041655857800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时43分"
         },
         {
           "title": "金十图示：2025年12月09日（周二）全球股市指数-欧洲市场（收盘）",
