@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-11T06:42:29.635652+08:00",
-  "total_titles_processed": 640,
+  "generated_at": "2025-12-11T07:33:08.996738+08:00",
+  "total_titles_processed": 704,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 股市 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 日本 shein temu 跨境电商",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
+          "url": "https://wallstreetcn.com/articles/3761091",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 07时33分]"
+        },
         {
           "title": "美联储12月利率决议声明发布前，标普大致持平，道指涨0.34%，纳指跌0.37%，银行指数涨1.15%。 美元指数跌0.29%，暂报98.95点；美元兑日元跌0.31%，欧元兑美元涨0.28%，英镑兑美元涨0.32%，澳元兑美元持平。 现货黄金跌0.29%，暂报4195.92美元；现货白银跌0.36%，报60.42美元。 美国10年期国债收益率跌2.34个基点，暂报4.1644%，持稳于日低4.1566%附近；两年期美债收益率跌2.67个基点，暂报3.5859%，也持稳于日低3.5817%附近。",
           "url": "https://wallstreetcn.com/livenews/3018591",
@@ -60,7 +71,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
@@ -71,7 +82,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时42分"
         },
