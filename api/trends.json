@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-12-15T21:54:48.826006+08:00",
-  "total_titles_processed": 1560,
+  "generated_at": "2025-12-15T22:57:57.049978+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 股市 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 日本 shein temu 跨境电商",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
+          "url": "https://wallstreetcn.com/articles/3761400",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时57分 ~ 22时57分]"
+        },
         {
           "title": "日本10月第三产业活动指数月率 0.9%，预期0.2%，前值0.30%。",
           "url": "https://flash.jin10.com/detail/20251215123022217800",
@@ -19,28 +32,16 @@
           "time_info": "13时02分"
         },
         {
-          "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
-          "url": "https://wallstreetcn.com/articles/3761400",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时57分 ~ 21时54分]"
-        },
-        {
           "title": "科技股抛压暂歇，美股指数期货小幅回血，贵金属集体大涨，黄金逼近历史新高，白银铂金大涨3%",
           "url": "https://wallstreetcn.com/articles/3761417",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时54分 ~ 22时57分]"
         },
         {
           "title": "日本10月第三产业活动指数环比 0.9%，预期 0.2%，前值 0.3%。",
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "美股开盘，道指开涨0.33%，标普500指数涨0.48%，纳指涨0.58%。英伟达(NVDA.O)开涨1.5%，公司宣布推出Nemotron 3系列开源模型；扫地机器人制造商iRobot开盘暴跌69%，此前其已宣布申请破产。",
+          "url": "https://flash.jin10.com/detail/20251215223037740800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时57分"
         },
         {
           "title": "金十图示：2025年12月15日（周一）亚太市场股市指数（收盘）",
