@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T17:50:34.432242+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2025-12-16T18:53:21.539593+08:00",
+  "total_titles_processed": 1561,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 股市 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 日本 shein temu 跨境电商",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "重要大宗商品指数再平衡在即，黄金白银期货将迎巨大抛压！",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时42分 ~ 15时41分]"
+        },
+        {
+          "title": "金十图示：2025年12月16日（周二）全球股市指数-亚太市场",
+          "url": "https://flash.jin10.com/detail/20251216183538209800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时53分"
         },
         {
           "title": "周一（12月15日），降息赢家指数跌0.38%，“特朗普关税输家”指数涨0.29%，散户抱团概念股指数/迷因股（meme stock）指数跌3.63%。",
@@ -114,7 +125,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         },
@@ -147,7 +158,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时50分"
         }
