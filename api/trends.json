@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-12-17T01:01:19.603685+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-17T01:49:58.799325+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋 股市 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 日本 shein temu 跨境电商",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月17日（周三）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251217004530189800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时49分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/liyaohuang55/img/news.jpg"
 }
