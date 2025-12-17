@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T15:41:34.460246+08:00",
-  "total_titles_processed": 1248,
+  "generated_at": "2025-12-17T16:59:28.681425+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 股市 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 日本 shein temu 跨境电商",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
@@ -143,9 +143,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "金十图示：2025年12月17日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20251217161132442800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     }
