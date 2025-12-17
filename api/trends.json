@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T14:59:29.494768+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-12-17T15:41:34.460246+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋 股市 谷歌 google gemini chatgpt openai 金价 黄金 美债 美股 美元 特朗普 日本 shein temu 跨境电商",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：三大指数涨跌不一 特斯拉创历史新高",
@@ -99,7 +99,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -135,6 +135,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时49分"
+        },
+        {
+          "title": "印尼央行行长：美元指数仍偏高，限制资本向新兴市场流动。",
+          "url": "https://flash.jin10.com/detail/20251217150955842800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         }
       ]
     }
