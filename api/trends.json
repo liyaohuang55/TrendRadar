@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T16:57:19.261393+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2025-12-22T17:52:19.333391+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "日本官员叫嚣“拥核”，石破茂表态",
@@ -71,8 +71,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时58分 ~ 16时57分]"
+          "appearance_count": 8,
+          "time_info": "[11时58分 ~ 17时52分]"
         },
         {
           "title": "日本火箭发射再失败",
@@ -81,11 +81,12 @@
           "ranks": [
             21,
             17,
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 16时57分]"
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 17时52分]"
         },
         {
           "title": "日本就火箭发射失败道歉",
@@ -95,8 +96,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 16时57分]"
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 17时52分]"
         },
         {
           "title": "日本最大核电站将重启",
@@ -108,8 +109,21 @@
             24
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 17时52分]"
+        },
+        {
+          "title": "日本就火箭发射失败道歉",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%B1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            19,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[15时01分 ~ 16时57分]"
+          "time_info": "[15时42分 ~ 17时52分]"
         },
         {
           "title": "日本货币政策重大转向",
@@ -170,16 +184,16 @@
           "time_info": "[15时01分 ~ 15时43分]"
         },
         {
-          "title": "日本就火箭发射失败道歉",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%B1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%E9%81%93%E6%AD%89",
-          "source": "百度热搜",
+          "title": "日本自民党议员窜访台湾，外交部：坚决反对，已提出严正交涉",
+          "url": "https://www.cls.cn/detail/2236404",
+          "source": "财联社热门",
           "ranks": [
-            23,
-            19
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时57分]"
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时52分]"
         },
         {
           "title": "日本火箭发射再失败 抛物线坠下云端",
@@ -215,6 +229,42 @@
           "time_info": "13时02分"
         },
         {
+          "title": "中方对日本高官言论感到震惊",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E8%A8%80%E8%AE%BA%E6%84%9F%E5%88%B0%E9%9C%87%E6%83%8A%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时52分]"
+        },
+        {
+          "title": "日本火箭发射再失败",
+          "url": "https://www.douyin.com/hot/2343976",
+          "source": "抖音",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时52分]"
+        },
+        {
+          "title": "中方对日本高官拥核言论感到震惊",
+          "url": "https://www.douyin.com/hot/2344282",
+          "source": "抖音",
+          "ranks": [
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时52分]"
+        },
+        {
           "title": "日本H3火箭发射失败，未能将卫星送入轨道。（日本共同社）",
           "url": "https://wallstreetcn.com/livenews/3024702",
           "source": "华尔街见闻-快讯",
@@ -226,15 +276,16 @@
           "time_info": "13时02分"
         },
         {
-          "title": "中方对日本高官言论感到震惊",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E8%A8%80%E8%AE%BA%E6%84%9F%E5%88%B0%E9%9C%87%E6%83%8A%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "中方对日本高官拥核言论感到震惊",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%8B%A5%E6%A0%B8%E8%A8%80%E8%AE%BA%E6%84%9F%E5%88%B0%E9%9C%87%E6%83%8A",
+          "source": "百度热搜",
           "ranks": [
-            5
+            10,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时52分]"
         },
         {
           "title": "日本制造为何批量撤出中国",
@@ -303,48 +354,26 @@
           "time_info": "[00时45分 ~ 01时34分]"
         },
         {
-          "title": "日本火箭发射再失败",
-          "url": "https://www.douyin.com/hot/2343976",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "日本自民党议员窜访台湾，外交部：坚决反对，已提出严正交涉",
-          "url": "https://www.cls.cn/detail/2236404",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "中方对日本高官拥核言论感到震惊",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%8B%A5%E6%A0%B8%E8%A8%80%E8%AE%BA%E6%84%9F%E5%88%B0%E9%9C%87%E6%83%8A",
-          "source": "百度热搜",
+          "url": "https://www.toutiao.com/trending/7586274245890657834/",
+          "source": "今日头条",
           "ranks": [
-            10
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "17时52分"
         },
         {
-          "title": "中方对日本高官拥核言论感到震惊",
-          "url": "https://www.douyin.com/hot/2344282",
-          "source": "抖音",
+          "title": "据日本时事通讯社：迅销将把明年春季入职、可能被派往海外工作的员工起薪上调12%，至每月37万日元。",
+          "url": "https://flash.jin10.com/detail/20251222172039554800",
+          "source": "金十数据",
           "ranks": [
-            15
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "17时52分"
         },
         {
           "title": "日本20年期国债收益率上涨5.5个基点，至3.025%。",
@@ -391,6 +420,17 @@
           "time_info": "13时02分"
         },
         {
+          "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32228304",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
           "title": "日本大阪河道现大量鱼群居民担忧地震",
           "url": "https://www.toutiao.com/trending/7586287017421029418/",
           "source": "今日头条",
@@ -408,7 +448,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -534,6 +574,18 @@
           "time_info": "07时33分"
         },
         {
+          "title": "恒生指数收盘涨0.43%，四只上市新股中有三只收跌",
+          "url": "https://wallstreetcn.com/livenews/3024805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时52分]"
+        },
+        {
           "title": "集运指数（欧线）主力合约日内涨幅扩大至10%，报1893点。",
           "url": "https://wallstreetcn.com/livenews/3024747",
           "source": "华尔街见闻-快讯",
@@ -578,17 +630,6 @@
           "time_info": "15时43分"
         },
         {
-          "title": "恒生指数收盘涨0.43%，四只上市新股中有三只收跌",
-          "url": "https://wallstreetcn.com/livenews/3024805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
           "title": "集运指数（欧线）主力合约日内涨幅扩大至10.00%，现报1893.0点。",
           "url": "https://flash.jin10.com/detail/20251222144213652800",
           "source": "金十数据",
@@ -606,7 +647,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -628,7 +669,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         },
@@ -735,7 +776,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -803,6 +844,19 @@
           "time_info": "[00时45分 ~ 07时33分]"
         },
         {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 17时52分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
           "url": "https://wallstreetcn.com/livenews/3024442",
           "source": "华尔街见闻-快讯",
@@ -844,17 +898,19 @@
           "time_info": "[00时45分 ~ 06时40分]"
         },
         {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
-          "source": "凤凰网",
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            4,
-            3
+            20,
+            18,
+            19,
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 16时57分]"
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 17时52分]"
         },
         {
           "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
@@ -870,18 +926,15 @@
           "time_info": "[02时51分 ~ 07时33分]"
         },
         {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
           "ranks": [
-            20,
-            18,
-            19,
-            15
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 16时57分]"
+          "appearance_count": 5,
+          "time_info": "[15时01分 ~ 17时52分]"
         },
         {
           "title": "特朗普表态：必须是“超级鸽派”！",
@@ -905,17 +958,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时45分 ~ 04时39分]"
-        },
-        {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时01分 ~ 16时57分]"
         },
         {
           "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
@@ -944,6 +986,29 @@
           "time_info": "[05时32分 ~ 07时33分]"
         },
         {
+          "title": "市场消息：在美国总统特朗普任命格陵兰岛特使后，丹麦外交大臣长将召见美国驻丹麦大使。",
+          "url": "https://flash.jin10.com/detail/20251222174043679800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "飞机闯入特朗普官邸上空被紧急拦截",
+          "url": "https://www.toutiao.com/trending/7586445374106796082/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时52分]"
+        },
+        {
           "title": "特朗普任命美国格陵兰岛特使",
           "url": "https://news.ifeng.com/c/8pHvN8TZ9Jr",
           "source": "凤凰网",
@@ -955,15 +1020,37 @@
           "time_info": "11时58分"
         },
         {
-          "title": "飞机闯入特朗普官邸上空被紧急拦截",
-          "url": "https://www.toutiao.com/trending/7586445374106796082/",
-          "source": "今日头条",
+          "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
+          "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222173421961800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
+        },
+        {
+          "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZR4",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "17时52分"
         },
         {
           "title": "特朗普任命美国格陵兰岛特使",
@@ -1005,8 +1092,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 16时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 17时52分]"
         },
         {
           "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
@@ -1017,11 +1104,12 @@
             9,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时58分 ~ 16时57分]"
+          "appearance_count": 8,
+          "time_info": "[11时58分 ~ 17时52分]"
         },
         {
           "title": "3500亿美元交易额创纪录，推升对日本并购市场前景的乐观情绪",
@@ -1095,6 +1183,18 @@
           "time_info": "[11时58分 ~ 15时01分]"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报7.0382，较上一交易日官方收盘价涨28点，较上日夜盘收盘涨26点。",
+          "url": "https://wallstreetcn.com/livenews/3024823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时52分]"
+        },
+        {
           "title": "纽约期银日内涨幅达3.00%，现报69.52美元/盎司。",
           "url": "https://flash.jin10.com/detail/20251222121715043800",
           "source": "金十数据",
@@ -1126,17 +1226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报7.0382，较上一交易日官方收盘价涨28点，较上日夜盘收盘涨26点。",
-          "url": "https://wallstreetcn.com/livenews/3024823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
         },
         {
           "title": "泰铢兑美元汇率升至31.2950，为自2021年6月中旬以来首次。",
@@ -1225,6 +1314,19 @@
           "time_info": "[15时01分 ~ 15时43分]"
         },
         {
+          "title": "黄金白银价格创新高",
+          "url": "https://www.douyin.com/hot/2344085",
+          "source": "抖音",
+          "ranks": [
+            11,
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时42分 ~ 17时52分]"
+        },
+        {
           "title": "海南封关黄金被疯抢",
           "url": "https://www.toutiao.com/trending/7586505964669373971/",
           "source": "今日头条",
@@ -1247,18 +1349,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时58分 ~ 13时02分]"
-        },
-        {
-          "title": "黄金白银价格创新高",
-          "url": "https://www.douyin.com/hot/2344085",
-          "source": "抖音",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时57分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）黄金ETF持仓报告",
@@ -1397,9 +1487,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时57分 ~ 17时52分]"
         },
         {
           "title": "股市资金流向图：今日沪深两市主力资金净流入8.77亿元，占比0.05%；大单资金净流出127.21亿元，占比0.68%；小单资金净流入113.98亿元，占比0.61%。",
@@ -1431,7 +1521,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时57分"
         }
@@ -1439,7 +1529,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价又涨了",
@@ -1485,6 +1575,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "在金价首次突破4400美元/盎司后，美国上市黄金矿业股盘前上涨。Sibanye Stillwater股价上涨3.5%，AngloGold Ashanti上涨4.2%，纽蒙特矿业上涨2.5%。金罗斯黄金上涨2.8%，Gold Fields上涨3.8%，Agnico Eagle上涨2.1%，巴里克黄金上涨2.5%。",
+          "url": "https://flash.jin10.com/detail/20251222171819261800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时52分"
         }
       ]
     },
@@ -1503,8 +1604,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时45分 ~ 16时57分]"
+          "appearance_count": 19,
+          "time_info": "[00时45分 ~ 17时52分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
