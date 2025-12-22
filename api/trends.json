@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T15:01:55.393389+08:00",
-  "total_titles_processed": 923,
+  "generated_at": "2025-12-22T15:43:14.583958+08:00",
+  "total_titles_processed": 1017,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "日本官员叫嚣“拥核”，石破茂表态",
@@ -67,11 +67,24 @@
           "source": "知乎",
           "ranks": [
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时43分]"
+        },
+        {
+          "title": "日本火箭发射再失败",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%86%8D%E5%A4%B1%E8%B4%A5",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 15时43分]"
         },
         {
           "title": "日本货币政策重大转向",
@@ -120,16 +133,39 @@
           "time_info": "[11时58分 ~ 13时02分]"
         },
         {
-          "title": "日本火箭发射再失败",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%86%8D%E5%A4%B1%E8%B4%A5",
-          "source": "百度热搜",
+          "title": "日本就火箭发射失败道歉",
+          "url": "https://news.ifeng.com/c/8pI8Lyv4ZaZ",
+          "source": "凤凰网",
           "ranks": [
-            21,
-            17
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时01分]"
+          "time_info": "[15时01分 ~ 15时43分]"
+        },
+        {
+          "title": "日本 H3 火箭在飞行途中第二级发动机燃烧提前停止，具体情况如何？",
+          "url": "https://www.zhihu.com/question/1986386429518054024",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 15时43分]"
+        },
+        {
+          "title": "日本最大核电站将重启",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E5%B0%86%E9%87%8D%E5%90%AF",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 15时43分]"
         },
         {
           "title": "日本火箭发射再失败 抛物线坠下云端",
@@ -149,7 +185,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -220,6 +256,17 @@
           "time_info": "[00时45分 ~ 01时34分]"
         },
         {
+          "title": "日本就火箭发射失败道歉",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%B1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%A4%B1%E8%B4%A5%E9%81%93%E6%AD%89",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
           "title": "日本在野党高层集体谴责执政党为武器出口“松绑”",
           "url": "https://wallstreetcn.com/livenews/3024411",
           "source": "华尔街见闻-快讯",
@@ -240,28 +287,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时45分 ~ 01时34分]"
-        },
-        {
-          "title": "日本就火箭发射失败道歉",
-          "url": "https://news.ifeng.com/c/8pI8Lyv4ZaZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
-          "title": "日本 H3 火箭在飞行途中第二级发动机燃烧提前停止，具体情况如何？",
-          "url": "https://www.zhihu.com/question/1986386429518054024",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
         },
         {
           "title": "日本20年期国债收益率上涨5.5个基点，至3.025%。",
@@ -341,263 +366,13 @@
           "time_info": "11时58分"
         },
         {
-          "title": "日本最大核电站将重启",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%9C%80%E5%A4%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E5%B0%86%E9%87%8D%E5%90%AF",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
           "title": "中国游客锐减日本住宿价格暴跌",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E9%94%90%E5%87%8F%E6%97%A5%E6%9C%AC%E4%BD%8F%E5%AE%BF%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
-          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时33分]"
-        },
-        {
-          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
-          "url": "https://wallstreetcn.com/articles/3761784",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时33分]"
-        },
-        {
-          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时50分 ~ 15时01分]"
-        },
-        {
-          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时34分 ~ 15时01分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
-          "url": "https://flash.jin10.com/detail/20251221222740005800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            10,
-            16,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时45分 ~ 07时33分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
-          "url": "https://wallstreetcn.com/livenews/3024442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时40分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：认为经济并未处于“招聘衰退”。 通胀高于目标的情况已经停止。 正如古尔斯比所说，仍有充足的降息空间。 目前正在关注核心通胀三个月平均为1.6%。 特朗普希望美联储主席能做出独立判断。 特朗普在美联储主席候选人中看重依赖数据决策。",
-          "url": "https://wallstreetcn.com/livenews/3024440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时45分 ~ 06时40分]"
-        },
-        {
-          "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
-          "url": "https://wallstreetcn.com/livenews/3024453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时51分 ~ 07时33分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
-          "url": "https://flash.jin10.com/detail/20251221182933074800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时45分 ~ 04时39分]"
-        },
-        {
-          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
-          "url": "https://www.cls.cn/detail/2235857",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时01分]"
-        },
-        {
-          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
-          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时01分]"
-        },
-        {
-          "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
-          "url": "https://flash.jin10.com/detail/20251222043841056800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时32分 ~ 07时33分]"
-        },
-        {
-          "title": "英国政府发言人：英国首相斯塔默于周日下午与美国总统特朗普进行了通话。",
-          "url": "https://flash.jin10.com/detail/20251222043755538800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时32分 ~ 07时33分]"
-        },
-        {
-          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时01分 ~ 15时01分]"
-        },
-        {
-          "title": "特朗普任命美国格陵兰岛特使",
-          "url": "https://news.ifeng.com/c/8pHvN8TZ9Jr",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "特朗普表态：必须是“超级鸽派”！",
-          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
-          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
-          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
-          "title": "特朗普任命美国格陵兰岛特使",
-          "url": "https://flash.jin10.com/detail/20251222105005973800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
-        },
-        {
-          "title": "研究显示：特朗普关税政策重创德国汽车出口",
-          "url": "https://flash.jin10.com/detail/20251222143450289800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "15时01分"
         }
@@ -605,7 +380,7 @@
     },
     {
       "keyword_group": "指数",
-      "match_count": 17,
+      "match_count": 22,
       "titles": [
         {
           "title": "印度NIFTY50指数期货在盘前交易中上涨0.46%",
@@ -668,6 +443,17 @@
           "time_info": "[11时58分 ~ 13时02分]"
         },
         {
+          "title": "新加坡富时海峡时报指数最新上涨0.7%，报4602.73点；此前曾触及4613.82点。",
+          "url": "https://flash.jin10.com/detail/20251222150636569800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
           "title": "美股期货亚市盘初走高，标普500指数期货、纳斯达克100指数期货上涨0.3%。",
           "url": "https://wallstreetcn.com/livenews/3024485",
           "source": "华尔街见闻-快讯",
@@ -685,7 +471,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -696,9 +482,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "欧洲斯托克50指数期货下跌0.01%，DAX指数期货持平；富时指数期货下跌0.2%。",
+          "url": "https://flash.jin10.com/detail/20251222150320044800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "中钢协：中矿集团在与四大矿长协谈判中，应将国内指数纳入定价选择",
+          "url": "https://wallstreetcn.com/livenews/3024769",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "集运指数（欧线）主力合约日内涨幅扩大至10.00%，现报1893.0点。",
@@ -707,9 +515,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "午盘收盘，国内期货主力合约涨跌互现。集运指数（欧线）涨超8%，广期所钯、铂均封涨停板，沪银涨超6%，沪镍、PTA涨超4%，对二甲苯（PX）、碳酸锂涨近4%。跌幅方面，塑料、多晶硅跌超2%。",
+          "url": "https://flash.jin10.com/detail/20251222150054714800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "越南VN指数涨2%至1738.54点。",
@@ -718,7 +537,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -740,9 +559,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "上证指数收报3917.36点，涨0.69%。 深证成指收报13332.73点，涨1.47%。 创业板指收报3191.98点，涨2.23%。 沪深300收报4611.62点，涨0.95%。 科创50收报1335.25点，涨2.04%。 中证500收报7255.66点，涨1.20%。 中证1000收报7408.35点，涨1.07%。",
+          "url": "https://wallstreetcn.com/livenews/3024763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "越南VN指数涨1%报1721.69点。",
@@ -762,7 +592,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -773,7 +603,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -795,7 +625,250 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 19,
+      "titles": [
+        {
+          "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
+          "url": "https://news.ifeng.com/c/8pGiw6orh2a",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时33分]"
+        },
+        {
+          "title": "美联储主席之争进入白热化了，华尔街和华盛顿“暗流涌动”，特朗普“举棋不定”",
+          "url": "https://wallstreetcn.com/articles/3761784",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时33分]"
+        },
+        {
+          "title": "美外交人员协会：特朗普正解雇多名拜登任命的驻外大使",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223737",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[02时50分 ~ 15时43分]"
+        },
+        {
+          "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32223641",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[01时34分 ~ 15时43分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
+          "url": "https://flash.jin10.com/detail/20251221222740005800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            10,
+            16,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时45分 ~ 07时33分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：预计最高法院将在关税案中支持我们。 法院不太可能要求大规模退还关税。 海上被扣押的石油与全球供应相比并不算多。 预计明年将迎来“史上最大规模的退税季”。 特朗普的助手们将在佛罗里达讨论住房政策。 将很快在新年宣布“重大”住房计划。",
+          "url": "https://wallstreetcn.com/livenews/3024442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时40分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：认为经济并未处于“招聘衰退”。 通胀高于目标的情况已经停止。 正如古尔斯比所说，仍有充足的降息空间。 目前正在关注核心通胀三个月平均为1.6%。 特朗普希望美联储主席能做出独立判断。 特朗普在美联储主席候选人中看重依赖数据决策。",
+          "url": "https://wallstreetcn.com/livenews/3024440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时45分 ~ 06时40分]"
+        },
+        {
+          "title": "唐宁街：英国首相斯塔默周日与美国总统特朗普对话，谈及乌克兰和加沙。",
+          "url": "https://wallstreetcn.com/livenews/3024453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时51分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普“钦点”联储主席呼之欲出，但为何上任后难令其如意？一文读懂",
+          "url": "https://www.cls.cn/detail/2235857",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普与爱泼斯坦合影消失又重现？美司法部解释",
+          "url": "https://news.ifeng.com/c/8pHxHE8JrPj",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 15时43分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
+          "url": "https://flash.jin10.com/detail/20251221182933074800",
+          "source": "金十数据",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时45分 ~ 04时39分]"
+        },
+        {
+          "title": "特朗普表态：必须是“超级鸽派”！",
+          "url": "https://news.ifeng.com/c/8pI2JngwUGB",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 15时43分]"
+        },
+        {
+          "title": "特朗普政府频频拦截油轮，美国会议员都看不下去了",
+          "url": "https://news.ifeng.com/c/8pI7DqwwUlP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 15时43分]"
+        },
+        {
+          "title": "英国政府发言人：斯塔默和特朗普首先回顾了乌克兰局势，斯塔默还向特朗普通报了新任英国驻美大使克里斯蒂安·特纳的任命情况。",
+          "url": "https://flash.jin10.com/detail/20251222043841056800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时33分]"
+        },
+        {
+          "title": "英国政府发言人：英国首相斯塔默于周日下午与美国总统特朗普进行了通话。",
+          "url": "https://flash.jin10.com/detail/20251222043755538800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时33分]"
+        },
+        {
+          "title": "特朗普任命美国格陵兰岛特使",
+          "url": "https://news.ifeng.com/c/8pHvN8TZ9Jr",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "特朗普任命美国格陵兰岛特使",
+          "url": "https://flash.jin10.com/detail/20251222105005973800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
+        },
+        {
+          "title": "研究显示：特朗普关税政策重创德国汽车出口",
+          "url": "https://flash.jin10.com/detail/20251222143450289800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         }
@@ -817,8 +890,22 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时45分 ~ 15时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时45分 ~ 15时43分]"
+        },
+        {
+          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
+          "url": "https://www.cls.cn/detail/2235916",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时43分]"
         },
         {
           "title": "3500亿美元交易额创纪录，推升对日本并购市场前景的乐观情绪",
@@ -834,28 +921,16 @@
           "time_info": "[02时51分 ~ 07时33分]"
         },
         {
-          "title": "35亿美元大单引爆美股商业航天？SDA加速布局太空防御网 低轨商业卫星成关键",
-          "url": "https://www.cls.cn/detail/2235916",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时01分]"
-        },
-        {
           "title": "纽约期金向上触及4450美元/盎司，日内涨1.4%。",
           "url": "https://wallstreetcn.com/livenews/3024754",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时43分]"
         },
         {
           "title": "现货白银站上69美元关口",
@@ -874,11 +949,12 @@
           "url": "https://flash.jin10.com/detail/20251222145538435800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时01分 ~ 15时43分]"
         },
         {
           "title": "泰铢兑美元进一步上涨至31.2350，为2021年6月中旬以来的高点。",
@@ -931,7 +1007,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -975,7 +1051,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -994,7 +1070,7 @@
     },
     {
       "keyword_group": "黄金",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "黄金",
@@ -1003,11 +1079,23 @@
           "ranks": [
             23,
             25,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时01分]"
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时43分]"
+        },
+        {
+          "title": "“降息预期+地缘冲突”推动，黄金站上4400，白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
+          "url": "https://wallstreetcn.com/articles/3761821",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 15时43分]"
         },
         {
           "title": "“降息预期+地缘冲突”推动，黄金、白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
@@ -1020,6 +1108,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时58分 ~ 13时02分]"
+        },
+        {
+          "title": "海南封关黄金被疯抢",
+          "url": "https://www.toutiao.com/trending/7586505964669373971/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 15时43分]"
         },
         {
           "title": "金十图示：2025年12月22日（周一）黄金ETF持仓报告",
@@ -1045,15 +1144,15 @@
           "time_info": "13时02分"
         },
         {
-          "title": "“降息预期+地缘冲突”推动，黄金站上4400，白银续刷历史新高，现货铂金自2008年以来首次升破2000美元",
-          "url": "https://wallstreetcn.com/articles/3761821",
-          "source": "华尔街见闻",
+          "title": "黄金白银价格创新高",
+          "url": "https://www.douyin.com/hot/2344085",
+          "source": "抖音",
           "ranks": [
-            4
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
         },
         {
           "title": "海南封关免税黄金与热带鲜果成新宠",
@@ -1065,6 +1164,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 06时40分]"
+        },
+        {
+          "title": "黄金凤冠事件为何引众怒",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E5%87%A4%E5%86%A0%E4%BA%8B%E4%BB%B6%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
         },
         {
           "title": "现货黄金突破4390美元/盎司，日内涨1.19%。",
@@ -1084,9 +1194,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
+        },
+        {
+          "title": "现货黄金向上触及4420美元/盎司，日内涨1.88%。",
+          "url": "https://flash.jin10.com/detail/20251222150107843800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "广发证券所长助理、首席策略刘晨明：三大化债路径揭示AI和黄金时代到来",
@@ -1095,18 +1216,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时01分"
-        },
-        {
-          "title": "海南封关黄金被疯抢",
-          "url": "https://www.toutiao.com/trending/7586505964669373971/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         },
@@ -1117,7 +1227,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时01分"
         }
@@ -1125,8 +1235,19 @@
     },
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
+          "url": "https://www.cls.cn/detail/2235799",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 15时43分]"
+        },
         {
           "title": "中东股市收盘播报｜沙特阿美周日收涨超0.7%，埃及股指涨1%",
           "url": "https://wallstreetcn.com/livenews/3024450",
@@ -1141,15 +1262,15 @@
           "time_info": "[02时51分 ~ 07时33分]"
         },
         {
-          "title": "【早报】A股市场千亿级并购来了；首块L3级自动驾驶牌照诞生",
-          "url": "https://www.cls.cn/detail/2235799",
-          "source": "财联社热门",
+          "title": "股市资金流向图：今日沪深两市主力资金净流入8.77亿元，占比0.05%；大单资金净流出127.21亿元，占比0.68%；小单资金净流入113.98亿元，占比0.61%。",
+          "url": "https://flash.jin10.com/detail/20251222150638041800",
+          "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 15时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         },
         {
           "title": "高盛：中国企业盈利2026年或将增长14%，料提振股市表现",
@@ -1162,6 +1283,57 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 13时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价又涨了",
+          "url": "https://www.douyin.com/hot/2342947",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时45分 ~ 07时33分]"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）上海金午盘价为993.82元/克，较国际金价(998.15元/克)低4.33元/克",
+          "url": "https://flash.jin10.com/detail/20251222150851524800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "现货黄金价格再创历史新高",
+          "url": "https://www.toutiao.com/trending/7586548209984474650/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时42分 ~ 15时43分]"
+        },
+        {
+          "title": "金十图示：2025年12月22日（周一）上海金早盘价为984.6元/克，较国际金价(991.93元/克)低7.33元/克",
+          "url": "https://flash.jin10.com/detail/20251222110152377800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时58分"
         }
       ]
     },
@@ -1180,8 +1352,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时45分 ~ 15时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时45分 ~ 15时43分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -1227,35 +1399,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时51分 ~ 07时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价又涨了",
-          "url": "https://www.douyin.com/hot/2342947",
-          "source": "抖音",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时45分 ~ 07时33分]"
-        },
-        {
-          "title": "金十图示：2025年12月22日（周一）上海金早盘价为984.6元/克，较国际金价(991.93元/克)低7.33元/克",
-          "url": "https://flash.jin10.com/detail/20251222110152377800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时58分"
         }
       ]
     },
