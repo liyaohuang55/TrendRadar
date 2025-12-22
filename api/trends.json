@@ -1,34 +1,12 @@
 {
-  "generated_at": "2025-12-23T00:54:25.410462+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-23T01:40:01.970908+08:00",
+  "total_titles_processed": 363,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "特朗普可能会在1月第一周任命新的美联储主席。 （CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3025056",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "Dominion Energy：对于美国“国家安全”而言，需要开发弗吉尼亚（周边海域）的风电项目。 当地风电项目有助于满足能源（电力）需求。 （特朗普政府）阻挠CVOW项目将对电网稳定性构成威胁。",
-          "url": "https://wallstreetcn.com/livenews/3025055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
         {
           "title": "美国人发愁：特朗普明摆着抢英伟达钱，但一个愿打一个愿挨",
           "url": "https://news.ifeng.com/c/8pIHsNqm7yO",
@@ -37,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时40分]"
         },
         {
           "title": "特朗普换大使细节披露：涉及全球近30国，均拜登时期上任",
@@ -48,41 +26,90 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时40分]"
         },
         {
           "title": "特朗普自称从政后不再“看脸”：多看美女一眼，就是死路一条",
           "url": "https://m.thepaper.cn/newsDetail_forward_32225414",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "特朗普可能会在1月第一周任命新的美联储主席。 （CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3025056",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "Dominion Energy：对于美国“国家安全”而言，需要开发弗吉尼亚（周边海域）的风电项目。 当地风电项目有助于满足能源（电力）需求。 （特朗普政府）阻挠CVOW项目将对电网稳定性构成威胁。",
+          "url": "https://wallstreetcn.com/livenews/3025055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "据福克斯新闻：一位官员证实，特朗普政府正召回约30名大使。",
+          "url": "https://flash.jin10.com/detail/20251223005847511800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "01时40分"
+        },
+        {
+          "title": "据Politico：特朗普的批评者乔治·康威已提交申请，竞选纽约州众议院席位。",
+          "url": "https://flash.jin10.com/detail/20251223005459495800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         },
         {
           "title": "据AXIOS网站：丹麦就特朗普推进格陵兰岛事务召见美国大使。",
           "url": "https://flash.jin10.com/detail/20251223002707723800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
         },
         {
           "title": "据CNBC：熟悉情况的人士透露，美国总统特朗普可能在明年1月第一周任命新的美联储主席。",
           "url": "https://flash.jin10.com/detail/20251223000806217800",
           "source": "金十数据",
           "ranks": [
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
         },
         {
           "title": "欧美风电概念股普遍下挫，特朗普政府接口国家安全对五家公司暂停海上风电场租赁",
@@ -99,29 +126,78 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Alphabet将斥资47.5亿美元收购数据中心合作伙伴Intersect",
           "url": "https://wallstreetcn.com/livenews/3025054",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
         },
         {
           "title": "英国首富重组170亿美元家族办公室帝国",
           "url": "https://wallstreetcn.com/livenews/3025052",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "最近24小时，MarketVector数字资产100小盘指数涨3.67%，暂报3623.80点，整体持续走高。 Solana目前涨1.39%，狗狗币涨3.09%，XRP涨1.15%。 MarketVector数字资产100涨1.56%，报18392.00点。 比特币涨1.55%，暂报89627.99美元；以太坊涨1.80%，报3043.51美元。",
+          "url": "https://wallstreetcn.com/livenews/3025071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "01时40分"
+        },
+        {
+          "title": "Alphabet以47.5亿美元收购数据中心合作伙伴Intersect",
+          "url": "https://flash.jin10.com/detail/20251223001328608800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "市场消息：Alphabet(GOOG.O)将以47.5亿美元现金加承担债务方式收购大型可再生能源项目开发商Intersect。",
+          "url": "https://flash.jin10.com/detail/20251223000335285800",
+          "source": "金十数据",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "纽约州司法部长：梅赛德斯-奔驰同意向美国各州支付1.496亿美元和解金，以了结柴油排放作弊调查。",
+          "url": "https://flash.jin10.com/detail/20251223000038869800",
+          "source": "金十数据",
+          "ranks": [
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
         },
         {
           "title": "加密货币交易所交易产品（ETPs）最近一周资金外流8.913亿美元，结束之前连续三周流入的趋势。 ETPs投资者最近一个月资金流入18.2亿美元，过去一年流入467亿美元。",
@@ -129,39 +205,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "Alphabet以47.5亿美元收购数据中心合作伙伴Intersect",
-          "url": "https://flash.jin10.com/detail/20251223001328608800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "市场消息：Alphabet(GOOG.O)将以47.5亿美元现金加承担债务方式收购大型可再生能源项目开发商Intersect。",
-          "url": "https://flash.jin10.com/detail/20251223000335285800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "纽约州司法部长：梅赛德斯-奔驰同意向美国各州支付1.496亿美元和解金，以了结柴油排放作弊调查。",
-          "url": "https://flash.jin10.com/detail/20251223000038869800",
-          "source": "金十数据",
-          "ranks": [
-            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -182,73 +225,154 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "专家：日本若敢拥核美国第一个翻脸",
           "url": "https://www.toutiao.com/trending/7586600464628583987/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "中方对日本高官拥核言论感到震惊",
-          "url": "https://www.toutiao.com/trending/7586274245890657834/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时40分]"
         },
         {
           "title": "日本自民党议员窜访台湾，外交部：坚决反对，已提出严正交涉",
           "url": "https://www.cls.cn/detail/2236404",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "中方对日本高官拥核言论感到震惊",
+          "url": "https://www.toutiao.com/trending/7586274245890657834/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时40分]"
         },
         {
           "title": "外交部：中方对日本首相官邸高官拥核言论感到震惊",
           "url": "https://m.thepaper.cn/newsDetail_forward_32228304",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时40分]"
         },
         {
           "title": "日本火箭发射再失败",
           "url": "https://www.douyin.com/hot/2343976",
           "source": "抖音",
           "ranks": [
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时40分]"
         },
         {
           "title": "日本航天为何陷入困局",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E8%88%AA%E5%A4%A9%E4%B8%BA%E4%BD%95%E9%99%B7%E5%85%A5%E5%9B%B0%E5%B1%80",
           "source": "bilibili 热搜",
           "ranks": [
+            24,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "日本宣扬拥核窜访台湾释放何种信号",
+          "url": "https://www.toutiao.com/trending/7585875548750020651/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 01时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股市",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月23日（周二）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251223004552919800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "非洲股市收盘播报｜南非股市收涨约1.1%，因帕拉白金控股等贵金属矿业股领跑",
+          "url": "https://wallstreetcn.com/livenews/3025048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
             24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "高盛：2026年全球股市牛市将延续 建议多元化投资",
+          "url": "https://www.cls.cn/detail/2236392",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 01时40分]"
+        },
+        {
+          "title": "希腊股市创2010年以来收盘新高",
+          "url": "https://wallstreetcn.com/livenews/3025046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "法国、意大利股指收跌将近0.4%，丹麦股市跌超1.5%",
+          "url": "https://wallstreetcn.com/livenews/3025060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "01时40分"
         }
       ]
     },
@@ -261,11 +385,12 @@
           "url": "https://flash.jin10.com/detail/20251223002000031800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
         },
         {
           "title": "黄金巨头金雅福70亿理财爆雷：危险的黄金委托、10%高收益背后的“拼单代持”与“名股实债”",
@@ -303,58 +428,42 @@
       ]
     },
     {
-      "keyword_group": "股市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月23日（周二）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20251223004552919800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "非洲股市收盘播报｜南非股市收涨约1.1%，因帕拉白金控股等贵金属矿业股领跑",
-          "url": "https://wallstreetcn.com/livenews/3025048",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        },
-        {
-          "title": "希腊股市创2010年以来收盘新高",
-          "url": "https://wallstreetcn.com/livenews/3025046",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "指数",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "标普500指数抹去12月以来的跌幅，有望实现连续第八个月上涨，那将是2018年以来的最长连涨。",
           "url": "https://wallstreetcn.com/livenews/3025045",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 01时40分]"
+        },
+        {
+          "title": "明晟公司MSCI北欧国家指数跌0.2%，报362.33点。 在十个板块中，北欧医疗保健板块跌幅最大。 沃旭能源Orsted AS跌12.7%，在一众北欧个股里表现最差。",
+          "url": "https://wallstreetcn.com/livenews/3025065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "01时40分"
+        },
+        {
+          "title": "欧洲STOXX 600指数收跌0.13%，报586.75点。 欧元区STOXX 50指数收跌0.29%，报5743.69点。 富时泛欧绩优300指数收跌0.18%，报2338.05点。",
+          "url": "https://wallstreetcn.com/livenews/3025059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时40分"
         },
         {
           "title": "纽约可可价格反弹，交易员关注指数再平衡带来的买盘",
@@ -370,6 +479,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "旧金山大停电，谷歌无人车Waymo乱作一团，特斯拉赢麻了",
+          "url": "https://wallstreetcn.com/articles/3761857",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时39分 ~ 01时40分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -378,11 +504,12 @@
           "url": "https://www.toutiao.com/trending/7586259723437064246/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时54分"
+          "appearance_count": 3,
+          "time_info": "[00时54分 ~ 01时40分]"
         }
       ]
     }
