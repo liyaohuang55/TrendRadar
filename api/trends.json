@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-28T14:59:17.592424+08:00",
-  "total_titles_processed": 747,
+  "generated_at": "2025-12-28T15:36:09.914061+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普回应泽连斯基：没我，你啥都不是",
@@ -67,6 +67,18 @@
           "time_info": "[00时54分 ~ 05时34分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时43分 ~ 15时36分]"
+        },
+        {
           "title": "日本给特朗普的5500亿“大礼包”第一笔要落地了，财务省拨460亿支持投资及核电",
           "url": "https://wallstreetcn.com/articles/3762159",
           "source": "华尔街见闻",
@@ -78,37 +90,28 @@
           "time_info": "[00时54分 ~ 03时28分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 14时59分]"
-        },
-        {
           "title": "乌媒：泽连斯基概述想和特朗普讨论“和平计划”的5个问题",
           "url": "https://flash.jin10.com/detail/20251228145227378800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时36分]"
         },
         {
           "title": "特朗普秘密指令对24个“贩毒集团”实施海上打击",
           "url": "https://flash.jin10.com/detail/20251228144705189800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时36分]"
         },
         {
           "title": "特朗普为美国带来了什么改变",
@@ -120,6 +123,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时43分 ~ 13时44分]"
+        },
+        {
+          "title": "邵永灵：美媒承认斩杀线并甩锅特朗普",
+          "url": "https://www.toutiao.com/trending/7588795037148794414/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
         },
         {
           "title": "特朗普与泽连斯基会晤时间有所调整",
@@ -190,8 +204,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 14时59分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 15时36分]"
         },
         {
           "title": "日本向多国免费提供武器装备",
@@ -203,8 +217,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 14时59分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 15时36分]"
         },
         {
           "title": "鸡蛋拌饭已成日本“奢侈品”",
@@ -213,11 +227,12 @@
           "ranks": [
             10,
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 14时59分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 15时36分]"
         },
         {
           "title": "日本知名巨头川崎重工承认造假",
@@ -226,11 +241,25 @@
           "ranks": [
             13,
             10,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时16分 ~ 14时59分]"
+          "appearance_count": 7,
+          "time_info": "[12时16分 ~ 15时36分]"
+        },
+        {
+          "title": "尹正被731馆长误认为是日本人",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B9%E6%AD%A3%E8%A2%AB731%E9%A6%86%E9%95%BF%E8%AF%AF%E8%AE%A4%E4%B8%BA%E6%98%AF%E6%97%A5%E6%9C%AC%E4%BA%BA%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时43分 ~ 15时36分]"
         },
         {
           "title": "日本米蛋价高不下 鸡蛋拌饭水涨船高",
@@ -243,18 +272,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时58分 ~ 07时34分]"
-        },
-        {
-          "title": "尹正被731馆长误认为是日本人",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%B9%E6%AD%A3%E8%A2%AB731%E9%A6%86%E9%95%BF%E8%AF%AF%E8%AE%A4%E4%B8%BA%E6%98%AF%E6%97%A5%E6%9C%AC%E4%BA%BA%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时43分 ~ 14时59分]"
         },
         {
           "title": "侠客岛：日本政府有明确改变国策意图",
@@ -293,6 +310,18 @@
           "time_info": "[13时43分 ~ 13时44分]"
         },
         {
+          "title": "2025年日本出生率预计将低于官方预测的最低水平",
+          "url": "https://flash.jin10.com/detail/20251228142013178800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 15时36分]"
+        },
+        {
           "title": "日本东京西部一家动物园发生狼只逃出围栏事件，游客纷纷逃离。",
           "url": "https://flash.jin10.com/detail/20251228105335685800",
           "source": "金十数据",
@@ -303,17 +332,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时16分 ~ 13时44分]"
-        },
-        {
-          "title": "2025年日本出生率预计将低于官方预测的最低水平",
-          "url": "https://flash.jin10.com/detail/20251228142013178800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
         },
         {
           "title": "俄罗斯外长拉夫罗夫表示，俄罗斯敦促日本慎重考虑其向军事化转变的举动。",
@@ -341,7 +359,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "建议对42人追责问责，中国黄金集团内蒙古矿业有限公司较大坠落事故调查报告公布",
@@ -418,6 +436,17 @@
           "time_info": "[00时54分 ~ 12时16分]"
         },
         {
+          "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
+          "url": "https://wallstreetcn.com/articles/3762200",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时35分 ~ 15时36分]"
+        },
+        {
           "title": "50万黄金无人领 民警电话被打爆",
           "url": "https://www.toutiao.com/trending/7588368856880578602/",
           "source": "今日头条",
@@ -443,7 +472,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "太空概念股Sidus股价狂飙：市值不足1亿美元 却拿下“金穹”入场券",
@@ -456,8 +485,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 14时59分]"
+          "appearance_count": 18,
+          "time_info": "[00时54分 ~ 15时36分]"
+        },
+        {
+          "title": "价值40万美元龙虾运往Costco途中失窃，FBI介入调查",
+          "url": "https://flash.jin10.com/detail/20251228150719891800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         }
       ]
     },
@@ -476,8 +516,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时54分 ~ 14时59分]"
+          "appearance_count": 18,
+          "time_info": "[00时54分 ~ 15时36分]"
         }
       ]
     }
