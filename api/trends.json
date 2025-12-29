@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-30T06:41:25.725514+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2025-12-30T07:35:11.415857+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时40分 ~ 06时41分]"
+          "appearance_count": 12,
+          "time_info": "[01时40分 ~ 07时35分]"
         },
         {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
@@ -28,8 +28,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 07时35分]"
         },
         {
           "title": "美国总统特朗普：现在（还）不是（乌克兰）袭击俄罗斯总统普京住所的时候。 普京告诉我有关乌克兰（对其住所）发动袭击的事。 从普京那里听到的事情让我非常生气。",
@@ -586,6 +586,18 @@
           "time_info": "[05时35分 ~ 06时41分]"
         },
         {
+          "title": "周一（12月29日），降息赢家指数跌0.71%，报99.67点。 “特朗普关税输家”指数跌0.57%，报112.08点。 “特朗普金融指数”跌1.33%，报174.82点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.43%，报15.64点。",
+          "url": "https://wallstreetcn.com/livenews/3028346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时35分]"
+        },
+        {
           "title": "美国总统特朗普：亚伯拉罕协议将被扩大。",
           "url": "https://flash.jin10.com/detail/20251230051237992800",
           "source": "金十数据",
@@ -643,17 +655,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
-        },
-        {
-          "title": "周一（12月29日），降息赢家指数跌0.71%，报99.67点。 “特朗普关税输家”指数跌0.57%，报112.08点。 “特朗普金融指数”跌1.33%，报174.82点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.43%，报15.64点。",
-          "url": "https://wallstreetcn.com/livenews/3028346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
         },
         {
           "title": "普京向特朗普通报自己一处住所遭到袭击的情况",
@@ -979,7 +980,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 38,
       "titles": [
         {
           "title": "银价200美元新逻辑？金融作家John Rubino预言科技巨头将掀起“矿山收购潮”",
@@ -990,8 +991,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 07时35分]"
         },
         {
           "title": "Lyn Alden：白银2026年可能冲击100美元，但不再是“低风险高回报”机会",
@@ -1002,8 +1003,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 07时35分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报7.0056元，较上一个交易日夜盘收盘涨7点。成交量340.33亿美元。",
@@ -1188,33 +1189,70 @@
           "url": "https://wallstreetcn.com/livenews/3028350",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时35分]"
         },
         {
           "title": "周一（12月29日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌0.30%，报87695美元，北京时间12:38曾涨至90990美元。 CME以太币期货DCR主力合约涨0.36%，报2947.50美元，12:20也曾涨至3074.50美元。",
           "url": "https://wallstreetcn.com/livenews/3028348",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时35分]"
+        },
+        {
+          "title": "现货白银周二小幅高开，报72.21美元/盎司，昨日收跌逾8%。",
+          "url": "https://flash.jin10.com/detail/20251230070025938800",
+          "source": "金十数据",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时41分"
+          "time_info": "07时35分"
         },
         {
           "title": "美国国防部：波音(BA.N)获得美国国防部价值85亿美元的F-15项目合同。",
           "url": "https://flash.jin10.com/detail/20251230061723718800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时35分]"
+        },
+        {
+          "title": "现货白银跌9%逼近70美元整数位心理关口，纽约铜跌超4.6%，铂族贵金属至少跌约14%",
+          "url": "https://wallstreetcn.com/livenews/3028345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时35分]"
+        },
+        {
+          "title": "现货白银小幅高开后走低，目前跌1.11%报71.34美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时41分"
+          "time_info": "07时35分"
         },
         {
           "title": "据路透报价，现货钯金进一步下跌，最新报1588.32美元/盎司，跌幅超过17%。",
@@ -1229,15 +1267,27 @@
           "time_info": "[00时53分 ~ 01时40分]"
         },
         {
-          "title": "现货白银跌9%逼近70美元整数位心理关口，纽约铜跌超4.6%，铂族贵金属至少跌约14%",
-          "url": "https://wallstreetcn.com/livenews/3028345",
+          "title": "美联储12月24日当周贴现窗贷款余额98.7亿美元，之前一周88.7亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3028342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时35分]"
+        },
+        {
+          "title": "现货钯金跌破1600美元/盎司，日内跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3028372",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时41分"
+          "time_info": "07时35分"
         },
         {
           "title": "派杰投资：将花旗集团(C.N)目标价从120美元上调至130美元。",
@@ -1312,15 +1362,15 @@
           "time_info": "[02时57分 ~ 03时31分]"
         },
         {
-          "title": "美联储12月24日当周贴现窗贷款余额98.7亿美元，之前一周88.7亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3028342",
+          "title": "报道：Meta数十亿美元收购Manus，肖弘将出任Meta副总裁",
+          "url": "https://wallstreetcn.com/livenews/3028363",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时41分"
+          "time_info": "07时35分"
         },
         {
           "title": "现货白银日内跌幅达11.0%，报70.57美元/盎司。",
@@ -1351,7 +1401,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         },
@@ -1403,7 +1453,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "金属全线回落，黄金跌破4500，白银跌超3.7%，现货钯金跌超11%，内盘碳酸锂、铂主力合约跌停",
@@ -1435,11 +1485,12 @@
             10,
             23,
             24,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 07时35分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月29日（周一）晚盘收盘下跌3.33%报975.6元/克；<br/>上海黄金交易所白银T+D 12月29日（周一）晚盘收盘下跌10.45%报17351.0元/千克。",
@@ -1456,15 +1507,38 @@
           "time_info": "[02时57分 ~ 04时45分]"
         },
         {
+          "title": "金属全线回落，白银较日高暴跌16%，黄金逼近4300美元，沪金跌破千元关口",
+          "url": "https://wallstreetcn.com/articles/3762216",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时34分 ~ 07时35分]"
+        },
+        {
           "title": "现货黄金重挫约4.5%，创10月下旬以来最大单日跌幅，逼近4300美元",
           "url": "https://wallstreetcn.com/livenews/3028343",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 07时35分]"
+        },
+        {
+          "title": "现货白银小幅上涨0.58%报72.56美元/盎司。现货黄金小幅上涨0.16%。",
+          "url": "https://wallstreetcn.com/livenews/3028369",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时41分"
+          "time_info": "07时35分"
         },
         {
           "title": "现货白银日内跌幅达10.0%，报71.26美元/盎司。 现货黄金日内跌幅达5.0%，报4302美元/盎司。",
@@ -1503,8 +1577,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 07时35分]"
         },
         {
           "title": "石破茂：我们没有充分认识到，日本在二战中做了什么",
@@ -1515,8 +1589,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 07时35分]"
         },
         {
           "title": "尹正演日本侵略者：下班后觉得恶心",
@@ -1526,11 +1600,12 @@
             9,
             8,
             13,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 07时35分]"
         },
         {
           "title": "真人扮熊猫关笼,日本为吸客拼了",
@@ -1540,8 +1615,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 07时35分]"
         },
         {
           "title": "日本夫妇惨死桑拿房",
@@ -1578,11 +1653,12 @@
           "url": "https://wallstreetcn.com/articles/3762071",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 06时41分]"
+          "appearance_count": 13,
+          "time_info": "[00时53分 ~ 07时35分]"
         }
       ]
     },
@@ -1625,7 +1701,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
         }
