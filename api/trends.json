@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T19:34:56.891254+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2025-12-29T21:52:51.788149+08:00",
+  "total_titles_processed": 1527,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 76,
       "titles": [
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -185,8 +185,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时03分 ~ 19时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时03分 ~ 21时52分]"
         },
         {
           "title": "和泽连斯基会面前，特朗普给普京打了个电话，细节曝光",
@@ -679,9 +679,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "泽连斯基列举与特朗普会晤成果：美方确认安全保障协议将提交国会，战后经济重建方案获推进",
+          "url": "https://flash.jin10.com/detail/20251229213129062800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "特朗普见泽连斯基前后均与普京通话",
@@ -907,7 +918,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
         {
           "title": "彭博社：中国游客锐减，恐使日本损失超过12亿美元旅游收入",
@@ -945,11 +956,12 @@
           "ranks": [
             10,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时03分 ~ 19时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时03分 ~ 21时52分]"
         },
         {
           "title": "小米副董事长拟套现不超20亿美元，知情人士：他想成立投资基金",
@@ -989,6 +1001,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时55分 ~ 19时34分]"
+        },
+        {
+          "title": "Lyn Alden：白银2026年可能冲击100美元，但不再是“低风险高回报”机会",
+          "url": "https://wallstreetcn.com/articles/3762221",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 21时52分]"
         },
         {
           "title": "韩元兑美元升至近两个月来盘中最高水平",
@@ -1131,18 +1156,6 @@
           "time_info": "[15时51分 ~ 17时01分]"
         },
         {
-          "title": "Lyn Alden：白银2026年可能冲击100美元，但不再是“低风险高回报”机会",
-          "url": "https://wallstreetcn.com/articles/3762221",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时34分]"
-        },
-        {
           "title": "现货钯金跌超11%，现报1726.23美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3027954",
           "source": "华尔街见闻-快讯",
@@ -1155,15 +1168,37 @@
           "time_info": "[15时03分 ~ 15时51分]"
         },
         {
+          "title": "受科技股拖累，美股指期货走低，现货白银跳水日内大跌6%，伦铜逼近13000美元，WTI原油涨逾2%",
+          "url": "https://wallstreetcn.com/articles/3762238",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "170亿美元追保、纽约联储救场？白银“逼仓传言”全拆解丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20251229185826218800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        },
+        {
+          "title": "软银将以每股16美元的价格现金收购投资公司DigitalBridge。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3028185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报7.0098，较上一交易日官方收盘价跌13点，较上日夜盘收盘跌35点。",
@@ -1222,6 +1257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时49分"
+        },
+        {
+          "title": "软银将以每股16美元现金收购私募股权公司DigitalBridge Group(DBRG.N)，该交易较12月26日收盘价溢价15%。",
+          "url": "https://flash.jin10.com/detail/20251229213252069800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "2026年外汇前瞻——美元霸权能否谢幕？五大货币终极推演！丨Hi，今天怎么看？",
@@ -1312,6 +1358,17 @@
           "time_info": "12时19分"
         },
         {
+          "title": "Needham将Coinbase目标价从400美元下调至290美元。",
+          "url": "https://wallstreetcn.com/livenews/3028172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "WTI原油日内涨幅达1.5%，报57.66美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3028041",
           "source": "华尔街见闻-快讯",
@@ -1321,6 +1378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "芝加哥玉米价格下跌0.6%，至每蒲式耳4.4775美元。",
+          "url": "https://wallstreetcn.com/livenews/3028170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "现货钯金下跌近9%，至每盎司1,750.75美元。",
@@ -1356,6 +1424,17 @@
           "time_info": "12时19分"
         },
         {
+          "title": "春秋航空：拟41.28亿美元购买30架空客A320neo飞机",
+          "url": "https://wallstreetcn.com/livenews/3028159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
           "title": "现货钯金失守1700美元/盎司，日内跌幅10.70%。",
           "url": "https://flash.jin10.com/detail/20251229145033337800",
           "source": "金十数据",
@@ -1365,12 +1444,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        },
+        {
+          "title": "英特尔完成向英伟达出售价值50亿美元的普通股",
+          "url": "https://wallstreetcn.com/livenews/3028146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 26,
+      "match_count": 31,
       "titles": [
         {
           "title": "Ed Yardeni 2026展望：美国不衰退，标普7700，美债收益率超4%，金价6000美元",
@@ -1408,8 +1498,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时51分 ~ 19时34分]"
+          "appearance_count": 6,
+          "time_info": "[15时51分 ~ 21时52分]"
         },
         {
           "title": "黄金投资者周报上新！",
@@ -1459,6 +1549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "现货白银日内跌幅达7%，现货黄金日内重挫超100美元",
+          "url": "https://wallstreetcn.com/livenews/3028189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "瑞银集团：我们仍持多头立场，并将我们对2026年3月、6月和9月的黄金价格目标上调至每盎司5000美元（此前为每盎司4500美元）。预计到2026年底，黄金价格将小幅下跌至每盎司4800美元。",
@@ -1538,6 +1639,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时19分"
+        },
+        {
+          "title": "黄金白银暴涨后暴跌",
+          "url": "https://www.toutiao.com/trending/7589219657953840666/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "扫地机器人巨头宣布：给全员发黄金",
+          "url": "https://www.baidu.com/s?wd=%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B7%A8%E5%A4%B4%E5%AE%A3%E5%B8%83%EF%BC%9A%E7%BB%99%E5%85%A8%E5%91%98%E5%8F%91%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         },
         {
           "title": "香港特区政府：2025年11月香港对中国内地黄金净出口量为16.16公吨，10月份为8.02公吨。",
@@ -1670,6 +1793,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时55分"
+        },
+        {
+          "title": "机构：银价正从峰值回落 黄金则因获利回吐而走软",
+          "url": "https://flash.jin10.com/detail/20251229210220102800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        },
+        {
+          "title": "现货黄金日内跌超2%，报4438.51美元/盎司。现货钯金日内跌近13%，报1698.83美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3028143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
@@ -1689,11 +1834,12 @@
             16,
             17,
             19,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 19时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 21时52分]"
         },
         {
           "title": "日本知名巨头川崎重工承认造假，涉及数百台船舶和潜水艇，如何评价？暴露了哪些问题？",
@@ -1744,8 +1890,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时55分 ~ 19时34分]"
+          "appearance_count": 4,
+          "time_info": "[17时55分 ~ 21时52分]"
         },
         {
           "title": "日本千叶县发生多车连环相撞事故，多人被紧急送医",
@@ -1794,6 +1940,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时03分 ~ 15时51分]"
+        },
+        {
+          "title": "日本夫妇惨死桑拿房",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A4%AB%E5%A6%87%E6%83%A8%E6%AD%BB%E6%A1%91%E6%8B%BF%E6%88%BF&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时34分 ~ 21时52分]"
         },
         {
           "title": "日本40年期国债收益率上升6个基点至3.65%。",
@@ -1862,17 +2020,6 @@
           "time_info": "17时01分"
         },
         {
-          "title": "日本夫妇惨死桑拿房",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A4%AB%E5%A6%87%E6%83%A8%E6%AD%BB%E6%A1%91%E6%8B%BF%E6%88%BF&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时34分"
-        },
-        {
           "title": "记者世界解读日本危险的转向",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%B0%E8%80%85%E4%B8%96%E7%95%8C%E8%A7%A3%E8%AF%BB%E6%97%A5%E6%9C%AC%E5%8D%B1%E9%99%A9%E7%9A%84%E8%BD%AC%E5%90%91",
           "source": "bilibili 热搜",
@@ -1904,6 +2051,78 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "显卡 英伟达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "英伟达800伏电压“革命”：全球数据中心面临史上最大规模基础设施改造",
+          "url": "https://wallstreetcn.com/articles/3762212",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 19时34分]"
+        },
+        {
+          "title": "全球资产榜再刷新：白银跃居第三 剑指英伟达",
+          "url": "https://flash.jin10.com/detail/20251229115033382800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时19分 ~ 13时49分]"
+        },
+        {
+          "title": "英伟达Jim Fan：机器人领域还处于混乱状态，连发展方向都有可能是错的",
+          "url": "https://wallstreetcn.com/articles/3762227",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
+          "url": "https://www.cls.cn/detail/2242969",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时52分 ~ 21时52分]"
+        },
+        {
+          "title": "DeepSeek一夜爆火、Labubu引爆全球抢购潮、“史诗级”外卖大战……2025年中国十大商业事件全盘点",
+          "url": "https://wallstreetcn.com/articles/3762071",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时52分"
         }
       ]
     },
@@ -1951,8 +2170,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时03分 ~ 19时34分]"
+          "appearance_count": 7,
+          "time_info": "[15时03分 ~ 21时52分]"
         },
         {
           "title": "关于“微信占内存”，官方最新回应",
@@ -1965,55 +2184,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时55分 ~ 19时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "显卡 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达800伏电压“革命”：全球数据中心面临史上最大规模基础设施改造",
-          "url": "https://wallstreetcn.com/articles/3762212",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 19时34分]"
-        },
-        {
-          "title": "全球资产榜再刷新：白银跃居第三 剑指英伟达",
-          "url": "https://flash.jin10.com/detail/20251229115033382800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 13时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
-          "url": "https://www.cls.cn/detail/2242969",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时52分 ~ 19时34分]"
         }
       ]
     },
