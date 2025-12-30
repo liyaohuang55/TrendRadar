@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T04:43:55.796091+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2025-12-31T05:36:43.608951+08:00",
+  "total_titles_processed": 508,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "Manus被Meta数十亿美元收购背后：创始人肖弘复盘至暗时刻",
@@ -27,8 +27,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "国航拟95.3亿美元买60架空客飞机",
@@ -37,11 +37,25 @@
           "ranks": [
             29,
             28,
-            26
+            26,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时44分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[01时44分 ~ 05时36分]"
+        },
+        {
+          "title": "美联储会议纪要发布后，美元指数涨幅重新扩大至将近0.2%，逼近北京时间23:44刷新的日高98.269点。 美国10年期国债收益率持稳于4.12%附近，维持大约1个基点的涨幅；两年期美债收益率持稳于3.4450%附近，保持微幅下挫状态。 2/10年期美债收益率利差维持大约1.4个基点的涨幅，持稳于+67个基点下方。",
+          "url": "https://wallstreetcn.com/livenews/3028902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时31分 ~ 05时36分]"
         },
         {
           "title": "周二（12月30日），美联储隔夜逆回购协议（RRP）使用规模为126.05亿美元（交易对手10家），上个交易日报105.51亿美元。",
@@ -81,18 +95,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时44分 ~ 03时45分]"
-        },
-        {
-          "title": "美联储会议纪要发布后，美元指数涨幅重新扩大至将近0.2%，逼近北京时间23:44刷新的日高98.269点。 美国10年期国债收益率持稳于4.12%附近，维持大约1个基点的涨幅；两年期美债收益率持稳于3.4450%附近，保持微幅下挫状态。 2/10年期美债收益率利差维持大约1.4个基点的涨幅，持稳于+67个基点下方。",
-          "url": "https://wallstreetcn.com/livenews/3028902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时31分 ~ 04时43分]"
         },
         {
           "title": "美联储会议纪要公布后，现货金银短线波动不大，美元指数DXY小幅走高。",
@@ -137,22 +139,24 @@
           "url": "https://wallstreetcn.com/livenews/3028912",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时36分]"
         },
         {
           "title": "周二（12月30日）纽约尾盘，美元兑日元涨0.25%，报156.45日元，日内交投区间为155.75-156.57日元。 欧元兑日元涨0.05%，英镑兑日元跌0.08%。",
           "url": "https://wallstreetcn.com/livenews/3028911",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时36分]"
         },
         {
           "title": "纽约期银日内暴涨10.00%，现报77.51美元/盎司；现货白银现涨7.7%。",
@@ -179,6 +183,18 @@
           "time_info": "[02时58分 ~ 03时31分]"
         },
         {
+          "title": "周二（12月30日）纽约尾盘，ICE美元指数涨0.21%，报98.241点，日内交投区间为97.939-98.269点。 彭博美元指数涨0.13%，报1202.97点，日内交投区间为1200.04-1203.23点。",
+          "url": "https://wallstreetcn.com/livenews/3028908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时36分]"
+        },
+        {
           "title": "英伟达正就收购以色列人工智能初创公司AI21 Labs展开深入谈判，交易金额预计至高达30亿美元。",
           "url": "https://flash.jin10.com/detail/20251231011253846800",
           "source": "金十数据",
@@ -201,6 +217,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时31分]"
+        },
+        {
+          "title": "WTI 2月原油期货收跌0.13美元，跌幅0.22%，报57.95美元/桶。 布伦特2月原油期货收跌0.02美元，跌幅0.03%，报61.92美元/桶。 中东Abu Dhabi Murban原油期货跌0.66%，报62.04美元/桶。 NYMEX 2月天然气期货收报3.9720美元/百万英热单位。 NYMEX 1月汽油期货收报1.7210美元/加仑，NYMEX 1月取暖油期货收报2.1505美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3028905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时36分]"
         },
         {
           "title": "现货白银站上78美元/盎司，日内涨8.17%。",
@@ -237,17 +265,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时31分]"
-        },
-        {
-          "title": "周二（12月30日）纽约尾盘，ICE美元指数涨0.21%，报98.241点，日内交投区间为97.939-98.269点。 彭博美元指数涨0.13%，报1202.97点，日内交投区间为1200.04-1203.23点。",
-          "url": "https://wallstreetcn.com/livenews/3028908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
         },
         {
           "title": "纽约期银暴涨9% 现货站上77美元",
@@ -297,15 +314,15 @@
           "time_info": "[01时44分 ~ 02时58分]"
         },
         {
-          "title": "WTI 2月原油期货收跌0.13美元，跌幅0.22%，报57.95美元/桶。 布伦特2月原油期货收跌0.02美元，跌幅0.03%，报61.92美元/桶。 中东Abu Dhabi Murban原油期货跌0.66%，报62.04美元/桶。 NYMEX 2月天然气期货收报3.9720美元/百万英热单位。 NYMEX 1月汽油期货收报1.7210美元/加仑，NYMEX 1月取暖油期货收报2.1505美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3028905",
-          "source": "华尔街见闻-快讯",
+          "title": "美元指数30日上涨",
+          "url": "https://flash.jin10.com/detail/20251231041346663800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "05时36分"
         },
         {
           "title": "LME期铜收涨336美元，报12558美元/吨。 LME期铝收涨28美元，报2980美元/吨。 LME期锌收涨36美元，报3124美元/吨。 LME期铅收涨4美元，报2010美元/吨。 LME期镍收涨10141美元，报16828美元/吨。 LME期锡收涨1211美元，报41954美元/吨。 LME期钴收涨565美元，报53355美元/吨。",
@@ -317,6 +334,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "美联储调查显示：未来12个月预计购买约2,200亿美元国库券",
+          "url": "https://wallstreetcn.com/livenews/3028916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "英伟达拟以最高30亿美元的价格收购以色列AI21 Labs",
@@ -333,7 +361,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -343,8 +371,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -354,8 +382,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
@@ -366,19 +394,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
           "url": "https://wallstreetcn.com/articles/3762272",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -388,8 +417,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "外交部回应特朗普谈解放军军演",
@@ -397,11 +426,23 @@
           "source": "抖音",
           "ranks": [
             29,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时31分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[03时31分 ~ 05时36分]"
+        },
+        {
+          "title": "周二（12月30日），降息赢家指数跌0.33%，报99.34点。 “特朗普关税输家”指数跌0.70%，报111.29点。 “特朗普金融指数”跌0.60%，报173.74点。 散户抱团概念股指数/迷因股（meme stock）指数跌0.97%，报15.49点。",
+          "url": "https://wallstreetcn.com/livenews/3028928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "泽连斯基：与特朗普讨论了将美军部署在乌克兰的问题",
@@ -414,6 +455,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时31分]"
+        },
+        {
+          "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
+          "url": "https://wallstreetcn.com/livenews/3028915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
@@ -462,8 +514,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "金价",
@@ -475,8 +527,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 12月30日（周二）晚盘收盘上涨0.19%报984.0元/克；<br/>上海黄金交易所白银T+D 12月30日（周二）晚盘收盘上涨4.62%报18791.0元/千克。",
@@ -491,6 +543,18 @@
           "time_info": "[02时58分 ~ 03时31分]"
         },
         {
+          "title": "现货黄金短线下挫15美元，最新报4351美元/盎司；现货白银短线走低0.8美元，报76.58美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251231035005635800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时36分]"
+        },
+        {
           "title": "黄金白银或现更严重下跌",
           "url": "https://www.douyin.com/hot/2351629",
           "source": "抖音",
@@ -501,17 +565,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时57分 ~ 01时44分]"
-        },
-        {
-          "title": "现货黄金短线下挫15美元，最新报4351美元/盎司；现货白银短线走低0.8美元，报76.58美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20251231035005635800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
         },
         {
           "title": "现货黄金回落至4360美元下方，涨幅收窄至不足0.6%。",
@@ -550,8 +603,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "印媒：印度已超日本成世界第四大经济体",
@@ -561,8 +614,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "印度宣布：超日本成世界第四大经济体",
@@ -571,11 +624,12 @@
           "ranks": [
             9,
             19,
-            22
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "解放军围台演习,日本罕见沉默",
@@ -585,8 +639,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "印度称已超日本成世界第四大经济体",
@@ -599,8 +653,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时57分 ~ 04时43分]"
+          "appearance_count": 7,
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "印度称其GDP已超日本，跃居世界第四，有望三年内赶超德国",
@@ -618,7 +672,7 @@
     },
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周二（12月30日），南非富时/JSE非洲领先40可交易指数收涨0.43%，至10.87万点上方，2025年以来累计上涨44.20%，势必连续第三年走高、创历史上最佳年度表现。",
@@ -632,6 +686,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时57分 ~ 02时58分]"
+        },
+        {
+          "title": "金十图示：2025年12月30日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20251231050552775800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时36分"
         },
         {
           "title": "希腊雅典证交所综合指数收跌0.13%，报2120.82点。 2025年以来，该国股市已经累计上涨超过44.30%，1-8月持续、相对平滑地上涨（特朗普关税威胁曾在4月份造成一波V型“插曲”），后续高位持稳——试探2010年（欧债危机期间）年初顶部。 年线上连续第五年走高——追平2007年所创最长年度连涨纪录。",
@@ -682,11 +747,12 @@
           "source": "金十数据",
           "ranks": [
             10,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时45分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[03时45分 ~ 05时36分]"
         }
       ]
     },
