@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T18:46:46.222279+08:00",
-  "total_titles_processed": 1417,
+  "generated_at": "2025-12-31T19:34:29.182059+08:00",
+  "total_titles_processed": 1466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
         {
           "title": "成立不到3年，被Meta以逾20亿美元收购！Manus成为“AI时代中国创业新标杆”",
@@ -706,13 +706,24 @@
           "time_info": "15时01分"
         },
         {
+          "title": "纽元兑美元NZD/USD日内跌超0.50%，现报0.5762。",
+          "url": "https://flash.jin10.com/detail/20251231185312773800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
           "title": "三菱日联：美元恐将创下2017年以来最差年度表现",
           "url": "https://flash.jin10.com/detail/20251231174851946800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -972,6 +983,17 @@
           "time_info": "13时54分"
         },
         {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时34分]"
+        },
+        {
           "title": "据英国金融时报：由特朗普集团推出的手机公司Trump Mobile已推迟原定于今年年底发售金色智能手机的计划。",
           "url": "https://flash.jin10.com/detail/20251231130723991800",
           "source": "金十数据",
@@ -981,17 +1003,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
-        },
-        {
-          "title": "李在明展示特朗普送的白宫金钥匙(图)",
-          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         },
         {
           "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
@@ -1074,19 +1085,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时34分 ~ 18时46分]"
-        },
-        {
-          "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 05时36分]"
+          "appearance_count": 10,
+          "time_info": "[07时34分 ~ 19时34分]"
         },
         {
           "title": "金属走势分化，白银反弹，黄金涨幅显著收窄，伦铜涨近4%，伦镍创14个月最高水平",
@@ -1098,8 +1098,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时58分 ~ 19时34分]"
+        },
+        {
+          "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 8,
-          "time_info": "[11时58分 ~ 18时46分]"
+          "time_info": "[00时57分 ~ 05时36分]"
         },
         {
           "title": "金价",
@@ -1373,8 +1384,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时58分 ~ 18时46分]"
+          "appearance_count": 9,
+          "time_info": "[11时58分 ~ 19时34分]"
         },
         {
           "title": "印度称已超日本成世界第四大经济体",
@@ -1391,6 +1402,35 @@
           "time_info": "[00时57分 ~ 06时41分]"
         },
         {
+          "title": "印度官宣GDP超过日本",
+          "url": "https://www.douyin.com/hot/2352682",
+          "source": "抖音",
+          "ranks": [
+            18,
+            22,
+            27,
+            24,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时01分 ~ 19时34分]"
+        },
+        {
+          "title": "高市闯大祸,日本经济被印度反超",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348598&amp;topic_name=%E9%AB%98%E5%B8%82%E9%97%AF%E5%A4%A7%E7%A5%B8%2C%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E8%A2%AB%E5%8D%B0%E5%BA%A6%E5%8F%8D%E8%B6%85",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时43分 ~ 19时34分]"
+        },
+        {
           "title": "日本游客脱外衣欲下恒河被当地人怒斥",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B8%B8%E5%AE%A2%E8%84%B1%E5%A4%96%E8%A1%A3%E6%AC%B2%E4%B8%8B%E6%81%92%E6%B2%B3%E8%A2%AB%E5%BD%93%E5%9C%B0%E4%BA%BA%E6%80%92%E6%96%A5%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -1404,33 +1444,6 @@
           "time_info": "[11时58分 ~ 15时43分]"
         },
         {
-          "title": "印度官宣GDP超过日本",
-          "url": "https://www.douyin.com/hot/2352682",
-          "source": "抖音",
-          "ranks": [
-            18,
-            22,
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时01分 ~ 18时46分]"
-        },
-        {
-          "title": "高市闯大祸,日本经济被印度反超",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348598&amp;topic_name=%E9%AB%98%E5%B8%82%E9%97%AF%E5%A4%A7%E7%A5%B8%2C%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E8%A2%AB%E5%8D%B0%E5%BA%A6%E5%8F%8D%E8%B6%85",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时43分 ~ 18时46分]"
-        },
-        {
           "title": "外交部回应日本商业领导人暂停访华",
           "url": "https://news.ifeng.com/c/8pXBVSUicWE",
           "source": "凤凰网",
@@ -1438,8 +1451,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 19时34分]"
         },
         {
           "title": "特斯拉罕见展开预期管理 印度称其GDP已超日本 | 环球市场",
@@ -1458,11 +1471,12 @@
           "url": "https://www.toutiao.com/trending/7589865223264878611/",
           "source": "今日头条",
           "ranks": [
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时46分]"
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 19时34分]"
         },
         {
           "title": "印度称其GDP已超日本，跃居世界第四，有望三年内赶超德国",
@@ -1477,6 +1491,18 @@
           "time_info": "[00时57分 ~ 01时44分]"
         },
         {
+          "title": "中方回应日本商业领导人暂停访华",
+          "url": "https://www.toutiao.com/trending/7589490204730441774/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时34分]"
+        },
+        {
           "title": "GDP超过日本后印度争当“全球第三”",
           "url": "https://www.toutiao.com/trending/7589872356475031076/",
           "source": "今日头条",
@@ -1486,17 +1512,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时58分"
-        },
-        {
-          "title": "中方回应日本商业领导人暂停访华",
-          "url": "https://www.toutiao.com/trending/7589490204730441774/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         }
       ]
     },
@@ -1548,7 +1563,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
