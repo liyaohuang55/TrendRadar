@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T15:01:34.349283+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-01-01T15:42:32.809708+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "周三（12月31日），韩元兑美元最终跌0.35%，报1444.62韩元。 2025年，韩元累计上涨将近2.30%，月线图上呈现出冲高回落走势。",
@@ -35,6 +35,18 @@
           "time_info": "[02时56分 ~ 05时35分]"
         },
         {
+          "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
+          "url": "https://www.cls.cn/detail/2240328",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 15时42分]"
+        },
+        {
           "title": "周三（12月31日），美联储隔夜逆回购协议（RRP）使用规模为1059.93亿美元（交易对手49家），上个交易日报126.05亿美元。",
           "url": "https://wallstreetcn.com/livenews/3029454",
           "source": "华尔街见闻-快讯",
@@ -59,18 +71,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时56分 ~ 04时42分]"
-        },
-        {
-          "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
-          "url": "https://www.cls.cn/detail/2240328",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 15时01分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了49个对手方的1059.93亿美元。",
@@ -230,6 +230,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时35分]"
+        },
+        {
+          "title": "据阿曼国家通讯社报道，阿曼将2026年预算的平均油价设定为每桶60美元。",
+          "url": "https://flash.jin10.com/detail/20260101151626275800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "周三（12月31日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘跌0.10%，报88175美元，12月份累计下跌3.81%。 CME以太币期货DCR主力合约涨0.86%，报2997.50美元，12月份累跌2.36%。",
@@ -398,8 +409,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 15时42分]"
         },
         {
           "title": "特朗普称“凯旋门”将于两个月内开建",
@@ -569,7 +580,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
@@ -683,12 +694,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时35分"
+        },
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "印度宣布经济已超日本，成为全球第四经济体，如何评价？数据可靠吗？",
@@ -712,8 +734,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时52分 ~ 15时01分]"
+          "appearance_count": 17,
+          "time_info": "[00时52分 ~ 15时42分]"
         },
         {
           "title": "日本本州东部附近海域发生6.0级地震",
@@ -755,8 +777,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 15时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时46分 ~ 15时42分]"
         },
         {
           "title": "日本纸箱仙人",
@@ -764,11 +786,12 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时46分 ~ 15时01分]"
+          "appearance_count": 3,
+          "time_info": "[13时46分 ~ 15时42分]"
         },
         {
           "title": "中方回应日本商业领导人暂停访华",
@@ -780,6 +803,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时34分 ~ 07时35分]"
+        },
+        {
+          "title": "日本经团联会长：2026年春斗着重提升基本工资",
+          "url": "https://flash.jin10.com/detail/20260101145131148800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "日本砸180亿日元拉拢盟友意欲何为",
+          "url": "https://www.toutiao.com/trending/7590274846433480234/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "日本本州东部附近海域发生6.0级地震 震源深度20公里",
@@ -892,8 +937,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时17分 ~ 15时01分]"
+          "appearance_count": 5,
+          "time_info": "[12时17分 ~ 15时42分]"
         }
       ]
     },
