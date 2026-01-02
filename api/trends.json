@@ -1,1268 +1,84 @@
 {
-  "generated_at": "2026-01-02T23:42:19.132716+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2026-01-03T00:54:15.898400+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美元",
-      "match_count": 42,
-      "titles": [
-        {
-          "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
-          "url": "https://wallstreetcn.com/articles/3762441",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时55分 ~ 23时42分]"
-        },
-        {
-          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
-          "url": "https://www.cls.cn/detail/2246252",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时01分 ~ 23时42分]"
-        },
-        {
-          "title": "三张图总结2025年环球资产表现：科技牛、金属狂、美元颓",
-          "url": "https://www.cls.cn/detail/2240328",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时36分]"
-        },
-        {
-          "title": "2025年大涨后，人民币对美元汇率2026年如何走",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32292462",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时36分]"
-        },
-        {
-          "title": "秘鲁计划将价值60亿美元的炼油厂从国家石油公司剥离",
-          "url": "https://wallstreetcn.com/livenews/3029635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            13,
-            15,
-            19,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时56分 ~ 07时36分]"
-        },
-        {
-          "title": "全球股市开门红：纳指期货涨1%，英股创新高，欧股集体走高，金银领衔贵金属反弹，伦铝站上3000美元",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时47分 ~ 22时44分]"
-        },
-        {
-          "title": "老黄超200亿美元的推理闭环成型了",
-          "url": "https://wallstreetcn.com/articles/3762431",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 17时47分]"
-        },
-        {
-          "title": "秘鲁拟从国有石油公司分拆价值60亿美元的炼油厂",
-          "url": "https://flash.jin10.com/detail/20260102035137069800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时44分 ~ 07时36分]"
-        },
-        {
-          "title": "离岸人民币兑美元升破6.97",
-          "url": "https://www.baidu.com/s?wd=%E7%A6%BB%E5%B2%B8%E4%BA%BA%E6%B0%91%E5%B8%81%E5%85%91%E7%BE%8E%E5%85%83%E5%8D%87%E7%A0%B46.97",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时47分 ~ 19时32分]"
-        },
-        {
-          "title": "纽约期银突破73美元/盎司，日内涨3.40%。",
-          "url": "https://flash.jin10.com/detail/20260102114905936800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时55分]"
-        },
-        {
-          "title": "现货钯金涨3%，至1,657.85美元/盎司。现货铂金涨3%，至2,116.50美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260102114437454800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时55分]"
-        },
-        {
-          "title": "现货钯金涨3%，至1,657.85美元/盎司。现货铂金涨3%，至2,116.50美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029720",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时55分]"
-        },
-        {
-          "title": "韩国央行行长：美元兑韩元汇率走高部分源于韩国对海外股票投资增加",
-          "url": "https://wallstreetcn.com/livenews/3029719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时55分]"
-        },
-        {
-          "title": "纽约期银日内涨幅扩大至3.00%，现报72.74美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260102113544423800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            12,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时55分]"
-        },
-        {
-          "title": "现货白银上涨2.8%报73美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时55分]"
-        },
-        {
-          "title": "现货白银日内涨超2%，现报73.10美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260102112509147800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时55分]"
-        },
-        {
-          "title": "交易员称，印度央行可能正通过国有银行抛售美元，捍卫90这一汇率水平。",
-          "url": "https://wallstreetcn.com/livenews/3029737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 15时44分]"
-        },
-        {
-          "title": "杰富瑞：将百度(BIDU.O)目标价从159美元上调至181美元。",
-          "url": "https://flash.jin10.com/detail/20260102123642829800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时55分]"
-        },
-        {
-          "title": "现货铂金涨超4%，报2149.85美元/盎司；现货钯金涨近3%，报1664.14美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 21时47分]"
-        },
-        {
-          "title": "现货白银日内大涨2美元，现报73.63美元/盎司，涨幅2.83%。",
-          "url": "https://flash.jin10.com/detail/20260102120726176800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时55分]"
-        },
-        {
-          "title": "现货白银日内涨幅扩大至3.00%，现报73.75美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260102132020593800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时02分]"
-        },
-        {
-          "title": "现货白银站上72美元/盎司，日内涨0.61%。",
-          "url": "https://flash.jin10.com/detail/20260102070149111800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "印度总理莫迪政府正加大力度构建本土供应链，已批准46亿美元的电子元件投资。",
-          "url": "https://flash.jin10.com/detail/20260102192212192800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "交易员：印度央行可能通过国有银行抛售美元，以捍卫卢比90关口。",
-          "url": "https://flash.jin10.com/detail/20260102130004168800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时02分]"
-        },
-        {
-          "title": "纽约期银日内大涨5%，现报74.14美元/盎司。纽约期金向上触及4400美元/盎司，日内涨1.36%。",
-          "url": "https://flash.jin10.com/detail/20260102163506638800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "沃旭能源就特朗普暂停50亿美元海上风电项目提起诉讼",
-          "url": "https://wallstreetcn.com/livenews/3029856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时42分]"
-        },
-        {
-          "title": "现货白银突破74美元/盎司，日内涨3.35%。",
-          "url": "https://flash.jin10.com/detail/20260102140405145800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时44分]"
-        },
-        {
-          "title": "纽约期银日内大涨4.00%，现报73.43美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260102135430468800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时44分]"
-        },
-        {
-          "title": "WTI原油日内跌幅达1%，报56.82美元/桶；布伦特原油日内跌幅达1%，报60.24美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3029848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时42分]"
-        },
-        {
-          "title": "科技股引领全球股市开年上涨，纳指期货涨0.7%，金银领衔贵金属反弹，伦铝站上3000美元，美债收益率上行",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "杨瀚森新秀赛季税后工资234.2万美元",
-          "url": "https://www.toutiao.com/trending/7590059398258573353/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "美股期货上涨，金银领衔贵金属反弹，美元疲软",
-          "url": "https://wallstreetcn.com/articles/3762449",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时44分"
-        },
-        {
-          "title": "澳元兑美元AUD/USD日内涨幅扩大至0.50%，现报0.6705。",
-          "url": "https://flash.jin10.com/detail/20260102161435770800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "现货白银日内大涨4%，现报74.47美元/盎司。纽约期银站上74美元/盎司，日内涨4.81%。",
-          "url": "https://flash.jin10.com/detail/20260102161316965800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "现货白银日内大涨4%，现报74.47美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029772",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "伦铝触及每吨3000美元，为2022年以来首次。",
-          "url": "https://wallstreetcn.com/livenews/3029769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "LME基准期铝上涨0.1%至每吨3,000美元，创下2022年5月以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260102160353104800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "布伦特原油日内走低1%，现报60.57美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260102205938656800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "WTI原油跌破57美元/桶，日内跌0.82%。",
-          "url": "https://flash.jin10.com/detail/20260102205930498800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "伯恩斯坦：将美光科技(MU.O)目标价从270美元上调至330美元。",
-          "url": "https://flash.jin10.com/detail/20260102204807064800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "WTI原油日内下跌1.00%，现报56.85美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260102220012076800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "巴西雷亚尔兑美元汇率在现货交易中上涨约1%。",
-          "url": "https://flash.jin10.com/detail/20260102215437012800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 32,
-      "titles": [
-        {
-          "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
-          "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时36分]"
-        },
-        {
-          "title": "美国缩减对意大利面关税，意大利称特朗普时期政策回调",
-          "url": "https://wallstreetcn.com/livenews/3029639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10,
-            12,
-            16,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时41分 ~ 07时36分]"
-        },
-        {
-          "title": "白宫：特朗普总统已签署一项行政命令，修改对进口到美国的木材、木料及其衍生产品的关税。",
-          "url": "https://flash.jin10.com/detail/20260102011611465800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            13,
-            18,
-            21,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时41分 ~ 06时43分]"
-        },
-        {
-          "title": "报告：若俄乌冲突结束，特朗普或将加大力度与俄罗斯建立对话",
-          "url": "https://flash.jin10.com/detail/20260102030004557800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            9,
-            12,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时31分 ~ 07时36分]"
-        },
-        {
-          "title": "唐驳虎：特朗普发现“弹药”不够用了",
-          "url": "https://www.toutiao.com/trending/7590682268167835155/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            17,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时47分 ~ 22时44分]"
-        },
-        {
-          "title": "特朗普承认服用阿司匹林",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%9C%8D%E7%94%A8%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            23,
-            26,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时02分 ~ 18时46分]"
-        },
-        {
-          "title": "特朗普：10月份体检时进行的是CT扫描而非核磁共振",
-          "url": "https://flash.jin10.com/detail/20260102032453188800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时44分 ~ 07时36分]"
-        },
-        {
-          "title": "特朗普回应健康质疑：手背瘀青只因服用阿司匹林，打瞌睡是在“放松”",
-          "url": "https://wallstreetcn.com/livenews/3029800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时32分]"
-        },
-        {
-          "title": "特朗普称将就伊朗骚乱事件进行干涉",
-          "url": "https://wallstreetcn.com/livenews/3029799",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时32分]"
-        },
-        {
-          "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
-          "url": "https://flash.jin10.com/detail/20260101224323084800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时57分]"
-        },
-        {
-          "title": "高市早苗与特朗普可能最早在周五晚间通话。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3029817",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时32分 ~ 21时47分]"
-        },
-        {
-          "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
-          "url": "https://www.zhihu.com/question/1990382764189508847",
-          "source": "知乎",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时42分]"
-        },
-        {
-          "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
-          "url": "https://wallstreetcn.com/livenews/3029871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "高市早苗与特朗普商定将于春季访美。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3029839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 22时44分]"
-        },
-        {
-          "title": "新加坡总理黄循财于1月2日与特朗普通了电话。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3029858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时42分]"
-        },
-        {
-          "title": "伊朗最高领袖顾问拉里贾尼：美国总统特朗普应当明白，美国干涉伊朗抗议问题无异于在整个地区引发混乱。",
-          "url": "https://flash.jin10.com/detail/20260102171345253800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时46分]"
-        },
-        {
-          "title": "如何看待特朗普回应健康质疑",
-          "url": "https://www.toutiao.com/trending/7590742092725358143/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 22时44分]"
-        },
-        {
-          "title": "特朗普发文猛烈抨击乔治·克鲁尼",
-          "url": "https://www.toutiao.com/trending/7590436761429049350/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时42分]"
-        },
-        {
-          "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
-          "url": "https://wallstreetcn.com/livenews/3029637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时41分]"
-        },
-        {
-          "title": "特朗普称美国已做好准备",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E5%9B%BD%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%87%86%E5%A4%87%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时42分]"
-        },
-        {
-          "title": "特朗普的“和平”为何总是显得脆弱",
-          "url": "https://www.toutiao.com/trending/7590664118328102443/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        },
-        {
-          "title": "特朗普承认手上瘀伤是服用药物造成",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%89%8B%E4%B8%8A%E7%98%80%E4%BC%A4%E6%98%AF%E6%9C%8D%E7%94%A8%E8%8D%AF%E7%89%A9%E9%80%A0%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时02分 ~ 15时44分]"
-        },
-        {
-          "title": "新加坡总理黄循财于1月2日与美国总统特朗普进行了通话。",
-          "url": "https://flash.jin10.com/detail/20260102222623337800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "据日本共同社：日本首相高市早苗与美国总统特朗普最早可能于周五晚间通话。",
-          "url": "https://flash.jin10.com/detail/20260102184342452800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "据日本共同社：日本首相高市早苗同意在春季会见美国总统特朗普。",
-          "url": "https://flash.jin10.com/detail/20260102210911040800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "日本首相高市早苗与美国总统特朗普进行了通话。（共同社）",
-          "url": "https://wallstreetcn.com/livenews/3029830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "特朗普：医生刚刚报告说我身体非常健康。 第三次在认知能力测试中“拿下满分”。",
-          "url": "https://wallstreetcn.com/livenews/3029827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-02）",
-          "url": "https://flash.jin10.com/detail/20260102183706260800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时32分"
-        },
-        {
-          "title": "特朗普宣布从芝加哥等三座城市撤军",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%AD%89%E4%B8%89%E5%BA%A7%E5%9F%8E%E5%B8%82%E6%92%A4%E5%86%9B",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "美国总统特朗普：如果伊朗开枪并暴力杀害和平抗议者，美利坚合众国将向他们提供援助。我们已严阵以待，蓄势待发。",
-          "url": "https://flash.jin10.com/detail/20260102155924046800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
-        },
-        {
-          "title": "特朗普称手上瘀伤是服用阿司匹林造成",
-          "url": "https://www.toutiao.com/trending/7589823768060706870/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时04分"
-        },
-        {
-          "title": "据日本共同社：日本首相高市早苗与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20260102204110786800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
-      "match_count": 24,
+      "match_count": 6,
       "titles": [
         {
           "title": "严控黄金交易！全球央行“亲自下场”，“直购”境内金矿，严防走私出口",
           "url": "https://wallstreetcn.com/articles/3762442",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            7,
-            6,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时04分 ~ 23时42分]"
-        },
-        {
-          "title": "黄金颜色越黄纯度越高系谣言",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E9%A2%9C%E8%89%B2%E8%B6%8A%E9%BB%84%E7%BA%AF%E5%BA%A6%E8%B6%8A%E9%AB%98%E7%B3%BB%E8%B0%A3%E8%A8%80",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时56分 ~ 12时01分]"
-        },
-        {
-          "title": "年轻人黄金血脉觉醒 爱上小克重金饰",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%BB%84%E9%87%91%E8%A1%80%E8%84%89%E8%A7%89%E9%86%92+%E7%88%B1%E4%B8%8A%E5%B0%8F%E5%85%8B%E9%87%8D%E9%87%91%E9%A5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            23,
-            16,
-            15,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时56分 ~ 07时36分]"
-        },
-        {
-          "title": "金价大涨引发抢购潮",
-          "url": "https://www.toutiao.com/trending/7590703628780834347/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时32分 ~ 23时42分]"
-        },
-        {
-          "title": "金价下跌 专家提醒假期投资风险",
-          "url": "https://www.toutiao.com/trending/7589803875436118022/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时55分]"
-        },
-        {
-          "title": "周大福足金价格均为1357元/克，老凤祥1354元/克",
-          "url": "https://wallstreetcn.com/livenews/3029730",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 15时02分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260102064912757800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时36分 ~ 13时55分]"
-        },
-        {
-          "title": "2026年首个交易日，现货黄金日内大涨50美元，突破4370美元/盎司，日内涨1.18%。",
-          "url": "https://flash.jin10.com/detail/20260102111449651800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时01分 ~ 13时55分]"
-        },
-        {
-          "title": "金价过山车有人变现近9斤黄金",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%9C%89%E4%BA%BA%E5%8F%98%E7%8E%B0%E8%BF%919%E6%96%A4%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时47分 ~ 23时42分]"
-        },
-        {
-          "title": "现货黄金突破4380美元/盎司，日内涨1.42%。",
-          "url": "https://flash.jin10.com/detail/20260102132024576800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时02分]"
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
-          "title": "美股黄金股盘前上涨，泛美白银涨约4%，科尔黛伦矿业涨约5%，AngloGold Ashanti涨约3%。",
-          "url": "https://wallstreetcn.com/livenews/3029811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时32分]"
-        },
-        {
-          "title": "机构：相较于黄金，白银似乎更能受益于美国的降息",
-          "url": "https://flash.jin10.com/detail/20260102180107105800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时32分]"
-        },
-        {
-          "title": "现货黄金突破4400美元/盎司关口，日内涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3029838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时47分 ~ 22时44分]"
-        },
-        {
-          "title": "2026年首个交易日，现货黄金跳空高开，报4331.95美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260102070122171800",
+          "title": "现货黄金转跌，最低至4315.28美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260103002022069800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "现货黄金日内涨幅达0.5%，报4332.23美元/盎司。 现货白银日内涨幅达1.5%，报72.41美元/盎司。 纽约银日内涨幅达1.5%，报71.76美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029667",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时36分"
-        },
-        {
-          "title": "纽约银日内涨幅达5%，报74.14美元/盎司。 现货白银涨近5%，报74.51美元/盎司。 纽约金突破4400美元/盎司关口，日内涨1.35%。 现货黄金涨1.8%，报4388.97美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时58分 ~ 17时47分]"
-        },
-        {
-          "title": "现货黄金涨1.18%，报4361美元/盎司。现货白银涨2.6%报72.87美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3029713",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时04分]"
-        },
-        {
-          "title": "大摩：紫金黄金国际2025年初步净利润高于市场预期",
-          "url": "https://wallstreetcn.com/livenews/3029735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时02分]"
+          "time_info": "00时54分"
         },
         {
           "title": "金价飙升原因找到了",
           "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            14,
-            13
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时42分]"
-        },
-        {
-          "title": "现货黄金日内涨超1.00%，现报4362.09美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260102105719259800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时04分]"
-        },
-        {
-          "title": "CME“重拳”后白银完成技术性“冷却”，多头情绪再次反弹，现货黄金多头占比维持稳定，元旦周即将结束，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260102104930373800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时04分]"
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
           "title": "元旦购金热爆棚 金价还能涨到哪",
           "url": "https://www.toutiao.com/trending/7590749416030473782/",
           "source": "今日头条",
           "ranks": [
-            25,
-            24
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时42分]"
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
-          "title": "现货黄金重回4400美元/盎司上方，日内涨1.89%。",
-          "url": "https://flash.jin10.com/detail/20260102211634049800",
-          "source": "金十数据",
+          "title": "金价过山车有人变现近9斤黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E8%BF%87%E5%B1%B1%E8%BD%A6%E6%9C%89%E4%BA%BA%E5%8F%98%E7%8E%B0%E8%BF%919%E6%96%A4%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
           "ranks": [
-            12
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时47分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
           "title": "金价飙升原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%99%E5%8D%87%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            29
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 18,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "日本重金投高铁,遭越南变卦坑惨",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348630&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%87%8D%E9%87%91%E6%8A%95%E9%AB%98%E9%93%81%2C%E9%81%AD%E8%B6%8A%E5%8D%97%E5%8F%98%E5%8D%A6%E5%9D%91%E6%83%A8",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            9,
-            10,
-            12,
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时56分 ~ 23时42分]"
-        },
-        {
-          "title": "来论｜台湾问题是中国内政，岂容日本说三道四",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32293758",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时36分]"
-        },
-        {
-          "title": "高市闯大祸,日本经济被印度反超",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348598&amp;topic_name=%E9%AB%98%E5%B8%82%E9%97%AF%E5%A4%A7%E7%A5%B8%2C%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E8%A2%AB%E5%8D%B0%E5%BA%A6%E5%8F%8D%E8%B6%85",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时36分]"
-        },
         {
           "title": "高志凯：我们应立法制裁参拜靖国神社的日本政客",
           "url": "https://news.ifeng.com/c/8paTeZ7Hg3X",
@@ -1271,8 +87,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时58分 ~ 23时42分]"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
+        },
+        {
+          "title": "日本动漫屡次出现旭日旗731部队",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E5%B1%A1%E6%AC%A1%E5%87%BA%E7%8E%B0%E6%97%AD%E6%97%A5%E6%97%97731%E9%83%A8%E9%98%9F%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
           "title": "男子在日本皇居前突然怪叫脱衣服，被当场逮捕",
@@ -1282,85 +109,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时47分 ~ 23时42分]"
-        },
-        {
-          "title": "日本加快“再军事化”脚步",
-          "url": "https://www.toutiao.com/trending/7589348315091763251/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时56分 ~ 03时45分]"
-        },
-        {
-          "title": "围台军演日本远观 赖岳谦嘲讽高市",
-          "url": "https://www.toutiao.com/trending/7589643228983525430/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时58分 ~ 18时46分]"
-        },
-        {
-          "title": "日本为何对李在明访华如此敏感",
-          "url": "https://www.toutiao.com/trending/7590636898658291250/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            21,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时44分 ~ 23时42分]"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
           "title": "《学习时报》刊文：警惕日本军国主义在文体领域的渗透",
-          "url": "https://wallstreetcn.com/livenews/3029815",
-          "source": "华尔街见闻-快讯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32302487",
+          "source": "澎湃新闻",
           "ranks": [
-            1,
-            6,
-            29
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时46分 ~ 21时47分]"
-        },
-        {
-          "title": "警惕日本军国主义在文体领域的渗透",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%AD%A6%E6%83%95%E6%97%A5%E6%9C%AC%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E5%9C%A8%E6%96%87%E4%BD%93%E9%A2%86%E5%9F%9F%E7%9A%84%E6%B8%97%E9%80%8F%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时32分]"
-        },
-        {
-          "title": "日本确认2026年首起禽流感疫情",
-          "url": "https://wallstreetcn.com/livenews/3029802",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 19时32分]"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
           "title": "日媒：日本三大经济团体推迟访华",
@@ -1370,369 +131,242 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时47分 ~ 23时42分]"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
-          "title": "日本确认2026年首起禽流感疫情",
-          "url": "https://flash.jin10.com/detail/20260102173118585800",
-          "source": "金十数据",
+          "title": "日本重金投高铁,遭越南变卦坑惨",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348630&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%87%8D%E9%87%91%E6%8A%95%E9%AB%98%E9%93%81%2C%E9%81%AD%E8%B6%8A%E5%8D%97%E5%8F%98%E5%8D%A6%E5%9D%91%E6%83%A8",
+          "source": "贴吧",
           "ranks": [
-            4,
-            17
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时46分]"
-        },
+          "time_info": "[00时53分 ~ 00时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
         {
-          "title": "日媒：中国汽车全球销量将超日本",
-          "url": "https://www.toutiao.com/trending/7589511310690353158/",
-          "source": "今日头条",
+          "title": "特朗普手上出现淤青，称是服用阿司匹林造成的，是真的吗？为什么服用阿司匹林能造成淤青？",
+          "url": "https://www.zhihu.com/question/1990382764189508847",
+          "source": "知乎",
           "ranks": [
-            6,
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时55分]"
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
-          "title": "日本动漫屡次出现旭日旗731部队",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8A%A8%E6%BC%AB%E5%B1%A1%E6%AC%A1%E5%87%BA%E7%8E%B0%E6%97%AD%E6%97%A5%E6%97%97731%E9%83%A8%E9%98%9F%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "特朗普发文猛烈抨击乔治·克鲁尼",
+          "url": "https://www.toutiao.com/trending/7590436761429049350/",
+          "source": "今日头条",
           "ranks": [
-            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
+        },
+        {
+          "title": "特朗普推迟加征关税后，美国家具股上涨Wayfair股价涨5.3%，RH跃升7%，Williams-Sonoma上涨2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3029882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "伊朗回应特朗普：伊朗内部事务绝不允许外来干预",
+          "url": "https://wallstreetcn.com/livenews/3029871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        },
+        {
+          "title": "新加坡总理黄循财于1月2日与特朗普通了电话。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3029858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "百度官宣“昆仑芯港股IPO”，报道称“出货量排国产前三”，高盛认为百度股权值“30-110亿美元”",
+          "url": "https://wallstreetcn.com/articles/3762441",
+          "source": "华尔街见闻",
+          "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时42分]"
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
-          "title": "《学习时报》刊文：警惕日本军国主义在文体领域的渗透",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32302487",
-          "source": "澎湃新闻",
+          "title": "美国爆发史上最大公共资金欺诈案「明尼苏达儿童福利院事件」，总损失或超 90 亿美元，怎么回事？如何评价？",
+          "url": "https://www.zhihu.com/question/1990362463179403292",
+          "source": "知乎",
           "ranks": [
-            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
+        },
+        {
+          "title": "【早报】加大对科技投资！全球主权财富基金资产突破15万亿美元；AI加速全球可控核聚变商业化进程",
+          "url": "https://www.cls.cn/detail/2246252",
+          "source": "财联社热门",
+          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时42分]"
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
-          "title": "日本东京全球人口排名下跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E5%85%A8%E7%90%83%E4%BA%BA%E5%8F%A3%E6%8E%92%E5%90%8D%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
+          "title": "沃旭能源就特朗普暂停50亿美元海上风电项目提起诉讼",
+          "url": "https://wallstreetcn.com/livenews/3029856",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时01分"
-        },
-        {
-          "title": "荷兰国际：日本央行加息步伐将相当渐进",
-          "url": "https://flash.jin10.com/detail/20260102100904339800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时01分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "openai chatgpt",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
-          "url": "https://wallstreetcn.com/articles/3762439",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时58分 ~ 23时42分]"
-        },
-        {
-          "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
-          "url": "https://wallstreetcn.com/livenews/3029628",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14,
-            19,
-            21,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时56分 ~ 06时43分]"
-        },
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
           "url": "https://wallstreetcn.com/articles/3762451",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时47分 ~ 23时42分]"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
+        },
+        {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
         },
         {
           "title": "报道：OpenAI首款“AI硬件”是“智能笔”或“音频设备”，由鸿海独家代工，预计今年或明年推出",
           "url": "https://wallstreetcn.com/articles/3762454",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时47分 ~ 23时42分]"
-        },
-        {
-          "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
-          "url": "https://flash.jin10.com/detail/20260101230819093800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时57分]"
-        },
-        {
-          "title": "据The Information：OpenAI采取措施改进语音AI模型。",
-          "url": "https://flash.jin10.com/detail/20260101230736481800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时56分 ~ 02时57分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
-          "url": "https://wallstreetcn.com/articles/3762429",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时56分 ~ 16时58分]"
-        },
-        {
-          "title": "UP主解读DeepSeek梁文锋新论文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            4,
-            28,
-            29,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时01分 ~ 23时42分]"
-        },
-        {
-          "title": "DeepSeek梁文锋又发论文了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            9,
-            13,
-            11,
-            15,
-            16,
-            14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时56分 ~ 23时42分]"
-        },
-        {
-          "title": "DeepSeek开年发布新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            17,
-            15,
-            22,
-            16,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时56分 ~ 07时36分]"
-        },
-        {
-          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
-          "url": "https://www.zhihu.com/question/1990084005744362243",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时01分 ~ 16时58分]"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
         }
       ]
     },
     {
       "keyword_group": "股市",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "韩国菲律宾股市指数上涨1%，至6,115点。",
-          "url": "https://flash.jin10.com/detail/20260102133411307800",
-          "source": "金十数据",
+          "title": "非洲股市收盘播报｜周五（1月2日），南非富时/JSE非洲领先40可交易指数收涨0.23%，至10.8万点上方，本周（四个交易日）累计下跌1.26%。",
+          "url": "https://wallstreetcn.com/livenews/3029887",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            18
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 15时02分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260102180343888800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时32分]"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）全球股市指数-亚太市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260102104431874800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "金十图示：2026年01月02日（周五）全球股市指数-美洲市场（盘初）",
           "url": "https://flash.jin10.com/detail/20260102230154731800",
           "source": "金十数据",
           "ranks": [
-            11
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "金十图示：2026年01月02日（周五）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260102161150000800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时58分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
       "keyword_group": "CPU 英特尔",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "费城半导体指数涨近4%，阿斯麦涨超8%，美光科技涨超6%，Arm涨近6%，英特尔涨超4%。",
           "url": "https://wallstreetcn.com/livenews/3029864",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            8
+            22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时44分 ~ 23时42分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         },
         {
           "title": "英特尔(INTC.O)涨幅扩大至8%。",
           "url": "https://flash.jin10.com/detail/20260102230409477800",
           "source": "金十数据",
           "ranks": [
-            10
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时42分"
-        },
-        {
-          "title": "美股AI芯片股走高，英特尔(INTC.O)涨超5%，AMD(AMD.O)涨4.4%，台积电(TSM.N)涨3.8%，博通(AVGO.O)、英伟达(NVDA.O)涨近3%。",
-          "url": "https://flash.jin10.com/detail/20260102223809652800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时42分"
+          "time_info": "00时54分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌AI的逆风翻盘史",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%9A%84%E9%80%86%E9%A3%8E%E7%BF%BB%E7%9B%98%E5%8F%B2",
+          "title": "DeepSeek梁文锋又发论文了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时02分"
+          "appearance_count": 2,
+          "time_info": "[00时53分 ~ 00时54分]"
         }
       ]
     }
