@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T22:48:56.536629+08:00",
-  "total_titles_processed": 2328,
+  "generated_at": "2026-01-06T23:18:37.887691+08:00",
+  "total_titles_processed": 2395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 98,
+      "match_count": 110,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[07时16分 ~ 22时48分]"
+          "appearance_count": 33,
+          "time_info": "[07时16分 ~ 23时18分]"
         },
         {
           "title": "段永平再晒苹果持仓，14 年累计收益率超 16 倍，狂赚超 3400 万美元，具有哪些参考性？",
@@ -42,11 +42,12 @@
           "url": "https://www.toutiao.com/trending/7592183736104390190/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时48分]"
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时18分]"
         },
         {
           "title": "沙特将2月份面向美国的阿拉伯轻质原油官方售价定为较阿格斯含硫原油均价升水2.20美元/桶。",
@@ -433,6 +434,17 @@
           "time_info": "06时45分"
         },
         {
+          "title": "美元涨势受限于降息预期 市场静候就业报告",
+          "url": "https://flash.jin10.com/detail/20260106230128265800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "伦铜期货涨至13090美元/吨上方，再创新高。",
           "url": "https://wallstreetcn.com/livenews/3031226",
           "source": "华尔街见闻-快讯",
@@ -492,6 +504,18 @@
           "time_info": "[19时16分 ~ 19时40分]"
         },
         {
+          "title": "现货白银日内涨幅达4.0%，报79.7美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3031746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时18分]"
+        },
+        {
           "title": "摩根大通将富国银行目标价从92美元上调至99美元，看好净利息收入增长。",
           "url": "https://wallstreetcn.com/livenews/3031670",
           "source": "华尔街见闻-快讯",
@@ -509,7 +533,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -641,17 +665,6 @@
           "time_info": "22时19分"
         },
         {
-          "title": "现货白银日内涨幅达4.0%，报79.7美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3031746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "保诚集团（Prudential）将启动最高达12亿美元的股票回购计划。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3031452",
           "source": "华尔街见闻-快讯",
@@ -746,6 +759,17 @@
           "time_info": "04时46分"
         },
         {
+          "title": "沪镍主力合约日内大涨6.00%，现报144990.00元/吨。 LME期铅日内涨幅达2.00%，现报2064.03美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3031755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "现货钯金日内大涨6.00%，现报1730.38美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260106005110635800",
           "source": "金十数据",
@@ -779,6 +803,17 @@
           "time_info": "19时40分"
         },
         {
+          "title": "Kalshi年化成交额达到1000亿美元。（NYT Dealbook）",
+          "url": "https://wallstreetcn.com/livenews/3031754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "新加坡元兑美元持续走高，触及1.2796，为2025年9月18日以来高位。",
           "url": "https://flash.jin10.com/detail/20260106105130772800",
           "source": "金十数据",
@@ -801,6 +836,17 @@
           "time_info": "18时49分"
         },
         {
+          "title": "现货白银突破80美元/盎司关口，涨幅超过4.3%。 纽约金日内涨幅达1.0%，报4496.1美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3031753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "纽约期银日内暴涨9.00%，现报77.41美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260106005025310800",
           "source": "金十数据",
@@ -810,6 +856,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "现货铂金涨超5%，至2396.52美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106225618680800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "黎巴嫩储户迎偿付曙光 政府批准10万美元现金偿付草案",
@@ -845,6 +902,17 @@
           "time_info": "20时35分"
         },
         {
+          "title": "现货钯金向上触及1800美元/盎司，日内涨5.59%。",
+          "url": "https://flash.jin10.com/detail/20260106225319506800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
           "title": "现货铂金涨近3%，报2339.20美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260106103523677800",
           "source": "金十数据",
@@ -865,6 +933,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "沪镍主力合约日内大涨6.00%，现报144990.00元/吨。伦铅日内涨幅达2.00%，现报2064.03美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260106225155536800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "SanDisk（SNDK）上涨14.47%，刷新盘中历史高位至313.74美元，盘中市值超过450亿美元。 半导体概念股中，Wolfspeed涨10.1%，微芯科技涨7.35%，AMKR涨6.8%，德州仪器涨5.6%，恩智浦涨5.6%，英特格、意法半导体ADR涨超5%，日月光半导体、安森美半导体、亚德诺涨超4%。 AMD则跌1.9%，相干公司COHR跌3.2%，安费诺跌6.2%。",
+          "url": "https://wallstreetcn.com/livenews/3031748",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "摩根士丹利：预计布伦特原油在2026年第二季度将跌至50-60美元的中间区域，然后在第四季度回升至约60美元/桶。",
@@ -917,7 +1007,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -942,6 +1032,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "现货白银涨破80美元",
+          "url": "https://flash.jin10.com/detail/20260106224822226800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "现货白银日内涨幅达6.0%，报77.02美元/盎司。",
@@ -975,6 +1076,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
+        },
+        {
+          "title": "纽约期金日内涨超1.00%，现报4496.20美元/盎司。纽约期银日内大涨4.00%，现报79.74美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106224605108800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "纽约金日内涨幅达3.0%，报4461美元/盎司。",
@@ -1060,7 +1172,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1071,7 +1183,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1162,6 +1274,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "王者荣耀2025年营收超20亿美元",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%802025%E5%B9%B4%E8%90%A5%E6%94%B6%E8%B6%8520%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "现货白银日内大涨4.00%，现报79.70美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106223713184800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
@@ -1239,8 +1373,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[13时23分 ~ 22时48分]"
+          "appearance_count": 26,
+          "time_info": "[13时23分 ~ 23时18分]"
         },
         {
           "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
@@ -1267,8 +1401,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[18时18分 ~ 22时48分]"
+          "appearance_count": 15,
+          "time_info": "[18时18分 ~ 23时18分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -1323,11 +1457,12 @@
             18,
             13,
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[13时48分 ~ 22时48分]"
+          "appearance_count": 22,
+          "time_info": "[13时48分 ~ 23时18分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -1365,8 +1500,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 49,
-          "time_info": "[00时22分 ~ 22时48分]"
+          "appearance_count": 50,
+          "time_info": "[00时22分 ~ 23时18分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -1500,6 +1635,19 @@
           "time_info": "[02时55分 ~ 04时46分]"
         },
         {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时18分]"
+        },
+        {
           "title": "丹麦首相警告特朗普涉格陵兰岛言论",
           "url": "https://www.toutiao.com/trending/7592114928259285042/",
           "source": "今日头条",
@@ -1545,18 +1693,6 @@
             13,
             15,
             19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时48分]"
-        },
-        {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            17
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -2254,7 +2390,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "中方禁止两用物项对日本军事用户出口",
@@ -2265,8 +2401,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[16时54分 ~ 22时48分]"
+          "appearance_count": 18,
+          "time_info": "[16时54分 ~ 23时18分]"
         },
         {
           "title": "加强两用物项对日本出口管制",
@@ -2277,8 +2413,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[17时22分 ~ 22时48分]"
+          "appearance_count": 17,
+          "time_info": "[17时22分 ~ 23时18分]"
         },
         {
           "title": "中方：禁止所有两用物项对日本军事用途出口",
@@ -2291,8 +2427,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[17时22分 ~ 22时48分]"
+          "appearance_count": 17,
+          "time_info": "[17时22分 ~ 23时18分]"
         },
         {
           "title": "梅事变疣事,日本梅毒扩散加剧",
@@ -2304,8 +2440,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[17时22分 ~ 22时48分]"
+          "appearance_count": 17,
+          "time_info": "[17时22分 ~ 23时18分]"
         },
         {
           "title": "商务部表示为维护国家安全和利益，决定加强两用物项对日本出口管制，什么是两用物项？此举会带来哪些影响？",
@@ -2317,8 +2453,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[17时48分 ~ 22时48分]"
+          "appearance_count": 16,
+          "time_info": "[17时48分 ~ 23时18分]"
         },
         {
           "title": "加强两用物项对日本出口管制",
@@ -2329,8 +2465,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[16时24分 ~ 22时48分]"
+          "appearance_count": 19,
+          "time_info": "[16时24分 ~ 23时18分]"
         },
         {
           "title": "商务部：加强两用物项对日本出口管制",
@@ -2344,8 +2480,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[18时48分 ~ 22时48分]"
+          "appearance_count": 13,
+          "time_info": "[18时48分 ~ 23时18分]"
         },
         {
           "title": "禁止所有两用物项对日本军事用途出口",
@@ -2373,11 +2509,12 @@
             2,
             27,
             22,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[18时18分 ~ 22时48分]"
+          "appearance_count": 15,
+          "time_info": "[18时18分 ~ 23时18分]"
         },
         {
           "title": "专家回应日本梅毒扩散",
@@ -2421,8 +2558,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[16时24分 ~ 22时48分]"
+          "appearance_count": 19,
+          "time_info": "[16时24分 ~ 23时18分]"
         },
         {
           "title": "日本梅毒感染扩散",
@@ -2452,11 +2589,12 @@
             22,
             25,
             29,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[17时22分 ~ 22时48分]"
+          "appearance_count": 17,
+          "time_info": "[17时22分 ~ 23时18分]"
         },
         {
           "title": "日本流行梅毒妆",
@@ -2469,8 +2607,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时34分 ~ 22时48分]"
+          "appearance_count": 7,
+          "time_info": "[20时34分 ~ 23时18分]"
         },
         {
           "title": "长泽雅美宣布结婚，日本「四大台柱」女演员全部成家，这宣告着一个时代的落幕吗？",
@@ -2596,6 +2734,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时46分 ~ 16时24分]"
+        },
+        {
+          "title": "日本加强对色情行业监督",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8A%A0%E5%BC%BA%E5%AF%B9%E8%89%B2%E6%83%85%E8%A1%8C%E4%B8%9A%E7%9B%91%E7%9D%A3%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时18分]"
         },
         {
           "title": "政府小组成员敦促日本央行将通胀预期锚定在2%左右",
@@ -2908,15 +3058,15 @@
           "time_info": "[16时24分 ~ 16时54分]"
         },
         {
-          "title": "日本加强对色情行业监督",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8A%A0%E5%BC%BA%E5%AF%B9%E8%89%B2%E6%83%85%E8%A1%8C%E4%B8%9A%E7%9B%91%E7%9D%A3%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "日本未能确认的两架战斗机是歼-20吗",
+          "url": "https://www.toutiao.com/trending/7592214950454496804/",
+          "source": "今日头条",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时48分"
+          "time_info": "23时18分"
         },
         {
           "title": "日本经济团体联合会会长筒井义信：希望加薪势头稳固，期待未来多年持续加薪。",
@@ -3098,7 +3248,7 @@
     },
     {
       "keyword_group": "显卡 英伟达",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "英伟达发布DLSS 4.5",
@@ -3109,8 +3259,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[16时24分 ~ 22时48分]"
+          "appearance_count": 19,
+          "time_info": "[16时24分 ~ 23时18分]"
         },
         {
           "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
@@ -3123,8 +3273,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[09时16分 ~ 22时48分]"
+          "appearance_count": 31,
+          "time_info": "[09时16分 ~ 23时18分]"
         },
         {
           "title": "如何看待英伟达 CEO 黄仁勋在 2026 CES 上的演讲，有哪些信息值得关注？",
@@ -3367,7 +3517,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -3382,6 +3532,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时14分 ~ 12时14分]"
+        },
+        {
+          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
+          "url": "https://wallstreetcn.com/articles/3762641",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时18分]"
         },
         {
           "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
@@ -3479,17 +3641,6 @@
           "time_info": "[06时17分 ~ 06时45分]"
         },
         {
-          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
-          "url": "https://wallstreetcn.com/articles/3762641",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "英伟达揭晓新一代AI服务器系统 盘前止跌回升",
           "url": "https://flash.jin10.com/detail/20260106171719849800",
           "source": "金十数据",
@@ -3499,6 +3650,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "数据中心冷却概念股普跌，受英伟达CEO言论影响",
+          "url": "https://wallstreetcn.com/livenews/3031747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "英伟达CEO黄仁勋在分析师会议上表示，市场需求确实十分旺盛。",
@@ -3543,12 +3705,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时23分"
+        },
+        {
+          "title": "小摩看好2026年半导体前景 英伟达在机器人赛道更胜一筹",
+          "url": "https://flash.jin10.com/detail/20260106223853808800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "市场对委内瑞拉变局的反应：油价“不涨反跌”，黄金重回4400，银价飙涨5%",
@@ -3649,6 +3822,18 @@
           "time_info": "[15时27分 ~ 17时48分]"
         },
         {
+          "title": "金价大涨 黄金珠宝行业面临分化",
+          "url": "https://www.toutiao.com/trending/7592189155237789750/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时18分 ~ 23时18分]"
+        },
+        {
           "title": "中国央行：加强对银行间债券市场、货币市场、外汇市场、票据市场、黄金市场及有关衍生品的监督管理",
           "url": "https://wallstreetcn.com/livenews/3031592",
           "source": "华尔街见闻-快讯",
@@ -3713,18 +3898,6 @@
           "time_info": "[02时55分 ~ 03时40分]"
         },
         {
-          "title": "金价大涨 黄金珠宝行业面临分化",
-          "url": "https://www.toutiao.com/trending/7592189155237789750/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时18分 ~ 22时48分]"
-        },
-        {
           "title": "金十图示：2026年01月06日（周二）上海金午盘价为1002.84元/克，较国际金价(1001.81元/克)，高1.03元/克",
           "url": "https://flash.jin10.com/detail/20260106150838647800",
           "source": "金十数据",
@@ -3780,6 +3953,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "现货黄金突破4490美元/盎司，日内涨0.93%。",
+          "url": "https://flash.jin10.com/detail/20260106230044605800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
         },
         {
           "title": "周一（1月5日）纽约尾盘，现货黄金涨2.64%，报4446.50美元/盎司。 COMEX黄金期货涨2.96%，报4457.60美元/盎司。",
@@ -3851,6 +4035,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时27分 ~ 14时58分]"
+        },
+        {
+          "title": "张凯毅起诉黄金凤冠造谣者",
+          "url": "https://www.douyin.com/hot/2359395",
+          "source": "抖音",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时18分]"
         },
         {
           "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
@@ -3928,18 +4124,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
-          "title": "张凯毅起诉黄金凤冠造谣者",
-          "url": "https://www.douyin.com/hot/2359395",
-          "source": "抖音",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -4045,7 +4230,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         }
@@ -4067,8 +4252,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[11时14分 ~ 22时48分]"
+          "appearance_count": 30,
+          "time_info": "[11时14分 ~ 23时18分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -4148,8 +4333,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时34分 ~ 22时48分]"
+          "appearance_count": 7,
+          "time_info": "[20时34分 ~ 23时18分]"
         },
         {
           "title": "1盒内存条堪比上海1套房",
@@ -4160,8 +4345,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 22时48分]"
+          "appearance_count": 5,
+          "time_info": "[21时34分 ~ 23时18分]"
         },
         {
           "title": "蔚来李斌：2026年汽车行业最大的成本压力是内存涨价",
@@ -4204,6 +4389,58 @@
       ]
     },
     {
+      "keyword_group": "股市",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月05日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260106050529799800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 06时45分]"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260106230033267800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时18分"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260106161147896800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时24分"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260106004803477800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -4238,52 +4475,12 @@
           "url": "https://wallstreetcn.com/livenews/3031737",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "股市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月05日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260106050529799800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21,
-            29
+            12,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时42分 ~ 06时45分]"
-        },
-        {
-          "title": "金十图示：2026年01月06日（周二）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260106161147896800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时24分"
-        },
-        {
-          "title": "金十图示：2026年01月06日（周二）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260106004803477800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时18分]"
         }
       ]
     },
