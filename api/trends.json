@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T09:16:47.380050+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-01-06T11:14:22.174177+08:00",
+  "total_titles_processed": 1079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 63,
       "titles": [
         {
           "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
@@ -85,8 +85,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时22分 ~ 09时16分]"
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 11时14分]"
         },
         {
           "title": "特朗普接连向多国发出威胁",
@@ -323,9 +323,21 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "墨总统回应特朗普：合作可以干预不行",
+          "url": "https://www.toutiao.com/trending/7591151766478290986/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 11时14分]"
         },
         {
           "title": "丹麦首相表示，她认真对待美国总统特朗普关于格陵兰岛的威胁。",
@@ -388,15 +400,15 @@
           "time_info": "[07时16分 ~ 07时41分]"
         },
         {
-          "title": "墨总统回应特朗普：合作可以干预不行",
-          "url": "https://www.toutiao.com/trending/7591151766478290986/",
-          "source": "今日头条",
+          "title": "美视马杜罗案高度敏感，批评者：想象可否绑架特朗普",
+          "url": "https://news.ifeng.com/c/8pgdYCJGTs1",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "11时14分"
         },
         {
           "title": "美国众议院议长约翰逊：委内瑞拉发生的事情并非政权更迭；特朗普采取任何行动保护美国人都是正确的。",
@@ -405,9 +417,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
+          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 11时14分]"
         },
         {
           "title": "特朗普政府大幅削减儿童疫苗接种计划",
@@ -457,6 +480,29 @@
           "time_info": "[06时17分 ~ 06时45分]"
         },
         {
+          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
+          "url": "https://www.zhihu.com/question/1991570437310740440",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 11时14分]"
+        },
+        {
+          "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
+          "url": "https://www.cls.cn/detail/2248515",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 11时14分]"
+        },
+        {
           "title": "特朗普一天之内威胁多国",
           "url": "https://www.toutiao.com/trending/7591841454150913599/",
           "source": "今日头条",
@@ -466,6 +512,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 00时51分]"
+        },
+        {
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "特朗普考虑补贴石油公司重建委内瑞拉",
@@ -479,6 +536,17 @@
           "time_info": "07时41分"
         },
         {
+          "title": "特朗普想“一口闷”委石油，美巨头却“不给面子”",
+          "url": "https://news.ifeng.com/c/8pgcXc4Nym2",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "美国驻联合国特使：美国总统特朗普给了外交一个机会，他为马杜罗提供了多个退路，他试图缓和局势。",
           "url": "https://flash.jin10.com/detail/20260106001342582800",
           "source": "金十数据",
@@ -488,17 +556,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
-          "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
         },
         {
           "title": "据NBC：美国总统特朗普表示，他无需国会授权即可将美军重新派往委内瑞拉。",
@@ -529,7 +586,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -545,37 +602,26 @@
           "time_info": "07时41分"
         },
         {
-          "title": "特朗普向委内瑞拉、哥伦比亚、古巴、伊朗、墨西哥、丹麦 6 国发出威胁，怎样解读？美国会出兵更多国家吗？",
-          "url": "https://www.zhihu.com/question/1991570437310740440",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
-          "url": "https://www.cls.cn/detail/2248515",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
           "title": "特朗普：美国将深度介入委内瑞拉",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%B7%B1%E5%BA%A6%E4%BB%8B%E5%85%A5%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89",
           "source": "百度热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
+        },
+        {
+          "title": "中方回应特朗普威胁古巴等国",
+          "url": "https://www.douyin.com/hot/2358268",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "美国驻加拉加斯大使馆的一位高级外交官：我们正在做准备工作，以便在特朗普总统做出相关决定的情况下能够重新开放。",
@@ -633,6 +679,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "委内瑞拉反对派领导人马查多：自十月以来，我尚未与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260106103144934800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "土耳其总统埃尔多安：我在电话中告诉特朗普，委内瑞拉绝不能被拖入混乱之中。",
           "url": "https://flash.jin10.com/detail/20260106010835041800",
           "source": "金十数据",
@@ -642,6 +699,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "特朗普：美国将对委进行深度介入",
+          "url": "https://www.toutiao.com/trending/7591121580479479854/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我对伊朗的立场与特朗普一致，我们绝不允许伊朗进行铀浓缩活动。",
@@ -661,7 +729,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -675,12 +743,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "ICC原检察官：特朗普犯了“侵略罪”",
+          "url": "https://www.toutiao.com/trending/7591104646660948011/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 46,
+      "match_count": 51,
       "titles": [
         {
           "title": "段永平再晒苹果持仓，14 年累计收益率超 16 倍，狂赚超 3400 万美元，具有哪些参考性？",
@@ -699,6 +778,18 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时22分 ~ 07时41分]"
+        },
+        {
+          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 11时14分]"
         },
         {
           "title": "沙特将2月份面向美国的阿拉伯轻质原油官方售价定为较阿格斯含硫原油均价升水2.20美元/桶。",
@@ -794,18 +885,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时18分 ~ 05时17分]"
-        },
-        {
-          "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
-          "url": "https://wallstreetcn.com/articles/3762559",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时16分 ~ 09时16分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了17个对手方的64.85亿美元。",
@@ -1015,7 +1094,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1160,6 +1239,17 @@
           "time_info": "01时19分"
         },
         {
+          "title": "新加坡元兑美元持续走高，触及1.2796，为2025年9月18日以来高位。",
+          "url": "https://flash.jin10.com/detail/20260106105130772800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "纽约期银日内暴涨9.00%，现报77.41美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260106005025310800",
           "source": "金十数据",
@@ -1169,6 +1259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
+        },
+        {
+          "title": "现货铂金涨近3%，报2339.20美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106103523677800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "现货白银日内涨幅达6.0%，报77.02美元/盎司。",
@@ -1210,7 +1311,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1221,7 +1322,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1235,6 +1336,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "现货钯金日内涨幅扩大至2.00%，现报1739.26美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106102829007800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "纽约期银日内涨幅达1.00%，现报77.43美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260106102803282800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "新加坡元兑美元上涨0.1%至1.2810，为2025年9月19日以来最强水位。",
+          "url": "https://wallstreetcn.com/livenews/3031274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "LME锡主力合约涨幅扩大至6%，现报42750.0美元/吨。",
@@ -1251,7 +1385,7 @@
     },
     {
       "keyword_group": "显卡 英伟达",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "英伟达(NVDA.O)：微软的“Fairwater”人工智能超级工厂将扩展至配备数十万块英伟达Vera Rubin超级芯片。",
@@ -1395,6 +1529,18 @@
           "time_info": "07时41分"
         },
         {
+          "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
+          "url": "https://wallstreetcn.com/articles/3762610",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时16分 ~ 11时14分]"
+        },
+        {
           "title": "英伟达为（能够）“思考”类交通工具推出Alpamayo模型。",
           "url": "https://wallstreetcn.com/livenews/3031109",
           "source": "华尔街见闻-快讯",
@@ -1536,15 +1682,15 @@
           "time_info": "[06时17分 ~ 06时45分]"
         },
         {
-          "title": "英伟达发布新一代Rubin平台，推理成本较Blackwell降10倍，已全面投产拟下半年发货",
-          "url": "https://wallstreetcn.com/articles/3762610",
-          "source": "华尔街见闻",
+          "title": "禾赛被英伟达选定为激光雷达合作伙伴，股价拉升",
+          "url": "https://wallstreetcn.com/livenews/3031306",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "11时14分"
         },
         {
           "title": "英伟达CEO黄仁勋在分析师会议上表示，市场需求确实十分旺盛。",
@@ -1553,7 +1699,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1564,7 +1710,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1575,7 +1721,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         }
@@ -1583,7 +1729,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "市场对委内瑞拉变局的反应：油价“不涨反跌”，黄金重回4400，银价飙涨5%",
@@ -1618,8 +1764,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时45分 ~ 09时16分]"
+          "appearance_count": 5,
+          "time_info": "[06时45分 ~ 11时14分]"
         },
         {
           "title": "阿塞拜疆总统坚信金价上涨 国家基金大赚超100亿美元",
@@ -1666,7 +1812,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时16分"
         },
@@ -1740,6 +1886,237 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "瑞银上调金价目标至5000美元",
+          "url": "https://www.toutiao.com/trending/7592024699937230379/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "长泽雅美宣布结婚，日本「四大台柱」女演员全部成家，这宣告着一个时代的落幕吗？",
+          "url": "https://www.zhihu.com/question/1990116916128412469",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时22分 ~ 07时41分]"
+        },
+        {
+          "title": "李在明：韩中曾共同抗击日本侵略",
+          "url": "https://www.toutiao.com/trending/7590792042998186047/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时51分]"
+        },
+        {
+          "title": "日经225指数早盘收涨0.7%，报52191.58点。日本东证指数早盘收涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3031294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：联合国宪章必须得到尊重。",
+          "url": "https://flash.jin10.com/detail/20260106103451699800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "日本岛根县连发两次5级以上余震",
+          "url": "https://wallstreetcn.com/livenews/3031292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "日本首相高市早苗：将设立联络办公室评估地震灾情。",
+          "url": "https://flash.jin10.com/detail/20260106103324627800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "30年期日本国债收益率上行1.5BP，至3.470%，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3031204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：没有核设施异常的报告。不对委内瑞拉问题发表评论，没有直接参与其中。联合国宪章需要被尊重。",
+          "url": "https://wallstreetcn.com/livenews/3031281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "日本10年期国债收益率创27年新高",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC10%E5%B9%B4%E6%9C%9F%E5%9B%BD%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E5%88%9B27%E5%B9%B4%E6%96%B0%E9%AB%98%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "日本梅毒扩散",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "日本东证指数刷新历史新高。",
+          "url": "https://flash.jin10.com/detail/20260106080118357800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "两年期日本国债收益率下行1.5BP至1.175%。",
+          "url": "https://wallstreetcn.com/livenews/3031270",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai chatgpt",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI家务机器人售价2万美元",
+          "url": "https://wallstreetcn.com/livenews/3031066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            13,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时18分 ~ 05时17分]"
+        },
+        {
+          "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3031108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时42分 ~ 06时45分]"
+        },
+        {
+          "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3031031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 02时26分]"
+        },
+        {
+          "title": "OpenAI支持的公司推家务机器人 售价2万美元",
+          "url": "https://flash.jin10.com/detail/20260106063634804800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 07时41分]"
+        },
+        {
+          "title": "物理AI的ChatGPT时刻！英伟达“内驱”无人驾驶汽车将至，将于一季度在美国上路",
+          "url": "https://wallstreetcn.com/articles/3762605",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
+          "url": "https://www.cls.cn/detail/2248633",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         }
       ]
     },
@@ -1817,123 +2194,30 @@
       ]
     },
     {
-      "keyword_group": "openai chatgpt",
-      "match_count": 5,
+      "keyword_group": "DeepSeek",
+      "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI家务机器人售价2万美元",
-          "url": "https://wallstreetcn.com/livenews/3031066",
-          "source": "华尔街见闻-快讯",
+          "title": "黄仁勋新年第一场演讲提了DeepSeek",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            13,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时18分 ~ 05时17分]"
-        },
-        {
-          "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
-          "url": "https://wallstreetcn.com/livenews/3031108",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时42分 ~ 06时45分]"
-        },
-        {
-          "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
-          "url": "https://wallstreetcn.com/livenews/3031031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 02时26分]"
-        },
-        {
-          "title": "OpenAI支持的公司推家务机器人 售价2万美元",
-          "url": "https://flash.jin10.com/detail/20260106063634804800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时16分 ~ 07时41分]"
-        },
-        {
-          "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
-          "url": "https://www.cls.cn/detail/2248633",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "长泽雅美宣布结婚，日本「四大台柱」女演员全部成家，这宣告着一个时代的落幕吗？",
-          "url": "https://www.zhihu.com/question/1990116916128412469",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 07时41分]"
-        },
-        {
-          "title": "李在明：韩中曾共同抗击日本侵略",
-          "url": "https://www.toutiao.com/trending/7590792042998186047/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            15
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时51分]"
+          "time_info": "[09时16分 ~ 11时14分]"
         },
         {
-          "title": "30年期日本国债收益率上行1.5BP，至3.470%，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3031204",
-          "source": "华尔街见闻-快讯",
+          "title": "大白话解读DeepSeek论文",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%A7%E7%99%BD%E8%AF%9D%E8%A7%A3%E8%AF%BBDeepSeek%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
           "ranks": [
-            19
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时16分"
-        },
-        {
-          "title": "日本东证指数刷新历史新高。",
-          "url": "https://flash.jin10.com/detail/20260106080118357800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "11时14分"
         }
       ]
     },
@@ -1996,23 +2280,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄仁勋新年第一场演讲提了DeepSeek",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%B0%E5%B9%B4%E7%AC%AC%E4%B8%80%E5%9C%BA%E6%BC%94%E8%AE%B2%E6%8F%90%E4%BA%86DeepSeek",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时16分"
         }
       ]
     },
