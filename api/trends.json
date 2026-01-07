@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T18:19:53.491197+08:00",
-  "total_titles_processed": 1886,
+  "generated_at": "2026-01-07T18:49:13.003520+08:00",
+  "total_titles_processed": 1972,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 93,
+      "match_count": 95,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -574,6 +574,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "以色列财政部：成功完成了60亿美元的美元债券公开发行，吸引了国际社会的极大兴趣。",
+          "url": "https://flash.jin10.com/detail/20260107184550934800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "特朗普政府正停止向五个由民主党领导的州提供100亿美元的公共援助资金。",
           "url": "https://flash.jin10.com/detail/20260107005331579800",
           "source": "金十数据",
@@ -1012,6 +1023,17 @@
           "time_info": "11时14分"
         },
         {
+          "title": "香港金管局：2025年12月底官方外汇储备资产为4279亿美元",
+          "url": "https://wallstreetcn.com/livenews/3032363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
+        },
+        {
           "title": "美元兑瑞郎USD/CHF日内涨幅达0.50%，现报0.7952。",
           "url": "https://flash.jin10.com/detail/20260106233512920800",
           "source": "金十数据",
@@ -1136,7 +1158,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 94,
       "titles": [
         {
           "title": "特朗普为何恨他入骨？",
@@ -1227,8 +1249,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时16分 ~ 18时19分]"
+          "appearance_count": 21,
+          "time_info": "[09时16分 ~ 18时49分]"
         },
         {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
@@ -1276,8 +1298,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时14分 ~ 18时19分]"
+          "appearance_count": 19,
+          "time_info": "[11时14分 ~ 18时49分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -1339,8 +1361,19 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时24分 ~ 18时49分]"
+        },
+        {
+          "title": "“除掉马杜罗”，特朗普早就下了决心",
+          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时24分 ~ 18时19分]"
+          "time_info": "[17时24分 ~ 18时49分]"
         },
         {
           "title": "哥伦比亚就特朗普言论向美国发出外交照会",
@@ -1371,15 +1404,17 @@
           "time_info": "[02时53分 ~ 05时17分]"
         },
         {
-          "title": "“除掉马杜罗”，特朗普早就下了决心",
-          "url": "https://news.ifeng.com/c/8pitP5OMhKi",
-          "source": "凤凰网",
+          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
+          "url": "https://wallstreetcn.com/articles/3762696",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 18时49分]"
         },
         {
           "title": "美国参议院Rick Scott：已经与委内瑞拉反对派人物马里亚·科里纳·马查多（María Corina Machado）对话。 Machado感谢总统特朗普对委总统马杜罗采取的行动。",
@@ -1448,19 +1483,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时47分 ~ 03时14分]"
-        },
-        {
-          "title": "WTI原油短线走低，特朗普称委内瑞拉将向美国交付3000-5000万桶石油",
-          "url": "https://wallstreetcn.com/articles/3762696",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 18时19分]"
         },
         {
           "title": "美参院民主党领袖批特朗普对委行动",
@@ -1643,6 +1665,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时17分 ~ 06时17分]"
+        },
+        {
+          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 18时49分]"
         },
         {
           "title": "特朗普敲打印度",
@@ -2083,17 +2116,6 @@
           "time_info": "00时22分"
         },
         {
-          "title": "美称西半球是“我们的半球”、特朗普不会容忍安全威胁，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32334443",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "美国总统特朗普：我老婆讨厌我跳舞。她跟我说，你能想象罗斯福（FDR）跳舞吗？",
           "url": "https://flash.jin10.com/detail/20260106233914098800",
           "source": "金十数据",
@@ -2180,6 +2202,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-07）",
+          "url": "https://flash.jin10.com/detail/20260107180801342800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时49分"
         },
         {
           "title": "美国总统特朗普：F-35和阿帕奇直升机制造时间太长。",
@@ -2372,8 +2405,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时15分 ~ 18时19分]"
+          "appearance_count": 18,
+          "time_info": "[12时15分 ~ 18时49分]"
         },
         {
           "title": "高市早苗暗示或武力介入台海，中方：禁止向日本军事用户出口两用物项",
@@ -2405,8 +2438,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[00时22分 ~ 18时19分]"
+          "appearance_count": 42,
+          "time_info": "[00时22分 ~ 18时49分]"
         },
         {
           "title": "禁止两用物项对日本军事用户出口",
@@ -2500,11 +2533,12 @@
           "url": "https://news.ifeng.com/c/8pim8n4QlIk",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时24分 ~ 18时19分]"
+          "appearance_count": 8,
+          "time_info": "[16时24分 ~ 18时49分]"
         },
         {
           "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
@@ -2516,8 +2550,35 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时24分 ~ 18时49分]"
+        },
+        {
+          "title": "中方回应日本就出口管制提出抗议",
+          "url": "https://www.toutiao.com/trending/7591832562840764459/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时24分 ~ 18时19分]"
+          "time_info": "[17时24分 ~ 18时49分]"
+        },
+        {
+          "title": "中国留学生讲述日本梅毒扩散乱象",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            19,
+            9,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 18时49分]"
         },
         {
           "title": "中国对日本一剑封喉",
@@ -2529,32 +2590,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时57分 ~ 15时46分]"
-        },
-        {
-          "title": "中方回应日本就出口管制提出抗议",
-          "url": "https://www.toutiao.com/trending/7591832562840764459/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 18时19分]"
-        },
-        {
-          "title": "中国留学生讲述日本梅毒扩散乱象",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E4%B9%B1%E8%B1%A1%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            19,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 18时19分]"
         },
         {
           "title": "对日本进口二氯二氢硅反倾销调查",
@@ -2581,6 +2616,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时26分 ~ 14时27分]"
+        },
+        {
+          "title": "中国留学生讲述“日本梅毒扩散”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E2%80%9C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 18时49分]"
         },
         {
           "title": "日本本州岛5.9级地震",
@@ -2637,7 +2684,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -2756,17 +2803,6 @@
           "time_info": "15时46分"
         },
         {
-          "title": "中国留学生讲述“日本梅毒扩散”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%AE%B2%E8%BF%B0%E2%80%9C%E6%97%A5%E6%9C%AC%E6%A2%85%E6%AF%92%E6%89%A9%E6%95%A3%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
           "title": "日本12月服务业PMI终值 51.6，前值52.5。",
           "url": "https://flash.jin10.com/detail/20260107083002575800",
           "source": "金十数据",
@@ -2825,7 +2861,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
@@ -2869,8 +2905,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时22分 ~ 18时19分]"
+          "appearance_count": 23,
+          "time_info": "[00时22分 ~ 18时49分]"
         },
         {
           "title": "金价大涨 黄金珠宝行业面临分化",
@@ -2904,6 +2940,19 @@
           "time_info": "[09时16分 ~ 14时27分]"
         },
         {
+          "title": "央行连续14个月增持黄金",
+          "url": "https://www.douyin.com/hot/2360100",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时49分 ~ 18时49分]"
+        },
+        {
           "title": "现货黄金日内涨幅达1.0%，报4493.47美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3031840",
           "source": "华尔街见闻-快讯",
@@ -2928,18 +2977,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时24分 ~ 05时42分]"
-        },
-        {
-          "title": "央行连续14个月增持黄金",
-          "url": "https://www.douyin.com/hot/2360100",
-          "source": "抖音",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时49分 ~ 18时19分]"
         },
         {
           "title": "马杜罗执政初期 委内瑞拉向瑞士运送了价值52亿美元的黄金",
@@ -3083,6 +3120,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 01时20分]"
+        },
+        {
+          "title": "第一次见价值4万的黄金美甲",
+          "url": "https://s.weibo.com/weibo?q=%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E4%BB%B7%E5%80%BC4%E4%B8%87%E7%9A%84%E9%BB%84%E9%87%91%E7%BE%8E%E7%94%B2&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时48分 ~ 18时49分]"
         },
         {
           "title": "现货黄金重回4500美元 有望再战新高",
@@ -3258,8 +3306,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时14分 ~ 18时19分]"
+          "appearance_count": 19,
+          "time_info": "[11时14分 ~ 18时49分]"
         },
         {
           "title": "英伟达押注物理AI背后逻辑",
@@ -3298,11 +3346,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83DLSS%204.5",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            21,
+            27
           ],
           "is_new": false,
-          "appearance_count": 40,
-          "time_info": "[00时22分 ~ 18时19分]"
+          "appearance_count": 42,
+          "time_info": "[00时22分 ~ 18时49分]"
         },
         {
           "title": "英伟达CEO黄仁勋：公司在Groq（技术许可）协议中聘请（对方的）工程师。",
@@ -3650,11 +3699,26 @@
             10,
             12,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时24分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[15时24分 ~ 18时49分]"
+        },
+        {
+          "title": "大摩：内存价格飙升冲击安卓和PC",
+          "url": "https://www.toutiao.com/trending/7592491334930271787/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            9,
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时24分 ~ 18时49分]"
         },
         {
           "title": "内存条单价逼近5万元，一盒价格堪比上海一套房",
@@ -3669,19 +3733,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时15分 ~ 13时49分]"
-        },
-        {
-          "title": "大摩：内存价格飙升冲击安卓和PC",
-          "url": "https://www.toutiao.com/trending/7592491334930271787/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            9,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 18时19分]"
         }
       ]
     },
