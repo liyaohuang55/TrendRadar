@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-07T20:35:54.679127+08:00",
-  "total_titles_processed": 2148,
+  "generated_at": "2026-01-07T21:37:33.011193+08:00",
+  "total_titles_processed": 2247,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 105,
+      "match_count": 111,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -483,6 +483,17 @@
           "time_info": "16时54分"
         },
         {
+          "title": "美、布两油短线下挫超0.5美元，分别报56.72美元/桶和60.68美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260107212950352800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
           "title": "现货白银盘中最高涨至82.01美元/盎司，日内涨近1%。",
           "url": "https://wallstreetcn.com/livenews/3031949",
           "source": "华尔街见闻-快讯",
@@ -545,7 +556,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -606,6 +617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "如何看待媒体报道称中国正审查 Meta 20 亿美元收购 Manus 的交易是否存在违规行为？",
+          "url": "https://www.zhihu.com/question/1992184027524850035",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "特朗普政府正停止向五个由民主党领导的州提供100亿美元的公共援助资金。",
@@ -700,6 +722,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时24分 ~ 16时54分]"
+        },
+        {
+          "title": "东方汇理：下调美元立场至“谨慎”预计美联储将进一步降息",
+          "url": "https://flash.jin10.com/detail/20260107212536882800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "英伟达CFO Kress：需求继续增长。 自从给出5000亿美元预测以来，需求已经增加。 绝对会在5000亿美元预测的基础上扩大。",
@@ -932,7 +965,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -1075,7 +1108,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -1163,7 +1196,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -1174,7 +1207,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -1188,6 +1221,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "伦铜日内走低2.00%，现报12992.30美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260107211205513800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美元兑加元USD/CAD突破1.38，日内涨0.24%。",
@@ -1240,9 +1284,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
+        },
+        {
+          "title": "阿根廷与跨国银行达成30亿美元的回购协议。",
+          "url": "https://wallstreetcn.com/livenews/3032458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "现货白银下破78美元",
+          "url": "https://flash.jin10.com/detail/20260107210750248800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "沪镍主力合约日内大涨6.00%，现报144990.00元/吨。 LME期铅日内涨幅达2.00%，现报2064.03美元/吨。",
@@ -1318,11 +1384,12 @@
             9,
             3,
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时24分 ~ 20时35分]"
+          "appearance_count": 13,
+          "time_info": "[16时24分 ~ 21时37分]"
         },
         {
           "title": "特朗普支持格陵兰岛独立",
@@ -1380,18 +1447,6 @@
           "time_info": "[11时14分 ~ 17时24分]"
         },
         {
-          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
-          "url": "https://www.zhihu.com/question/1991388819304510504",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[09时16分 ~ 20时35分]"
-        },
-        {
           "title": "特朗普下一个目标？丹麦首相：美国若“强取”格陵兰岛，意味着北约的终结",
           "url": "https://wallstreetcn.com/articles/3762615",
           "source": "华尔街见闻",
@@ -1437,8 +1492,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时14分 ~ 20时35分]"
+          "appearance_count": 24,
+          "time_info": "[11时14分 ~ 21时37分]"
+        },
+        {
+          "title": "特朗普考虑动用美军等一系列选项得到格陵兰岛，欧洲多国发布联合声明，后续可能会如何发展？格陵兰岛危险吗？",
+          "url": "https://www.zhihu.com/question/1991388819304510504",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 26,
+          "time_info": "[09时16分 ~ 21时37分]"
         },
         {
           "title": "特朗普向印度发出新警告",
@@ -1463,8 +1531,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时24分 ~ 20时35分]"
+          "appearance_count": 11,
+          "time_info": "[17时24分 ~ 21时37分]"
         },
         {
           "title": "特朗普向多个国家发出威胁",
@@ -1513,8 +1581,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时19分 ~ 20时35分]"
+          "appearance_count": 8,
+          "time_info": "[18时19分 ~ 21时37分]"
         },
         {
           "title": "哥伦比亚就特朗普言论向美国发出外交照会",
@@ -1741,6 +1809,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时54分 ~ 01时47分]"
+        },
+        {
+          "title": "特朗普的下一步，难了",
+          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时37分]"
         },
         {
           "title": "美国高级官员表示，美国总统特朗普希望在其现任期内获取格陵兰岛。",
@@ -1971,17 +2051,6 @@
           "time_info": "[00时54分 ~ 01时20分]"
         },
         {
-          "title": "特朗普的下一步，难了",
-          "url": "https://news.ifeng.com/c/8pj2YQ7rnj3",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
           "title": "特朗普欲引委油入美 全球油价应声下跌",
           "url": "https://flash.jin10.com/detail/20260107163725022800",
           "source": "金十数据",
@@ -2109,6 +2178,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 04时19分]"
+        },
+        {
+          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时37分]"
         },
         {
           "title": "美国总统特朗普：将在2026年中期选举里取得“史诗级”胜利。",
@@ -2277,17 +2358,6 @@
           "time_info": "02时25分"
         },
         {
-          "title": "特朗普称委内瑞拉将向美国移交3000万至5000万桶石油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32331777",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
-        },
-        {
           "title": "金十整理：对委发动“闪电战”后，还有谁被纳入特朗普下一步行动的“高风险清单”？",
           "url": "https://flash.jin10.com/detail/20260107145900151800",
           "source": "金十数据",
@@ -2415,7 +2485,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -2456,7 +2526,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
         {
           "title": "商务部表示为维护国家安全和利益，决定加强两用物项对日本出口管制，什么是两用物项？此举会带来哪些影响？",
@@ -2505,8 +2575,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时24分 ~ 20时35分]"
+          "appearance_count": 11,
+          "time_info": "[17时24分 ~ 21时37分]"
         },
         {
           "title": "加强两用物项对日本出口管制",
@@ -2565,8 +2635,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时24分 ~ 20时35分]"
+          "appearance_count": 13,
+          "time_info": "[16时24分 ~ 21时37分]"
         },
         {
           "title": "商务部：对原产于日本的进口二氯二氢硅发起反倾销立案调查",
@@ -2595,8 +2665,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[12时15分 ~ 20时35分]"
+          "appearance_count": 23,
+          "time_info": "[12时15分 ~ 21时37分]"
         },
         {
           "title": "高市早苗暗示或武力介入台海，中方：禁止向日本军事用户出口两用物项",
@@ -2622,11 +2692,12 @@
             9,
             5,
             8,
-            13
+            13,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时24分 ~ 20时35分]"
+          "appearance_count": 11,
+          "time_info": "[17时24分 ~ 21时37分]"
         },
         {
           "title": "梅事变疣事,日本梅毒扩散加剧",
@@ -2645,8 +2716,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 46,
-          "time_info": "[00时22分 ~ 20时35分]"
+          "appearance_count": 47,
+          "time_info": "[00时22分 ~ 21时37分]"
         },
         {
           "title": "禁止两用物项对日本军事用户出口",
@@ -2743,11 +2814,12 @@
             14,
             10,
             13,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时19分 ~ 20时35分]"
+          "appearance_count": 8,
+          "time_info": "[18时19分 ~ 21时37分]"
         },
         {
           "title": "中国对日本一剑封喉",
@@ -2816,11 +2888,23 @@
           "url": "https://www.toutiao.com/trending/7592229822353604650/",
           "source": "今日头条",
           "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时37分]"
+        },
+        {
+          "title": "中方回应日本就出口管制提出抗议",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%B0%B1%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "21时37分"
         },
         {
           "title": "日本30年期国债收益率上升1.5个基点至3.505%的纪录高点。",
@@ -2939,6 +3023,29 @@
           "time_info": "[16时24分 ~ 16时54分]"
         },
         {
+          "title": "日本就中方加强出口管制提出抗议",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%B1%E4%B8%AD%E6%96%B9%E5%8A%A0%E5%BC%BA%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时37分]"
+        },
+        {
+          "title": "日本2026年的魔幻开局",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC2026%E5%B9%B4%E7%9A%84%E9%AD%94%E5%B9%BB%E5%BC%80%E5%B1%80%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时37分]"
+        },
+        {
           "title": "日本欲打造本土版“星链”系统",
           "url": "https://www.toutiao.com/trending/7591455726817853478/",
           "source": "今日头条",
@@ -2989,7 +3096,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -3016,15 +3123,15 @@
           "time_info": "09时17分"
         },
         {
-          "title": "日本2026年的魔幻开局",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC2026%E5%B9%B4%E7%9A%84%E9%AD%94%E5%B9%BB%E5%BC%80%E5%B1%80%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "中方对原产于日本的进口二氯二氢硅发起反倾销立案调查，二氯二氢硅是做什么的？此举对日方会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/1992258271394944650",
+          "source": "知乎",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "21时37分"
         },
         {
           "title": "日本12月服务业PMI终值 51.6，初值 52.5。",
@@ -3049,15 +3156,15 @@
           "time_info": "09时17分"
         },
         {
-          "title": "日本就中方加强出口管制提出抗议",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B0%B1%E4%B8%AD%E6%96%B9%E5%8A%A0%E5%BC%BA%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8F%90%E5%87%BA%E6%8A%97%E8%AE%AE%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "郭正亮：日本已经被打到“脑震荡”了",
+          "url": "https://www.baidu.com/s?wd=%E9%83%AD%E6%AD%A3%E4%BA%AE%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%B7%B2%E7%BB%8F%E8%A2%AB%E6%89%93%E5%88%B0%E2%80%9C%E8%84%91%E9%9C%87%E8%8D%A1%E2%80%9D%E4%BA%86",
+          "source": "百度热搜",
           "ranks": [
-            27
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "21时37分"
         },
         {
           "title": "日本宇宙航空研究开发机构与三菱重工业表示，由于正在对H3运载火箭发射失败原因展开调查，原定于2月1日进行的导航卫星发射任务将被推迟。",
@@ -3074,7 +3181,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "达利欧年度复盘：美元等法币贬值，美股高回报只是“计价幻觉”，黄金跑赢一切",
@@ -3089,6 +3196,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[07时40分 ~ 15时24分]"
+        },
+        {
+          "title": "央行连续14个月增持黄金",
+          "url": "https://www.douyin.com/hot/2360100",
+          "source": "抖音",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时49分 ~ 21时37分]"
         },
         {
           "title": "当下商品交易两条主线——“去美元”买黄金，“强安全”买金属",
@@ -3137,20 +3258,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时22分 ~ 07时41分]"
-        },
-        {
-          "title": "央行连续14个月增持黄金",
-          "url": "https://www.douyin.com/hot/2360100",
-          "source": "抖音",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时49分 ~ 20时35分]"
         },
         {
           "title": "摩根士丹利预测：黄金将在2026年四季度升至4800美元",
@@ -3254,6 +3361,18 @@
           "time_info": "[07时16分 ~ 07时41分]"
         },
         {
+          "title": "现货黄金失守4440美元/盎司，日内跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3032455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时37分]"
+        },
+        {
           "title": "中国央行连续第14个月增持黄金",
           "url": "https://wallstreetcn.com/livenews/3032259",
           "source": "华尔街见闻-快讯",
@@ -3275,17 +3394,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
-        },
-        {
-          "title": "现货黄金失守4440美元/盎司，日内跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/3032455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时35分"
         },
         {
           "title": "金价涨超1%，上探4500美元关口",
@@ -3397,9 +3505,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
+        },
+        {
+          "title": "现货白银跌幅扩大至4.4%，失守78美元/盎司，报77.78美元/盎司。 沪银主力合约日内大跌4%。 现货黄金一度跌破4430美元/盎司，日内跌1.44%。 LME铜主力合约跌超2%，现报12986.5美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3032481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "分析师：金价看涨动力犹存，非农与最高法院判决成关键变数",
@@ -3433,6 +3552,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
+        },
+        {
+          "title": "央行连续14个月增持黄金",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E8%BF%9E%E7%BB%AD14%E4%B8%AA%E6%9C%88%E5%A2%9E%E6%8C%81%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "金十图示：中国12月末官方储备资产变化一览，中国央行连续第14个月增持黄金。",
@@ -3485,7 +3615,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
@@ -3499,6 +3629,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时14分"
+        },
+        {
+          "title": "现货黄金跌破4430美元/盎司，日内跌1.44%。",
+          "url": "https://flash.jin10.com/detail/20260107211021517800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "国际金价为何一路狂飙",
+          "url": "https://www.toutiao.com/trending/7591730575850602502/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "年轻人一边鄙视一边买爆黄金平替",
@@ -3553,8 +3705,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时14分 ~ 20时35分]"
+          "appearance_count": 24,
+          "time_info": "[11时14分 ~ 21时37分]"
         },
         {
           "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
@@ -3599,8 +3751,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 46,
-          "time_info": "[00时22分 ~ 20时35分]"
+          "appearance_count": 47,
+          "time_info": "[00时22分 ~ 21时37分]"
         },
         {
           "title": "英伟达CEO黄仁勋：公司在Groq（技术许可）协议中聘请（对方的）工程师。",
@@ -3874,7 +4026,7 @@
     },
     {
       "keyword_group": "内存 存储颗粒",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "为何说AI抢走了你的内存",
@@ -3984,26 +4136,38 @@
           "time_info": "[12时15分 ~ 13时49分]"
         },
         {
+          "title": "内存涨价凶猛，业内人士形容「内存条一盒堪比上海一套房」，为什么内存条越来越贵？还会持续涨价吗？",
+          "url": "https://www.zhihu.com/question/1991809019061486531",
+          "source": "知乎",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时35分 ~ 21时37分]"
+        },
+        {
           "title": "机构：内存市场已进入“超级牛市”，一季度将再涨40%-50%",
           "url": "https://wallstreetcn.com/livenews/3032447",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时35分"
         },
         {
-          "title": "内存涨价凶猛，业内人士形容「内存条一盒堪比上海一套房」，为什么内存条越来越贵？还会持续涨价吗？",
-          "url": "https://www.zhihu.com/question/1991809019061486531",
-          "source": "知乎",
+          "title": "三星警告：内存成本飙升，所有电子产品面临涨价",
+          "url": "https://wallstreetcn.com/articles/3762714",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时35分"
+          "time_info": "21时37分"
         }
       ]
     },
