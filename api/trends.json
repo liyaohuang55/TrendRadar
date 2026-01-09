@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T01:47:12.498839+08:00",
-  "total_titles_processed": 425,
+  "generated_at": "2026-01-10T02:25:50.773547+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "收买人心，美国大撒币方案：格陵兰岛民一人发10万美元",
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -39,8 +39,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "独家|王健林“以时间换空间” 万达4亿美元债成功展期2年",
@@ -50,8 +50,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "布伦特原油站上64美元/桶，为去年12月8日以来首次，日内涨1.72%。",
@@ -126,15 +126,38 @@
           "time_info": "[00时53分 ~ 01时47分]"
         },
         {
+          "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的32.8亿美元。",
+          "url": "https://flash.jin10.com/detail/20260110021749449800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
+          "title": "周五（1月9日），美联储隔夜逆回购协议（RRP）使用规模为32.80亿美元（交易对手6家），上个交易日报30.83亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3034348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
           "title": "美国三季度家庭净值变动 60640亿美元，前值 70860亿美元。",
           "url": "https://wallstreetcn.com/livenews/3034321",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 02时25分]"
         },
         {
           "title": "现货白银日内涨幅达4.5%，报80.44美元/盎司。",
@@ -143,7 +166,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -154,7 +177,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -165,7 +188,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -176,9 +199,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "LME期铜收涨278美元，报12998美元/吨。 LME期铝收涨45美元，报3136美元/吨。 LME期锌收涨18美元，报3154美元/吨。 LME期铅收涨23美元，报2050美元/吨。 LME期镍收涨548美元，报17703美元/吨。 LME期锡收涨1810美元，报45560美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3034336",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
           "title": "纽约联储：美国第三季度家庭净资产增加6.064万亿美元。",
@@ -187,9 +221,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "周五（1月9日），韩元兑美元最终跌0.47%，报1459.11韩元，美国非农就业报告发布后一度小幅回升，本周累计下跌1.01%，整体持续走低。",
+          "url": "https://wallstreetcn.com/livenews/3034333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
           "title": "纽约银日内涨幅达6.0%，报79.67美元/盎司。 现货白银日内涨幅达3.5%，报79.75美元/盎司。",
@@ -201,6 +246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "人工智能云初创公司Lambda在上市前计划进行3.5亿美元的融资。",
+          "url": "https://flash.jin10.com/detail/20260110014650010800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
         },
         {
           "title": "商品货币澳元/美元日内跌幅达0.5%，报0.6665。",
@@ -217,7 +273,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -227,8 +283,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -238,8 +294,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
@@ -249,8 +305,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
@@ -260,8 +316,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
@@ -271,8 +327,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时53分 ~ 01时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时53分 ~ 02时25分]"
         },
         {
           "title": "美国抵押贷款利率创将近三年新低，现阶段总统特朗普正推动住房经适性。",
@@ -315,11 +371,23 @@
           "url": "https://wallstreetcn.com/livenews/3034326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 02时25分]"
+        },
+        {
+          "title": "美国法官：将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
+          "url": "https://wallstreetcn.com/livenews/3034346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "02时25分"
         },
         {
           "title": "白宫经济顾问哈塞特：很荣幸入选特朗普的美联储主席候选人名单。",
@@ -344,13 +412,24 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美国法官表示，她将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
+          "url": "https://flash.jin10.com/detail/20260110020200642800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
           "title": "美最高法院计划于1月14日颁布一批裁决，或涉及特朗普关税案",
           "url": "https://flash.jin10.com/detail/20260110010144247800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -377,6 +456,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "乌克兰将一大型锂矿开发权授予特朗普密友",
+          "url": "https://flash.jin10.com/detail/20260110013611649800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时25分"
+        },
+        {
           "title": "美国总统特朗普针对加利福尼亚州酝酿住房重建命令。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3034266",
           "source": "华尔街见闻-快讯",
@@ -394,19 +484,6 @@
       "match_count": 8,
       "titles": [
         {
-          "title": "日本一医院遗失放射性物质",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E9%81%97%E5%A4%B1%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
-        },
-        {
           "title": "日本稀土新动向",
           "url": "https://www.douyin.com/hot/2362137",
           "source": "抖音",
@@ -415,8 +492,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
+        },
+        {
+          "title": "日本一医院遗失放射性物质",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E9%81%97%E5%A4%B1%E6%94%BE%E5%B0%84%E6%80%A7%E7%89%A9%E8%B4%A8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            9,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "俄精准断供材料,日本产业被反杀",
@@ -427,8 +518,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "日本交涉被拒,中方驳回不惯着",
@@ -439,8 +530,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "担忧中方稀土反制，日本拉G7给自己壮胆",
@@ -450,8 +541,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "日本一医院遗失放射性物质",
@@ -461,8 +552,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "日本出昏招,停供动漫当武器",
@@ -473,8 +564,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         },
         {
           "title": "中方沉痛哀悼前日本驻华大使丹羽逝世",
@@ -483,11 +574,12 @@
           "ranks": [
             19,
             27,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     },
@@ -612,11 +704,12 @@
           "ranks": [
             13,
             12,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时21分 ~ 01时47分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时25分]"
         }
       ]
     }
