@@ -1,11 +1,223 @@
 {
-  "generated_at": "2026-01-10T01:20:24.652181+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-01-10T01:47:12.498839+08:00",
+  "total_titles_processed": 425,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
+          "url": "https://wallstreetcn.com/articles/3762954",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
+        },
+        {
+          "title": "收买人心，美国大撒币方案：格陵兰岛民一人发10万美元",
+          "url": "https://news.ifeng.com/c/8pmH513Ylus",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
+        },
+        {
+          "title": "独家|王健林“以时间换空间” 万达4亿美元债成功展期2年",
+          "url": "https://www.cls.cn/detail/2253497",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
+        },
+        {
+          "title": "布伦特原油站上64美元/桶，为去年12月8日以来首次，日内涨1.72%。",
+          "url": "https://flash.jin10.com/detail/20260110005107740800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时47分]"
+        },
+        {
+          "title": "WTI原油期货日内大涨3.00%，现报59.50美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260109235835387800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时20分]"
+        },
+        {
+          "title": "WTI原油日内涨幅达3.0%，报59.38美元/桶。 委内瑞拉危机数日后，石油交易员又迎来伊朗风险。",
+          "url": "https://wallstreetcn.com/livenews/3034306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时47分]"
+        },
+        {
+          "title": "WTI原油日内涨超2.00%，现报59.60美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260110003213246800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时47分]"
+        },
+        {
+          "title": "现货白银日内涨幅达4.0%，报80.1美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3034286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 01时20分]"
+        },
+        {
+          "title": "比尔·盖茨向梅琳达·法兰西·盖茨拨付 80 亿美元用于慈善事业",
+          "url": "https://wallstreetcn.com/livenews/3034296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时47分]"
+        },
+        {
+          "title": "美国三季度家庭净值变动 60640亿美元，前值 70860亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3034321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "现货白银日内涨幅达4.5%，报80.44美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3034318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数涨0.94%，暂报4077.63点，最近七个自然日累计上涨7.54%，1月3-6日平滑地持续上涨，6-8日持续回撤。 MarketVectorTM数字资产100中盘指数跌0.49%，报3799.01点，最近七天累涨2.37%。 MarketVector数字资产100指数涨0.58%，报19000.72点，最近七天累涨1.89%。 最近七天，比特币累涨1.72%，1月5日曾达到94785.88美元；以太坊期内持平，6日曾涨至306.405美元。 Solana累涨6.02%，狗狗币累涨1.58%，XRP累涨5.6%。",
+          "url": "https://wallstreetcn.com/livenews/3034317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "布伦特原油站上64美元/桶，为去年12月8日以来首次，日内涨1.72%。投资者注意力从委内瑞拉转向伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3034313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "雪佛龙或将从委内瑞拉石油中获得每年7亿美元的收益",
+          "url": "https://flash.jin10.com/detail/20260110010643997800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "纽约联储：美国第三季度家庭净资产增加6.064万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260110010417512800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "纽约银日内涨幅达6.0%，报79.67美元/盎司。 现货白银日内涨幅达3.5%，报79.75美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3034276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "商品货币澳元/美元日内跌幅达0.5%，报0.6665。",
+          "url": "https://wallstreetcn.com/livenews/3034267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -15,8 +227,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -26,8 +238,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
         },
         {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
@@ -37,8 +249,42 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
+        },
+        {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
+        },
+        {
+          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
+          "url": "https://wallstreetcn.com/articles/3762893",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时53分 ~ 01时47分]"
+        },
+        {
+          "title": "美国抵押贷款利率创将近三年新低，现阶段总统特朗普正推动住房经适性。",
+          "url": "https://wallstreetcn.com/livenews/3034308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "time_info": "[00时53分 ~ 01时47分]"
         },
         {
           "title": "哥伦比亚总统：“特朗普对我说已在策划军事行动”",
@@ -47,28 +293,6 @@
           "ranks": [
             8,
             23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
-        },
-        {
-          "title": "美国抵押贷款利率创将近三年新低，现阶段总统特朗普正推动住房经适性。",
-          "url": "https://wallstreetcn.com/livenews/3034308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时20分]"
-        },
-        {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -87,15 +311,15 @@
           "time_info": "[00时21分 ~ 01时20分]"
         },
         {
-          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
-          "url": "https://wallstreetcn.com/articles/3762893",
-          "source": "华尔街见闻",
+          "title": "美国亚特兰大联储主席Bostic：大量（价格）成本压力发生在特朗普关税之外。 我担心，民众会对“美联储实现2%通胀目标”丧失信心。 需要专注于让通胀受控。",
+          "url": "https://wallstreetcn.com/livenews/3034326",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         },
         {
           "title": "白宫经济顾问哈塞特：很荣幸入选特朗普的美联储主席候选人名单。",
@@ -118,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美最高法院计划于1月14日颁布一批裁决，或涉及特朗普关税案",
+          "url": "https://flash.jin10.com/detail/20260110010144247800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         },
         {
           "title": "特朗普提前12小时发布就业数据 与正式结果精准吻合",
@@ -155,148 +390,6 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "布伦特原油站上64美元/桶，为去年12月8日以来首次，日内涨1.72%。",
-          "url": "https://flash.jin10.com/detail/20260110005107740800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时20分]"
-        },
-        {
-          "title": "WTI原油期货日内大涨3.00%，现报59.50美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260109235835387800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
-        },
-        {
-          "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
-          "url": "https://wallstreetcn.com/articles/3762954",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
-        },
-        {
-          "title": "收买人心，美国大撒币方案：格陵兰岛民一人发10万美元",
-          "url": "https://news.ifeng.com/c/8pmH513Ylus",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
-        },
-        {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
-        },
-        {
-          "title": "现货白银日内涨幅达4.0%，报80.1美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3034286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
-        },
-        {
-          "title": "独家|王健林“以时间换空间” 万达4亿美元债成功展期2年",
-          "url": "https://www.cls.cn/detail/2253497",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
-        },
-        {
-          "title": "WTI原油日内涨幅达3.0%，报59.38美元/桶。 委内瑞拉危机数日后，石油交易员又迎来伊朗风险。",
-          "url": "https://wallstreetcn.com/livenews/3034306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时20分]"
-        },
-        {
-          "title": "WTI原油日内涨超2.00%，现报59.60美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260110003213246800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时20分]"
-        },
-        {
-          "title": "比尔·盖茨向梅琳达·法兰西·盖茨拨付 80 亿美元用于慈善事业",
-          "url": "https://wallstreetcn.com/livenews/3034296",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时20分]"
-        },
-        {
-          "title": "纽约银日内涨幅达6.0%，报79.67美元/盎司。 现货白银日内涨幅达3.5%，报79.75美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3034276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "商品货币澳元/美元日内跌幅达0.5%，报0.6665。",
-          "url": "https://wallstreetcn.com/livenews/3034267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "日本",
       "match_count": 8,
       "titles": [
@@ -306,11 +399,12 @@
           "source": "微博",
           "ranks": [
             2,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
         },
         {
           "title": "日本稀土新动向",
@@ -321,8 +415,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
         },
         {
           "title": "俄精准断供材料,日本产业被反杀",
@@ -333,8 +427,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
         },
         {
           "title": "日本交涉被拒,中方驳回不惯着",
@@ -345,8 +439,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
         },
         {
           "title": "担忧中方稀土反制，日本拉G7给自己壮胆",
@@ -356,8 +450,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
         },
         {
           "title": "日本一医院遗失放射性物质",
@@ -367,8 +461,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
         },
         {
           "title": "日本出昏招,停供动漫当武器",
@@ -379,8 +473,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
         },
         {
           "title": "中方沉痛哀悼前日本驻华大使丹羽逝世",
@@ -388,11 +482,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            27
+            27,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 01时47分]"
         }
       ]
     },
@@ -417,11 +512,12 @@
           "url": "https://wallstreetcn.com/livenews/3034301",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时47分]"
         },
         {
           "title": "现货黄金突破4510美元/盎司，日内涨0.73%。",
@@ -452,20 +548,21 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "谷歌(GOOG.O)市值盘中突破4万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260110003148423800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时20分]"
-        },
-        {
           "title": "谷歌涨幅扩大至1.6%，报330.83美元/股，盘中市值突破4万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3034302",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时47分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)市值盘中突破4万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260110003148423800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
@@ -495,11 +592,12 @@
           "url": "https://flash.jin10.com/detail/20260110004710844800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时53分 ~ 01时20分]"
+          "appearance_count": 3,
+          "time_info": "[00时53分 ~ 01时47分]"
         }
       ]
     },
@@ -513,11 +611,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 01时20分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 01时47分]"
         }
       ]
     }
