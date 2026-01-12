@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T09:20:34.925181+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-01-12T11:22:40.658647+08:00",
+  "total_titles_processed": 792,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 38,
       "titles": [
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -37,11 +37,12 @@
           "url": "https://wallstreetcn.com/articles/3763038",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时19分 ~ 09时20分]"
+          "appearance_count": 26,
+          "time_info": "[00时19分 ~ 11时22分]"
         },
         {
           "title": "特朗普被曝正考虑多个干涉伊朗方案",
@@ -69,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时19分 ~ 07时40分]"
+          "appearance_count": 25,
+          "time_info": "[00时19分 ~ 11时22分]"
         },
         {
           "title": "特朗普被曝已听取军事打击伊朗方案汇报，美伊真的会打起来吗？为何近期美国军事动作频频？",
@@ -242,9 +243,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时22分]"
         },
         {
           "title": "特朗普，又要“抢东西”？",
@@ -253,9 +254,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时22分]"
         },
         {
           "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
@@ -264,20 +265,120 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时22分]"
         },
         {
           "title": "特朗普最新涉台表态：台湾问题是中国自己的事",
           "url": "https://www.cls.cn/detail/2254115",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时22分]"
+        },
+        {
+          "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
+          "url": "https://news.ifeng.com/c/8pqfcPi6t1P",
+          "source": "凤凰网",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "11时22分"
+        },
+        {
+          "title": "特朗普威胁古巴尽快同美国“达成协议”",
+          "url": "https://www.cls.cn/detail/2254162",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "特朗普称伊朗提议谈判但美国或“先行动”",
+          "url": "https://wallstreetcn.com/livenews/3034906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "特朗普：可能否决延长医疗补贴的法案",
+          "url": "https://flash.jin10.com/detail/20260112104054089800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "特朗普称信用卡公司若不设定利率上限将违法",
+          "url": "https://flash.jin10.com/detail/20260112103526201800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "特朗普否认参与司法部向美联储发出的传票。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3034896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "美国总统特朗普：正安排与伊朗举行会议。",
+          "url": "https://wallstreetcn.com/livenews/3034892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "特朗普暗示他可能会否决延长《平价医疗法案》。",
+          "url": "https://wallstreetcn.com/livenews/3034887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "特朗普否认涉足司法部对美联储的传票调查",
+          "url": "https://flash.jin10.com/detail/20260112101639915800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "美国总统特朗普：格陵兰岛应该达成协议。我们谈论的是拥有格陵兰岛，而不是短期占据。",
@@ -286,9 +387,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "据NBC：特朗普否认参与司法部对美联储发出传票行动，表示“对此一无所知”。",
+          "url": "https://flash.jin10.com/detail/20260112100707913800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "关于委内瑞拉，特朗普称，一切进展顺利。 不喜欢埃克森美孚对委内瑞拉问题的回应。 倾向于让埃克森美孚排除在外。",
@@ -297,9 +409,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普：启动了购买抵押贷款支持证券（MBS）的程序。",
+          "url": "https://wallstreetcn.com/livenews/3034882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "特朗普谈伊朗：非常严肃地关注局势。正在考虑强硬选项。我们会做出决定。",
@@ -308,15 +431,48 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "特朗普：伊朗昨日呼吁就核问题进行谈判。美国可能和伊朗会面。",
+          "url": "https://wallstreetcn.com/livenews/3034881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "美媒称特朗普政府13日将讨论美对伊朗干预方案",
+          "url": "https://wallstreetcn.com/livenews/3034877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "特朗普称在考虑干预伊朗局势的“强硬选项”",
+          "url": "https://wallstreetcn.com/livenews/3034875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
         {
           "title": "金价飙升 多家银行公告提醒",
@@ -355,15 +511,60 @@
           "time_info": "07时40分"
         },
         {
+          "title": "贵金属大涨 黄金再创新高",
+          "url": "https://www.toutiao.com/trending/7594275174938054153/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "金十图示：2026年01月12日（周一）上海金早盘价为1021.18元/克，较国际金价（1026.61元/克）低5.43元/克",
+          "url": "https://flash.jin10.com/detail/20260112110122883800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
           "title": "现货黄金站上4600美元后略有回落，目前报4584美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3034855",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时22分]"
+        },
+        {
+          "title": "现货黄金再创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时22分]"
         },
         {
           "title": "金十图示：2026年01月12日（周一）黄金ETF持仓报告",
@@ -377,15 +578,15 @@
           "time_info": "07时40分"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=7&Refer=top",
-          "source": "微博",
+          "title": "多重因素共振推动现货金银早盘齐创历史新高，贵金属引来新一轮狂欢。黄金多头较上一交易日升温，白银现卖出信号。尽管油价早盘走高，但高盛研报称，供应充裕将使价格继续下行，当前市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260112105142529800",
+          "source": "金十数据",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "11时22分"
         },
         {
           "title": "现货黄金首次站上4600美元",
@@ -394,7 +595,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -405,9 +606,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "现货黄金、现货白银涨幅都有所收窄，目前分别报4564美元/盎司和82.44美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3034898",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "现货黄金首次涨至4600美元",
@@ -416,7 +628,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -427,7 +639,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -438,20 +650,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
         {
-          "title": "现货黄金再创历史新高",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%86%8D%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
+          "title": "现货黄金首次站上4600美元",
+          "url": "https://www.douyin.com/hot/2364906",
+          "source": "抖音",
           "ranks": [
-            21
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时20分"
+          "time_info": "11时22分"
         },
         {
           "title": "国际黄金期货首次站上4600美元",
@@ -460,7 +672,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -471,7 +683,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -482,7 +694,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         }
@@ -490,7 +702,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "廉价航空公司Allegiant将按15亿美元（现金+股票）收购竞争对手Sun Country。",
@@ -513,7 +725,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -524,7 +736,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -535,7 +747,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -546,7 +758,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -568,7 +780,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -579,7 +791,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -590,9 +802,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
+        },
+        {
+          "title": "我国贸易顺差破万亿美元意味着什么？",
+          "url": "https://www.zhihu.com/question/1985632601726293873",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "现货白银涨幅超3%报82.35美元/盎司。",
@@ -601,7 +824,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -612,7 +835,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -623,7 +846,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -634,7 +857,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -645,7 +868,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         }
@@ -684,11 +907,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348910&amp;topic_name=%E4%BF%84%E7%B2%BE%E5%87%86%E6%96%AD%E4%BE%9B%E6%9D%90%E6%96%99%2C%E6%97%A5%E6%9C%AC%E4%BA%A7%E4%B8%9A%E8%A2%AB%E5%8F%8D%E6%9D%80",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时19分 ~ 09时20分]"
+          "appearance_count": 26,
+          "time_info": "[00时19分 ~ 11时22分]"
         },
         {
           "title": "日本交涉被拒,中方驳回不惯着",
@@ -706,11 +930,12 @@
           "url": "https://news.ifeng.com/c/8pqUK16yYUX",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 11时22分]"
         },
         {
           "title": "据日本气象厅消息，当地时间今天（1月12日）上午9点50分左右，日本北海道宗谷地区南部发生5.0级地震，最大震感为震度3，震源深度极浅。",
@@ -719,7 +944,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         },
@@ -787,7 +1012,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时20分"
         }
