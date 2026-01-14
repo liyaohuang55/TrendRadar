@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T06:18:32.874424+08:00",
-  "total_titles_processed": 756,
+  "generated_at": "2026-01-15T06:47:12.979721+08:00",
+  "total_titles_processed": 783,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 06时47分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时17分 ~ 06时18分]"
+          "appearance_count": 7,
+          "time_info": "[05时17分 ~ 06时47分]"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -52,8 +52,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时40分 ~ 06时18分]"
+          "appearance_count": 8,
+          "time_info": "[03时40分 ~ 06时47分]"
         },
         {
           "title": "公开与特朗普对骂遭停职，福特工人获得汽车工会力挺",
@@ -150,6 +150,71 @@
           "time_info": "[04时44分 ~ 05时44分]"
         },
         {
+          "title": "白宫：美国总统特朗普可能会针对芯片进口实施更广泛的关税。",
+          "url": "https://wallstreetcn.com/livenews/3037309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 06时47分]"
+        },
+        {
+          "title": "美国白宫：特朗普坚决认为，有必要与贸易伙伴展开谈判，以调整加工关键矿产及其衍生产品的进口。根据谈判的结果，特朗普未来可能会考虑替代性补救措施，包括对特定类型的关键矿物设定最低进口价格。",
+          "url": "https://flash.jin10.com/detail/20260115053341985800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 06时47分]"
+        },
+        {
+          "title": "美国白宫：特朗普还对某些先进计算芯片征收了25%的关税，例如英伟达H200和AMD MI325X。",
+          "url": "https://flash.jin10.com/detail/20260115053106355800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 06时47分]"
+        },
+        {
+          "title": "美国白宫：特朗普近期可能会对半导体及其衍生产品的进口征收更广泛的关税。",
+          "url": "https://flash.jin10.com/detail/20260115052805367800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 06时47分]"
+        },
+        {
+          "title": "特朗普政府拟让FTC主席负责司法部反欺诈新部门",
+          "url": "https://flash.jin10.com/detail/20260115052300801800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时44分 ~ 06时47分]"
+        },
+        {
           "title": "花旗警告称特朗普设置信用卡利率上限的想法可能导致经济放缓",
           "url": "https://wallstreetcn.com/livenews/3037280",
           "source": "华尔街见闻-快讯",
@@ -226,18 +291,6 @@
           "time_info": "[02时27分 ~ 02时57分]"
         },
         {
-          "title": "白宫：美国总统特朗普可能会针对芯片进口实施更广泛的关税。",
-          "url": "https://wallstreetcn.com/livenews/3037309",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时18分]"
-        },
-        {
           "title": "美国总统特朗普：我不能指望丹麦。",
           "url": "https://flash.jin10.com/detail/20260115044054055800",
           "source": "金十数据",
@@ -248,18 +301,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时18分]"
-        },
-        {
-          "title": "美国白宫：特朗普坚决认为，有必要与贸易伙伴展开谈判，以调整加工关键矿产及其衍生产品的进口。根据谈判的结果，特朗普未来可能会考虑替代性补救措施，包括对特定类型的关键矿物设定最低进口价格。",
-          "url": "https://flash.jin10.com/detail/20260115053341985800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时18分]"
         },
         {
           "title": "德国财长：敦促欧洲在特朗普时代展现强硬立场",
@@ -297,28 +338,16 @@
           "time_info": "[04时44分 ~ 05时18分]"
         },
         {
-          "title": "美国白宫：特朗普还对某些先进计算芯片征收了25%的关税，例如英伟达H200和AMD MI325X。",
-          "url": "https://flash.jin10.com/detail/20260115053106355800",
-          "source": "金十数据",
+          "title": "周三（1月14日），降息赢家指数跌0.73%，报106.49点。 “特朗普关税输家”指数跌1.70%，报118.18点，早盘爆出美国最高法院再次没有就特朗普关税政策官司做判决前后显著下跌，日内绝大部分时间低位窄幅震荡。 “特朗普金融指数”跌0.86%，报172.60点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.24%，报16.24点。",
+          "url": "https://wallstreetcn.com/livenews/3037319",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            16
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时18分]"
-        },
-        {
-          "title": "美国白宫：特朗普近期可能会对半导体及其衍生产品的进口征收更广泛的关税。",
-          "url": "https://flash.jin10.com/detail/20260115052805367800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时18分]"
+          "time_info": "[06时18分 ~ 06时47分]"
         },
         {
           "title": "美国总统特朗普：（谈格陵兰岛）我们走着瞧。将很快听取有关会晤的汇报。我们与丹麦关系非常好。我们需要格陵兰岛。",
@@ -331,18 +360,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时18分]"
-        },
-        {
-          "title": "特朗普政府拟让FTC主席负责司法部反欺诈新部门",
-          "url": "https://flash.jin10.com/detail/20260115052300801800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时44分 ~ 06时18分]"
         },
         {
           "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
@@ -381,17 +398,6 @@
           "time_info": "[05时44分 ~ 06时18分]"
         },
         {
-          "title": "周三（1月14日），降息赢家指数跌0.73%，报106.49点。 “特朗普关税输家”指数跌1.70%，报118.18点，早盘爆出美国最高法院再次没有就特朗普关税政策官司做判决前后显著下跌，日内绝大部分时间低位窄幅震荡。 “特朗普金融指数”跌0.86%，报172.60点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.24%，报16.24点。",
-          "url": "https://wallstreetcn.com/livenews/3037319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
           "title": "特朗普：对未用于美国AI的进口芯片征收25%关税",
           "url": "https://flash.jin10.com/detail/20260115043632565800",
           "source": "金十数据",
@@ -404,6 +410,30 @@
           "time_info": "[04时44分 ~ 05时18分]"
         },
         {
+          "title": "委内瑞拉代总统罗德里格斯：和特朗普讨论了有利于两国的双边合作议程。",
+          "url": "https://flash.jin10.com/detail/20260115055337605800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 06时47分]"
+        },
+        {
+          "title": "委内瑞拉代理总统Rodriguez：与美国总统特朗普的通话富有成效，也是热情友好的。",
+          "url": "https://wallstreetcn.com/livenews/3037315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 06时47分]"
+        },
+        {
           "title": "油价大幅跳水 特朗普称伊朗的“杀戮”正在停止",
           "url": "https://flash.jin10.com/detail/20260115040402898800",
           "source": "金十数据",
@@ -414,6 +444,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 04时44分]"
+        },
+        {
+          "title": "委内瑞拉代总统罗德里格斯：与美国总统特朗普进行了长时间、富有成效且礼貌的电话通话。",
+          "url": "https://flash.jin10.com/detail/20260115055302201800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 06时47分]"
+        },
+        {
+          "title": "美国总统特朗普：与委内瑞拉临时总统罗德里格斯进行了非常良好的通话。讨论了许多议题，包括石油、矿产、贸易，当然还有国家安全。",
+          "url": "https://flash.jin10.com/detail/20260115062858254800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "美国总统特朗普：与Delcy Rodriguez进行了一场非常不错的通话。 讨论了石油、矿产、贸易、“国家安全”。",
+          "url": "https://wallstreetcn.com/livenews/3037333",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "美国总统特朗普：签署了一项行动，将允许我们对芯片销售征收25%的关税。",
@@ -464,6 +528,18 @@
           "time_info": "[05时44分 ~ 06时18分]"
         },
         {
+          "title": "市场消息：特朗普签署行政命令，设立第二个紧急委员会，调查长岛铁路公司与其部分员工（由特定劳工组织代表）之间的争议。",
+          "url": "https://flash.jin10.com/detail/20260115053554998800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 06时47分]"
+        },
+        {
           "title": "美国总统特朗普签署关键矿物行政命令。",
           "url": "https://flash.jin10.com/detail/20260115040151639800",
           "source": "金十数据",
@@ -500,39 +576,6 @@
           "time_info": "[05时18分 ~ 05时44分]"
         },
         {
-          "title": "委内瑞拉代总统罗德里格斯：和特朗普讨论了有利于两国的双边合作议程。",
-          "url": "https://flash.jin10.com/detail/20260115055337605800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "委内瑞拉代理总统Rodriguez：与美国总统特朗普的通话富有成效，也是热情友好的。",
-          "url": "https://wallstreetcn.com/livenews/3037315",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "委内瑞拉代总统罗德里格斯：与美国总统特朗普进行了长时间、富有成效且礼貌的电话通话。",
-          "url": "https://flash.jin10.com/detail/20260115055302201800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
           "title": "美联储卡什卡利拒绝就美国总统特朗普政府购买抵押贷款债券发表评论。",
           "url": "https://flash.jin10.com/detail/20260115012010360800",
           "source": "金十数据",
@@ -544,15 +587,26 @@
           "time_info": "01时51分"
         },
         {
-          "title": "市场消息：特朗普签署行政命令，设立第二个紧急委员会，调查长岛铁路公司与其部分员工（由特定劳工组织代表）之间的争议。",
-          "url": "https://flash.jin10.com/detail/20260115053554998800",
-          "source": "金十数据",
+          "title": "委内瑞拉代总统证实同特朗普通话",
+          "url": "https://wallstreetcn.com/livenews/3037326",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "06时47分"
+        },
+        {
+          "title": "特朗普称“总会有办法解决”格陵兰岛问题",
+          "url": "https://wallstreetcn.com/livenews/3037325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         },
         {
           "title": "美国总统特朗普：我有一些关于伊朗的消息，我们稍后会谈到。",
@@ -624,7 +678,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -636,8 +690,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时27分 ~ 06时18分]"
+          "appearance_count": 15,
+          "time_info": "[02时27分 ~ 06时47分]"
         },
         {
           "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
@@ -647,8 +701,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 06时47分]"
         },
         {
           "title": "现货白银日内涨幅达6.5%，报92.58美元/盎司。",
@@ -852,6 +906,18 @@
           "time_info": "[05时18分 ~ 06时18分]"
         },
         {
+          "title": "周三（1月14日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9701元，较周二纽约尾盘涨24点，日内整体交投于6.9783-6.9674元区间。",
+          "url": "https://wallstreetcn.com/livenews/3037322",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 06时47分]"
+        },
+        {
           "title": "美国天然气期货日内暴跌9.00%，现报3.111美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20260115002507829800",
           "source": "金十数据",
@@ -862,17 +928,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时24分]"
-        },
-        {
-          "title": "周三（1月14日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9701元，较周二纽约尾盘涨24点，日内整体交投于6.9783-6.9674元区间。",
-          "url": "https://wallstreetcn.com/livenews/3037322",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         },
         {
           "title": "现货白银日内暴涨7.00%，突破93美元/盎司，再创新高。",
@@ -911,6 +966,42 @@
           "time_info": "[04时17分 ~ 04时44分]"
         },
         {
+          "title": "美、布两油在纽约尾盘短线拉升近1美元。",
+          "url": "https://flash.jin10.com/detail/20260115055503387800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 06时47分]"
+        },
+        {
+          "title": "纽约期银涨超7%，一度刷新历史高位至93美元上方，纽约铜在亚太时段涨穿6.15美元",
+          "url": "https://wallstreetcn.com/livenews/3037316",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 06时47分]"
+        },
+        {
+          "title": "布伦特原油5分钟内上涨1.29美元/桶，报66.21美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3037314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 06时47分]"
+        },
+        {
           "title": "特朗普更名国防部可能需耗资1.25亿美元",
           "url": "https://flash.jin10.com/detail/20260115051820833800",
           "source": "金十数据",
@@ -921,6 +1012,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时18分]"
+        },
+        {
+          "title": "纽约期金涨超0.6%，一度刷新历史高位至4650美元",
+          "url": "https://wallstreetcn.com/livenews/3037313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 06时47分]"
         },
         {
           "title": "美国官员：美国已完成首笔价值5亿美元的委内瑞拉石油销售。未来几天和几周内预计委内瑞拉石油的额外销量将增加。",
@@ -958,48 +1061,15 @@
           "time_info": "[03时19分 ~ 03时40分]"
         },
         {
-          "title": "美、布两油在纽约尾盘短线拉升近1美元。",
-          "url": "https://flash.jin10.com/detail/20260115055503387800",
+          "title": "消息人士：软件初创公司Temporal Technologies正洽谈以50亿美元估值筹集新资金，是三个月前融资时估值的两倍。",
+          "url": "https://flash.jin10.com/detail/20260115061951998800",
           "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "纽约期银涨超7%，一度刷新历史高位至93美元上方，纽约铜在亚太时段涨穿6.15美元",
-          "url": "https://wallstreetcn.com/livenews/3037316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "布伦特原油5分钟内上涨1.29美元/桶，报66.21美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3037314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "纽约期金涨超0.6%，一度刷新历史高位至4650美元",
-          "url": "https://wallstreetcn.com/livenews/3037313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "06时47分"
         },
         {
           "title": "美国国防部：美国国务院批准向科威特出售“爱国者”项目保障及后续技术支持，预计交易金额为8亿美元。",
@@ -1077,6 +1147,108 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "日本深海开采稀土无法规避哪些挑战",
+          "url": "https://www.toutiao.com/trending/7595036144396406310/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            20,
+            23,
+            25,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 06时47分]"
+        },
+        {
+          "title": "英加澳韩等8国央行行长罕见声明，日本不跟",
+          "url": "https://news.ifeng.com/c/8put47t4u2M",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时17分 ~ 06时47分]"
+        },
+        {
+          "title": "日本金融厅（FSA）将通过资本制度放松银行大额贷款。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3037323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 06时47分]"
+        },
+        {
+          "title": "美国财政部：美国财长贝森特在与日本同行会晤中指出“汇率过度波动不可取”，并“强调了稳健制定和沟通货币政策的必要性”。",
+          "url": "https://flash.jin10.com/detail/20260115064025158800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "日本最大在野党同公明党协调 拟成立新党",
+          "url": "https://wallstreetcn.com/livenews/3037318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时18分 ~ 06时47分]"
+        },
+        {
+          "title": "日本北海道近海5.7级地震",
+          "url": "https://wallstreetcn.com/livenews/3037335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
+        },
+        {
+          "title": "媒体：高市谬论害苦日本汽车业",
+          "url": "https://www.toutiao.com/trending/7594740076321865766/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时56分 ~ 01时51分]"
+        },
+        {
+          "title": "据日本放送协会NHK：日本北海道地区发生地震，震源深度约30公里，地震规模（震级）预估为5.7级。",
+          "url": "https://flash.jin10.com/detail/20260115062602522800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时47分"
         }
       ]
     },
@@ -1160,73 +1332,6 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "日本深海开采稀土无法规避哪些挑战",
-          "url": "https://www.toutiao.com/trending/7595036144396406310/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            20,
-            23,
-            25,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 06时18分]"
-        },
-        {
-          "title": "英加澳韩等8国央行行长罕见声明，日本不跟",
-          "url": "https://news.ifeng.com/c/8put47t4u2M",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "日本金融厅（FSA）将通过资本制度放松银行大额贷款。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3037323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "日本最大在野党同公明党协调 拟成立新党",
-          "url": "https://wallstreetcn.com/livenews/3037318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "媒体：高市谬论害苦日本汽车业",
-          "url": "https://www.toutiao.com/trending/7594740076321865766/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时56分 ~ 01时51分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
       "match_count": 4,
       "titles": [
@@ -1239,8 +1344,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 06时47分]"
         },
         {
           "title": "沙特又宣布发现242.6吨黄金资源量",
@@ -1257,6 +1362,19 @@
           "time_info": "[00时24分 ~ 04时44分]"
         },
         {
+          "title": "人到中年适当饿一饿或是抗衰黄金窗口",
+          "url": "https://www.toutiao.com/trending/7594783963441545225/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            28,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时17分 ~ 06时47分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 1月14日（周三）晚盘收盘上涨0.34%报1037.0元/克；<br/>上海黄金交易所白银T+D 1月14日（周三）晚盘收盘上涨4.01%报23240.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260115023141701800",
           "source": "金十数据",
@@ -1267,18 +1385,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时57分 ~ 03时40分]"
-        },
-        {
-          "title": "人到中年适当饿一饿或是抗衰黄金窗口",
-          "url": "https://www.toutiao.com/trending/7594783963441545225/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
         }
       ]
     },
@@ -1366,8 +1472,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 06时18分]"
+          "appearance_count": 19,
+          "time_info": "[00时24分 ~ 06时47分]"
         }
       ]
     },
