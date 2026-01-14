@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T21:38:17.720716+08:00",
-  "total_titles_processed": 2232,
+  "generated_at": "2026-01-14T22:22:12.073008+08:00",
+  "total_titles_processed": 2341,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 127,
+      "match_count": 128,
       "titles": [
         {
           "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时54分 ~ 21时38分]"
+          "appearance_count": 13,
+          "time_info": "[16时54分 ~ 22时22分]"
         },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
@@ -94,6 +94,22 @@
           "time_info": "[15时46分 ~ 19时43分]"
         },
         {
+          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[16时54分 ~ 22时22分]"
+        },
+        {
           "title": "特朗普给美联储调查火上浇油，批鲍威尔“不是无能就是腐败”",
           "url": "https://wallstreetcn.com/articles/3763222",
           "source": "华尔街见闻",
@@ -104,21 +120,6 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[12时33分 ~ 21时38分]"
-        },
-        {
-          "title": "特朗普称国际法无关紧要，外交部：大国应带头尊重国际法权威",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32382657",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            16,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时54分 ~ 21时38分]"
         },
         {
           "title": "特朗普频发“吞并言论”？格陵兰总理：不想被美国拥有或控制，选丹麦！",
@@ -687,6 +688,17 @@
           "time_info": "20时35分"
         },
         {
+          "title": "花旗：期待与美国总统特朗普在可负担性方面展开合作。",
+          "url": "https://flash.jin10.com/detail/20260114215311366800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美国总统特朗普：我们将开始通过陆路打击毒贩。",
           "url": "https://flash.jin10.com/detail/20260114034918816800",
           "source": "金十数据",
@@ -1145,7 +1157,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1277,7 +1289,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1475,7 +1487,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -1527,7 +1539,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 96,
+      "match_count": 104,
       "titles": [
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -1597,6 +1609,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时26分 ~ 03时39分]"
+        },
+        {
+          "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
+          "url": "https://wallstreetcn.com/articles/3763245",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时37分 ~ 22时22分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9795元，较周一夜盘收盘跌62点。成交量403.81亿美元。",
@@ -1905,6 +1929,17 @@
           "time_info": "[17时51分 ~ 18时20分]"
         },
         {
+          "title": "伦镍日内大涨4.00%，现报18301.20美元/吨。沪镍主力合约短线拉升，日内涨近4%，现报146360元/吨。",
+          "url": "https://flash.jin10.com/detail/20260114215543579800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "美国总统特朗普：希望看到油价出现在53美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3036351",
           "source": "华尔街见闻-快讯",
@@ -1926,17 +1961,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时46分 ~ 05时17分]"
-        },
-        {
-          "title": "贵金属狂欢继续，现货白银史上首次站上92美元关口，铜、锡再创新高！",
-          "url": "https://wallstreetcn.com/articles/3763245",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 21时38分]"
         },
         {
           "title": "美国财政部：2025年12月海关净收入278.9亿美元。",
@@ -2060,7 +2084,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -2087,6 +2111,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时24分 ~ 15时46分]"
+        },
+        {
+          "title": "伊朗局势担忧加剧，美股指期货跌幅扩大，金属狂飙，现货白银站上92美元，锡铜新高",
+          "url": "https://wallstreetcn.com/articles/3763270",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
         },
         {
           "title": "美国财政部：美国2025年12月预算赤字为1450亿美元，创当月历史新高，市场预期为1500亿美元，而2024年12月的赤字为870亿美元。",
@@ -2432,7 +2467,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
         },
@@ -2547,6 +2582,17 @@
           "time_info": "11时20分"
         },
         {
+          "title": "美元指数DXY短线波动暂不大，现报99.1。",
+          "url": "https://flash.jin10.com/detail/20260114213349094800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "地缘局势升温推动避险需求 助力银价强势突破90美元大关",
           "url": "https://flash.jin10.com/detail/20260114115512060800",
           "source": "金十数据",
@@ -2580,15 +2626,37 @@
           "time_info": "19时43分"
         },
         {
+          "title": "美国11月核心零售销售 5971.99亿美元，前值5954.03亿美元。",
+          "url": "https://flash.jin10.com/detail/20260114213311844800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "现货白银日内涨幅达5.5%，报91.73美元/盎司；纽约银日内涨幅达6.0%，报91.57美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3037041",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
+        },
+        {
+          "title": "美国三季度经常帐 -2264亿美元，预期 -2380亿美元，前值 -2513亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3037087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "伦锡日内涨超10.00%，现报54265.00美元/吨。",
@@ -2597,9 +2665,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时38分"
+        },
+        {
+          "title": "美国三季度经常帐 -2264亿美元，前值 -2513亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3037086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "美国11月零售销售 7359.04亿美元，前值7326.33亿美元。",
+          "url": "https://flash.jin10.com/detail/20260114213238232800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "澳元兑美元AUD/USD日内跌幅达0.50%，现报0.6675。",
@@ -2622,6 +2712,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "美国第三季度经常帐录得-2264亿美元，为2023年第二季度以来最小逆差。",
+          "url": "https://flash.jin10.com/detail/20260114213024776800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "法院文件显示，特朗普政府寻求撤回一项对下级法院裁决的上诉。该裁决此前阻止了一项行政命令，即要求各州必须配合移民执法，方可获得数十亿美元的交通运输资金。",
@@ -2671,7 +2772,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "又玩老把戏？日本防卫相见美印太司令，图谋“以美制华”",
@@ -3005,6 +3106,17 @@
           "time_info": "17时51分"
         },
         {
+          "title": "日媒：日本立宪民主党和公明党讨论整合成立新政党，若实现或改变选举格局",
+          "url": "https://wallstreetcn.com/livenews/3037101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "日本财务大臣片山皋月：将不排除任何选项，对过度的外汇波动采取适当行动。",
           "url": "https://flash.jin10.com/detail/20260114163617139800",
           "source": "金十数据",
@@ -3261,7 +3373,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -3271,8 +3383,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[09时19分 ~ 21时38分]"
+          "appearance_count": 23,
+          "time_info": "[09时19分 ~ 22时22分]"
         },
         {
           "title": "这4个小时被称为黄金睡眠时间",
@@ -3547,6 +3659,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时33分"
+        },
+        {
+          "title": "美国数据公布后，现货黄金短线下挫后快速反弹，短线波幅达近10美元，现报4633美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260114213300507800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
@@ -3879,11 +4002,12 @@
           "url": "https://www.zhihu.com/question/1994233409871050526",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 21时38分]"
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 22时22分]"
         },
         {
           "title": "摩根资产管理认为中国科技领域将迎来“更多DeepSeek时刻”",
