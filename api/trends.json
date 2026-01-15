@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T22:21:01.746528+08:00",
-  "total_titles_processed": 2440,
+  "generated_at": "2026-01-15T22:50:12.513087+08:00",
+  "total_titles_processed": 2490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 114,
+      "match_count": 118,
       "titles": [
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时19分 ~ 22时21分]"
+          "appearance_count": 13,
+          "time_info": "[18时19分 ~ 22时50分]"
         },
         {
           "title": "现货白银日内涨幅达6.5%，报92.58美元/盎司。",
@@ -443,6 +443,17 @@
           "time_info": "14时27分"
         },
         {
+          "title": "市场消息：Critical Metals公司与沙特一家领先的工业集团签署了一份条款清单，拟成立一家价值高达15亿美元的稀土加工厂，双方各占50%股份。",
+          "url": "https://flash.jin10.com/detail/20260115222808308800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "机构：澳元兑美元年内或上行至0.70",
           "url": "https://flash.jin10.com/detail/20260115110741207800",
           "source": "金十数据",
@@ -744,6 +755,17 @@
           "time_info": "17时49分"
         },
         {
+          "title": "高盛拟通过债券发行至少筹集120亿美元。",
+          "url": "https://flash.jin10.com/detail/20260115222123355800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "台积电第四季度净利润5,057亿元台币，市场预估4,670亿元台币。 第四季度毛利率62.3％，市场预估60.6％。 第四季度营业利润5,649亿元台币，市场预估5,272.3亿元台币。 第四季度营业利益率54％，市场预估50.9％。 第四季度销售额1.05万亿元台币，市场预估1.03万亿元台币。 2025年研发支出2,464.3亿元台币，市场预估2,524.3亿元台币。 2025年销售额3.81万亿元台币。 2025年资本支出总计409亿美元。 台积电美股夜盘直线拉升涨近2%。",
           "url": "https://wallstreetcn.com/livenews/3037556",
           "source": "华尔街见闻-快讯",
@@ -775,6 +797,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时45分"
+        },
+        {
+          "title": "WTI原油日内跌幅达5.0%，报58.77美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3038079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "特朗普更名国防部可能需耗资1.25亿美元",
@@ -847,6 +880,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时44分 ~ 05时18分]"
+        },
+        {
+          "title": "英镑兑美元延续跌势，下跌0.5%至1.3374。欧元兑美元跌破1.16，自去年12月2日以来首次，日内跌0.37%。",
+          "url": "https://wallstreetcn.com/livenews/3038051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时50分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了15个对手方的32.23亿美元。",
@@ -1048,6 +1093,17 @@
           "time_info": "21时37分"
         },
         {
+          "title": "高盛考虑通过出售债券融资至少120亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3038070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "美国国防部：美国国务院批准向科威特出售“爱国者”项目保障及后续技术支持，预计交易金额为8亿美元。",
           "url": "https://flash.jin10.com/detail/20260115041434598800",
           "source": "金十数据",
@@ -1079,17 +1135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
-        },
-        {
-          "title": "英镑兑美元延续跌势，下跌0.5%至1.3374。欧元兑美元跌破1.16，自去年12月2日以来首次，日内跌0.37%。",
-          "url": "https://wallstreetcn.com/livenews/3038051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "韩国央行行长李昌镛：韩国拥有充足的美元储备。",
@@ -1208,7 +1253,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1348,7 +1393,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 93,
+      "match_count": 96,
       "titles": [
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -1371,8 +1416,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[16时25分 ~ 22时21分]"
+          "appearance_count": 19,
+          "time_info": "[16时25分 ~ 22时50分]"
         },
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -1393,8 +1438,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[18时49分 ~ 22时21分]"
+          "appearance_count": 12,
+          "time_info": "[18时49分 ~ 22时50分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -1430,8 +1475,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[18时19分 ~ 22时21分]"
+          "appearance_count": 13,
+          "time_info": "[18时19分 ~ 22时50分]"
         },
         {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
@@ -1467,11 +1512,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[09时15分 ~ 22时21分]"
+          "appearance_count": 31,
+          "time_info": "[09时15分 ~ 22时50分]"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -1955,6 +2001,17 @@
           "time_info": "09时15分"
         },
         {
+          "title": "消息人士称，特朗普政府预计将放弃对可再生燃料和可再生燃料原料进口实施惩罚的计划。",
+          "url": "https://flash.jin10.com/detail/20260115222717650800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "【特朗普称观望伊朗局势发展】当地时间1月14日下午，美国总统特朗普在白宫对媒体谈及伊朗局势时表示，“我们要先观望局势发展”。他同时指出美国政府收到了“来自伊朗非常积极的声明”。不过他也并未排除美国采取军事行动的可能性。美媒分析指出，特朗普的这番言论“似乎意在缓解外界对局势可能升级为更广泛地区冲突的担忧”。(CCTV国际时讯",
           "url": "https://wallstreetcn.com/livenews/3037300",
           "source": "华尔街见闻-快讯",
@@ -1988,6 +2045,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时42分 ~ 20时36分]"
+        },
+        {
+          "title": "特朗普暂缓对关键矿产加征关税 白银跌势重启",
+          "url": "https://flash.jin10.com/detail/20260115220231302800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时50分]"
+        },
+        {
+          "title": "消息人士称，美国总统特朗普政府预计将于三月初敲定2026年生物燃料掺混配额。",
+          "url": "https://flash.jin10.com/detail/20260115222657481800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "美国总统特朗普：（谈格陵兰岛）我们走着瞧。将很快听取有关会晤的汇报。我们与丹麦关系非常好。我们需要格陵兰岛。",
@@ -2047,17 +2127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
-        },
-        {
-          "title": "特朗普暂缓对关键矿产加征关税 白银跌势重启",
-          "url": "https://flash.jin10.com/detail/20260115220231302800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
         },
         {
           "title": "特朗普：对未用于美国AI的进口芯片征收25%关税",
@@ -2381,6 +2450,17 @@
           "time_info": "18时49分"
         },
         {
+          "title": "白银价格下跌，特朗普暂不对关键矿产加征关税且投资者获利回吐",
+          "url": "https://wallstreetcn.com/livenews/3038071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "美最高法院未就特朗普政府关税合法性作出裁决",
           "url": "https://wallstreetcn.com/livenews/3037174",
           "source": "华尔街见闻-快讯",
@@ -2566,8 +2646,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[11时15分 ~ 22时21分]"
+          "appearance_count": 30,
+          "time_info": "[11时15分 ~ 22时50分]"
         },
         {
           "title": "日本男子嫌年终奖发得少把老板杀了",
@@ -2644,6 +2724,17 @@
           "time_info": "[17时49分 ~ 20时36分]"
         },
         {
+          "title": "人民日报钟声：三问日本，撕开其所谓“和平国家”的假面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32388410",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时35分 ~ 22时50分]"
+        },
+        {
           "title": "人民日报钟声三问日本",
           "url": "https://www.toutiao.com/trending/7595112097663483940/",
           "source": "今日头条",
@@ -2707,17 +2798,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时18分 ~ 07时39分]"
-        },
-        {
-          "title": "人民日报钟声：三问日本，撕开其所谓“和平国家”的假面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32388410",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时35分 ~ 22时21分]"
         },
         {
           "title": "美国财政部：美国财长贝森特在与日本同行会晤中指出“汇率过度波动不可取”，并“强调了稳健制定和沟通货币政策的必要性”。",
@@ -3161,7 +3241,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         }
@@ -3197,6 +3277,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[12时58分 ~ 15时45分]"
+        },
+        {
+          "title": "金价彻底杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[20时35分 ~ 22时50分]"
         },
         {
           "title": "沙特又宣布发现242.6吨黄金资源量",
@@ -3241,16 +3334,16 @@
           "time_info": "[12时58分 ~ 14时27分]"
         },
         {
-          "title": "金价彻底杀疯了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            21,
-            2
+            6,
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[20时35分 ~ 22时21分]"
+          "time_info": "[21时37分 ~ 22时50分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月14日（周三）晚盘收盘上涨0.34%报1037.0元/克；<br/>上海黄金交易所白银T+D 1月14日（周三）晚盘收盘上涨4.01%报23240.0元/千克。",
@@ -3276,18 +3369,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时26分 ~ 13时27分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时21分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）上海金午盘价为1032.73元/克，较国际金价（1032.72元/克）高0.01元/克",
@@ -3407,7 +3488,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -3428,6 +3509,18 @@
       "keyword_group": "openai chatgpt",
       "match_count": 7,
       "titles": [
+        {
+          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/1995072589756901062",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时37分 ~ 22时50分]"
+        },
         {
           "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
           "url": "https://wallstreetcn.com/livenews/3037274",
@@ -3454,17 +3547,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时27分 ~ 03时40分]"
-        },
-        {
-          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
-          "url": "https://www.zhihu.com/question/1995072589756901062",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 22时21分]"
         },
         {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
@@ -3602,11 +3684,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时35分 ~ 22时21分]"
+          "appearance_count": 7,
+          "time_info": "[20时35分 ~ 22时50分]"
         },
         {
           "title": "摩根士丹利邢自强：2040年将迎来中国医药界的DeepSeek时刻",
@@ -3655,8 +3738,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[12时26分 ~ 22时21分]"
+          "appearance_count": 29,
+          "time_info": "[12时26分 ~ 22时50分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
@@ -3749,6 +3832,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "内存 存储颗粒",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "部分内存条价格暴涨超300%，报告称存储市场进入超级牛市",
+          "url": "https://wallstreetcn.com/livenews/3038077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         }
       ]
     },
