@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T21:37:54.378075+08:00",
-  "total_titles_processed": 2351,
+  "generated_at": "2026-01-15T22:21:01.746528+08:00",
+  "total_titles_processed": 2440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 112,
+      "match_count": 114,
       "titles": [
         {
           "title": "科技股暴跌，美股指跌幅扩大，纳指跌1.5%，金属狂飙，现货白银站上92美元，锡铜新高",
@@ -40,11 +40,12 @@
           "ranks": [
             18,
             13,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时19分 ~ 21时37分]"
+          "appearance_count": 11,
+          "time_info": "[18时19分 ~ 22时21分]"
         },
         {
           "title": "现货白银日内涨幅达6.5%，报92.58美元/盎司。",
@@ -1042,7 +1043,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1078,6 +1079,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
+        },
+        {
+          "title": "英镑兑美元延续跌势，下跌0.5%至1.3374。欧元兑美元跌破1.16，自去年12月2日以来首次，日内跌0.37%。",
+          "url": "https://wallstreetcn.com/livenews/3038051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "韩国央行行长李昌镛：韩国拥有充足的美元储备。",
@@ -1188,6 +1200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时17分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD跌破1.16，去年12月2日以来首次，日内跌0.37%。",
+          "url": "https://flash.jin10.com/detail/20260115215210982800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "伦锌日内涨幅扩大至2.00%，现报3348.92美元/吨。",
@@ -1317,7 +1340,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         }
@@ -1325,7 +1348,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 93,
       "titles": [
         {
           "title": "特朗普被曝希望对伊朗的军事打击“快速且具决定性”",
@@ -1348,8 +1371,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[16时25分 ~ 21时37分]"
+          "appearance_count": 17,
+          "time_info": "[16时25分 ~ 22时21分]"
         },
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -1361,6 +1384,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 04时44分]"
+        },
+        {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时49分 ~ 22时21分]"
         },
         {
           "title": "马上要谈，特朗普又来：北约应该带头帮我们拿下",
@@ -1386,6 +1420,18 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时24分 ~ 09时15分]"
+        },
+        {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[18时19分 ~ 22时21分]"
         },
         {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
@@ -1424,8 +1470,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[09时15分 ~ 21时37分]"
+          "appearance_count": 29,
+          "time_info": "[09时15分 ~ 22时21分]"
         },
         {
           "title": "特朗普再批鲍威尔",
@@ -1439,29 +1485,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时40分 ~ 09时15分]"
-        },
-        {
-          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
-          "url": "https://news.ifeng.com/c/8pvxjHceg37",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时19分 ~ 21时37分]"
-        },
-        {
-          "title": "美军航母开往中东，特朗普要“速战速决”？",
-          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时49分 ~ 21时37分]"
         },
         {
           "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
@@ -2026,6 +2049,17 @@
           "time_info": "18时19分"
         },
         {
+          "title": "特朗普暂缓对关键矿产加征关税 白银跌势重启",
+          "url": "https://flash.jin10.com/detail/20260115220231302800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
+        },
+        {
           "title": "特朗普：对未用于美国AI的进口芯片征收25%关税",
           "url": "https://flash.jin10.com/detail/20260115043632565800",
           "source": "金十数据",
@@ -2438,7 +2472,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "英加澳韩等8国央行行长罕见声明，日本不跟",
@@ -2532,8 +2566,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时15分 ~ 21时37分]"
+          "appearance_count": 28,
+          "time_info": "[11时15分 ~ 22时21分]"
         },
         {
           "title": "日本男子嫌年终奖发得少把老板杀了",
@@ -2673,6 +2707,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时18分 ~ 07时39分]"
+        },
+        {
+          "title": "人民日报钟声：三问日本，撕开其所谓“和平国家”的假面",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32388410",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时35分 ~ 22时21分]"
         },
         {
           "title": "美国财政部：美国财长贝森特在与日本同行会晤中指出“汇率过度波动不可取”，并“强调了稳健制定和沟通货币政策的必要性”。",
@@ -2850,6 +2895,18 @@
           "time_info": "[12时26分 ~ 13时27分]"
         },
         {
+          "title": "蔡正元：民进党学日本在台湾搞皇民化",
+          "url": "https://www.toutiao.com/trending/7595122678680633385/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 22时21分]"
+        },
+        {
           "title": "日本公明党称公明党和立宪民主党领导人将于当地时间下午3时会面。",
           "url": "https://wallstreetcn.com/livenews/3037572",
           "source": "华尔街见闻-快讯",
@@ -2953,17 +3010,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时56分 ~ 01时51分]"
-        },
-        {
-          "title": "人民日报钟声：三问日本，撕开其所谓“和平国家”的假面",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32388410",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时35分 ~ 20时36分]"
         },
         {
           "title": "日本立宪民主党与公明党就组建新党达成一致 新党可能名为“中道改革党”",
@@ -3098,17 +3144,6 @@
           "time_info": "09时15分"
         },
         {
-          "title": "蔡正元：民进党学日本在台湾搞皇民化",
-          "url": "https://www.toutiao.com/trending/7595122678680633385/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
           "title": "日本立宪民主党与公明党同意组建新党",
           "url": "https://www.toutiao.com/trending/7595340863891406854/",
           "source": "今日头条",
@@ -3118,12 +3153,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
+        },
+        {
+          "title": "高市要重新审视“无核三原则” 日本22个民间团体集体抗议",
+          "url": "https://wallstreetcn.com/livenews/3038032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -3195,6 +3241,18 @@
           "time_info": "[12时58分 ~ 14时27分]"
         },
         {
+          "title": "金价彻底杀疯了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 22时21分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 1月14日（周三）晚盘收盘上涨0.34%报1037.0元/克；<br/>上海黄金交易所白银T+D 1月14日（周三）晚盘收盘上涨4.01%报23240.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260115023141701800",
           "source": "金十数据",
@@ -3220,15 +3278,16 @@
           "time_info": "[12时26分 ~ 13时27分]"
         },
         {
-          "title": "金价彻底杀疯了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E6%9D%80%E7%96%AF%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
+            6,
             21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时35分 ~ 21时37分]"
+          "time_info": "[21时37分 ~ 22时21分]"
         },
         {
           "title": "金十图示：2026年01月15日（周四）上海金午盘价为1032.73元/克，较国际金价（1032.72元/克）高0.01元/克",
@@ -3248,7 +3307,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -3298,17 +3357,6 @@
           "time_info": "09时15分"
         },
         {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=6&Refer=top",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
           "title": "TRX黄金公司：在2026年第一季度，巴克里夫金矿创纪录地冶炼出6,597盎司黄金，并售出6,492盎司黄金。",
           "url": "https://flash.jin10.com/detail/20260115191809575800",
           "source": "金十数据",
@@ -3326,7 +3374,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -3351,6 +3399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时24分"
+        },
+        {
+          "title": "美元指数短线拉升，现涨0.29%，报99.36。现货黄金短线下挫，现报4596美元/盎司。纳斯达克100指数期货盘前涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3038041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时21分"
         },
         {
           "title": "贵金属板块震荡走强，四川黄金冲击涨停，赤峰黄金、湖南白银、招金黄金、山东黄金、山金国际、盛达资源跟涨。",
@@ -3397,6 +3456,17 @@
           "time_info": "[02时27分 ~ 03时40分]"
         },
         {
+          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/1995072589756901062",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时37分 ~ 22时21分]"
+        },
+        {
           "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
           "url": "https://flash.jin10.com/detail/20260115041052630800",
           "source": "金十数据",
@@ -3407,17 +3477,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时17分 ~ 04时44分]"
-        },
-        {
-          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
-          "url": "https://www.zhihu.com/question/1995072589756901062",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
         },
         {
           "title": "OpenAI与Cerebras达成百亿美元算力合作",
@@ -3546,8 +3605,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时35分 ~ 21时37分]"
+          "appearance_count": 5,
+          "time_info": "[20时35分 ~ 22时21分]"
         },
         {
           "title": "摩根士丹利邢自强：2040年将迎来中国医药界的DeepSeek时刻",
@@ -3592,11 +3651,12 @@
             19,
             16,
             11,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[12时26分 ~ 21时37分]"
+          "appearance_count": 27,
+          "time_info": "[12时26分 ~ 22时21分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
