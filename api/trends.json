@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T20:34:07.705693+08:00",
-  "total_titles_processed": 2060,
+  "generated_at": "2026-01-16T21:35:36.731163+08:00",
+  "total_titles_processed": 2168,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 96,
+      "match_count": 101,
       "titles": [
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[14时27分 ~ 20时34分]"
+          "appearance_count": 21,
+          "time_info": "[14时27分 ~ 21时35分]"
         },
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -92,8 +92,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[11时14分 ~ 20时34分]"
+          "appearance_count": 23,
+          "time_info": "[11时14分 ~ 21时35分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -110,6 +110,19 @@
           "time_info": "[07时41分 ~ 19时41分]"
         },
         {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[17时22分 ~ 21时35分]"
+        },
+        {
           "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
           "url": "https://www.zhihu.com/question/1995430633518944539",
           "source": "知乎",
@@ -118,20 +131,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[15时44分 ~ 20时34分]"
-        },
-        {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时22分 ~ 20时34分]"
+          "appearance_count": 17,
+          "time_info": "[15时44分 ~ 21时35分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -340,6 +341,18 @@
           "time_info": "[03时21分 ~ 04时47分]"
         },
         {
+          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时41分 ~ 21时35分]"
+        },
+        {
           "title": "白宫发布关于美国总统特朗普医疗保健计划的清单。 特朗普希望降低保费。 特朗普要求国会山编纂关于降低医药成本的（立法）协议。",
           "url": "https://wallstreetcn.com/livenews/3038125",
           "source": "华尔街见闻-快讯",
@@ -475,17 +488,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时45分 ~ 07时41分]"
-        },
-        {
-          "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32397863",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时41分 ~ 20时34分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
@@ -906,6 +908,17 @@
           "time_info": "11时15分"
         },
         {
+          "title": "由于特朗普政府将签署协议以抑制电价，一些电力公司股价在盘前下跌，Talen Energy下跌6.8%，Vistra下跌3.2%，Constellation Energy下跌2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3038829",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普的医疗计划旨在针对药房福利管理机构的支付。",
           "url": "https://flash.jin10.com/detail/20260116002858964800",
           "source": "金十数据",
@@ -926,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "部分美国电力公司股价盘前下跌，因特朗普政府将签署一项遏制电价的协议。Talen能源下跌6.8%，Vistra下跌3.2%，星座能源下跌2.6%。",
+          "url": "https://flash.jin10.com/detail/20260116211411832800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "委反对派领袖会见特朗普，后者拒绝为其掌权背书",
@@ -1022,7 +1046,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -1071,6 +1095,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：预计将出台有关住房的规定，界定机构投资者的角色。 我们已在就信用卡事宜与大行进行接触。 不认为在信用卡问题上需要立法。 MBS计划的目的是降低抵押贷款利差。 我将和特朗普一同前往达沃斯。",
+          "url": "https://wallstreetcn.com/livenews/3038816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "特朗普关税突然熄火了？丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20260116112201338800",
           "source": "金十数据",
@@ -1088,9 +1123,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：特朗普与国会领导人讨论预算调和事宜。最终，共和党高层领导将在该问题上占据上风。",
+          "url": "https://flash.jin10.com/detail/20260116210135001800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "马查多把诺贝尔和平奖颁给特朗普",
@@ -1102,6 +1148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：最高法院作出（不利）裁决后，特朗普可以立即实施10%的关税。",
+          "url": "https://flash.jin10.com/detail/20260116210001930800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "白宫称特朗普及其团队正密切关注伊朗局势",
@@ -1162,7 +1219,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 87,
+      "match_count": 97,
       "titles": [
         {
           "title": "首个月球酒店开放预订！5晚1000万美元，主理人是22岁华人",
@@ -1217,6 +1274,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[06时18分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 21时35分]"
         },
         {
           "title": "苹果公司股价短线跳水，跌超0.5%，刷新日低至258美元。",
@@ -1329,18 +1398,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时18分 ~ 07时41分]"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 20时34分]"
         },
         {
           "title": "美国11月国际资本净流入 2120.36亿美元，前值 -373亿美元。",
@@ -1651,6 +1708,17 @@
           "time_info": "19时41分"
         },
         {
+          "title": "沪镍主力合约日内跌近4.00%，现报139000元/吨。伦镍下跌5%，至每吨17630美元。",
+          "url": "https://flash.jin10.com/detail/20260116212525021800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "人民币兑美元中间价报7.0078，下调14点；上一交易日中间价7.0064，上一交易日官方收盘价6.9698，上日夜盘报收6.9680。",
           "url": "https://wallstreetcn.com/livenews/3038327",
           "source": "华尔街见闻-快讯",
@@ -1707,6 +1775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时17分"
+        },
+        {
+          "title": "LME三个月期锡下跌7.5%，至每吨48,110美元。",
+          "url": "https://flash.jin10.com/detail/20260116212445371800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "美光科技董事780万美元增持股票",
@@ -1955,6 +2034,17 @@
           "time_info": "17时22分"
         },
         {
+          "title": "伦锡日内跌幅达8.00%，现报48115.00美元/吨。沪银主力合约日内大跌4.00%，现报21658.00元/千克。",
+          "url": "https://flash.jin10.com/detail/20260116211835289800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "特朗普个人投资组合新增价值5,100万美元的债券，CoreWeave赫然在列",
           "url": "https://wallstreetcn.com/livenews/3038258",
           "source": "华尔街见闻-快讯",
@@ -1977,13 +2067,24 @@
           "time_info": "11时15分"
         },
         {
+          "title": "纽约期银回落至88美元/盎司下方，日内跌4.72%。",
+          "url": "https://flash.jin10.com/detail/20260116211809968800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "消息人士称，由于担心供应收紧，日本第一季度铝溢价达195美元/吨，比上一季度上涨127%。（路透）",
           "url": "https://wallstreetcn.com/livenews/3038793",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -2005,7 +2106,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -2054,6 +2155,17 @@
           "time_info": "19时41分"
         },
         {
+          "title": "现货白银失守89美元/盎司，日内跌3.66%。 纽约期银日内跌4%，现报88.63美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3038825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "IMF总裁格奥尔基耶娃：（被问及美元地位）当基本面强劲时，你的地位就稳固，包括你的货币。",
           "url": "https://flash.jin10.com/detail/20260116042636327800",
           "source": "金十数据",
@@ -2063,6 +2175,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时47分"
+        },
+        {
+          "title": "现货白银日内大跌4.00%，现报88.66美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260116211000121800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "道明考恩：将英特尔(INTC.O)目标股价从38美元上调至50美元。",
@@ -2120,15 +2243,37 @@
           "time_info": "09时18分"
         },
         {
+          "title": "纽约期银日内大跌4.00%，现报88.63美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260116210519706800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "美国银行：美元对冲成本降低 美元兑多数货币走势今年或面临压力",
           "url": "https://flash.jin10.com/detail/20260116200036554800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
+        },
+        {
+          "title": "现货白银向下触及89美元/盎司，日内跌3.66%。",
+          "url": "https://flash.jin10.com/detail/20260116210503640800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "美元兑日元USD/JPY短线小幅走低20点，现报158.44。",
@@ -2140,6 +2285,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "纽约期银跌破89美元/盎司，日内跌3.64%。",
+          "url": "https://flash.jin10.com/detail/20260116210254809800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "美元指数15日上涨",
@@ -2217,12 +2373,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时18分"
+        },
+        {
+          "title": "道富银行：第四财季净利息收入8.02亿美元，市场预期7.643亿美元。 第四财季资产管理规模5.7万亿美元，市场预期5.62万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3038804",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "日本前高官窜访台湾，外交部回应",
@@ -2233,8 +2400,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时22分 ~ 20时34分]"
+          "appearance_count": 12,
+          "time_info": "[17时22分 ~ 21时35分]"
         },
         {
           "title": "对抗高市阵营！日本两大在野党决定联手",
@@ -2315,11 +2482,12 @@
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%88%98%E6%9C%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B7%E6%B6%88%E5%A4%B1+%E6%9B%BE%E5%8F%91%E6%B1%82%E6%95%91%E4%BF%A1%E5%8F%B7",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时16分 ~ 20时34分]"
+          "appearance_count": 5,
+          "time_info": "[19时16分 ~ 21时35分]"
         },
         {
           "title": "日本与意大利将围绕太空开发合作问题达成共识。（日经新闻）",
@@ -2694,6 +2862,17 @@
           "time_info": "11时15分"
         },
         {
+          "title": "与美国战争部长练体能，日本防卫大臣出现脱水症状",
+          "url": "https://news.ifeng.com/c/8pxv6RvgJiU",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "日本首相高市早苗与意大利总理梅洛尼就太空垃圾清除达成协议。",
           "url": "https://flash.jin10.com/detail/20260115234211901800",
           "source": "金十数据",
@@ -2906,7 +3085,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -2970,6 +3149,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时44分 ~ 16时23分]"
+        },
+        {
+          "title": "美国经济数据强于预期、地缘局势缓和 金价周五延续跌势",
+          "url": "https://flash.jin10.com/detail/20260116212555636800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "现货白银日内跌幅扩大至4%，现报88.66美元/盎司。 现货黄金失守4590美元/盎司，日内跌0.58%。 伦锡日内跌幅达8%，一度跌至48115.00美元/吨。 伦镍日内跌5%，至17630美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3038827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "据The Kobeissi Letter：2025年，日本的黄金储备达到了创纪录的1200亿美元，较上年增长了60%。目前，黄金储备占日本总储备资产的比例为9%，自2022年以来已增长了一倍多。",
@@ -3060,6 +3261,17 @@
           "time_info": "15时45分"
         },
         {
+          "title": "现货黄金失守4590美元/盎司，日内跌幅0.58%。",
+          "url": "https://flash.jin10.com/detail/20260116211706185800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
           "title": "金十图示：2026年01月16日（周五）上海金午盘价为1032.44元/克，较国际金价（1032.22元/克）高0.22元/克",
           "url": "https://flash.jin10.com/detail/20260116152016994800",
           "source": "金十数据",
@@ -3077,7 +3289,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -3102,6 +3314,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "俄罗斯至1月2日当周央行黄金和外汇储备 7525亿美元，前值7639亿美元。",
+          "url": "https://flash.jin10.com/detail/20260116210004444800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
         },
         {
           "title": "金十图示：2026年01月16日（周五）上海金早盘价为1031.13元/克，较国际金价（1030.62元/克）高0.51元/克",
@@ -3148,8 +3371,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时14分 ~ 20时34分]"
+          "appearance_count": 26,
+          "time_info": "[11时14分 ~ 21时35分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -3231,6 +3454,18 @@
           "time_info": "[12时15分 ~ 18时49分]"
         },
         {
+          "title": "老黄“领先一步”，当所有人都在争夺台积电产能，英伟达在“抢地”",
+          "url": "https://wallstreetcn.com/articles/3763432",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 21时35分]"
+        },
+        {
           "title": "英伟达悄悄修改数据中心铜用量表述",
           "url": "https://www.toutiao.com/trending/7595820351934697014/",
           "source": "今日头条",
@@ -3242,18 +3477,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[14时57分 ~ 16时23分]"
-        },
-        {
-          "title": "老黄“领先一步”，当所有人都在争夺台积电产能，英伟达在“抢地”",
-          "url": "https://wallstreetcn.com/articles/3763432",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 20时34分]"
         },
         {
           "title": "美国政府批准向中国出口英伟达 H200 芯片，这对中国 AI 算力市场和国产芯片发展意味着什么？",
@@ -3429,6 +3652,34 @@
       ]
     },
     {
+      "keyword_group": "内存 存储颗粒",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "一条内存半个月涨出一台iPhone",
+          "url": "https://www.cls.cn/detail/2260607",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时35分"
+        },
+        {
+          "title": "有没有把显存作为系统内存使用的技术？",
+          "url": "https://www.zhihu.com/question/1993768615611233453",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -3462,23 +3713,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时16分 ~ 19时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "内存 存储颗粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "有没有把显存作为系统内存使用的技术？",
-          "url": "https://www.zhihu.com/question/1993768615611233453",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时41分"
         }
       ]
     }
