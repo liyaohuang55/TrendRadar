@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T17:22:47.110316+08:00",
-  "total_titles_processed": 1701,
+  "generated_at": "2026-01-16T17:48:16.396905+08:00",
+  "total_titles_processed": 1737,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时27分 ~ 17时22分]"
+          "appearance_count": 12,
+          "time_info": "[14时27分 ~ 17时48分]"
         },
         {
           "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
@@ -89,8 +90,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时14分 ~ 17时22分]"
+          "appearance_count": 14,
+          "time_info": "[11时14分 ~ 17时48分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -103,8 +104,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时41分 ~ 17时22分]"
+          "appearance_count": 21,
+          "time_info": "[07时41分 ~ 17时48分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -135,11 +136,12 @@
           "url": "https://www.zhihu.com/question/1995430633518944539",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 17时22分]"
+          "appearance_count": 8,
+          "time_info": "[15时44分 ~ 17时48分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -398,6 +400,19 @@
           "time_info": "[03时21分 ~ 04时20分]"
         },
         {
+          "title": "特朗普称“阻挠达成俄乌和平协议的人是泽连斯基”，泽连斯基表态",
+          "url": "https://wallstreetcn.com/livenews/3038633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时48分]"
+        },
+        {
           "title": "美国总统特朗普称赞低油气价格。",
           "url": "https://flash.jin10.com/detail/20260116052721995800",
           "source": "金十数据",
@@ -448,6 +463,17 @@
           "time_info": "[06时45分 ~ 07时41分]"
         },
         {
+          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 17时48分]"
+        },
+        {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。",
           "url": "https://flash.jin10.com/detail/20260115235739581800",
           "source": "金十数据",
@@ -491,18 +517,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 07时41分]"
-        },
-        {
-          "title": "特朗普称“阻挠达成俄乌和平协议的人是泽连斯基”，泽连斯基表态",
-          "url": "https://wallstreetcn.com/livenews/3038633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时22分]"
         },
         {
           "title": "市场消息：美国波士顿一名法官打算发布一项命令，旨在阻止特朗普政府拘留并驱逐那些对政府处理亲巴勒斯坦校园活动人士方式提出质疑的学者。",
@@ -920,17 +934,6 @@
           "time_info": "01时04分"
         },
         {
-          "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32398697",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "美国白宫：美国总统特朗普的医疗保健计划承诺将提供更多药品供非处方购买。",
           "url": "https://flash.jin10.com/detail/20260116002420950800",
           "source": "金十数据",
@@ -1066,7 +1069,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 76,
+      "match_count": 77,
       "titles": [
         {
           "title": "首个月球酒店开放预订！5晚1000万美元，主理人是22岁华人",
@@ -1092,8 +1095,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时57分 ~ 17时22分]"
+          "appearance_count": 15,
+          "time_info": "[12时57分 ~ 17时48分]"
         },
         {
           "title": "首笔交易价值5亿美元，美国已正式开售委内瑞拉石油",
@@ -1109,6 +1112,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[06时18分 ~ 12时15分]"
+        },
+        {
+          "title": "又一个战略储备诞生？报道：美国国会两党力推25亿美元关键矿产战略储备计划",
+          "url": "https://wallstreetcn.com/articles/3763388",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时23分 ~ 17时48分]"
         },
         {
           "title": "苹果公司股价短线跳水，跌超0.5%，刷新日低至258美元。",
@@ -1235,18 +1250,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时17分 ~ 06时45分]"
-        },
-        {
-          "title": "又一个战略储备诞生？报道：美国国会两党力推25亿美元关键矿产战略储备计划",
-          "url": "https://wallstreetcn.com/articles/3763388",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时23分 ~ 17时22分]"
         },
         {
           "title": "周四（1月15日），美联储隔夜逆回购协议（RRP）使用规模为20.03亿美元（交易对手6家），上个交易日报32.23亿美元。",
@@ -1435,6 +1438,18 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "WTI原油期货日内涨幅达1.00%，现报59.68美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260116171951494800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时48分]"
+        },
+        {
           "title": "AI芯片需求持续火热，台积电Q4净利润大幅增长35%，2025年全年资本支出达409亿美元 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3763354",
           "source": "华尔街见闻",
@@ -1470,17 +1485,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 04时20分]"
-        },
-        {
-          "title": "WTI原油期货日内涨幅达1.00%，现报59.68美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260116171951494800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "消息人士：人工智能编程初创公司Replit接近完成融资，估值达90亿美元。",
@@ -1552,6 +1556,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时57分 ~ 15时24分]"
+        },
+        {
+          "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3038653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时22分 ~ 17时48分]"
         },
         {
           "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，美元站上99关口，金银微跌",
@@ -1670,6 +1686,17 @@
           "time_info": "11时15分"
         },
         {
+          "title": "布伦特原油日内涨幅达1.00%，现报64.57美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260116173018672800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
+        },
+        {
           "title": "美国11月长期资本净流入 2202亿美元，前值由175亿美元修正为309亿美元。",
           "url": "https://flash.jin10.com/detail/20260116050002317800",
           "source": "金十数据",
@@ -1783,18 +1810,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "美股盘前，半导体股上涨，美光科技涨近4%，美光科技董事780万美元增持股票；AMD涨超2%，台积电涨超1%。",
-          "url": "https://wallstreetcn.com/livenews/3038653",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -2011,8 +2027,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时17分 ~ 17时22分]"
+          "appearance_count": 20,
+          "time_info": "[09时17分 ~ 17时48分]"
         },
         {
           "title": "媒体：日本两大在野党联手对抗高市",
@@ -2070,8 +2086,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 17时22分]"
+          "appearance_count": 5,
+          "time_info": "[16时52分 ~ 17时48分]"
         },
         {
           "title": "日本与意大利将围绕太空开发合作问题达成共识。（日经新闻）",
@@ -2101,6 +2117,17 @@
           "time_info": "[12时15分 ~ 13时24分]"
         },
         {
+          "title": "日本前高官窜访台湾，外交部回应",
+          "url": "https://news.ifeng.com/c/8pxm2HXdslD",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 17时48分]"
+        },
+        {
           "title": "日本立宪民主党与公明党将新组建政党命名为“中道改革联合”",
           "url": "https://wallstreetcn.com/livenews/3038482",
           "source": "华尔街见闻-快讯",
@@ -2112,6 +2139,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时24分 ~ 14时27分]"
+        },
+        {
+          "title": "日媒：日本前首相菅义伟将退出政坛",
+          "url": "https://wallstreetcn.com/livenews/3038638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时48分]"
         },
         {
           "title": "日本经济产业大臣赤泽亮正：将出席达沃斯世界经济论坛。",
@@ -2140,6 +2180,18 @@
           "time_info": "[13时24分 ~ 14时27分]"
         },
         {
+          "title": "中方回应日本前官房长官窜访台湾",
+          "url": "https://www.toutiao.com/trending/7595574302896947251/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 17时48分]"
+        },
+        {
           "title": "日本财务大臣片山皋月：我们与日本央行在经济观点上不存在重大分歧。",
           "url": "https://flash.jin10.com/detail/20260116153816272800",
           "source": "金十数据",
@@ -2150,18 +2202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时45分 ~ 16时23分]"
-        },
-        {
-          "title": "日媒：日本前首相菅义伟将退出政坛",
-          "url": "https://wallstreetcn.com/livenews/3038638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 17时22分]"
         },
         {
           "title": "马斯克旗下Grok AI遭日本调查",
@@ -2399,17 +2439,6 @@
           "time_info": "[16时52分 ~ 16时53分]"
         },
         {
-          "title": "日本前高官窜访台湾，外交部回应",
-          "url": "https://news.ifeng.com/c/8pxm2HXdslD",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "消息人士称，日元走弱可能加剧通胀压力，这越发引起日本央行的重视。日本央行很可能在下周发布的季度评估中上调2026财年经济增长和通胀预测。",
           "url": "https://flash.jin10.com/detail/20260116104142945800",
           "source": "金十数据",
@@ -2586,17 +2615,6 @@
           "time_info": "09时18分"
         },
         {
-          "title": "中方回应日本前官房长官窜访台湾",
-          "url": "https://www.toutiao.com/trending/7595574302896947251/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
           "title": "日本财务大臣片山皋月：干预已作为选项纳入美日协议。",
           "url": "https://flash.jin10.com/detail/20260116101812714800",
           "source": "金十数据",
@@ -2738,7 +2756,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -2760,7 +2778,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
         },
@@ -2852,8 +2870,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时14分 ~ 17时22分]"
+          "appearance_count": 17,
+          "time_info": "[11时14分 ~ 17时48分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -2931,8 +2949,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时15分 ~ 17时22分]"
+          "appearance_count": 16,
+          "time_info": "[12时15分 ~ 17时48分]"
         },
         {
           "title": "英伟达悄悄修改数据中心铜用量表述",
@@ -2960,6 +2978,18 @@
           "time_info": "[11时14分 ~ 12时57分]"
         },
         {
+          "title": "老黄“领先一步”，当所有人都在争夺台积电产能，英伟达在“抢地”",
+          "url": "https://wallstreetcn.com/articles/3763432",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时22分 ~ 17时48分]"
+        },
+        {
           "title": "英伟达修改技术论文错误表述 大幅下调数据中心铜使用量",
           "url": "https://flash.jin10.com/detail/20260116105111989800",
           "source": "金十数据",
@@ -2980,17 +3010,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
-        },
-        {
-          "title": "老黄“领先一步”，当所有人都在争夺台积电产能，英伟达在“抢地”",
-          "url": "https://wallstreetcn.com/articles/3763432",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时22分"
         },
         {
           "title": "英伟达收涨超2.1%，领跑美国科技股七巨头，台积电涨超4.4%创收盘历史新高",
