@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T22:49:04.536392+08:00",
-  "total_titles_processed": 2304,
+  "generated_at": "2026-01-16T23:20:26.121891+08:00",
+  "total_titles_processed": 2359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 112,
+      "match_count": 115,
       "titles": [
         {
           "title": "首个月球酒店开放预订！5晚1000万美元，主理人是22岁华人",
@@ -47,6 +47,18 @@
           "time_info": "[16时23分 ~ 18时49分]"
         },
         {
+          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
+          "url": "https://wallstreetcn.com/articles/3763449",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时16分 ~ 23时20分]"
+        },
+        {
           "title": "首笔交易价值5亿美元，美国已正式开售委内瑞拉石油",
           "url": "https://m.thepaper.cn/newsDetail_forward_32390047",
           "source": "澎湃新闻",
@@ -60,18 +72,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[06时18分 ~ 12时15分]"
-        },
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时16分 ~ 22时49分]"
         },
         {
           "title": "杰富瑞：将英伟达(NVDA.O)目标价从250美元上调至275美元。",
@@ -683,6 +683,18 @@
           "time_info": "[12时15分 ~ 12时57分]"
         },
         {
+          "title": "美股开盘，道指涨54点、标普500指数涨0.18%、纳指涨0.4%。美光科技(MU.O)涨4.8%，其董事会成员Teyin Liu斥资约780万美元增持公司股份。诺和诺德(NVO.N)涨4.6%，英国监管机构批准以更高剂量的Wegovy治疗肥胖。纳斯达克中国金龙指数跌0.1%。",
+          "url": "https://flash.jin10.com/detail/20260116223032607800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时20分]"
+        },
+        {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌5.91%，暂报4113.13点，期内震荡走低，北京时间23:52刷新低点至4055.52点。 MarketVectorTM数字资产100中盘指数跌4.10%，报3810.61点。 MarketVector数字资产100指数跌1.26%，报19912.96点。 目前，Solana跌2.53%，狗狗币跌3.97%，XRP跌2.64%。 此外，比特币跌0.99%，暂报96602美元；以太坊跌1.5%，暂报3325.96美元。",
           "url": "https://wallstreetcn.com/livenews/3038139",
           "source": "华尔街见闻-快讯",
@@ -837,6 +849,17 @@
           "time_info": "[00时29分 ~ 01时04分]"
         },
         {
+          "title": "标普500指数转跌，道指下跌逾百点、跌幅超0.2%，纳指大致持平。 美元/日元日内跌幅达0.5%，报157.84。",
+          "url": "https://wallstreetcn.com/livenews/3038894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "报告：AI推动半导体行业营收在2026年首次突破1万亿美元",
           "url": "https://flash.jin10.com/detail/20260115234252489800",
           "source": "金十数据",
@@ -901,17 +924,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时35分"
-        },
-        {
-          "title": "美股开盘，道指涨54点、标普500指数涨0.18%、纳指涨0.4%。美光科技(MU.O)涨4.8%，其董事会成员Teyin Liu斥资约780万美元增持公司股份。诺和诺德(NVO.N)涨4.6%，英国监管机构批准以更高剂量的Wegovy治疗肥胖。纳斯达克中国金龙指数跌0.1%。",
-          "url": "https://flash.jin10.com/detail/20260116223032607800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
         },
         {
           "title": "消息人士称，由于担心供应收紧，日本第一季度铝溢价达195美元/吨，比上一季度上涨127%。（路透）",
@@ -1035,6 +1047,17 @@
           "time_info": "21时35分"
         },
         {
+          "title": "美光科技涨超8%，盘中值首次突破4000亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3038885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "道明考恩：将英特尔(INTC.O)目标股价从38美元上调至50美元。",
           "url": "https://flash.jin10.com/detail/20260116144310487800",
           "source": "金十数据",
@@ -1123,6 +1146,17 @@
           "time_info": "21时35分"
         },
         {
+          "title": "美光科技(MU.O)上涨逾8%，总市值首次突破4000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260116224211918800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国银行：美元对冲成本降低 美元兑多数货币走势今年或面临压力",
           "url": "https://flash.jin10.com/detail/20260116200036554800",
           "source": "金十数据",
@@ -1206,7 +1240,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1228,7 +1262,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1261,7 +1295,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1305,7 +1339,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -1346,7 +1380,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 111,
+      "match_count": 113,
       "titles": [
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -1397,8 +1431,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[14时27分 ~ 22时49分]"
+          "appearance_count": 25,
+          "time_info": "[14时27分 ~ 23时20分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -1434,8 +1468,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[11时14分 ~ 22时49分]"
+          "appearance_count": 27,
+          "time_info": "[11时14分 ~ 23时20分]"
         },
         {
           "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
@@ -1462,8 +1496,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[17时22分 ~ 22时49分]"
+          "appearance_count": 16,
+          "time_info": "[17时22分 ~ 23时20分]"
         },
         {
           "title": "特朗普暂缓对伊朗发动军事打击，此举出于什么考虑？其后续可能有什么新动作？",
@@ -1474,8 +1508,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[15时44分 ~ 22时49分]"
+          "appearance_count": 21,
+          "time_info": "[15时44分 ~ 23时20分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -1511,8 +1545,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时41分 ~ 22时49分]"
+          "appearance_count": 8,
+          "time_info": "[19时41分 ~ 23时20分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -1902,6 +1936,17 @@
           "time_info": "22时20分"
         },
         {
+          "title": "马查多“献诺奖”，特朗普“笑纳”，颁奖方尴尬",
+          "url": "https://wallstreetcn.com/livenews/3038897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "市场消息：美国波士顿一名法官打算发布一项命令，旨在阻止特朗普政府拘留并驱逐那些对政府处理亲巴勒斯坦校园活动人士方式提出质疑的学者。",
           "url": "https://flash.jin10.com/detail/20260116050337941800",
           "source": "金十数据",
@@ -1924,6 +1969,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时15分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普政府或将签署一项遏制电价的协议，美国电力公司股价下跌，Talen能源(TLN.O)下跌8%，Vistra能源(VST.N)下跌6.9%，星座能源(CEG.O)下跌6.3%。",
+          "url": "https://flash.jin10.com/detail/20260116223126356800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时20分]"
         },
         {
           "title": "报道：特朗普下周将借达沃斯场合公布利用401(k)支付购房首付的计划",
@@ -2265,17 +2322,6 @@
           "time_info": "19时41分"
         },
         {
-          "title": "特朗普政府或将签署一项遏制电价的协议，美国电力公司股价下跌，Talen能源(TLN.O)下跌8%，Vistra能源(VST.N)下跌6.9%，星座能源(CEG.O)下跌6.3%。",
-          "url": "https://flash.jin10.com/detail/20260116223126356800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
-        },
-        {
           "title": "美国总统特朗普：作为加沙和平委员会主席，我支持一个新任命的巴勒斯坦技术官僚政府——加沙行政全国委员会——在过渡时期治理加沙。",
           "url": "https://flash.jin10.com/detail/20260116085002026800",
           "source": "金十数据",
@@ -2474,6 +2520,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "Vistra（VST）跌7.3%，星牌能源（CEG）跌6.9%。 美国总统特朗普推动通过电力拍卖，让数据中心承担飙涨的电力成本。",
+          "url": "https://wallstreetcn.com/livenews/3038883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
           "title": "美国白宫：美国总统特朗普的医疗保健计划承诺将提供更多药品供非处方购买。",
           "url": "https://flash.jin10.com/detail/20260116002420950800",
           "source": "金十数据",
@@ -2524,7 +2581,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时49分"
         },
@@ -2735,6 +2792,20 @@
           "time_info": "[00时29分 ~ 06时18分]"
         },
         {
+          "title": "美战机在日本近海消失 曾发求救信号",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%88%98%E6%9C%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B7%E6%B6%88%E5%A4%B1+%E6%9B%BE%E5%8F%91%E6%B1%82%E6%95%91%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            4,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时16分 ~ 23时20分]"
+        },
+        {
           "title": "聂卫平曾连胜多位日本超一流棋手",
           "url": "https://search.bilibili.com/all?keyword=%E8%81%82%E5%8D%AB%E5%B9%B3%E6%9B%BE%E8%BF%9E%E8%83%9C%E5%A4%9A%E4%BD%8D%E6%97%A5%E6%9C%AC%E8%B6%85%E4%B8%80%E6%B5%81%E6%A3%8B%E6%89%8B",
           "source": "bilibili 热搜",
@@ -2750,20 +2821,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 09时18分]"
-        },
-        {
-          "title": "美战机在日本近海消失 曾发求救信号",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%88%98%E6%9C%BA%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%BF%91%E6%B5%B7%E6%B6%88%E5%A4%B1+%E6%9B%BE%E5%8F%91%E6%B1%82%E6%95%91%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            4,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时16分 ~ 22时49分]"
         },
         {
           "title": "人民日报钟声三问日本",
@@ -2785,8 +2842,20 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[21时35分 ~ 23时20分]"
+        },
+        {
+          "title": "日本被打到七寸了",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%89%93%E5%88%B0%E4%B8%83%E5%AF%B8%E4%BA%86%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[21时35分 ~ 22时49分]"
+          "time_info": "[22时20分 ~ 23时20分]"
         },
         {
           "title": "日本与意大利将围绕太空开发合作问题达成共识。（日经新闻）",
@@ -2866,17 +2935,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时24分 ~ 14时27分]"
-        },
-        {
-          "title": "日本被打到七寸了",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%89%93%E5%88%B0%E4%B8%83%E5%AF%B8%E4%BA%86%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时20分 ~ 22时49分]"
         },
         {
           "title": "中方回应日本前官房长官窜访台湾",
@@ -3672,8 +3730,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[11时14分 ~ 22时49分]"
+          "appearance_count": 30,
+          "time_info": "[11时14分 ~ 23时20分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -3737,6 +3795,93 @@
       ]
     },
     {
+      "keyword_group": "股市",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月15日（周四）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260116050531065800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 06时18分]"
+        },
+        {
+          "title": "希腊雅典证交所综合指数收涨1.28%，报2247.69点，继续逼近2010年1月11日收盘位2315.31点和2009年12月2日收盘位2433.24点。 自2022年10月份开始，希腊股市持续走强，迄今累计涨幅达到将近183.48%。",
+          "url": "https://wallstreetcn.com/livenews/3038120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时57分]"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260116161404868800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260116230302839800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时20分"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）全球股市指数-亚太市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260116180438793800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260116102700010800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时15分"
+        },
+        {
+          "title": "金十图示：2026年01月16日（周五）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260116004629697800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "显卡 英伟达",
       "match_count": 7,
       "titles": [
@@ -3763,8 +3908,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时22分 ~ 22时49分]"
+          "appearance_count": 10,
+          "time_info": "[17时22分 ~ 23时20分]"
         },
         {
           "title": "英伟达悄悄修改数据中心铜用量表述",
@@ -3827,82 +3972,6 @@
       ]
     },
     {
-      "keyword_group": "股市",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月15日（周四）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260116050531065800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "希腊雅典证交所综合指数收涨1.28%，报2247.69点，继续逼近2010年1月11日收盘位2315.31点和2009年12月2日收盘位2433.24点。 自2022年10月份开始，希腊股市持续走强，迄今累计涨幅达到将近183.48%。",
-          "url": "https://wallstreetcn.com/livenews/3038120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时57分]"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260116161404868800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）全球股市指数-亚太市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260116180438793800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）亚太市场股市指数（盘初）",
-          "url": "https://flash.jin10.com/detail/20260116102700010800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时15分"
-        },
-        {
-          "title": "金十图示：2026年01月16日（周五）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260116004629697800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -3961,11 +4030,12 @@
           "url": "https://www.cls.cn/detail/2260607",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时35分 ~ 22时49分]"
+          "appearance_count": 5,
+          "time_info": "[21时35分 ~ 23时20分]"
         },
         {
           "title": "有没有把显存作为系统内存使用的技术？",
@@ -4026,11 +4096,12 @@
           "url": "https://flash.jin10.com/detail/20260116223702156800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时49分 ~ 23时20分]"
         }
       ]
     }
