@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T21:45:50.509090+08:00",
-  "total_titles_processed": 1566,
+  "generated_at": "2026-01-17T22:15:46.833116+08:00",
+  "total_titles_processed": 1604,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "特朗普威胁：对不支持的国家加征关税",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时21分 ~ 06时45分]"
+        },
+        {
+          "title": "特朗普改口：无理由在美国明州动用《反叛乱法》",
+          "url": "https://v.ifeng.com/c/8pzVDiebRY4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时16分 ~ 22时15分]"
         },
         {
           "title": "特朗普为夺岛发出关税威胁，美议员组队唱反调",
@@ -41,8 +52,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时14分 ~ 21时45分]"
+          "appearance_count": 27,
+          "time_info": "[09时14分 ~ 22时15分]"
         },
         {
           "title": "哈塞特“出局”？沃什呼声大增！特朗普称希望哈塞特继续担任白宫顾问",
@@ -55,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时06分 ~ 21时45分]"
+          "appearance_count": 26,
+          "time_info": "[11时06分 ~ 22时15分]"
         },
         {
           "title": "特朗普称可能对不支持美获得格陵兰岛计划的国家加征关税",
@@ -97,17 +108,6 @@
           "time_info": "[00时22分 ~ 09时14分]"
         },
         {
-          "title": "特朗普改口：无理由在美国明州动用《反叛乱法》",
-          "url": "https://v.ifeng.com/c/8pzVDiebRY4",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时16分 ~ 21时45分]"
-        },
-        {
           "title": "特朗普威胁：若他国不支持美国控制格陵兰岛，可能对其加征关税",
           "url": "https://www.cls.cn/detail/2260948",
           "source": "财联社热门",
@@ -120,8 +120,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[07时41分 ~ 21时45分]"
+          "appearance_count": 28,
+          "time_info": "[07时41分 ~ 22时15分]"
         },
         {
           "title": "特朗普笑纳“二手”诺贝尔和平奖奖章，诺奖委员会发声明",
@@ -146,8 +146,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[17时16分 ~ 21时45分]"
+          "appearance_count": 13,
+          "time_info": "[17时16分 ~ 22时15分]"
         },
         {
           "title": "释新闻｜特朗普为何暂缓对伊朗动武？",
@@ -206,6 +206,22 @@
           "time_info": "[18时16分 ~ 21时45分]"
         },
         {
+          "title": "伊朗最高领袖哈梅内伊：特朗普是罪犯",
+          "url": "https://flash.jin10.com/detail/20260117182506253800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            7,
+            16,
+            19,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时43分 ~ 22时15分]"
+        },
+        {
           "title": "埃及总统塞西：已致信特朗普，重申开罗的立场及其对本国水安全的关切。",
           "url": "https://flash.jin10.com/detail/20260117174020851800",
           "source": "金十数据",
@@ -251,19 +267,35 @@
           "time_info": "[15时39分 ~ 18时16分]"
         },
         {
-          "title": "伊朗最高领袖哈梅内伊：特朗普是罪犯",
-          "url": "https://flash.jin10.com/detail/20260117182506253800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-17）",
+          "url": "https://flash.jin10.com/detail/20260117185814130800",
           "source": "金十数据",
           "ranks": [
-            3,
-            7,
+            1,
+            10,
+            13,
             16,
-            19,
-            22
+            21
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时43分 ~ 21时45分]"
+          "time_info": "[19时14分 ~ 22时15分]"
+        },
+        {
+          "title": "哈梅内伊：特朗普是罪犯",
+          "url": "https://wallstreetcn.com/livenews/3039111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            16,
+            23,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时14分 ~ 22时15分]"
         },
         {
           "title": "美国总统特朗普：将再次与委内瑞拉“反对派”人士Machado对话。",
@@ -289,20 +321,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[05时17分 ~ 07时41分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-17）",
-          "url": "https://flash.jin10.com/detail/20260117185814130800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 21时45分]"
         },
         {
           "title": "本周，降息赢家指数累计上涨0.22%，周五（1月16日）报107.51点。 “特朗普关税输家”指数累跌0.75%，报118.52点。 “特朗普金融指数”累跌1.78%，报176.06点。 散户抱团概念股指数/迷因股（meme stock）指数累跌3.15%，报16.14点。",
@@ -348,19 +366,18 @@
           "time_info": "[02时55分 ~ 04时43分]"
         },
         {
-          "title": "哈梅内伊：特朗普是罪犯",
-          "url": "https://wallstreetcn.com/livenews/3039111",
-          "source": "华尔街见闻-快讯",
+          "title": "据CNN：知情人士透露，在枪支权利与控枪团体均提出反对意见后，特朗普政府已悄然放弃将美国烟酒枪炮及爆炸物管理局并入缉毒局的计划。",
+          "url": "https://flash.jin10.com/detail/20260117201033719800",
+          "source": "金十数据",
           "ranks": [
+            1,
+            4,
             7,
-            12,
-            16,
-            23,
-            24
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时14分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 22时15分]"
         },
         {
           "title": "以关税换领土？ 特朗普拟动用关税武器敲开北极门户",
@@ -391,6 +408,20 @@
           "time_info": "[00时54分 ~ 02时25分]"
         },
         {
+          "title": "埃及外交部长表示，埃及正在研究特朗普邀请总统塞西加入加沙和平事务委员会的提议。",
+          "url": "https://flash.jin10.com/detail/20260117194356394800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            8,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 22时15分]"
+        },
+        {
           "title": "特朗普：我是关税之王，如果最高法院的官司输了将是美国之耻",
           "url": "https://wallstreetcn.com/livenews/3038926",
           "source": "华尔街见闻-快讯",
@@ -419,17 +450,18 @@
           "time_info": "[00时23分 ~ 01时47分]"
         },
         {
-          "title": "据CNN：知情人士透露，在枪支权利与控枪团体均提出反对意见后，特朗普政府已悄然放弃将美国烟酒枪炮及爆炸物管理局并入缉毒局的计划。",
-          "url": "https://flash.jin10.com/detail/20260117201033719800",
+          "title": "土耳其总统办公室表示，美国总统特朗普致信邀请土耳其总统埃尔多安成为加沙和平委员会的创始成员。",
+          "url": "https://flash.jin10.com/detail/20260117193443128800",
           "source": "金十数据",
           "ranks": [
-            1,
-            4,
-            7
+            7,
+            10,
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 22时15分]"
         },
         {
           "title": "美国总统特朗普：信中已有美联储主席人选。",
@@ -511,6 +543,19 @@
           "time_info": "[00时54分 ~ 01时47分]"
         },
         {
+          "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
+          "url": "https://wallstreetcn.com/livenews/3039132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时08分 ~ 22时15分]"
+        },
+        {
           "title": "特朗普拟推紧急电力拍卖 科技巨头或成最大赢家",
           "url": "https://flash.jin10.com/detail/20260117035703378800",
           "source": "金十数据",
@@ -548,6 +593,17 @@
           "time_info": "[00时54分 ~ 01时47分]"
         },
         {
+          "title": "哈梅内伊：特朗普是罪犯",
+          "url": "https://www.toutiao.com/trending/7595203430965366278/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时08分 ~ 22时15分]"
+        },
+        {
           "title": "特朗普弃用哈塞特惊扰债市 降息预期出现“缩水”",
           "url": "https://flash.jin10.com/detail/20260117002933553800",
           "source": "金十数据",
@@ -574,19 +630,6 @@
           "time_info": "[05时17分 ~ 06时17分]"
         },
         {
-          "title": "埃及外交部长表示，埃及正在研究特朗普邀请总统塞西加入加沙和平事务委员会的提议。",
-          "url": "https://flash.jin10.com/detail/20260117194356394800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时45分]"
-        },
-        {
           "title": "特朗普关税案迎来关键窗口 1月20日或见分晓",
           "url": "https://flash.jin10.com/detail/20260117002346672800",
           "source": "金十数据",
@@ -600,19 +643,6 @@
           "time_info": "[00时54分 ~ 01时47分]"
         },
         {
-          "title": "土耳其总统办公室表示，美国总统特朗普致信邀请土耳其总统埃尔多安成为加沙和平委员会的创始成员。",
-          "url": "https://flash.jin10.com/detail/20260117193443128800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时45分]"
-        },
-        {
           "title": "美国总统特朗普：在医疗保健问题上，直接向民众发钱。 资金将直接进入医疗储蓄账户。",
           "url": "https://wallstreetcn.com/livenews/3038921",
           "source": "华尔街见闻-快讯",
@@ -624,18 +654,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时23分 ~ 01时21分]"
-        },
-        {
-          "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
-          "url": "https://wallstreetcn.com/livenews/3039132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时45分]"
         },
         {
           "title": "特朗普自曝暂缓打伊朗原因",
@@ -773,17 +791,6 @@
           "time_info": "[05时17分 ~ 05时42分]"
         },
         {
-          "title": "哈梅内伊：特朗普是罪犯",
-          "url": "https://www.toutiao.com/trending/7595203430965366278/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时08分 ~ 21时45分]"
-        },
-        {
           "title": "“两房”股价连遭重创 特朗普抵押贷款债券指令引发私有化推迟忧虑",
           "url": "https://flash.jin10.com/detail/20260117031759097800",
           "source": "金十数据",
@@ -817,6 +824,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时23分 ~ 00时54分]"
+        },
+        {
+          "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32407805",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时15分]"
         },
         {
           "title": "美国两年期国债收益率上涨，此前特朗普称希望哈塞特留在国家经济委员会（NEC）。",
@@ -865,17 +883,6 @@
           "time_info": "01时47分"
         },
         {
-          "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32407805",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
           "title": "特朗普称或对反格陵兰岛计划国加关税",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%88%96%E5%AF%B9%E5%8F%8D%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%AE%A1%E5%88%92%E5%9B%BD%E5%8A%A0%E5%85%B3%E7%A8%8E%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -885,6 +892,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "哈梅内伊：特朗普应被视为犯罪",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%BA%94%E8%A2%AB%E8%A7%86%E4%B8%BA%E7%8A%AF%E7%BD%AA",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时15分"
         },
         {
           "title": "美国明尼苏达州抗议持续 特朗普称局势“失控”",
@@ -1000,8 +1018,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时14分 ~ 21时45分]"
+          "appearance_count": 27,
+          "time_info": "[09时14分 ~ 22时15分]"
         },
         {
           "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
@@ -1044,11 +1062,12 @@
             15,
             19,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时16分 ~ 21时45分]"
+          "appearance_count": 8,
+          "time_info": "[18时16分 ~ 22时15分]"
         },
         {
           "title": "周五（1月16日），韩元兑美元最终跌0.34%，报1473.61韩元。 本周，韩元累计下跌0.99%，整体低位震荡，特朗普的美国财长贝森特的谈话曾在1月14日带来一波短线反弹行情。",
@@ -1180,6 +1199,17 @@
           "time_info": "[05时42分 ~ 07时41分]"
         },
         {
+          "title": "3美元吃饱饭,美高官神论挨骂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349287&amp;topic_name=3%E7%BE%8E%E5%85%83%E5%90%83%E9%A5%B1%E9%A5%AD%2C%E7%BE%8E%E9%AB%98%E5%AE%98%E7%A5%9E%E8%AE%BA%E6%8C%A8%E9%AA%82",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时31分 ~ 22时15分]"
+        },
+        {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9720元，较周四夜盘收盘跌40点。成交量442.92亿美元。",
           "url": "https://wallstreetcn.com/livenews/3038979",
           "source": "华尔街见闻-快讯",
@@ -1204,17 +1234,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时45分 ~ 09时14分]"
-        },
-        {
-          "title": "3美元吃饱饭,美高官神论挨骂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349287&amp;topic_name=3%E7%BE%8E%E5%85%83%E5%90%83%E9%A5%B1%E9%A5%AD%2C%E7%BE%8E%E9%AB%98%E5%AE%98%E7%A5%9E%E8%AE%BA%E6%8C%A8%E9%AA%82",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时31分 ~ 21时45分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.58%，暂报4084.85点，最近连续天累计上涨0.07%，整体大致持稳，1月11日北京时间22:10前后出现一波尖锐的冲高回落行情——最高达到6268.44点。 MarketVectorTM数字资产100中盘指数跌2.22%，报3725.95点，最近七天累跌1.99%，整体冲高回落。 MarketVector数字资产100指数跌1.72%，报19592.12点，最近七天累涨2.99%。 最近七天，比特币累涨4.92%，目前报94872美元；以太坊累涨6.40%，暂报3279美元；Solana累涨4.40%，狗狗币累跌2.99%，XRP累跌2.22%。",
@@ -1416,6 +1435,18 @@
           "time_info": "[00时22分 ~ 09时14分]"
         },
         {
+          "title": "日本急了：若中国开始管控抗生素和药品原料，麻烦可大了",
+          "url": "https://news.ifeng.com/c/8pzNiKJXJOn",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[18时16分 ~ 22时15分]"
+        },
+        {
           "title": "美军一架 F-35A 战斗机在日本近海消失，曾发出紧急情况 7700 代码，具体是怎么回事？",
           "url": "https://www.zhihu.com/question/1995580476212082609",
           "source": "知乎",
@@ -1423,11 +1454,12 @@
             7,
             4,
             3,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时06分 ~ 21时45分]"
+          "appearance_count": 26,
+          "time_info": "[11时06分 ~ 22时15分]"
         },
         {
           "title": "与美国战争部长练体能，日本防卫大臣出现脱水症状",
@@ -1439,18 +1471,6 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时22分 ~ 09时14分]"
-        },
-        {
-          "title": "日本急了：若中国开始管控抗生素和药品原料，麻烦可大了",
-          "url": "https://news.ifeng.com/c/8pzNiKJXJOn",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时16分 ~ 21时45分]"
         },
         {
           "title": "日本失控将给日本人民造成毁灭性灾难",
@@ -1557,9 +1577,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时15分]"
         },
         {
           "title": "评论员：美日防长会晤日本又被敲打",
@@ -1591,8 +1611,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[14时52分 ~ 21时45分]"
+          "appearance_count": 18,
+          "time_info": "[14时52分 ~ 22时15分]"
         },
         {
           "title": "“新兴市场教父”：黄金已失去吸引力 中国股市上涨具备可持续性",
@@ -1747,8 +1767,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时43分 ~ 21时45分]"
+          "appearance_count": 9,
+          "time_info": "[18时43分 ~ 22时15分]"
         },
         {
           "title": "据英国《金融时报》：英伟达(NVDA.O)供应商暂停H200芯片关键组件的生产。",
@@ -1784,11 +1804,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时16分 ~ 18时43分]"
+          "appearance_count": 3,
+          "time_info": "[18时16分 ~ 22时15分]"
         },
         {
           "title": "11万显卡中途拦截不成顺丰只肯赔运费",
@@ -1797,9 +1818,9 @@
           "ranks": [
             20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时15分]"
         }
       ]
     },
