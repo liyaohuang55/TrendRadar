@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-18T16:22:09.404116+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-01-18T16:48:27.598263+08:00",
+  "total_titles_processed": 1023,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普：对欧洲8国加征关税，直至完全收购格陵兰岛",
@@ -50,8 +50,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时58分 ~ 16时22分]"
+          "appearance_count": 15,
+          "time_info": "[12时58分 ~ 16时48分]"
         },
         {
           "title": "异军突起！周四与特朗普会面顺利，贝莱德的里德尔竞选美联储主席呼声渐起",
@@ -64,8 +64,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时25分 ~ 16时22分]"
+          "appearance_count": 13,
+          "time_info": "[13时25分 ~ 16时48分]"
         },
         {
           "title": "特朗普因格陵兰岛向欧洲8国加税",
@@ -75,11 +75,12 @@
             6,
             7,
             9,
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时21分 ~ 16时22分]"
+          "appearance_count": 17,
+          "time_info": "[11时21分 ~ 16时48分]"
         },
         {
           "title": "据法新社：加拿大总理卡尼已收到美国总统特朗普邀请其加入加沙地带和平委员会的请求，其计划接受该邀请。",
@@ -194,11 +195,12 @@
             16,
             17,
             18,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时21分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时21分 ~ 16时48分]"
         },
         {
           "title": "加拿大总理赴华求合作，特朗普回应：是好事，应该做",
@@ -213,8 +215,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时18分 ~ 16时22分]"
+          "appearance_count": 26,
+          "time_info": "[00时18分 ~ 16时48分]"
         },
         {
           "title": "土耳其总统府：特朗普邀请埃尔多安加入“加沙和平委员会”",
@@ -338,6 +340,18 @@
           "time_info": "[12时28分 ~ 15时40分]"
         },
         {
+          "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32408980",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时53分 ~ 16时48分]"
+        },
+        {
           "title": "特朗普关税美遭议员批评，民主党将阻止其征税",
           "url": "https://flash.jin10.com/detail/20260118121713560800",
           "source": "金十数据",
@@ -380,17 +394,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[12时58分 ~ 14时25分]"
-        },
-        {
-          "title": "特朗普称将对部分国家加征关税，直至“完全收购格陵兰岛”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32408980",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时53分 ~ 16时22分]"
         },
         {
           "title": "特朗普称他“说服了自己”暂缓对伊朗采取军事行动",
@@ -485,6 +488,29 @@
           "time_info": "[09时22分 ~ 12时28分]"
         },
         {
+          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
+          "url": "https://wallstreetcn.com/articles/3763529",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 16时48分]"
+        },
+        {
+          "title": "特朗普和平委员会是什么机构",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%BA%E6%9E%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时21分 ~ 16时48分]"
+        },
+        {
           "title": "特朗普宣布将对欧洲八国商品加征最高 25% 的新关税，这一政策可能带来哪些影响？",
           "url": "https://www.zhihu.com/question/1996134864920020415",
           "source": "知乎",
@@ -518,6 +544,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "约旦表示，阿卜杜拉国王收到了美国总统特朗普发出的加入加沙和平委员会的邀请。",
+          "url": "https://flash.jin10.com/detail/20260118162133517800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时48分"
+        },
+        {
           "title": "英媒：特朗普羡慕中国",
           "url": "https://www.toutiao.com/trending/7596316947638128154/",
           "source": "今日头条",
@@ -527,28 +564,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        },
-        {
-          "title": "特朗普欲将加沙“和平委员会”模式全球复制，视为“联合国的可能替代机构”",
-          "url": "https://wallstreetcn.com/articles/3763529",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
-        },
-        {
-          "title": "特朗普和平委员会是什么机构",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%B9%B3%E5%A7%94%E5%91%98%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%BA%E6%9E%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时21分 ~ 16时22分]"
         },
         {
           "title": "法国总统马克龙：将对特朗普的格陵兰岛关税作出回应",
@@ -658,8 +673,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 39,
-          "time_info": "[00时18分 ~ 16时22分]"
+          "appearance_count": 40,
+          "time_info": "[00时18分 ~ 16时48分]"
         },
         {
           "title": "Anthropic将Claude Cowork扩展至20美元Pro订阅用户",
@@ -672,11 +687,25 @@
             8,
             9,
             10,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时22分 ~ 16时22分]"
+          "appearance_count": 12,
+          "time_info": "[09时22分 ~ 16时48分]"
+        },
+        {
+          "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时53分 ~ 16时48分]"
         },
         {
           "title": "得罪特朗普的福特员工获众筹80万美元",
@@ -690,18 +719,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时45分 ~ 07时40分]"
-        },
-        {
-          "title": "美媒：特朗普为所谓“和平委员会”永久席位开价10亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32410157",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时53分 ~ 16时22分]"
         },
         {
           "title": "特朗普拟对加沙和平委员会常任席位收取逾十亿美元会费",
@@ -746,11 +763,12 @@
           "url": "https://flash.jin10.com/detail/20260118145412340800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 16时48分]"
         }
       ]
     },
@@ -768,11 +786,12 @@
             5,
             6,
             7,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时21分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[11时21分 ~ 16时48分]"
         },
         {
           "title": "日本急了：若中国开始管控抗生素和药品原料，麻烦可大了",
@@ -797,8 +816,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 39,
-          "time_info": "[00时18分 ~ 16时22分]"
+          "appearance_count": 40,
+          "time_info": "[00时18分 ~ 16时48分]"
         },
         {
           "title": "日本最大核电站机组重启可能推迟",
@@ -809,8 +828,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时21分 ~ 16时22分]"
+          "appearance_count": 17,
+          "time_info": "[11时21分 ~ 16时48分]"
         },
         {
           "title": "美军一架 F-35A 战斗机在日本近海消失，曾发出紧急情况 7700 代码，具体是怎么回事？",
@@ -875,8 +894,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时24分 ~ 16时22分]"
+          "appearance_count": 10,
+          "time_info": "[14时24分 ~ 16时48分]"
         },
         {
           "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
@@ -888,8 +907,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时28分 ~ 16时22分]"
+          "appearance_count": 16,
+          "time_info": "[12时28分 ~ 16时48分]"
         },
         {
           "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
@@ -945,8 +964,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时25分 ~ 16时22分]"
+          "appearance_count": 11,
+          "time_info": "[13时25分 ~ 16时48分]"
         },
         {
           "title": "黄金白银迭创新高 投资者该怎么办",
@@ -1004,8 +1023,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时25分 ~ 16时22分]"
+          "appearance_count": 13,
+          "time_info": "[13时25分 ~ 16时48分]"
         }
       ]
     }
