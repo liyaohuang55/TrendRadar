@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-19T15:25:59.965257+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-01-19T15:49:24.440470+08:00",
+  "total_titles_processed": 1226,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
+        {
+          "title": "欧洲8国集体回应特朗普关税威胁",
+          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时21分 ~ 15时49分]"
+        },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
           "url": "https://news.ifeng.com/c/8q1PDnUocDO",
@@ -62,18 +74,6 @@
           "ranks": [
             2,
             1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时21分 ~ 15时25分]"
-        },
-        {
-          "title": "欧洲8国集体回应特朗普关税威胁",
-          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -375,8 +375,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时36分 ~ 15时25分]"
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 15时49分]"
         },
         {
           "title": "特朗普称将对欧洲 8 国加征关税，直至「完全收购格陵兰岛」，对国际秩序有哪些影响？",
@@ -605,6 +605,29 @@
           "time_info": "[12时37分 ~ 13时29分]"
         },
         {
+          "title": "美媒：特朗普就职一周年满意度下降",
+          "url": "https://www.toutiao.com/trending/7596933654534688302/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时49分]"
+        },
+        {
+          "title": "【外交部回应美方对欧洲八国加征关税】据新华社，美国总统特朗普17日在社交媒体上宣布，将从2月1日起对来自丹麦、挪威、瑞典、法国、德国、英国、荷兰和芬兰的输美商品加征10%关税，并宣称加征关税的税率将从6月1日起提高至25%，直到相关方就美国“全面、彻底购买格陵兰岛”达成协议。对此，外交部发言人郭嘉昆19日在例行记者会上表示，中方已经多次阐明在格陵兰岛问题上的立场。以联合国宪章宗旨和原则为基础的国际法是现行国际秩序的基础，必须得到维护。",
+          "url": "https://wallstreetcn.com/livenews/3039608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "特朗普关税大棒再度砸向欧洲，金银多头占比均超过70%。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20260119103840922800",
           "source": "金十数据",
@@ -638,6 +661,17 @@
           "time_info": "09时21分"
         },
         {
+          "title": "民调发现特朗普提升了中国全球影响力",
+          "url": "https://www.toutiao.com/trending/7596570077421191211/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "美财长声援特朗普加税夺岛",
           "url": "https://www.toutiao.com/trending/7595914700006211647/",
           "source": "今日头条",
@@ -658,23 +692,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
-        },
-        {
-          "title": "美媒：特朗普就职一周年满意度下降",
-          "url": "https://www.toutiao.com/trending/7596933654534688302/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "国际观察｜日本开年密集外交，搞了哪些小动作",
@@ -689,8 +712,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时46分 ~ 15时25分]"
+          "appearance_count": 29,
+          "time_info": "[00时46分 ~ 15时49分]"
         },
         {
           "title": "日本病急乱投医,烧马达炼稀土",
@@ -717,8 +740,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 15时25分]"
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 15时49分]"
         },
         {
           "title": "日本11月第三产业活动指数环比 -0.2%，预期 0%，前值 0.9%。",
@@ -760,6 +783,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时29分 ~ 14时32分]"
+        },
+        {
+          "title": "被日本掠夺的唐碑重宝，理应归还中国！",
+          "url": "https://news.ifeng.com/c/8q2bh2k8wQo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时49分]"
         },
         {
           "title": "日本5年期国债收益率升至1.690%。",
@@ -892,15 +926,15 @@
           "time_info": "[13时29分 ~ 14时32分]"
         },
         {
-          "title": "被日本掠夺的唐碑重宝，理应归还中国！",
-          "url": "https://news.ifeng.com/c/8q2bh2k8wQo",
-          "source": "凤凰网",
+          "title": "据日本放送协会NHK：日本将动用390亿日元储备金用于稀土供应。",
+          "url": "https://flash.jin10.com/detail/20260119153711195800",
+          "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时25分"
+          "time_info": "15时49分"
         },
         {
           "title": "日本立宪民主党与公明党合并后的新政党“中道改革联合”政策纲领：将致力于实现持续的工资增长，以及经济成长成果的公平分配。",
@@ -1032,6 +1066,18 @@
           "time_info": "[13时29分 ~ 13时55分]"
         },
         {
+          "title": "日经225指数收跌0.7%，报53583.57点。 日本东证指数收跌0.1%，报3656.40点。 韩国首尔综指收涨1.3%，报4904.66点。",
+          "url": "https://wallstreetcn.com/livenews/3039573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时49分]"
+        },
+        {
           "title": "日本最后2只大熊猫下周一回中国",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%80%E5%90%8E2%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%B8%8B%E5%91%A8%E4%B8%80%E5%9B%9E%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -1076,13 +1122,24 @@
           "time_info": "11时22分"
         },
         {
+          "title": "日本股市大跌 因机械订单大幅下滑 避险情绪升温",
+          "url": "https://flash.jin10.com/detail/20260119151426524800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "政府网站显示，日本国际石油开发帝石（INPEX）已撤回其在澳大利亚年处理能力为1,000万吨的博纳帕特碳捕集与封存（CCS）项目的环境方案。",
           "url": "https://flash.jin10.com/detail/20260119144923327800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -1093,7 +1150,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -1170,18 +1227,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "日经225指数收跌0.7%，报53583.57点。 日本东证指数收跌0.1%，报3656.40点。 韩国首尔综指收涨1.3%，报4904.66点。",
-          "url": "https://wallstreetcn.com/livenews/3039573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -1200,7 +1246,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "欧元兑美元报价跌超0.2%。",
@@ -1330,11 +1376,12 @@
           "url": "https://flash.jin10.com/detail/20260119150420491800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时49分]"
         },
         {
           "title": "美元对日元跌至157.55，日内跌0.36%或56点。",
@@ -1346,6 +1393,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "Chris Hohn旗下对冲基金去年大赚189亿美元 打破此前城堡投资的纪录",
+          "url": "https://wallstreetcn.com/livenews/3039621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "人民币兑美元中间价创逾32个月新高",
@@ -1381,6 +1439,18 @@
           "time_info": "07时40分"
         },
         {
+          "title": "创历史新高！重磅报告：全球亿万富翁财富飙升至18.3万亿美元",
+          "url": "https://www.cls.cn/detail/2261835",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时49分]"
+        },
+        {
           "title": "杰富瑞：将达美航空(DAL.N)目标价从72美元上调至84美元。将波音(BA.N)目标价从275美元上调至290美元。",
           "url": "https://flash.jin10.com/detail/20260119134510609800",
           "source": "金十数据",
@@ -1403,6 +1473,17 @@
           "time_info": "07时40分"
         },
         {
+          "title": "美元兑瑞郎USD/CHF因投资者寻求避险而继续下跌，现报0.7982，日内下跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260119152306872800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
           "title": "WTI原油周一低开0.8%，现报58.96美元/桶。",
           "url": "https://flash.jin10.com/detail/20260119070049207800",
           "source": "金十数据",
@@ -1423,17 +1504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
-        },
-        {
-          "title": "创历史新高！重磅报告：全球亿万富翁财富飙升至18.3万亿美元",
-          "url": "https://www.cls.cn/detail/2261835",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "离岸人民币兑美元升破6.96关口，日内涨超80点报6.9594。",
@@ -1486,7 +1556,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -1508,7 +1578,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         }
@@ -1516,7 +1586,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "1kg黄金1kg白金1kg钯金 全落车上了",
@@ -1595,6 +1665,41 @@
           "time_info": "07时40分"
         },
         {
+          "title": "香港价值投资大亨谢清海将四分之一的财富投入黄金 且“只买不卖”",
+          "url": "https://wallstreetcn.com/livenews/3039597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时49分]"
+        },
+        {
+          "title": "金十图示：2026年01月19日（周一）上海金午盘价为1046.77元/克，较国际金价(1044.52元/克)，高2.25元/克",
+          "url": "https://flash.jin10.com/detail/20260119153253689800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
+        },
+        {
+          "title": "A股收盘：沪指缩量涨0.29%，黄金、电网设备股走强",
+          "url": "https://wallstreetcn.com/livenews/3039595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时25分 ~ 15时49分]"
+        },
+        {
           "title": "现货黄金周一盘初突破历史新高，最高报4649美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260119070339345800",
           "source": "金十数据",
@@ -1604,6 +1709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 1月19日（周一）收盘上涨1.39%报1045.0元/克；<br/>上海黄金交易所白银T+D 1月19日（周一）收盘上涨1.88%报23135.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260119153126289800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         },
         {
           "title": "金价",
@@ -1627,17 +1743,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
-        },
-        {
-          "title": "香港价值投资大亨谢清海将四分之一的财富投入黄金 且“只买不卖”",
-          "url": "https://wallstreetcn.com/livenews/3039597",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月19日（周一）早盘盘初上涨1.68%报1048.0元/克；<br/>上海黄金交易所白银T+D 1月19日（周一）早盘盘初上涨3.18%报23429.0元/千克。",
@@ -1679,18 +1784,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "A股收盘：沪指缩量涨0.29%，黄金、电网设备股走强",
-          "url": "https://wallstreetcn.com/livenews/3039595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时25分"
         },
@@ -1704,6 +1798,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "显卡 英伟达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "SK海力士、三星加速HBF商业化进程 “HBM之父”：最快明年用于英伟达产品",
+          "url": "https://www.cls.cn/detail/2261261",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时19分 ~ 09时21分]"
+        },
+        {
+          "title": "马斯克：AI5双芯片协同相当于英伟达Blackwell水平",
+          "url": "https://flash.jin10.com/detail/20260119125355949800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时29分 ~ 14时32分]"
+        },
+        {
+          "title": "美国大型科技公司股票在法兰克福电子交易平台下跌，英伟达下跌2%，微软和Alphabet下跌2.3%。",
+          "url": "https://flash.jin10.com/detail/20260119151600771800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时49分"
         }
       ]
     },
@@ -1738,37 +1874,6 @@
       ]
     },
     {
-      "keyword_group": "显卡 英伟达",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "SK海力士、三星加速HBF商业化进程 “HBM之父”：最快明年用于英伟达产品",
-          "url": "https://www.cls.cn/detail/2261261",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时19分 ~ 09时21分]"
-        },
-        {
-          "title": "马斯克：AI5双芯片协同相当于英伟达Blackwell水平",
-          "url": "https://flash.jin10.com/detail/20260119125355949800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时29分 ~ 14时32分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -1782,8 +1887,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时19分 ~ 15时25分]"
+          "appearance_count": 30,
+          "time_info": "[00时19分 ~ 15时49分]"
         }
       ]
     },
