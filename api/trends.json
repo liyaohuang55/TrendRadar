@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T18:54:29.321198+08:00",
-  "total_titles_processed": 1579,
+  "generated_at": "2026-01-19T19:19:35.142753+08:00",
+  "total_titles_processed": 1622,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 83,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时21分 ~ 18时54分]"
+          "appearance_count": 17,
+          "time_info": "[09时21分 ~ 19时19分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -81,6 +81,20 @@
           "time_info": "[09时21分 ~ 15时25分]"
         },
         {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[12时36分 ~ 19时19分]"
+        },
+        {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
           "url": "https://news.ifeng.com/c/8q1bdYC7EP7",
           "source": "凤凰网",
@@ -107,19 +121,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[03时13分 ~ 07时40分]"
-        },
-        {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时36分 ~ 18时54分]"
         },
         {
           "title": "白宫经济顾问哈塞特：相信美国总统特朗普最终将谈妥一份关于格陵兰岛的协议。",
@@ -400,8 +401,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 14时32分]"
+          "appearance_count": 7,
+          "time_info": "[12时36分 ~ 19时19分]"
         },
         {
           "title": "特朗普发黑白照：我是关税之王(图)",
@@ -457,6 +458,19 @@
           "time_info": "[00时19分 ~ 02时22分]"
         },
         {
+          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时57分 ~ 19时19分]"
+        },
+        {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”，我已跟他通电话",
           "url": "https://wallstreetcn.com/livenews/3039260",
           "source": "华尔街见闻-快讯",
@@ -500,17 +514,17 @@
           "time_info": "[06时16分 ~ 07时40分]"
         },
         {
-          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
-          "source": "澎湃新闻",
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            17,
-            16
+            10,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时57分 ~ 18时54分]"
+          "time_info": "[17时33分 ~ 19时19分]"
         },
         {
           "title": "内塔尼亚胡罕见公开“叫板”特朗普",
@@ -603,18 +617,6 @@
           "time_info": "[12时37分 ~ 13时55分]"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 18时54分]"
-        },
-        {
           "title": "民调发现特朗普提升了中国全球影响力",
           "url": "https://www.toutiao.com/trending/7596570077421191211/",
           "source": "今日头条",
@@ -644,11 +646,12 @@
           "url": "https://flash.jin10.com/detail/20260119182634326800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时19分]"
         },
         {
           "title": "白宫经济顾问哈塞特：美国总统特朗普关于“白宫是我最好的去处”的说法可能是正确的。 特朗普说他希望我继续担任助理， 不相信特朗普已经针对美联储主席人选做出了最终决定。 特朗普还没有就住房支持（措施）做最终决定。 特朗普将购房速度放慢归咎于更高的首付款。",
@@ -684,6 +687,18 @@
           "time_info": "16时27分"
         },
         {
+          "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
+          "url": "https://wallstreetcn.com/livenews/3039703",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时19分]"
+        },
+        {
           "title": "英国首相将在17:15就特朗普关税威胁发表讲话",
           "url": "https://flash.jin10.com/detail/20260119163105702800",
           "source": "金十数据",
@@ -705,17 +720,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时37分 ~ 13时29分]"
-        },
-        {
-          "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
-          "url": "https://wallstreetcn.com/livenews/3039703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         },
         {
           "title": "欧洲被特朗普打脸了",
@@ -753,6 +757,18 @@
           "time_info": "[16时57分 ~ 17时33分]"
         },
         {
+          "title": "英媒：特朗普撼动世界，世界却爱上中国",
+          "url": "https://wallstreetcn.com/livenews/3039698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时19分]"
+        },
+        {
           "title": "特朗普称将“清除格陵兰岛俄罗斯威胁”",
           "url": "https://flash.jin10.com/detail/20260119121117362800",
           "source": "金十数据",
@@ -777,6 +793,17 @@
           "time_info": "[12时37分 ~ 13时29分]"
         },
         {
+          "title": "德国政府发言人：不认同美国总统特朗普的和平委员会会削弱联合国的担忧。",
+          "url": "https://flash.jin10.com/detail/20260119184647494800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "英国首相斯塔默：英国正就特朗普政府的关税威胁与欧盟展开密切协调。",
           "url": "https://flash.jin10.com/detail/20260119174959047800",
           "source": "金十数据",
@@ -786,6 +813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "德国政府发言人：德国感谢美国总统特朗普发出的和平理事会邀请。",
+          "url": "https://flash.jin10.com/detail/20260119184323133800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "特朗普再次发出关税威胁 欧洲汽车制造商股价暴跌",
@@ -808,17 +846,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
-        },
-        {
-          "title": "英媒：特朗普撼动世界，世界却爱上中国",
-          "url": "https://wallstreetcn.com/livenews/3039698",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         },
         {
           "title": "挪威首相：美国总统特朗普宣布因格陵兰岛问题征收关税的做法不可接受。",
@@ -852,6 +879,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
+        },
+        {
+          "title": "德总理称特朗普关税威胁损害跨大西洋关系",
+          "url": "https://wallstreetcn.com/livenews/3039709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "特朗普关税大棒再度砸向欧洲，金银多头占比均超过70%。后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
@@ -1011,8 +1049,20 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 65,
+      "match_count": 66,
       "titles": [
+        {
+          "title": "被日本掠夺的唐碑重宝，理应归还中国！",
+          "url": "https://news.ifeng.com/c/8q2bh2k8wQo",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时25分 ~ 19时19分]"
+        },
         {
           "title": "日本专家：高市解散众议院缺乏正当性，或严重影响民生",
           "url": "https://news.ifeng.com/c/8q2Yk0W0b2I",
@@ -1022,8 +1072,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时55分 ~ 18时54分]"
+          "appearance_count": 12,
+          "time_info": "[13时55分 ~ 19时19分]"
         },
         {
           "title": "国际观察｜日本开年密集外交，搞了哪些小动作",
@@ -1039,8 +1089,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[00时46分 ~ 18时54分]"
+          "appearance_count": 36,
+          "time_info": "[00时46分 ~ 19时19分]"
         },
         {
           "title": "日本病急乱投医,烧马达炼稀土",
@@ -1057,18 +1107,6 @@
           "is_new": false,
           "appearance_count": 28,
           "time_info": "[00时19分 ~ 14时32分]"
-        },
-        {
-          "title": "被日本掠夺的唐碑重宝，理应归还中国！",
-          "url": "https://news.ifeng.com/c/8q2bh2k8wQo",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时25分 ~ 18时54分]"
         },
         {
           "title": "日本11月第三产业活动指数环比 -0.2%，预期 0%，前值 0.9%。",
@@ -1201,6 +1239,19 @@
           "time_info": "[12时37分 ~ 13时55分]"
         },
         {
+          "title": "日本首相高市早苗：消费税减免的资金问题仍在考虑中。 可能会削减补贴，并将修改整体预算。 将寻求不依赖债券发行来筹资。",
+          "url": "https://wallstreetcn.com/livenews/3039683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时19分]"
+        },
+        {
           "title": "日本11月第三产业活动指数月率 -0.2%，前值0.90%。",
           "url": "https://flash.jin10.com/detail/20260119123034842800",
           "source": "金十数据",
@@ -1290,18 +1341,6 @@
           "time_info": "17时33分"
         },
         {
-          "title": "日本首相高市早苗：消费税减免的资金问题仍在考虑中。 可能会削减补贴，并将修改整体预算。 将寻求不依赖债券发行来筹资。",
-          "url": "https://wallstreetcn.com/livenews/3039683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时54分]"
-        },
-        {
           "title": "据日本放送协会NHK：日本将动用390亿日元储备金用于稀土供应。",
           "url": "https://flash.jin10.com/detail/20260119153711195800",
           "source": "金十数据",
@@ -1322,6 +1361,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "惠誉确认日本评级为“A”，前景展望稳定。",
+          "url": "https://flash.jin10.com/detail/20260119182241522800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时19分]"
         },
         {
           "title": "日本中间派改革联盟政策纲领：将致力于实现工资持续增长，并实现经济增长成果的公平分配。",
@@ -1355,17 +1406,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
-        },
-        {
-          "title": "惠誉确认日本评级为“A”，前景展望稳定。",
-          "url": "https://flash.jin10.com/detail/20260119182241522800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
         },
         {
           "title": "日本10年期国债收益率上行4BP至2.22%。",
@@ -1598,6 +1638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "日本首相高市早苗宣布将于23日解散众议院",
+          "url": "https://www.cls.cn/detail/2262332",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "政府网站显示，日本国际石油开发帝石（INPEX）已撤回其在澳大利亚年处理能力为1,000万吨的博纳帕特碳捕集与封存（CCS）项目的环境方案。",
@@ -1881,11 +1932,12 @@
             11,
             9,
             8,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时25分 ~ 18时54分]"
+          "appearance_count": 9,
+          "time_info": "[15时25分 ~ 19时19分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -1941,6 +1993,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时57分 ~ 18时23分]"
+        },
+        {
+          "title": "美元兑日元小幅走低，日本首相高市早苗表示，将密切关注外汇市场的投机性波动，随时准备采取必要行动。",
+          "url": "https://wallstreetcn.com/livenews/3039684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时23分 ~ 19时19分]"
         },
         {
           "title": "在岸人民币兑美元北京时间16:30官方收报6.9636，较上一交易日官方收盘价涨54点，较上日夜盘收盘涨84点。",
@@ -2004,38 +2069,28 @@
           "time_info": "09时21分"
         },
         {
-          "title": "美元兑日元小幅走低，日本首相高市早苗表示，将密切关注外汇市场的投机性波动，随时准备采取必要行动。",
-          "url": "https://wallstreetcn.com/livenews/3039684",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时23分 ~ 18时54分]"
-        },
-        {
           "title": "英镑兑美元短线波动不大，此前英国首相斯塔默对特朗普的加征关税威胁亮明立场：“大错特错”",
           "url": "https://wallstreetcn.com/livenews/3039707",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时19分]"
         },
         {
           "title": "纽元兑美元NZD/USD日内涨幅扩大至0.50%，现报0.5780。",
           "url": "https://flash.jin10.com/detail/20260119182256019800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时54分 ~ 19时19分]"
         },
         {
           "title": "人民币兑美元中间价创逾32个月新高",
@@ -2490,7 +2545,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时54分"
         },
