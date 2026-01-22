@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-22T07:46:57.851273+08:00",
-  "total_titles_processed": 761,
+  "generated_at": "2026-01-22T09:19:38.945755+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 134,
+      "match_count": 143,
       "titles": [
-        {
-          "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
-          "url": "https://news.ifeng.com/c/8q6fJC7opaZ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时51分 ~ 07时46分]"
-        },
         {
           "title": "特朗普达沃斯发言改善风险情绪，美股指齐涨，英特尔涨11%，存储概念新高不断，现货白银日内跌2%",
           "url": "https://wallstreetcn.com/articles/3763768",
@@ -31,6 +20,18 @@
           "time_info": "[00时50分 ~ 06时20分]"
         },
         {
+          "title": "泽连斯基将出席达沃斯论坛并与特朗普会面",
+          "url": "https://news.ifeng.com/c/8q6fJC7opaZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时51分 ~ 09时19分]"
+        },
+        {
           "title": "格陵兰危机缓和？特朗普表态“软化”：将达成一个让北约“非常开心”的方案",
           "url": "https://wallstreetcn.com/articles/3763814",
           "source": "华尔街见闻",
@@ -40,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 07时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时19分]"
         },
         {
           "title": "芬兰总统“出招”：邀特朗普蒸桑拿",
@@ -62,8 +63,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 07时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时19分]"
         },
         {
           "title": "伊朗警告特朗普",
@@ -91,8 +92,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 07时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时19分]"
         },
         {
           "title": "中方回应特朗普称联合国或被取代",
@@ -119,11 +120,12 @@
             15,
             14,
             12,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 07时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时19分]"
         },
         {
           "title": "特朗普称欧洲的“方向不对”",
@@ -152,6 +154,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时51分 ~ 06时52分]"
+        },
+        {
+          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
+          "url": "https://www.cls.cn/detail/2265761",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时52分 ~ 09时19分]"
+        },
+        {
+          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
+          "url": "https://www.cls.cn/detail/2265732",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时52分 ~ 09时19分]"
         },
         {
           "title": "美国总统特朗普：人们在信用卡利息上支付了太多费用。 信用卡公司应该给人们一些喘息的机会。",
@@ -252,19 +282,6 @@
           "time_info": "[02时36分 ~ 04时26分]"
         },
         {
-          "title": "美股收盘：“TACO交易”再现 特朗普取消对欧加征关税 三大指数均涨超1%",
-          "url": "https://www.cls.cn/detail/2265761",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时52分 ~ 07时46分]"
-        },
-        {
           "title": "特朗普再施压鲍威尔离任，重申美联储新主席人选已接近确定",
           "url": "https://flash.jin10.com/detail/20260122063506778800",
           "source": "金十数据",
@@ -289,6 +306,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时49分 ~ 04时55分]"
+        },
+        {
+          "title": "【早报】特朗普重要表态：不用武力、暂缓加税；摩尔线程、天孚通信、德明利等发布业绩预告",
+          "url": "https://www.cls.cn/detail/2265781",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时19分]"
         },
         {
           "title": "美国特使威特科夫和特朗普女婿库什纳将于明日在俄罗斯会见普京。（福克斯新闻）",
@@ -380,6 +409,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时55分 ~ 05时52分]"
+        },
+        {
+          "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
+          "url": "https://wallstreetcn.com/articles/3763857",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 09时19分]"
         },
         {
           "title": "美国总统特朗普：将以市场价出售委内瑞拉石油，并保留一部分。",
@@ -484,19 +525,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时23分 ~ 04时26分]"
-        },
-        {
-          "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
-          "url": "https://www.cls.cn/detail/2265732",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时52分 ~ 07时46分]"
         },
         {
           "title": "美国总统特朗普：如果鲍威尔不离开美联储（即卸任主席后继续担任美联储理事），他的日子不会好过。",
@@ -705,6 +733,17 @@
           "time_info": "[03时49分 ~ 04时26分]"
         },
         {
+          "title": "特朗普大闹达沃斯，全世界哭笑不得",
+          "url": "https://news.ifeng.com/c/8q79notLxbw",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "美国总统特朗普：我们与埃及有着极好的关系。",
           "url": "https://flash.jin10.com/detail/20260122003439909800",
           "source": "金十数据",
@@ -739,6 +778,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时51分]"
+        },
+        {
+          "title": "特朗普称“美国拥有无人知晓的武器”，克宫表态",
+          "url": "https://news.ifeng.com/c/8q6QuYdigp1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "美国总统特朗普声称的格陵兰“协议”涉及“小块土地”。（纽约时报）",
@@ -835,6 +885,18 @@
           "time_info": "[00时50分 ~ 01时51分]"
         },
         {
+          "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
+          "url": "https://wallstreetcn.com/articles/3763851",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时19分]"
+        },
+        {
           "title": "美国总统特朗普：正在就“金穹”与格陵兰岛相关的事宜展开进一步讨论。",
           "url": "https://flash.jin10.com/detail/20260122033020041800",
           "source": "金十数据",
@@ -859,29 +921,6 @@
           "time_info": "[00时50分 ~ 01时51分]"
         },
         {
-          "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
-          "url": "https://wallstreetcn.com/articles/3763857",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 07时46分]"
-        },
-        {
-          "title": "【早报】特朗普重要表态：不用武力、暂缓加税；摩尔线程、天孚通信、德明利等发布业绩预告",
-          "url": "https://www.cls.cn/detail/2265781",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
           "title": "据纽约时报：特朗普政府在缅因州启动移民行动。",
           "url": "https://flash.jin10.com/detail/20260122015942687800",
           "source": "金十数据",
@@ -899,7 +938,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -939,13 +978,24 @@
           "time_info": "[00时50分 ~ 01时51分]"
         },
         {
+          "title": "全球市场深夜暴涨！特朗普，改口了",
+          "url": "https://finance.ifeng.com/c/8q6yeFE7hAX",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "特朗普收回对欧洲8国关税威胁",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%B6%E5%9B%9E%E5%AF%B9%E6%AC%A7%E6%B4%B28%E5%9B%BD%E5%85%B3%E7%A8%8E%E5%A8%81%E8%83%81%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -956,7 +1006,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -1199,13 +1249,24 @@
           "time_info": "04时55分"
         },
         {
+          "title": "特朗普取消对欧洲8国加征关税：已与北约就格陵兰达成“框架性协议”",
+          "url": "https://www.cls.cn/detail/2265754",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "据福克斯新闻：北约秘书长吕特在被问及格陵兰岛是否会继续归属丹麦时表示，这一问题并未在我与美国总统特朗普的对话中提及。",
           "url": "https://flash.jin10.com/detail/20260122071248487800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -1238,20 +1299,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
         {
-          "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
-          "url": "https://wallstreetcn.com/articles/3763851",
+          "title": "特朗普称与北约达成格陵兰协议“框架”、暂不对欧加关税，美股和数字货币拉升，白银跳水",
+          "url": "https://wallstreetcn.com/articles/3763863",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时46分"
+          "time_info": "09时19分"
         },
         {
           "title": "美国总统特朗普在达沃斯会见了波兰总统纳夫罗基。",
@@ -1274,6 +1335,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "特朗普在达沃斯发表演讲",
+          "url": "https://www.douyin.com/hot/2375622",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "特朗普称「和平委员会」可能取代联合国，「和平委员会」到底是什么？特朗普成立该机构的真实意图是什么？",
+          "url": "https://www.zhihu.com/question/1997263966708196399",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "联合声明：沙特、土耳其、埃及、约旦、印尼、巴基斯坦、卡塔尔接受邀请，加入美国总统特朗普的和平委员会；各国将根据本国法律程序签署加入文件。",
@@ -1304,7 +1387,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -1337,7 +1420,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -1518,6 +1601,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "格陵兰岛协议有望达成？白宫：再次证明特朗普是交易大师",
+          "url": "https://flash.jin10.com/detail/20260122082015997800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "Citadel（城堡）的Ken Griffin：美国总统特朗普在为美国工人而努力。 特朗普必须弄明白，美国（应该）欢迎合法移民。 特朗普针对南部边境的那些政策“取得巨大成功”。 住房市场的真正问题在于缺乏供应。 住房许可太低，建筑规范臃肿冗长。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3041403",
           "source": "华尔街见闻-快讯",
@@ -1557,7 +1651,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -1626,12 +1720,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时55分"
+        },
+        {
+          "title": "被问格陵兰岛会否继续属于丹麦 北约秘书长称没跟特朗普讨论",
+          "url": "https://wallstreetcn.com/livenews/3041601",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 29,
+      "match_count": 36,
       "titles": [
         {
           "title": "美国天然气期货价格自去年12月以来首次升至5美元。",
@@ -1842,6 +1947,17 @@
           "time_info": "03时23分"
         },
         {
+          "title": "现货铂金下跌逾3%，至每盎司2388.45美元。",
+          "url": "https://wallstreetcn.com/livenews/3041633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "现货金银周四开盘持稳，现分别报4832美元/盎司和93.01美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260122070037352800",
           "source": "金十数据",
@@ -1889,6 +2005,17 @@
           "time_info": "03时49分"
         },
         {
+          "title": "美国正式退出世卫组织，仍欠2.6亿美元会费",
+          "url": "https://news.ifeng.com/c/8q779STJZau",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "知情人士称，Anthropic的年化营收自去年夏天以来已翻倍，截至2025年底已超过90亿美元。",
           "url": "https://flash.jin10.com/detail/20260122031919898800",
           "source": "金十数据",
@@ -1931,9 +2058,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "澳元对美元升至15个月高点0.6791。",
+          "url": "https://wallstreetcn.com/livenews/3041626",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "现货白银日内跌幅达1.00%，现报92.13美元/盎司。",
@@ -1942,9 +2080,53 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
+        },
+        {
+          "title": "GPU租赁价格随需求激增，黄仁勋：AI需数万亿美元基础设施支撑",
+          "url": "https://wallstreetcn.com/articles/3763828",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD短线走高20点，最新报0.6777。",
+          "url": "https://flash.jin10.com/detail/20260122083039907800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "中国罕王拟募资1亿美元用于支持澳大利亚金矿项目开发",
+          "url": "https://wallstreetcn.com/livenews/3041615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "澳元对美元走强，数据显示澳大利亚失业率意外下降。",
+          "url": "https://wallstreetcn.com/livenews/3041611",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "普京将与到访的美总统特使会晤 愿用10亿美元被冻资产“入会”",
@@ -1994,7 +2176,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
         {
           "title": "U23国足决赛对阵日本胜算几何",
@@ -2007,8 +2189,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 07时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时19分]"
         },
         {
           "title": "日本最大核电站重启",
@@ -2017,11 +2199,12 @@
           "ranks": [
             10,
             8,
-            4
+            4,
+            14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 07时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时19分]"
         },
         {
           "title": "中国还会租借大熊猫给日本吗？外交部：欢迎日本民众来中国看大熊猫",
@@ -2033,8 +2216,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 07时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时19分]"
         },
         {
           "title": "日本最大核电站柏崎刈羽核电站重启",
@@ -2044,8 +2227,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 07时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时19分]"
         },
         {
           "title": "日本最大核电站柏崎刈羽核电站重启",
@@ -2055,11 +2238,12 @@
             19,
             17,
             16,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时51分 ~ 07时46分]"
+          "appearance_count": 14,
+          "time_info": "[01时51分 ~ 09时19分]"
         },
         {
           "title": "华尔街巨擘格里芬：日本国债大甩卖对美国政客可谓当头棒喝",
@@ -2087,6 +2271,18 @@
           "time_info": "00时50分"
         },
         {
+          "title": "中方重申：日本根本没有资格“入常”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E9%87%8D%E7%94%B3%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E2%80%9C%E5%85%A5%E5%B8%B8%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时19分]"
+        },
+        {
           "title": "日本自民党公布竞选承诺 修订“安保三文件”赫然在列",
           "url": "https://flash.jin10.com/detail/20260122012518048800",
           "source": "金十数据",
@@ -2099,6 +2295,18 @@
           "time_info": "[01时51分 ~ 02时36分]"
         },
         {
+          "title": "中方重申日本根本没有资格入常",
+          "url": "https://www.toutiao.com/trending/7597371840515903017/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时19分]"
+        },
+        {
           "title": "日本自民党公布竞选承诺，修订“安保三文件”赫然在列",
           "url": "https://wallstreetcn.com/livenews/3041442",
           "source": "华尔街见闻-快讯",
@@ -2109,6 +2317,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 02时36分]"
+        },
+        {
+          "title": "中方重申日本根本没有资格入常",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E9%87%8D%E7%94%B3%E6%97%A5%E6%9C%AC%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E5%85%A5%E5%B8%B8%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时19分]"
         },
         {
           "title": "中国地震台网正式测定：01月22日00时37分在日本火山列岛地区发生6.0级地震，震源深度10千米。",
@@ -2194,6 +2414,17 @@
           "time_info": "[07时21分 ~ 07时46分]"
         },
         {
+          "title": "30年期日本国债收益率下跌4.0个基点，至3.680%。",
+          "url": "https://flash.jin10.com/detail/20260122085112516800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
           "title": "日本车企联手芯片商建立数据库 防止断供、地缘政治冲击",
           "url": "https://flash.jin10.com/detail/20260122002859143800",
           "source": "金十数据",
@@ -2203,17 +2434,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "中方重申日本根本没有资格入常",
-          "url": "https://www.toutiao.com/trending/7597371840515903017/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时46分"
         },
         {
           "title": "据日经新闻：预计约20家供应商将参与，包括日本的瑞萨电子和罗姆电子，以及德国的英飞凌科技股份公司。",
@@ -2238,26 +2458,59 @@
           "time_info": "00时50分"
         },
         {
-          "title": "中方重申：日本根本没有资格“入常”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E9%87%8D%E7%94%B3%EF%BC%9A%E6%97%A5%E6%9C%AC%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E2%80%9C%E5%85%A5%E5%B8%B8%E2%80%9D",
-          "source": "百度热搜",
+          "title": "30年期日本国债收益率下行4.0个基点，至3.680%。",
+          "url": "https://wallstreetcn.com/livenews/3041622",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时46分"
+          "time_info": "09时19分"
         },
         {
-          "title": "中方重申日本根本没有资格入常",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E9%87%8D%E7%94%B3%E6%97%A5%E6%9C%AC%E6%A0%B9%E6%9C%AC%E6%B2%A1%E6%9C%89%E8%B5%84%E6%A0%BC%E5%85%A5%E5%B8%B8%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
+          "title": "20年期日本国债收益率下跌3.5个基点，至3.220%。",
+          "url": "https://flash.jin10.com/detail/20260122084147974800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "中方重申：日本根本没有资格“入常”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32438337",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
+        },
+        {
+          "title": "日本20年期国债收益率下行3.5个基点，至3.220%。",
+          "url": "https://wallstreetcn.com/livenews/3041616",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时46分"
+          "time_info": "09时19分"
+        },
+        {
+          "title": "日本2年期国债收益率上行1个基点，至1.235%。",
+          "url": "https://wallstreetcn.com/livenews/3041610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         },
         {
           "title": "U23国足vs日本U23",
@@ -2274,7 +2527,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "日债风暴叠加格陵兰危机，“抛售美国”重现，美股债汇三杀，黄金再新高，加密货币重挫",
@@ -2300,6 +2553,23 @@
           "time_info": "[00时50分 ~ 07时21分]"
         },
         {
+          "title": "科学家首次捕捉黄金生长过程",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E6%8D%95%E6%8D%89%E9%BB%84%E9%87%91%E7%94%9F%E9%95%BF%E8%BF%87%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            30,
+            16,
+            12,
+            9,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时36分 ~ 09时19分]"
+        },
+        {
           "title": "贵金属集体飙升，黄金白银双双刷新历史新高，这背后反映了哪些经济信号？",
           "url": "https://www.zhihu.com/question/1994322673698903855",
           "source": "知乎",
@@ -2312,8 +2582,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 07时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时19分]"
         },
         {
           "title": "如何评价黄金价格史上首次突破 4800 美元 / 盎司，后面还会再继续涨吗？",
@@ -2339,8 +2609,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 07时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时19分]"
         },
         {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
@@ -2354,23 +2624,6 @@
           "time_info": "[02时36分 ~ 07时46分]"
         },
         {
-          "title": "科学家首次捕捉黄金生长过程",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E6%8D%95%E6%8D%89%E9%BB%84%E9%87%91%E7%94%9F%E9%95%BF%E8%BF%87%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
-            30,
-            16,
-            12,
-            9,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时36分 ~ 07时46分]"
-        },
-        {
           "title": "特朗普上演“TACO”式反转，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
           "url": "https://wallstreetcn.com/articles/3763768",
           "source": "华尔街见闻",
@@ -2380,6 +2633,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时52分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
+          "url": "https://wallstreetcn.com/articles/3763768",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时46分 ~ 09时19分]"
         },
         {
           "title": "国际金价屡创新高，专家称回调风险需警惕",
@@ -2421,15 +2685,15 @@
           "time_info": "[06时20分 ~ 07时21分]"
         },
         {
-          "title": "特朗普“TACO”，美股收复昨日失地，美元美债反弹，黄金冲高回落仍收涨",
-          "url": "https://wallstreetcn.com/articles/3763768",
-          "source": "华尔街见闻",
+          "title": "上海黄金交易所黄金T+D 1月22日（周四）早盘盘初下跌0.46%报1074.26元/克；<br/>上海黄金交易所白银T+D 1月22日（周四）早盘盘初下跌1.81%报22635.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260122090051762800",
+          "source": "金十数据",
           "ranks": [
-            1
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时46分"
+          "time_info": "09时19分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4吨，当前持仓量为1077.66吨。",
@@ -2450,7 +2714,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -2485,7 +2749,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时46分"
         },
@@ -2510,6 +2774,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "银河证券：商业航天产业正迈入需求侧与供给侧双向发力的黄金时代",
+          "url": "https://wallstreetcn.com/livenews/3041603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时19分"
         }
       ]
     },
@@ -2625,11 +2900,12 @@
             9,
             13,
             18,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 07时46分]"
+          "appearance_count": 15,
+          "time_info": "[00时50分 ~ 09时19分]"
         }
       ]
     },
