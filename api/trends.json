@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-23T18:51:15.191037+08:00",
-  "total_titles_processed": 2054,
+  "generated_at": "2026-01-23T19:17:45.948902+08:00",
+  "total_titles_processed": 2104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "日本",
-      "match_count": 152,
+      "match_count": 153,
       "titles": [
         {
           "title": "中方重申：日本根本没有资格“入常”",
@@ -58,8 +58,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时28分 ~ 18时51分]"
+          "appearance_count": 18,
+          "time_info": "[12时28分 ~ 19时17分]"
         },
         {
           "title": "朝鲜代表反对日本“入常”",
@@ -152,8 +152,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 18时51分]"
+          "appearance_count": 9,
+          "time_info": "[16时24分 ~ 19时17分]"
         },
         {
           "title": "中方：日本根本没资格“入常”",
@@ -179,8 +179,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时51分 ~ 18时51分]"
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 19时17分]"
         },
         {
           "title": "日本U23门将：不会过度敬畏李昊",
@@ -937,6 +937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "日本外汇事务负责人三村淳拒绝就是否干预日元置评",
+          "url": "https://wallstreetcn.com/livenews/3042889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "日本央行：经济前景的风险大致平衡。",
@@ -1767,7 +1778,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 120,
+      "match_count": 121,
       "titles": [
         {
           "title": "特朗普称加拿大因美国而存在，加总理回应",
@@ -1830,8 +1841,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时59分 ~ 18时51分]"
+          "appearance_count": 13,
+          "time_info": "[14时59分 ~ 19时17分]"
         },
         {
           "title": "特朗普达沃斯演讲，被群嘲了",
@@ -1854,8 +1865,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时17分 ~ 18时51分]"
+          "appearance_count": 19,
+          "time_info": "[11时17分 ~ 19时17分]"
         },
         {
           "title": "泽连斯基批欧对俄施压不够：特朗普能拦截影子舰队，你们不能？",
@@ -1919,6 +1930,21 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[01时02分 ~ 07时43分]"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2267695",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时24分 ~ 19时17分]"
         },
         {
           "title": "特朗普执政一年把美国推向何方",
@@ -2036,19 +2062,31 @@
           "time_info": "[00时29分 ~ 04时21分]"
         },
         {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2267695",
-          "source": "财联社热门",
+          "title": "外交部回应特朗普称将于4月访问中国",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            5,
-            4,
-            3,
-            2
+            19,
+            15,
+            14,
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 18时51分]"
+          "appearance_count": 9,
+          "time_info": "[16时24分 ~ 19时17分]"
+        },
+        {
+          "title": "特朗普称将于4月访问中国，外交部回应",
+          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时26分 ~ 19时17分]"
         },
         {
           "title": "特朗普称将于4月访华 中方回应",
@@ -2064,20 +2102,6 @@
           "time_info": "[15时47分 ~ 18时20分]"
         },
         {
-          "title": "外交部回应特朗普称将于4月访问中国",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            15,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时24分 ~ 18时51分]"
-        },
-        {
           "title": "特朗普称将于4月访华 中方回应",
           "url": "https://www.douyin.com/hot/2377206",
           "source": "抖音",
@@ -2087,18 +2111,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时47分 ~ 18时20分]"
-        },
-        {
-          "title": "特朗普称将于4月访问中国，外交部回应",
-          "url": "https://news.ifeng.com/c/8q9KkztYYLL",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时26分 ~ 18时51分]"
         },
         {
           "title": "可“全面进入”格陵兰岛？特朗普透露协议细节，又被“光速打脸”！",
@@ -2114,6 +2126,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时59分 ~ 17时26分]"
+        },
+        {
+          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
+          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 19时17分]"
         },
         {
           "title": "法国用特朗普表情包回怼特朗普",
@@ -2144,17 +2167,6 @@
           "time_info": "[09时17分 ~ 13时36分]"
         },
         {
-          "title": "特朗普炫耀谈妥了，北约放话“把中俄踢出去”",
-          "url": "https://news.ifeng.com/c/8q9NkvGZCR6",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时51分 ~ 18时51分]"
-        },
-        {
           "title": "外交部回应特朗普称将于4月访问中国",
           "url": "https://www.toutiao.com/trending/7597610597631033407/",
           "source": "今日头条",
@@ -2164,6 +2176,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时24分 ~ 18时20分]"
+        },
+        {
+          "title": "马克龙戴着墨镜警告特朗普",
+          "url": "https://www.toutiao.com/trending/7597330066661703723/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时51分 ~ 19时17分]"
         },
         {
           "title": "摩根大通：我们尊重美国总统特朗普起诉我们的权利。 然而，公司并没有因各种政治理由而关闭某些账户。",
@@ -2194,18 +2219,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时27分 ~ 05时19分]"
-        },
-        {
-          "title": "马克龙戴着墨镜警告特朗普",
-          "url": "https://www.toutiao.com/trending/7597330066661703723/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时51分 ~ 18时51分]"
         },
         {
           "title": "特朗普达沃斯演讲：格陵兰岛是美国核心安全利益，但美不会武力夺取，寻求立即谈判",
@@ -2261,6 +2274,17 @@
           "time_info": "[06时47分 ~ 07时43分]"
         },
         {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://www.douyin.com/hot/2377206",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 19时17分]"
+        },
+        {
           "title": "美国总统特朗普：听取了关于美联储理事库克被解雇案的最高法院部分庭审。",
           "url": "https://flash.jin10.com/detail/20260123060712333800",
           "source": "金十数据",
@@ -2272,6 +2296,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时19分 ~ 07时17分]"
+        },
+        {
+          "title": "外交部回应特朗普称将于4月访华",
+          "url": "https://www.toutiao.com/trending/7597610597631033407/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 19时17分]"
         },
         {
           "title": "特朗普要败诉？美最高法对罢免美联储理事库克态度谨慎，大法官警告“粉碎”央行独立性",
@@ -2402,6 +2437,18 @@
           "time_info": "[01时53分 ~ 02时59分]"
         },
         {
+          "title": "中方回应特朗普称将于4月访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 19时17分]"
+        },
+        {
           "title": "摩根大通声明：美国总统特朗普的指控“毫无根据”。",
           "url": "https://wallstreetcn.com/livenews/3042242",
           "source": "华尔街见闻-快讯",
@@ -2489,6 +2536,17 @@
           "time_info": "09时17分"
         },
         {
+          "title": "据CNN：民主党参议员对与小特朗普相关的美国国防部合同提出警示。",
+          "url": "https://flash.jin10.com/detail/20260123190836226800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "美国总统特朗普：美国将申办2035年世界博览会。",
           "url": "https://wallstreetcn.com/livenews/3042278",
           "source": "华尔街见闻-快讯",
@@ -2509,17 +2567,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
-        },
-        {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://www.douyin.com/hot/2377206",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "摩根大通股价回吐部分涨幅，现涨1.3%，此前外媒报道特朗普将起诉摩根大通及CEO戴蒙。",
@@ -2555,17 +2602,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时50分 ~ 05时19分]"
-        },
-        {
-          "title": "外交部回应特朗普称将于4月访华",
-          "url": "https://www.toutiao.com/trending/7597610597631033407/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "美国总统特朗普声称：我并不热衷于401K计划 。",
@@ -2734,17 +2770,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 06时47分]"
-        },
-        {
-          "title": "中方回应特朗普称将于4月访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E4%BA%8E4%E6%9C%88%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "美国总统特朗普：对任何与伊朗有（贸易）往来的国家征收25%关税的措施将很快生效。",
@@ -3229,7 +3254,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 107,
+      "match_count": 109,
       "titles": [
         {
           "title": "强劲数据提振风险偏好，Mag 7普涨，小盘股指再新高，美元跌至98，金银铂齐新高",
@@ -3239,8 +3264,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时17分 ~ 18时51分]"
+          "appearance_count": 20,
+          "time_info": "[09时17分 ~ 19时17分]"
         },
         {
           "title": "拼多多股价连跌 7 日，市值跌破 1500 亿美元，如何解读？还有哪些信息值得关注？",
@@ -3257,8 +3282,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时17分 ~ 18时51分]"
+          "appearance_count": 19,
+          "time_info": "[11时17分 ~ 19时17分]"
         },
         {
           "title": "专家：普京豪掷10亿美元藏着阳谋",
@@ -3288,8 +3313,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时28分 ~ 18时51分]"
+          "appearance_count": 18,
+          "time_info": "[12时28分 ~ 19时17分]"
         },
         {
           "title": "戴比尔斯时隔一年再降价，其钻石库存积压超 20 亿美元，拍卖成交率下滑，传统钻石商业逻辑是否已走到尽头？",
@@ -3637,6 +3662,18 @@
           "time_info": "[07时17分 ~ 07时43分]"
         },
         {
+          "title": "布伦特原油向上触及65美元/桶，日内涨1.04%。",
+          "url": "https://flash.jin10.com/detail/20260123183805932800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时17分]"
+        },
+        {
           "title": "摩根大通：上调CEO戴蒙年薪10.3%，至4300万美元。",
           "url": "https://wallstreetcn.com/livenews/3042316",
           "source": "华尔街见闻-快讯",
@@ -3658,17 +3695,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
-        },
-        {
-          "title": "布伦特原油向上触及65美元/桶，日内涨1.04%。",
-          "url": "https://flash.jin10.com/detail/20260123183805932800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
         },
         {
           "title": "Colorx将按22.5亿美元收购GOJO。",
@@ -3790,6 +3816,18 @@
           "time_info": "[17时52分 ~ 18时20分]"
         },
         {
+          "title": "俄总统新闻秘书：美国上届政府冻结俄资产近50亿美元",
+          "url": "https://wallstreetcn.com/livenews/3042868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时17分]"
+        },
+        {
           "title": "美国至1月23日当周外国央行持有美国国债 98.63亿美元，前值38.88亿美元。",
           "url": "https://flash.jin10.com/detail/20260123053026735800",
           "source": "金十数据",
@@ -3822,6 +3860,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时46分]"
+        },
+        {
+          "title": "布伦特原油日内涨幅达1.00%，现报64.98美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260123183448093800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时51分 ~ 19时17分]"
         },
         {
           "title": "阿根廷发售25亿美元美元挂钩的证券互换。",
@@ -3916,6 +3966,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "花旗：将英特尔(INTC.O)目标价从50美元下调至48美元。",
+          "url": "https://flash.jin10.com/detail/20260123190638926800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：美国货币市场资产下海至7.70万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3042295",
           "source": "华尔街见闻-快讯",
@@ -3938,17 +3999,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时17分 ~ 07时43分]"
-        },
-        {
-          "title": "俄总统新闻秘书：美国上届政府冻结俄资产近50亿美元",
-          "url": "https://wallstreetcn.com/livenews/3042868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
         },
         {
           "title": "美国铝业四季度销售34.5亿美元，分析师预期32.9亿美元。 美国铝业（AA）美股盘后涨超3%。",
@@ -4047,17 +4097,6 @@
           "time_info": "[02时26分 ~ 02时59分]"
         },
         {
-          "title": "布伦特原油日内涨幅达1.00%，现报64.98美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260123183448093800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
           "title": "日元兑美元跌破159关口，为1月14日以来首次。",
           "url": "https://wallstreetcn.com/livenews/3042686",
           "source": "华尔街见闻-快讯",
@@ -4097,9 +4136,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
+        },
+        {
+          "title": "美国商务部：2025年帮助美国企业赢得了2440亿美元的外国政府采购合同，而2024年这一数字为870亿美元。",
+          "url": "https://flash.jin10.com/detail/20260123190050166800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "现货铂金日内涨3%，创下2558.20美元/盎司的历史新高。",
@@ -4119,7 +4169,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -4295,7 +4345,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -4538,11 +4588,12 @@
             1,
             29,
             28,
-            27
+            27,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时17分 ~ 18时51分]"
+          "appearance_count": 17,
+          "time_info": "[11时17分 ~ 19时17分]"
         },
         {
           "title": "A股三大股指午后集体上涨，商业航天再掀涨停潮，港股震荡回升，泡泡玛特大涨6%，黄金、白银反弹",
@@ -4617,8 +4668,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时17分 ~ 18时51分]"
+          "appearance_count": 19,
+          "time_info": "[11时17分 ~ 19时17分]"
         },
         {
           "title": "一口气买2斤黄金2天赚10多万",
@@ -4643,11 +4694,12 @@
           "ranks": [
             23,
             18,
-            24
+            24,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时54分 ~ 18时51分]"
+          "appearance_count": 8,
+          "time_info": "[16时54分 ~ 19时17分]"
         },
         {
           "title": "券商晨会精华：商业航天产业正迈入需求侧与供给侧双向发力的黄金时代",
@@ -4805,6 +4857,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时01分 ~ 13时36分]"
+        },
+        {
+          "title": "有人买2斤黄金2天赚10多万",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E4%B9%B02%E6%96%A4%E9%BB%84%E9%87%912%E5%A4%A9%E8%B5%9A10%E5%A4%9A%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时50分 ~ 19时17分]"
         },
         {
           "title": "英国零售销售数据好于预期 黄金白银需求增加",
@@ -4970,17 +5034,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时26分 ~ 02时59分]"
-        },
-        {
-          "title": "有人买2斤黄金2天赚10多万",
-          "url": "https://www.baidu.com/s?wd=%E6%9C%89%E4%BA%BA%E4%B9%B02%E6%96%A4%E9%BB%84%E9%87%912%E5%A4%A9%E8%B5%9A10%E5%A4%9A%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月23日（周五）早盘盘初上涨2.87%报1110.92元/克；<br/>上海黄金交易所白银T+D 1月23日（周五）早盘盘初上涨6.79%报24603.0元/千克。",
@@ -5166,8 +5219,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时17分 ~ 18时51分]"
+          "appearance_count": 20,
+          "time_info": "[09时17分 ~ 19时17分]"
         },
         {
           "title": "算力税第二波，CPU涨价",
@@ -5179,8 +5232,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[07时17分 ~ 18时51分]"
+          "appearance_count": 22,
+          "time_info": "[07时17分 ~ 19时17分]"
         },
         {
           "title": "AI需求爆棚但英特尔产能告急？CEO财报会坦言：我很失望！（附会议实录）",
@@ -5676,7 +5729,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -5690,6 +5743,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "显卡 英伟达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
+          "url": "https://wallstreetcn.com/articles/3764001",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时47分 ~ 19时17分]"
+        },
+        {
+          "title": "英伟达美股盘前拉升，现涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/3042893",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
+          "title": "英伟达(NVDA.O)盘前拉升，涨超1%。",
+          "url": "https://flash.jin10.com/detail/20260123190449776800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         }
       ]
     },
@@ -5708,8 +5802,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[13时01分 ~ 18时51分]"
+          "appearance_count": 17,
+          "time_info": "[13时01分 ~ 19时17分]"
         },
         {
           "title": "2026算力市场开局：显卡商转行炒内存 “套牌车”混进服务器 业内驳算力泡沫论|传真",
@@ -5746,25 +5840,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[02时26分 ~ 09时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "显卡 英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "仅用半小时！Claude Code“终结”英伟达“最强护城河”？",
-          "url": "https://wallstreetcn.com/articles/3764001",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时47分 ~ 18时51分]"
         }
       ]
     }
