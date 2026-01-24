@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T16:21:40.567674+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2026-01-24T16:49:19.133970+08:00",
+  "total_titles_processed": 1222,
   "failed_sources": [],
   "trends": [
     {
@@ -155,11 +155,12 @@
           "ranks": [
             16,
             17,
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时10分 ~ 16时21分]"
+          "appearance_count": 12,
+          "time_info": "[12时10分 ~ 16时49分]"
         },
         {
           "title": "欧元兑美元EUR/USD突破1.18，为去年12月24日以来首次，日内涨0.38%。",
@@ -184,6 +185,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[04时21分 ~ 09时15分]"
+        },
+        {
+          "title": "美元全球外汇储备占比跌破60%",
+          "url": "https://flash.jin10.com/detail/20260124135157685800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            4,
+            11,
+            14,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 16时49分]"
         },
         {
           "title": "美元兑日元跌幅扩大至1%，报156.82。 美元指数日内跌幅达0.5%，报97.8402",
@@ -231,6 +248,22 @@
           "time_info": "[01时47分 ~ 04时21分]"
         },
         {
+          "title": "美元全球外汇储备占比跌破60%",
+          "url": "https://wallstreetcn.com/livenews/3043231",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            10,
+            11,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时25分 ~ 16时49分]"
+        },
+        {
           "title": "美元兑日元跌1.5%，报156.11日元。",
           "url": "https://wallstreetcn.com/livenews/3043093",
           "source": "华尔街见闻-快讯",
@@ -276,21 +309,6 @@
           "time_info": "[02时27分 ~ 04时48分]"
         },
         {
-          "title": "美元全球外汇储备占比跌破60%",
-          "url": "https://flash.jin10.com/detail/20260124135157685800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            4,
-            11,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时25分 ~ 16时21分]"
-        },
-        {
           "title": "白银价格攻破100美元里程碑 地缘政治动荡及降息预期推动贵金属价格屡创新高",
           "url": "https://flash.jin10.com/detail/20260124013658761800",
           "source": "金十数据",
@@ -303,21 +321,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时47分 ~ 03时42分]"
-        },
-        {
-          "title": "美元全球外汇储备占比跌破60%",
-          "url": "https://wallstreetcn.com/livenews/3043231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7,
-            10,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时25分 ~ 16时21分]"
         },
         {
           "title": "美元兑日元USD/JPY日内跌幅扩大至1.00%，现报156.77。",
@@ -724,6 +727,18 @@
           "time_info": "[07时43分 ~ 09时15分]"
         },
         {
+          "title": "如何看待国际白银历史性突破 100 美元关口？「谁」才是真正的核心推手？普通投资者需注意哪些风险？",
+          "url": "https://www.zhihu.com/question/1998182573264872477",
+          "source": "知乎",
+          "ranks": [
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时49分]"
+        },
+        {
           "title": "多家经纪商报价显示现货白银均到达100美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260123234531141800",
           "source": "金十数据",
@@ -791,17 +806,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
-        },
-        {
-          "title": "如何看待国际白银历史性突破 100 美元关口？「谁」才是真正的核心推手？普通投资者需注意哪些风险？",
-          "url": "https://www.zhihu.com/question/1998182573264872477",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
         },
         {
           "title": "钯金期货日内涨6%，现报2044.00美元/盎司。",
@@ -872,8 +876,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时10分 ~ 16时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时10分 ~ 16时49分]"
         },
         {
           "title": "特朗普变卦",
@@ -883,8 +887,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时10分 ~ 16时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时10分 ~ 16时49分]"
         },
         {
           "title": "特朗普政府解雇2个涉华关键官员，负责应对所谓“中国技术威胁”",
@@ -918,8 +922,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时10分 ~ 16时21分]"
+          "appearance_count": 12,
+          "time_info": "[12时10分 ~ 16时49分]"
         },
         {
           "title": "加州司法部长将就Sable Offshore输油管道重启一事起诉特朗普政府。",
@@ -942,8 +946,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时10分 ~ 16时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时10分 ~ 16时49分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -961,6 +965,18 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时24分 ~ 09时15分]"
+        },
+        {
+          "title": "报道：特朗普要求格陵兰全面放开军事限制",
+          "url": "https://wallstreetcn.com/articles/3764043",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 16时49分]"
         },
         {
           "title": "中方回应特朗普称将于4月访华",
@@ -1052,18 +1068,6 @@
           "time_info": "[12时54分 ~ 15时40分]"
         },
         {
-          "title": "报道：特朗普要求格陵兰全面放开军事限制",
-          "url": "https://wallstreetcn.com/articles/3764043",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时14分 ~ 16时21分]"
-        },
-        {
           "title": "美媒：特朗普政府考虑对古巴石油进口实施海上封锁",
           "url": "https://flash.jin10.com/detail/20260124031952416800",
           "source": "金十数据",
@@ -1105,6 +1109,18 @@
           "time_info": "[09时15分 ~ 14时54分]"
         },
         {
+          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
+          "url": "https://wallstreetcn.com/articles/3764068",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 16时49分]"
+        },
+        {
           "title": "巴西总统卢拉：特朗普试图以“和平委员会”取代联合国",
           "url": "https://flash.jin10.com/detail/20260124093450741800",
           "source": "金十数据",
@@ -1121,16 +1137,17 @@
           "time_info": "[11时10分 ~ 14时54分]"
         },
         {
-          "title": "加拿大卡尼“反霸凌”演讲“捅了马蜂窝”，特朗普团队“勃然大怒”",
-          "url": "https://wallstreetcn.com/articles/3764068",
-          "source": "华尔街见闻",
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            4
+            20,
+            17,
+            14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 16时21分]"
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 16时49分]"
         },
         {
           "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
@@ -1158,18 +1175,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时15分 ~ 13时44分]"
-        },
-        {
-          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友：格陵兰岛没企鹅",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32456544",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 16时21分]"
         },
         {
           "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
@@ -1304,6 +1309,19 @@
           "time_info": "[09时15分 ~ 12时11分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：俄罗斯对能源设施的打击证明，防空物资供应绝不能拖延，与美国总统特朗普在达沃斯达成的防空协议必须得到全面落实。",
+          "url": "https://flash.jin10.com/detail/20260124152358340800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 16时49分]"
+        },
+        {
           "title": "美国总统特朗普：加拿大反对在格陵兰岛建造“金穹”。",
           "url": "https://wallstreetcn.com/livenews/3043110",
           "source": "华尔街见闻-快讯",
@@ -1343,6 +1361,19 @@
           "time_info": "[05时17分 ~ 06时15分]"
         },
         {
+          "title": "为何特朗普想要格陵兰岛",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            27,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时17分 ~ 16时49分]"
+        },
+        {
           "title": "瑞士财长：瑞士政府目前尚未能够就特朗普的“和平委员会”事宜展开讨论，不过可能会出现一些法律和政治方面的障碍。",
           "url": "https://flash.jin10.com/detail/20260123235025878800",
           "source": "金十数据",
@@ -1379,39 +1410,15 @@
           "time_info": "[15时39分 ~ 16时21分]"
         },
         {
-          "title": "乌克兰总统泽连斯基：俄罗斯对能源设施的打击证明，防空物资供应绝不能拖延，与美国总统特朗普在达沃斯达成的防空协议必须得到全面落实。",
-          "url": "https://flash.jin10.com/detail/20260124152358340800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 16时21分]"
-        },
-        {
           "title": "深度解析特朗普365天赢学",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E7%89%B9%E6%9C%97%E6%99%AE365%E5%A4%A9%E8%B5%A2%E5%AD%A6",
           "source": "bilibili 热搜",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时21分"
-        },
-        {
-          "title": "为何特朗普想要格陵兰岛",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E8%A6%81%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时17分 ~ 16时21分]"
         },
         {
           "title": "特朗普称联邦紧急事务管理局已做好充分准备应对冬季风暴",
@@ -1473,8 +1480,19 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
+        {
+          "title": "U23国足vs日本",
+          "url": "https://www.douyin.com/hot/2377895",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时10分 ~ 16时49分]"
+        },
         {
           "title": "与日本决赛在即 中领馆提醒",
           "url": "https://www.baidu.com/s?wd=%E4%B8%8E%E6%97%A5%E6%9C%AC%E5%86%B3%E8%B5%9B%E5%9C%A8%E5%8D%B3+%E4%B8%AD%E9%A2%86%E9%A6%86%E6%8F%90%E9%86%92",
@@ -1488,17 +1506,6 @@
           "time_info": "[00时24分 ~ 09时15分]"
         },
         {
-          "title": "U23国足vs日本",
-          "url": "https://www.douyin.com/hot/2377895",
-          "source": "抖音",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时10分 ~ 16时21分]"
-        },
-        {
           "title": "日本众议院解散现场，四位前首相同框，石破茂拒绝跟喊“万岁”",
           "url": "https://v.ifeng.com/c/8qAYkEI9nJt",
           "source": "凤凰网",
@@ -1506,8 +1513,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时10分 ~ 16时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时10分 ~ 16时49分]"
         },
         {
           "title": "U23国足vs日本",
@@ -1522,17 +1529,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[02时58分 ~ 07时43分]"
-        },
-        {
-          "title": "今夜决战日本队！为中国U23男足加油",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%9C%E5%86%B3%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F%EF%BC%81%E4%B8%BA%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3%E5%8A%A0%E6%B2%B9",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时42分 ~ 16时21分]"
         },
         {
           "title": "央视转播U23国足与日本比赛",
@@ -1550,6 +1546,18 @@
           "time_info": "[00时24分 ~ 04时21分]"
         },
         {
+          "title": "今夜决战日本队！为中国U23男足加油",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%8A%E5%A4%9C%E5%86%B3%E6%88%98%E6%97%A5%E6%9C%AC%E9%98%9F%EF%BC%81%E4%B8%BA%E4%B8%AD%E5%9B%BDU23%E7%94%B7%E8%B6%B3%E5%8A%A0%E6%B2%B9",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[07时42分 ~ 16时49分]"
+        },
+        {
           "title": "中国 U23 对日本 U23 有什么优势吗？本场你最期待谁的发挥？",
           "url": "https://www.zhihu.com/question/1998081035548717108",
           "source": "知乎",
@@ -1558,11 +1566,12 @@
             6,
             7,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时10分 ~ 15时40分]"
+          "appearance_count": 12,
+          "time_info": "[11时10分 ~ 16时49分]"
         },
         {
           "title": "日本首相的反常操作藏着何种算计",
@@ -1594,6 +1603,22 @@
           "time_info": "[09时14分 ~ 15时40分]"
         },
         {
+          "title": "今夜亚洲杯决赛决战日本队！一起为中国U23男足加油",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32455284",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            14,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时10分 ~ 16时49分]"
+        },
+        {
           "title": "法兴银行：决定将下次日本央行加息的预测提前至4月份，并预计日本央行将在六个月后于10月份将政策利率上调至1.25%。",
           "url": "https://flash.jin10.com/detail/20260124021424985800",
           "source": "金十数据",
@@ -1605,21 +1630,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[02时58分 ~ 07时43分]"
-        },
-        {
-          "title": "今夜亚洲杯决赛决战日本队！一起为中国U23男足加油",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32455284",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15,
-            14,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时10分 ~ 16时21分]"
         },
         {
           "title": "U23国足战日本队 转播计划来了",
@@ -1652,6 +1662,22 @@
           "time_info": "[00时24分 ~ 06时44分]"
         },
         {
+          "title": "日本U23实力如何",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%ACU23%E5%AE%9E%E5%8A%9B%E5%A6%82%E4%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            4,
+            17,
+            30,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时54分 ~ 16时49分]"
+        },
+        {
           "title": "日本U23主帅：中国队有强大优点",
           "url": "https://www.toutiao.com/trending/7598695230568664586/",
           "source": "今日头条",
@@ -1667,31 +1693,31 @@
           "time_info": "[07时42分 ~ 13时18分]"
         },
         {
-          "title": "日本U23实力如何",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%ACU23%E5%AE%9E%E5%8A%9B%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            4,
-            17,
-            30,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时54分 ~ 16时21分]"
-        },
-        {
           "title": "日本百货店去年12月中国内地顾客同比减少约四成",
           "url": "https://m.thepaper.cn/newsDetail_forward_32450080",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时44分 ~ 16时49分]"
+        },
+        {
+          "title": "U23国足谈对阵日本队：干就完了",
+          "url": "https://www.toutiao.com/trending/7598461709346557494/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            26,
+            4,
+            19,
+            20
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时44分 ~ 16时21分]"
+          "time_info": "[14时25分 ~ 16时49分]"
         },
         {
           "title": "范志毅谈国足战日本制胜点",
@@ -1707,18 +1733,18 @@
           "time_info": "[11时10分 ~ 14时25分]"
         },
         {
-          "title": "U23国足谈对阵日本队：干就完了",
-          "url": "https://www.toutiao.com/trending/7598461709346557494/",
-          "source": "今日头条",
+          "title": "日本网民热议中国U23",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%83%AD%E8%AE%AE%E4%B8%AD%E5%9B%BDU23",
+          "source": "bilibili 热搜",
           "ranks": [
-            23,
-            26,
+            6,
+            3,
             4,
-            19
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 16时21分]"
+          "appearance_count": 5,
+          "time_info": "[15时17分 ~ 16时49分]"
         },
         {
           "title": "日本市场震荡促使美国财政部考虑干预汇市",
@@ -1734,19 +1760,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时15分 ~ 13时44分]"
-        },
-        {
-          "title": "日本网民热议中国U23",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E7%83%AD%E8%AE%AE%E4%B8%AD%E5%9B%BDU23",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时17分 ~ 16时21分]"
         },
         {
           "title": "日本四位前首相同框",
@@ -1809,6 +1822,29 @@
           "time_info": "[12时54分 ~ 13时44分]"
         },
         {
+          "title": "专家称日本想打的不是一般小仗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%83%B3%E6%89%93%E7%9A%84%E4%B8%8D%E6%98%AF%E4%B8%80%E8%88%AC%E5%B0%8F%E4%BB%97%23&t=31&band_rank=6&Refer=top",
+          "source": "微博",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时49分]"
+        },
+        {
+          "title": "外界对日本将干预汇市的猜测升温 美国甚至可能罕见协助",
+          "url": "https://wallstreetcn.com/livenews/3043254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        },
+        {
           "title": "为什么某些日本动画题材能持续在全球范围内保持高热度？",
           "url": "https://www.zhihu.com/question/1954265940465279965",
           "source": "知乎",
@@ -1832,15 +1868,26 @@
           "time_info": "[00时24分 ~ 00时56分]"
         },
         {
-          "title": "专家称日本想打的不是一般小仗",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%97%A5%E6%9C%AC%E6%83%B3%E6%89%93%E7%9A%84%E4%B8%8D%E6%98%AF%E4%B8%80%E8%88%AC%E5%B0%8F%E4%BB%97%23&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "日元剧烈反弹！市场怀疑官方出手，日本财务大臣拒绝承认：“时刻保持紧迫关注”",
+          "url": "https://wallstreetcn.com/articles/3764038",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时21分"
+          "time_info": "16时49分"
+        },
+        {
+          "title": "专家称日本想打的不是一般小仗",
+          "url": "https://www.toutiao.com/trending/7598507208934555711/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         },
         {
           "title": "与日本决赛在即 中领馆提醒",
@@ -1868,8 +1915,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时17分 ~ 16时21分]"
+          "appearance_count": 18,
+          "time_info": "[07时17分 ~ 16时49分]"
         },
         {
           "title": "金属狂欢掀高潮！白银首次破百、黄金逼近5000美元，齐创2020年来最大周涨",
@@ -1881,8 +1928,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时10分 ~ 16时21分]"
+          "appearance_count": 13,
+          "time_info": "[11时10分 ~ 16时49分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月23日（周五）晚盘收盘上涨0.99%报1115.5元/克；<br/>上海黄金交易所白银T+D 1月23日（周五）晚盘收盘上涨3.96%报25651.0元/千克。",
@@ -1985,6 +2032,20 @@
           "time_info": "[09时14分 ~ 13时18分]"
         },
         {
+          "title": "市民彻夜抢购黄金 柜台挤成春运现场",
+          "url": "https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E5%BD%BB%E5%A4%9C%E6%8A%A2%E8%B4%AD%E9%BB%84%E9%87%91+%E6%9F%9C%E5%8F%B0%E6%8C%A4%E6%88%90%E6%98%A5%E8%BF%90%E7%8E%B0%E5%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时25分 ~ 16时49分]"
+        },
+        {
           "title": "标普或两周连跌，英特尔暴跌18%，美元跌金属狂欢，白银破百、黄金逼近5000美元",
           "url": "https://wallstreetcn.com/articles/3763993",
           "source": "华尔街见闻",
@@ -2004,20 +2065,6 @@
             25,
             23,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时25分 ~ 16时21分]"
-        },
-        {
-          "title": "市民彻夜抢购黄金 柜台挤成春运现场",
-          "url": "https://www.baidu.com/s?wd=%E5%B8%82%E6%B0%91%E5%BD%BB%E5%A4%9C%E6%8A%A2%E8%B4%AD%E9%BB%84%E9%87%91+%E6%9F%9C%E5%8F%B0%E6%8C%A4%E6%88%90%E6%98%A5%E8%BF%90%E7%8E%B0%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            25,
-            23
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -2150,8 +2197,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时17分 ~ 16时21分]"
+          "appearance_count": 18,
+          "time_info": "[07时17分 ~ 16时49分]"
         },
         {
           "title": "白银再创历史新高 英特尔上演“高台跳水” | 今夜看点",
@@ -2161,11 +2208,12 @@
             8,
             10,
             7,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 38,
-          "time_info": "[00时24分 ~ 16时21分]"
+          "appearance_count": 39,
+          "time_info": "[00时24分 ~ 16时49分]"
         },
         {
           "title": "英特尔电话会：CPU需求激增却有单无货！CEO坦言库存耗尽且良率未达标，“我很失望无法满足需求”",
@@ -2313,11 +2361,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E9%AB%98%E7%AE%A1%E8%B0%88AI%E5%BC%80%E5%8F%91%E7%9A%84%E5%8D%B1%E4%B8%8E%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时49分]"
         }
       ]
     },
@@ -2356,11 +2405,12 @@
           "url": "https://wallstreetcn.com/livenews/3043244",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时21分 ~ 16时49分]"
         }
       ]
     },
