@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-27T05:20:09.943535+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-01-27T05:46:18.326969+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.580%（12月22日为3.499%），投标倍数2.75（前次为2.54）。",
@@ -104,6 +104,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时28分 ~ 04时22分]"
+        },
+        {
+          "title": "现货白银冲高回落，目前涨5.4%失守108美元，北京时间02:03还曾涨至117.7132美元创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3044171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 05时46分]"
+        },
+        {
+          "title": "沙特阿美发行40亿美元债券，为2026年首次销售债券。 据知情人士透露，这笔债券供应获得超过220亿美元认购，（久期最长的）30年期公司债收益率较可比美债高出1.3个百分点，较最初讨论的低大约25个基点。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3044170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时49分 ~ 05时46分]"
         },
         {
           "title": "贝克休斯公司表示，受人工智能运行所需电力需求激增的影响，该公司计划在三年内将数据中心设备订单目标提高一倍，达到30亿美元。",
@@ -218,32 +246,6 @@
           "time_info": "[02时28分 ~ 04时22分]"
         },
         {
-          "title": "现货白银冲高回落，目前涨5.4%失守108美元，北京时间02:03还曾涨至117.7132美元创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3044171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 05时20分]"
-        },
-        {
-          "title": "沙特阿美发行40亿美元债券，为2026年首次销售债券。 据知情人士透露，这笔债券供应获得超过220亿美元认购，（久期最长的）30年期公司债收益率较可比美债高出1.3个百分点，较最初讨论的低大约25个基点。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3044170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时49分 ~ 05时20分]"
-        },
-        {
           "title": "数据中心电子设备设计与制造商Forgent Power Solutions Inc.寻求通过IPO融资至多16.2亿美元。",
           "url": "https://wallstreetcn.com/livenews/3044167",
           "source": "华尔街见闻-快讯",
@@ -334,6 +336,19 @@
           "time_info": "[00时28分 ~ 01时38分]"
         },
         {
+          "title": "美国天然气价格突破7美元大关 部分现货突破200美元",
+          "url": "https://flash.jin10.com/detail/20260127034456876800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 05时46分]"
+        },
+        {
           "title": "纽约银日内涨幅达11.5%，报113.02美元/盎司。 现货白银日内涨幅达9.5%，报113.14美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3044114",
           "source": "华尔街见闻-快讯",
@@ -358,6 +373,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时38分 ~ 03时01分]"
+        },
+        {
+          "title": "美元指数跌约0.6%，一度创逾四个月新低",
+          "url": "https://wallstreetcn.com/livenews/3044178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 05时46分]"
         },
         {
           "title": "欧元/美元日内涨幅达0.5%，报1.1886。",
@@ -409,6 +437,29 @@
           "time_info": "04时22分"
         },
         {
+          "title": "美元指数26日下跌",
+          "url": "https://flash.jin10.com/detail/20260127044040593800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 05时46分]"
+        },
+        {
+          "title": "倒V型走势 白银创下新高后下跌超12美元",
+          "url": "https://flash.jin10.com/detail/20260127051949584800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
           "title": "现货白银突破113美元/盎司 日内暴涨10美元",
           "url": "https://flash.jin10.com/detail/20260127001424465800",
           "source": "金十数据",
@@ -419,29 +470,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时28分 ~ 01时02分]"
-        },
-        {
-          "title": "美国天然气价格突破7美元大关 部分现货突破200美元",
-          "url": "https://flash.jin10.com/detail/20260127034456876800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时20分]"
-        },
-        {
-          "title": "美元指数26日下跌",
-          "url": "https://flash.jin10.com/detail/20260127044040593800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
         },
         {
           "title": "现货白银日内涨幅扩大至11.00%，现报114.57美元/盎司。",
@@ -468,16 +496,16 @@
           "time_info": "[00时28分 ~ 01时02分]"
         },
         {
-          "title": "美元指数跌约0.6%，一度创逾四个月新低",
-          "url": "https://wallstreetcn.com/livenews/3044178",
-          "source": "华尔街见闻-快讯",
+          "title": "美元走软，干预风险推动日元上涨",
+          "url": "https://flash.jin10.com/detail/20260127042445135800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            18
+            9,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时20分]"
+          "time_info": "[05时20分 ~ 05时46分]"
         },
         {
           "title": "英伟达一度跌超0.6%，刷新日低，逼近186美元。",
@@ -502,6 +530,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 01时38分]"
+        },
+        {
+          "title": "周一（1月26日）纽约尾盘，欧元兑美元涨0.44%，英镑兑美元涨0.27%，美元兑瑞郎跌0.39%。 商品货币对中，澳元兑美元涨0.32%，纽元兑美元涨0.46%，美元兑加元涨0.12%。 瑞典克朗兑美元涨0.07%，挪威克朗兑美元大致持平，丹麦克朗兑美元涨0.46%。 波兰兹罗提兑美元涨0.55%，匈牙利福林兑美元涨0.73%。",
+          "url": "https://wallstreetcn.com/livenews/3044185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 05时46分]"
         },
         {
           "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
@@ -588,26 +628,15 @@
           "time_info": "[00时28分 ~ 01时02分]"
         },
         {
-          "title": "美元走软，干预风险推动日元上涨",
-          "url": "https://flash.jin10.com/detail/20260127042445135800",
+          "title": "美元指数DXY失守97，日内跌幅0.48%。",
+          "url": "https://flash.jin10.com/detail/20260127050513890800",
           "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "周一（1月26日）纽约尾盘，欧元兑美元涨0.44%，英镑兑美元涨0.27%，美元兑瑞郎跌0.39%。 商品货币对中，澳元兑美元涨0.32%，纽元兑美元涨0.46%，美元兑加元涨0.12%。 瑞典克朗兑美元涨0.07%，挪威克朗兑美元大致持平，丹麦克朗兑美元涨0.46%。 波兰兹罗提兑美元涨0.55%，匈牙利福林兑美元涨0.73%。",
-          "url": "https://wallstreetcn.com/livenews/3044185",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "05时46分"
         },
         {
           "title": "现货白银突破115美元",
@@ -668,7 +697,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -678,8 +707,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
@@ -689,8 +718,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -700,8 +729,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "美国稀土上市公司披露获特朗普政府投资意向 年内股价接近翻3倍",
@@ -711,8 +740,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时47分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[03时47分 ~ 05时46分]"
         },
         {
           "title": "美国白宫：总统特朗普并未放弃乌克兰和平进程。",
@@ -828,6 +857,31 @@
           "time_info": "[01时02分 ~ 03时01分]"
         },
         {
+          "title": "特朗普与奥巴马克林顿呛声",
+          "url": "https://www.toutiao.com/trending/7598711075387195443/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时47分 ~ 05时46分]"
+        },
+        {
+          "title": "美国官员：美国总统特朗普完全赞同以色列总理内塔尼亚胡的声明，即在哈马斯实现非军事化和解除武装之前，加沙的重建不会开始。",
+          "url": "https://flash.jin10.com/detail/20260127041616450800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 05时46分]"
+        },
+        {
           "title": "特朗普：与明州州长“想法相近” 将处理执法枪击事件",
           "url": "https://flash.jin10.com/detail/20260127032830485800",
           "source": "金十数据",
@@ -878,27 +932,16 @@
           "time_info": "[03时49分 ~ 04时49分]"
         },
         {
-          "title": "美国官员：美国总统特朗普完全赞同以色列总理内塔尼亚胡的声明，即在哈马斯实现非军事化和解除武装之前，加沙的重建不会开始。",
-          "url": "https://flash.jin10.com/detail/20260127041616450800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时20分]"
-        },
-        {
           "title": "卢拉与特朗普通电话 讨论两国关系和委内瑞拉局势",
           "url": "https://flash.jin10.com/detail/20260127044150899800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 05时46分]"
         },
         {
           "title": "巴西政府声明：巴西总统卢拉与美国总统特朗普就委内瑞拉问题进行了讨论，强调维护地区和平与稳定的重要性，总统卢拉同意不久访问华盛顿，总统卢拉向美国总统特朗普提议，将和平方案委员会的职权范围仅限于加沙问题。",
@@ -937,15 +980,50 @@
           "time_info": "[01时02分 ~ 01时38分]"
         },
         {
-          "title": "特朗普与奥巴马克林顿呛声",
-          "url": "https://www.toutiao.com/trending/7598711075387195443/",
-          "source": "今日头条",
+          "title": "特朗普提议维持医疗保险向保险公司支付的费率不变",
+          "url": "https://flash.jin10.com/detail/20260127051213344800",
+          "source": "金十数据",
           "ranks": [
-            17
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "周一（1月26日），降息赢家指数跌0.25%，报104.45点。 “特朗普关税输家”指数跌1.04%，报115.08点。 “特朗普金融指数”涨0.47%，报172.37点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.20%，报15.35点。",
+          "url": "https://wallstreetcn.com/livenews/3044205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
+        },
+        {
+          "title": "特朗普政府表示正在重组联邦航空管理局的架构，将把安全活动集中到一个办公室。",
+          "url": "https://flash.jin10.com/detail/20260127042724482800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时47分 ~ 03时49分]"
+          "time_info": "[05时20分 ~ 05时46分]"
+        },
+        {
+          "title": "特朗普认为伊朗希望达成协议",
+          "url": "https://flash.jin10.com/detail/20260127042710644800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 05时46分]"
         },
         {
           "title": "卢拉与特朗普通电话，讨论两国关系和委内瑞拉局势",
@@ -960,26 +1038,26 @@
           "time_info": "[03时01分 ~ 03时31分]"
         },
         {
-          "title": "特朗普政府表示正在重组联邦航空管理局的架构，将把安全活动集中到一个办公室。",
-          "url": "https://flash.jin10.com/detail/20260127042724482800",
+          "title": "特朗普政府提议维持联邦医疗保险优势计划（Medicare Advantage）费率不变。",
+          "url": "https://flash.jin10.com/detail/20260127050517298800",
           "source": "金十数据",
           "ranks": [
-            7
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "05时46分"
         },
         {
-          "title": "特朗普认为伊朗希望达成协议",
-          "url": "https://flash.jin10.com/detail/20260127042710644800",
+          "title": "民调：特朗普严打移民 支持率降至低位",
+          "url": "https://flash.jin10.com/detail/20260127050316323800",
           "source": "金十数据",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时20分"
+          "time_info": "05时46分"
         }
       ]
     },
@@ -995,8 +1073,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "突破5000美元大关！现货黄金价格年内已涨超16%",
@@ -1006,8 +1084,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "如何看待黄金五千，白银破百？",
@@ -1017,8 +1095,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "现货黄金首次站上5100美元，金饰克价逼近1580元！此轮狂飙还将持续多久？",
@@ -1028,8 +1106,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "黄金逼近5100美元！一图看懂金银加速上涨",
@@ -1039,8 +1117,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "金价飙升原因找到了",
@@ -1051,8 +1129,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "首破5000美元大关！黄金创新高，机构直言还能涨",
@@ -1109,6 +1187,19 @@
           "time_info": "[03时01分 ~ 04时49分]"
         },
         {
+          "title": "现货黄金较历史高位回落100美元",
+          "url": "https://flash.jin10.com/detail/20260127034932409800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时49分 ~ 05时46分]"
+        },
+        {
           "title": "丰业银行：与黄金价格脱节，黄金股存在“补涨”机会",
           "url": "https://flash.jin10.com/detail/20260127032144088800",
           "source": "金十数据",
@@ -1133,18 +1224,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 01时38分]"
-        },
-        {
-          "title": "现货黄金较历史高位回落100美元",
-          "url": "https://flash.jin10.com/detail/20260127034932409800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时49分 ~ 05时20分]"
         },
         {
           "title": "非洲股市收盘播报｜周一（1月26日），南非富时/JSE非洲领先40可交易指数收涨2.06%，刷新收盘历史高位至11.65万点上方，2026年迄今累计上涨8.09%、同期本币南非兰特兑美元涨3.65%、现货黄金涨17.99%。",
@@ -1204,8 +1283,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "外交部提醒春节避免前往日本",
@@ -1215,8 +1294,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "外交部提醒中国公民春节期间避免前往日本",
@@ -1226,8 +1305,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "外交部提醒：春节期间避免前往日本",
@@ -1237,8 +1316,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "日本列车与卡车相撞，4名中国公民受伤",
@@ -1248,8 +1327,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "日本队门将荒木琉伟当选本届 U23 亚洲杯最佳门将，而国足门将李昊无缘该奖项，如何评价 U23 国足的发挥？",
@@ -1260,11 +1339,12 @@
             5,
             7,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "导演魏德圣：台湾人绝对不是亲日本的，我们的经历不一样",
@@ -1274,8 +1354,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "日本党首辩论",
@@ -1289,8 +1369,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "6名中国男子日本滑雪被困“死亡谷”",
@@ -1304,11 +1384,26 @@
             27,
             29,
             30,
-            28
+            28,
+            25
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 13,
+          "time_info": "[00时28分 ~ 05时46分]"
+        },
+        {
+          "title": "中国公民春节期间避免前往日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            15,
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时21分 ~ 05时46分]"
         },
         {
           "title": "4名中国公民在日本受伤",
@@ -1326,19 +1421,6 @@
           "time_info": "[00时28分 ~ 05时20分]"
         },
         {
-          "title": "中国公民春节期间避免前往日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时21分 ~ 05时20分]"
-        },
-        {
           "title": "日本首相的继子迫于压力退选",
           "url": "https://www.douyin.com/hot/2380198",
           "source": "抖音",
@@ -1348,19 +1430,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "日本列车与卡车相撞 4名中国公民受伤",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%88%97%E8%BD%A6%E4%B8%8E%E5%8D%A1%E8%BD%A6%E7%9B%B8%E6%92%9E+4%E5%90%8D%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%8F%97%E4%BC%A4",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时47分 ~ 05时20分]"
+          "appearance_count": 6,
+          "time_info": "[03时47分 ~ 05时46分]"
         },
         {
           "title": "6名中国男子日本滑雪被困死亡谷",
@@ -1410,8 +1493,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "元宝AI春节10亿红包！马化腾：希望重现当年微信红包盛况",
@@ -1421,8 +1504,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -1432,8 +1515,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -1444,8 +1527,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
@@ -1456,8 +1539,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 05时20分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 05时46分]"
         },
         {
           "title": "中国造出全球80%的AI眼镜",
@@ -1469,6 +1552,47 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260127010319347800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时38分 ~ 02时28分]"
+        },
+        {
+          "title": "希腊雅典证交所综合指数收涨0.64%，报2279.70点，重新逼近2010年1月11日收盘位2315.31点和2009年11月11日顶部2685.71点。 2026年迄今，希腊股市已经累计上涨7.50%。",
+          "url": "https://wallstreetcn.com/livenews/3044095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时02分]"
+        },
+        {
+          "title": "金十图示：2026年01月26日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260127050542615800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时46分"
         }
       ]
     },
@@ -1496,36 +1620,6 @@
           "ranks": [
             17,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 01时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "股市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年01月26日（周一）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260127010319347800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时38分 ~ 02时28分]"
-        },
-        {
-          "title": "希腊雅典证交所综合指数收涨0.64%，报2279.70点，重新逼近2010年1月11日收盘位2315.31点和2009年11月11日顶部2685.71点。 2026年迄今，希腊股市已经累计上涨7.50%。",
-          "url": "https://wallstreetcn.com/livenews/3044095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -1593,7 +1687,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
         }
