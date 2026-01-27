@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-01-28T01:27:03.341887+08:00",
-  "total_titles_processed": 416,
-  "failed_sources": [],
+  "generated_at": "2026-01-28T01:58:45.386268+08:00",
+  "total_titles_processed": 442,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
@@ -15,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "专家：银价或跌回90美元之下",
@@ -25,11 +27,38 @@
           "ranks": [
             6,
             12,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
+        },
+        {
+          "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/3044896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时58分]"
+        },
+        {
+          "title": "WTI原油站上62美元/桶，日内涨1.77%。",
+          "url": "https://flash.jin10.com/detail/20260128002824435800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时58分]"
         },
         {
           "title": "波音：预计2026年自由现金流（FCF）将为10亿-30亿美元。",
@@ -45,50 +74,76 @@
           "time_info": "[00时25分 ~ 01时27分]"
         },
         {
-          "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
-          "url": "https://wallstreetcn.com/livenews/3044896",
+          "title": "野村：预计日本国债收益率曲线最近的扭曲趋平走势可能会持续。 虽然美元/日元走低减轻了日本央行立即政策正常化的压力，但正如以往经验所示，市场在政府干预后对日本央行采取鹰派行动的预期可能会增强。",
+          "url": "https://wallstreetcn.com/livenews/3044883",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            12
+            12,
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时58分]"
         },
         {
-          "title": "WTI原油站上62美元/桶，日内涨1.77%。",
-          "url": "https://flash.jin10.com/detail/20260128002824435800",
-          "source": "金十数据",
+          "title": "美元兑日元跌1%，刷新日低至152.61日元。",
+          "url": "https://wallstreetcn.com/livenews/3044919",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时27分]"
-        },
-        {
-          "title": "现货钯金日内跌幅达4.00%，现报1874.98美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260128010525836800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "01时58分"
         },
         {
           "title": "摩根大通：建议投资者继续看跌美元，对部分仓位获利了结。",
           "url": "https://wallstreetcn.com/livenews/3044907",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时58分]"
+        },
+        {
+          "title": "现货钯金日内跌幅达4.00%，现报1874.98美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260128010525836800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时58分]"
+        },
+        {
+          "title": "WTI原油日内涨幅达2.00%，现报62.14美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260128010325180800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时58分]"
+        },
+        {
+          "title": "布伦特原油日内涨幅达2.0%，报66.13美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3044906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时58分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
@@ -102,26 +157,16 @@
           "time_info": "[00时24分 ~ 00时25分]"
         },
         {
-          "title": "WTI原油日内涨幅达2.00%，现报62.14美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260128010325180800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "布伦特原油日内涨幅达2.0%，报66.13美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3044906",
+          "title": "加密货币市场走高，得益于美元走软",
+          "url": "https://wallstreetcn.com/livenews/3044901",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            9,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时58分]"
         },
         {
           "title": "英镑兑美元涨0.8%，刷新2021年10月以来高位至1.3791。",
@@ -136,18 +181,6 @@
           "time_info": "[00时25分 ~ 00时57分]"
         },
         {
-          "title": "野村：预计日本国债收益率曲线最近的扭曲趋平走势可能会持续。 虽然美元/日元走低减轻了日本央行立即政策正常化的压力，但正如以往经验所示，市场在政府干预后对日本央行采取鹰派行动的预期可能会增强。",
-          "url": "https://wallstreetcn.com/livenews/3044883",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时27分]"
-        },
-        {
           "title": "Prosus于1月19-23日当周按均价51.0528欧元回购股票182.2206万，合计超0.930亿欧元（折合将近1.090亿美元）。 Naspers同期按均价1034.9077南非兰特回购75.0662万，合计超7.768亿兰特（折合0.478亿美元）。",
           "url": "https://wallstreetcn.com/livenews/3044861",
           "source": "华尔街见闻-快讯",
@@ -158,17 +191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时57分]"
-        },
-        {
-          "title": "加密货币市场走高，得益于美元走软",
-          "url": "https://wallstreetcn.com/livenews/3044901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
         },
         {
           "title": "美国参议院少数党领袖舒默：纽约市价值 172 亿美元的隧道项目因特朗普政府在去年十月暂停拨款而面临风险。",
@@ -251,7 +273,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "耐用品数据提振美股，白银现08年来最强盘中涨势、黄金首破5000大关，美天然气涨近30%",
@@ -261,8 +283,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "1克黄金竟能打造一张完整黄金婚书",
@@ -274,8 +296,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "易方达黄金主题LOF暂停申购",
@@ -287,8 +309,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "科技股财报前全球股市普涨，纳指期货上扬0.6%，黄金一度重回5100，白银反弹至110美元，美元指数跌破97",
@@ -298,8 +320,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "白银盘中狂飙超10%，黄金涨破5100美元、创四十年最大月涨，全球动荡驱动避险潮",
@@ -309,8 +331,56 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
+        },
+        {
+          "title": "黄金将继续狂飙？法兴银行上调目标价：保守估计，年内站上6000美元！",
+          "url": "https://www.cls.cn/detail/2271306",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
+        },
+        {
+          "title": "黄金价格大涨又大跌，是走还是留？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
+        },
+        {
+          "title": "李蓓：上月已清仓黄金",
+          "url": "https://www.douyin.com/hot/2381189",
+          "source": "抖音",
+          "ranks": [
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "任泽平：黄金白银暴涨的原因有两个",
@@ -322,54 +392,20 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 6,
+          "time_info": "[00时24分 ~ 01时56分]"
         },
         {
-          "title": "黄金将继续狂飙？法兴银行上调目标价：保守估计，年内站上6000美元！",
-          "url": "https://www.cls.cn/detail/2271306",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
-        },
-        {
-          "title": "黄金价格大涨又大跌，是走还是留？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32472438",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=25&Refer=top",
+          "title": "女子买100克黄金轮胎手镯赚4万多",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0100%E5%85%8B%E9%BB%84%E9%87%91%E8%BD%AE%E8%83%8E%E6%89%8B%E9%95%AF%E8%B5%9A4%E4%B8%87%E5%A4%9A%23&t=31&band_rank=28&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            28,
+            27
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
-        },
-        {
-          "title": "李蓓：上月已清仓黄金",
-          "url": "https://www.douyin.com/hot/2381189",
-          "source": "抖音",
-          "ranks": [
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "time_info": "[00时57分 ~ 01时58分]"
         },
         {
           "title": "A股午后拉升，三大股指集体收涨，算力产业链爆发，恒指涨超1%，紫金黄金涨超11%，沪银逆势涨7%",
@@ -379,8 +415,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时57分 ~ 01时56分]"
         },
         {
           "title": "有人在金店排队7小时花50万抢购黄金",
@@ -393,18 +429,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时24分 ~ 00时57分]"
-        },
-        {
-          "title": "女子买100克黄金轮胎手镯赚4万多",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0100%E5%85%8B%E9%BB%84%E9%87%91%E8%BD%AE%E8%83%8E%E6%89%8B%E9%95%AF%E8%B5%9A4%E4%B8%87%E5%A4%9A%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时57分 ~ 01时27分]"
         },
         {
           "title": "SIM卡炼黄金真相到底如何",
@@ -429,6 +453,17 @@
           "time_info": "[00时24分 ~ 00时25分]"
         },
         {
+          "title": "花旗最新商品展望：牛市情景下，金价6000美元、铜15000、铝剑指4000大关",
+          "url": "https://wallstreetcn.com/articles/3764255",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
           "title": "高盛：白银剧烈震荡将持续，黄金5400美元目标面临上行风险",
           "url": "https://flash.jin10.com/detail/20260127231822692800",
           "source": "金十数据",
@@ -443,7 +478,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "“高市下台！”高市早苗选举拉票演讲第一站，遭日本民众抗议(图)",
@@ -453,19 +488,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
-        },
-        {
-          "title": "人民日报钟声：必须遏制日本推进“新型军国主义”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32469576",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "日本政府要求渔民避开钓鱼岛",
@@ -475,8 +499,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
+        },
+        {
+          "title": "人民日报钟声：必须遏制日本推进“新型军国主义”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32469576",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "第1现场｜“晓晓”“蕾蕾”启程回家，日本大熊猫归零",
@@ -487,8 +523,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "外交敲警钟:春节慎去日本蹦跶",
@@ -498,8 +534,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "日本一女性在同一家公司上班近70年",
@@ -510,8 +546,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "外交部回应“日本没有大熊猫了”",
@@ -523,8 +559,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "野村：日本央行3月加息仍然属于“尾部风险情景”，尽管4月加息的可能性更大。",
@@ -532,11 +568,35 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            21
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时58分]"
+        },
+        {
+          "title": "LVMH集团（路易威登母公司）四季度营收227.2亿欧元，分析师预期225.9亿欧元。 四季度时装与皮草有机销售下降3%，分析师预期下降2.94%。 四季度葡萄酒/香槟与烈酒（Spirits）销售下滑9%，分析师预期下降1.13%。 四季度有机销售增长1%，分析师预期下降0.42%。 四季度美国有机销售增长1%，分析师预期增长0.82%。 四季度亚洲（不含日本）有机销售增长1%，分析师预期下滑2.1%。 四季度持续经营利润177.6亿欧元，分析师预期171.5亿欧元。 全年派息每股13欧元，分析师预期12.42欧元。 LVMH集团ADE涨2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3044897",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时27分]"
+          "time_info": "[01时27分 ~ 01时58分]"
+        },
+        {
+          "title": "大熊猫“晓晓”和“蕾蕾”今日中午从日本启程返回中国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32471753",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 01时58分]"
         },
         {
           "title": "日本首相又放厥词",
@@ -559,23 +619,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时26分 ~ 01时27分]"
-        },
-        {
-          "title": "LVMH集团（路易威登母公司）四季度营收227.2亿欧元，分析师预期225.9亿欧元。 四季度时装与皮草有机销售下降3%，分析师预期下降2.94%。 四季度葡萄酒/香槟与烈酒（Spirits）销售下滑9%，分析师预期下降1.13%。 四季度有机销售增长1%，分析师预期下降0.42%。 四季度美国有机销售增长1%，分析师预期增长0.82%。 四季度亚洲（不含日本）有机销售增长1%，分析师预期下滑2.1%。 四季度持续经营利润177.6亿欧元，分析师预期171.5亿欧元。 全年派息每股13欧元，分析师预期12.42欧元。 LVMH集团ADE涨2.4%。",
-          "url": "https://wallstreetcn.com/livenews/3044897",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "美媒：特朗普一周内两次妥协",
@@ -585,30 +634,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
-          "url": "https://flash.jin10.com/detail/20260128010825738800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
-        },
-        {
-          "title": "美国总统特朗普：与叙利亚总统进行了精彩对话。",
-          "url": "https://flash.jin10.com/detail/20260128010748956800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "波音(BA.N)首席执行官：特朗普政府理解商业航空航天产业对美国经济的重要性。",
@@ -616,11 +643,58 @@
           "source": "金十数据",
           "ranks": [
             8,
-            23
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时58分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
+          "url": "https://flash.jin10.com/detail/20260128010825738800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时27分]"
+          "time_info": "[01时27分 ~ 01时58分]"
+        },
+        {
+          "title": "美国总统特朗普：与叙利亚总统进行了精彩对话。",
+          "url": "https://flash.jin10.com/detail/20260128010748956800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时58分]"
+        },
+        {
+          "title": "美国总统特朗普：希望看到利率下降。",
+          "url": "https://wallstreetcn.com/livenews/3044916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "美国总统特朗普谈及联邦执法人员在明尼苏达州枪杀Pretti事件，声称：正进行“大规模的”调查。 我将观看调查（过程/结果）。",
+          "url": "https://wallstreetcn.com/livenews/3044915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
           "title": "投资者押注辛鲍姆能保护墨西哥比索免受特朗普冲击",
@@ -633,6 +707,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时25分 ~ 00时57分]"
+        },
+        {
+          "title": "美国总统特朗普：乌克兰和俄罗斯之间正在发生非常好的事情。",
+          "url": "https://flash.jin10.com/detail/20260128011246828800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "拜登批评特朗普政府在明州的移民执法行动",
+          "url": "https://wallstreetcn.com/livenews/3044911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "美国总统特朗普：霍曼（边境事务协调员）稍后将在明尼阿波利斯会见州长和市长。",
+          "url": "https://flash.jin10.com/detail/20260128010909664800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         }
       ]
     },
@@ -645,11 +752,12 @@
           "url": "https://wallstreetcn.com/articles/3764269",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -659,8 +767,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -670,8 +778,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
@@ -710,19 +818,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
           "url": "https://wallstreetcn.com/articles/3764241",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         },
         {
           "title": "详解DeepSeek新模型OCR2",
@@ -733,8 +842,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         }
       ]
     },
@@ -747,22 +856,24 @@
           "url": "https://flash.jin10.com/detail/20260128010307000800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时58分]"
         },
         {
           "title": "谷歌：为手机推出强大的防盗保护功能。",
           "url": "https://flash.jin10.com/detail/20260128010248348800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时58分]"
         }
       ]
     },
@@ -776,22 +887,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时58分]"
         },
         {
           "title": "金十图示：2026年01月27日（周二）全球股市指数-欧洲市场（收盘）",
           "url": "https://flash.jin10.com/detail/20260128004834899800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 01时58分]"
         }
       ]
     },
@@ -817,11 +930,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            20
+            20,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时58分]"
         }
       ]
     },
@@ -835,11 +949,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时57分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时57分 ~ 01时58分]"
         }
       ]
     },
@@ -856,8 +971,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时24分 ~ 01时27分]"
+          "appearance_count": 7,
+          "time_info": "[00时24分 ~ 01时58分]"
         }
       ]
     }
