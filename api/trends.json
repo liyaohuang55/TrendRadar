@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-27T15:02:16.427244+08:00",
-  "total_titles_processed": 1361,
+  "generated_at": "2026-01-27T15:36:38.270037+08:00",
+  "total_titles_processed": 1447,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 85,
+      "match_count": 87,
       "titles": [
+        {
+          "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
+          "url": "https://wallstreetcn.com/articles/3764206",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 15时36分]"
+        },
         {
           "title": "特朗普政府将入股美国稀土公司，涉资16亿美元，持股将多达16%",
           "url": "https://wallstreetcn.com/articles/3764157",
@@ -17,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时18分 ~ 15时02分]"
+          "appearance_count": 13,
+          "time_info": "[07时18分 ~ 15时36分]"
         },
         {
           "title": "特朗普政府将入股美国稀土公司，持股10%涉资16亿美元",
@@ -30,18 +42,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时28分 ~ 05时46分]"
-        },
-        {
-          "title": "极致的狂热？白银一度暴涨14%至近118美元，此后涨幅回落至不到1%",
-          "url": "https://wallstreetcn.com/articles/3764206",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 15时02分]"
         },
         {
           "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.580%（12月22日为3.499%），投标倍数2.75（前次为2.54）。",
@@ -768,6 +768,18 @@
           "time_info": "[01时02分 ~ 01时38分]"
         },
         {
+          "title": "新台币兑美元上涨0.3%至31.413。",
+          "url": "https://wallstreetcn.com/livenews/3044509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 15时36分]"
+        },
+        {
           "title": "美元指数跌至4个月新低，现跌0.33%，报96.9。",
           "url": "https://flash.jin10.com/detail/20260126235706137800",
           "source": "金十数据",
@@ -863,6 +875,17 @@
           "time_info": "09时23分"
         },
         {
+          "title": "银行家们表示，土耳其央行上周的储备总额预计增加逾100亿美元，达到2155亿美元。",
+          "url": "https://flash.jin10.com/detail/20260127151529710800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "亚马逊(AMZN.O)获得美国空军价值5.813亿美元的亚马逊云服务合同。",
           "url": "https://flash.jin10.com/detail/20260127065540643800",
           "source": "金十数据",
@@ -907,17 +930,6 @@
           "time_info": "12时32分"
         },
         {
-          "title": "新台币兑美元上涨0.3%至31.413。",
-          "url": "https://wallstreetcn.com/livenews/3044509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
           "title": "美国天然气期货日内跌幅达3.00%，现报3.781美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20260127105716202800",
           "source": "金十数据",
@@ -927,6 +939,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时22分"
+        },
+        {
+          "title": "英伟达20亿美元投资AI云服务厂商 算力紧缺推动云计算定价逻辑转变",
+          "url": "https://www.cls.cn/detail/2270515",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
         },
         {
           "title": "韩元兑美元最新报1,451.80，下跌0.4%。",
@@ -979,7 +1002,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -1064,7 +1087,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普就加中贸易协定发出威胁，中方回应",
@@ -1086,8 +1109,44 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时44分 ~ 15时36分]"
+        },
+        {
+          "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
+          "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[07时44分 ~ 15时02分]"
+          "time_info": "[09时22分 ~ 15时36分]"
+        },
+        {
+          "title": "韩国人还在睡梦中，特朗普突然下手了",
+          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 15时36分]"
+        },
+        {
+          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
+          "url": "https://www.cls.cn/detail/2270546",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 15时36分]"
         },
         {
           "title": "贵金属暴涨后大幅回调 特朗普称提高对韩国关税 | 环球市场",
@@ -1104,17 +1163,6 @@
           "time_info": "[07时44分 ~ 15时02分]"
         },
         {
-          "title": "特朗普称对韩关税从15%上调至25%，韩方回应",
-          "url": "https://news.ifeng.com/c/8qFQXdJS6AX",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 15时02分]"
-        },
-        {
           "title": "特朗普政府被爆试图颠覆古巴政权，克宫回应",
           "url": "https://news.ifeng.com/c/8qEZiQr69Vb",
           "source": "凤凰网",
@@ -1124,17 +1172,6 @@
           "is_new": false,
           "appearance_count": 21,
           "time_info": "[00时28分 ~ 07时44分]"
-        },
-        {
-          "title": "韩国人还在睡梦中，特朗普突然下手了",
-          "url": "https://news.ifeng.com/c/8qFS7Iw775Q",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 15时02分]"
         },
         {
           "title": "美伊局势持续紧张：“哈梅内伊进入地堡”，特朗普表态自相矛盾",
@@ -1160,19 +1197,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[03时47分 ~ 11时22分]"
-        },
-        {
-          "title": "“关税阴霾”卷土重来？特朗普：韩国对贸易协议“不作为”，上调税率至25%！",
-          "url": "https://www.cls.cn/detail/2270546",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 15时02分]"
         },
         {
           "title": "特朗普：提高对韩国多种商品关税税率至25%",
@@ -1340,6 +1364,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时46分 ~ 07时19分]"
+        },
+        {
+          "title": "韩国人还在睡梦中特朗普突然下手",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 15时36分]"
         },
         {
           "title": "美国总统特朗普：边境事务主管汤姆·霍曼将于周二与明尼阿波利斯市长会面，以继续讨论有关事宜。",
@@ -1560,18 +1597,6 @@
           "time_info": "[06时47分 ~ 07时44分]"
         },
         {
-          "title": "韩国人还在睡梦中特朗普突然下手",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E4%BA%BA%E8%BF%98%E5%9C%A8%E7%9D%A1%E6%A2%A6%E4%B8%AD%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E7%84%B6%E4%B8%8B%E6%89%8B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时28分 ~ 15时02分]"
-        },
-        {
           "title": "民调显示特朗普移民政策支持率创其本届任期内新低",
           "url": "https://flash.jin10.com/detail/20260127055110903800",
           "source": "金十数据",
@@ -1595,6 +1620,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时49分 ~ 04时49分]"
+        },
+        {
+          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 15时36分]"
         },
         {
           "title": "特朗普宣布对韩国加征关税",
@@ -1738,17 +1775,6 @@
           "time_info": "[09时22分 ~ 09时23分]"
         },
         {
-          "title": "国家恐怖主义的分水岭？明尼阿波利斯枪击案恶化特朗普政治前景",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32466289",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
-        },
-        {
           "title": "卢拉与特朗普通电话，讨论两国关系和委内瑞拉局势",
           "url": "https://wallstreetcn.com/livenews/3044147",
           "source": "华尔街见闻-快讯",
@@ -1816,6 +1842,17 @@
           "time_info": "11时22分"
         },
         {
+          "title": "韩国青瓦台：就美国总统特朗普提及的关税一事，正通过多种渠道进行核实。",
+          "url": "https://flash.jin10.com/detail/20260127150805425800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "美国总统特朗普考虑对州燃油税设置上限。",
           "url": "https://flash.jin10.com/detail/20260127085920333800",
           "source": "金十数据",
@@ -1844,7 +1881,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -1929,8 +1966,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时28分 ~ 15时02分]"
+          "appearance_count": 31,
+          "time_info": "[00时28分 ~ 15时36分]"
         },
         {
           "title": "外交部提醒春节避免前往日本",
@@ -1943,6 +1980,22 @@
           "is_new": false,
           "appearance_count": 23,
           "time_info": "[00时28分 ~ 09时23分]"
+        },
+        {
+          "title": "外交部提醒春节避免前往日本",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E6%98%A5%E8%8A%82%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            5,
+            7,
+            3,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 15时36分]"
         },
         {
           "title": "日本列车与卡车相撞，4名中国公民受伤",
@@ -1967,6 +2020,17 @@
           "time_info": "[00时28分 ~ 07时19分]"
         },
         {
+          "title": "2只旅日大熊猫今日回国，日本将迎无熊猫时代",
+          "url": "https://news.ifeng.com/c/8qFS7Iw771Q",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 15时36分]"
+        },
+        {
           "title": "外交部提醒春节避免前往日本",
           "url": "https://www.douyin.com/hot/2380271",
           "source": "抖音",
@@ -1975,11 +2039,12 @@
             11,
             12,
             13,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时28分 ~ 15时02分]"
+          "appearance_count": 31,
+          "time_info": "[00时28分 ~ 15时36分]"
         },
         {
           "title": "日本队门将荒木琉伟当选本届 U23 亚洲杯最佳门将，而国足门将李昊无缘该奖项，如何评价 U23 国足的发挥？",
@@ -2113,32 +2178,6 @@
           "time_info": "[03时47分 ~ 07时19分]"
         },
         {
-          "title": "外交部提醒春节避免前往日本",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E6%8F%90%E9%86%92%E6%98%A5%E8%8A%82%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            5,
-            7,
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 15时02分]"
-        },
-        {
-          "title": "2只旅日大熊猫今日回国，日本将迎无熊猫时代",
-          "url": "https://news.ifeng.com/c/8qFS7Iw771Q",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时22分 ~ 15时02分]"
-        },
-        {
           "title": "54年来首次 日本国内没有大熊猫了",
           "url": "https://www.baidu.com/s?wd=54%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1+%E6%97%A5%E6%9C%AC%E5%9B%BD%E5%86%85%E6%B2%A1%E6%9C%89%E5%A4%A7%E7%86%8A%E7%8C%AB%E4%BA%86",
           "source": "百度热搜",
@@ -2146,11 +2185,12 @@
             4,
             6,
             9,
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 15时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 15时36分]"
         },
         {
           "title": "人民日报钟声：必须遏制日本推进“新型军国主义”",
@@ -2161,11 +2201,23 @@
             18,
             14,
             13,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 15时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 15时36分]"
+        },
+        {
+          "title": "中国网友称滞留日本：航班大量取消",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%BB%9E%E7%95%99%E6%97%A5%E6%9C%AC%EF%BC%9A%E8%88%AA%E7%8F%AD%E5%A4%A7%E9%87%8F%E5%8F%96%E6%B6%88",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 15时36分]"
         },
         {
           "title": "人民日报钟声：必须遏制日本推进“新型军国主义”",
@@ -2191,17 +2243,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时32分 ~ 14时28分]"
-        },
-        {
-          "title": "中国网友称滞留日本：航班大量取消",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%BD%91%E5%8F%8B%E7%A7%B0%E6%BB%9E%E7%95%99%E6%97%A5%E6%9C%AC%EF%BC%9A%E8%88%AA%E7%8F%AD%E5%A4%A7%E9%87%8F%E5%8F%96%E6%B6%88",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
         },
         {
           "title": "日本警方逮捕一名三刀流男子",
@@ -2311,6 +2352,18 @@
           "time_info": "[11时22分 ~ 12时32分]"
         },
         {
+          "title": "日经225指数收涨0.8%，报53333.54点。 日本东证指数收涨0.3%，报3563.59点。 韩国首尔综指收涨2.7%，报5084.85点。",
+          "url": "https://wallstreetcn.com/livenews/3044507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 15时36分]"
+        },
+        {
           "title": "日本30年期国债收益率上行3.5个基点，至3.655%。",
           "url": "https://wallstreetcn.com/livenews/3044434",
           "source": "华尔街见闻-快讯",
@@ -2407,7 +2460,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -2421,17 +2474,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
-        },
-        {
-          "title": "日经225指数收涨0.8%，报53333.54点。 日本东证指数收涨0.3%，报3563.59点。 韩国首尔综指收涨2.7%，报5084.85点。",
-          "url": "https://wallstreetcn.com/livenews/3044507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
         },
         {
           "title": "日本暴雪为何这么厉害",
@@ -2484,7 +2526,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -2517,7 +2559,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -2558,7 +2600,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "强劲耐用品数据提振美股齐涨，美日干预叠加政府关门预期，黄金站上5100、白银突破110，美元跌至四个月低点",
@@ -2579,8 +2621,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时47分 ~ 15时02分]"
+          "appearance_count": 14,
+          "time_info": "[06时47分 ~ 15时36分]"
         },
         {
           "title": "【早报】高台跳水！白银14%涨幅蒸发、黄金下破5000美元；白银基金明起暂停申购",
@@ -2615,8 +2657,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时28分 ~ 15时02分]"
+          "appearance_count": 31,
+          "time_info": "[00时28分 ~ 15时36分]"
         },
         {
           "title": "如何看待黄金五千，白银破百？",
@@ -2638,11 +2680,12 @@
             10,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时44分 ~ 15时02分]"
+          "appearance_count": 11,
+          "time_info": "[07时44分 ~ 15时36分]"
         },
         {
           "title": "黄金逼近5100美元！一图看懂金银加速上涨",
@@ -2669,6 +2712,18 @@
           "time_info": "[00时28分 ~ 07时44分]"
         },
         {
+          "title": "紫金黄金拟55亿加元收购Allied Gold，加速挺进西非核心金矿区",
+          "url": "https://wallstreetcn.com/articles/3764180",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 15时36分]"
+        },
+        {
           "title": "黄金彻底疯了 还能上车吗",
           "url": "https://www.toutiao.com/trending/7599836312950017555/",
           "source": "今日头条",
@@ -2676,17 +2731,6 @@
             8,
             21,
             26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 15时02分]"
-        },
-        {
-          "title": "紫金黄金拟55亿加元收购Allied Gold，加速挺进西非核心金矿区",
-          "url": "https://wallstreetcn.com/articles/3764180",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -2733,6 +2777,20 @@
           "time_info": "[03时01分 ~ 05时20分]"
         },
         {
+          "title": "黄金冲破“5000大关”后还能狂飙吗？金矿巨头：上涨动力不会消失！",
+          "url": "https://www.cls.cn/detail/2270788",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 15时36分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -2762,17 +2820,17 @@
           "time_info": "[03时31分 ~ 05时20分]"
         },
         {
-          "title": "黄金冲破“5000大关”后还能狂飙吗？金矿巨头：上涨动力不会消失！",
-          "url": "https://www.cls.cn/detail/2270788",
-          "source": "财联社热门",
+          "title": "李蓓清仓黄金",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%93%93%E6%B8%85%E4%BB%93%E9%BB%84%E9%87%91%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            11,
-            10,
-            9
+            9,
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[14时28分 ~ 15时36分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 1月26日（周一）晚盘收盘上涨0.96%报1144.96元/克；<br/>上海黄金交易所白银T+D 1月26日（周一）晚盘收盘上涨7.77%报29051.0元/千克。",
@@ -2800,18 +2858,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时22分 ~ 12时32分]"
-        },
-        {
-          "title": "李蓓清仓黄金",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%93%93%E6%B8%85%E4%BB%93%E9%BB%84%E9%87%91%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时28分 ~ 15时02分]"
         },
         {
           "title": "现货黄金较历史高位回落100美元",
@@ -2960,6 +3006,17 @@
           "time_info": "07时44分"
         },
         {
+          "title": "银行家们表示，土耳其央行上周买入了近20亿美元，其中约65亿美元的增幅源于金价变动。",
+          "url": "https://flash.jin10.com/detail/20260127151448862800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时36分"
+        },
+        {
           "title": "非洲股市收盘播报｜周一（1月26日），南非富时/JSE非洲领先40可交易指数收涨2.06%，刷新收盘历史高位至11.65万点上方，2026年迄今累计上涨8.09%、同期本币南非兰特兑美元涨3.65%、现货黄金涨17.99%。",
           "url": "https://wallstreetcn.com/livenews/3044099",
           "source": "华尔街见闻-快讯",
@@ -3010,7 +3067,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -3175,11 +3232,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时28分 ~ 15时02分]"
+          "appearance_count": 31,
+          "time_info": "[00时28分 ~ 15时36分]"
         },
         {
           "title": "AI红包春节档四强争霸 马化腾喊话重现11年前微信红包盛况",
@@ -3215,8 +3273,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 15时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 15时36分]"
         },
         {
           "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
@@ -3226,8 +3284,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 15时02分]"
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 15时36分]"
         },
         {
           "title": "腾讯正式推出社交AI功能“元宝派”，实测来了！",
@@ -3235,11 +3293,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时22分 ~ 15时02分]"
+          "appearance_count": 8,
+          "time_info": "[11时22分 ~ 15时36分]"
         },
         {
           "title": "马化腾：AI全家桶未必大家都喜欢，反对黑产外挂录屏上传云端",
@@ -3250,8 +3309,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 15时02分]"
+          "appearance_count": 7,
+          "time_info": "[12时32分 ~ 15时36分]"
         },
         {
           "title": "EDA巨头：AI基建吞噬世界产能 存储芯片紧缺或持续到明年",
@@ -3316,6 +3375,30 @@
           "time_info": "[07时19分 ~ 07时44分]"
         },
         {
+          "title": "港股AIGC概念股持续拉升，Minimax-WP涨超21%，金山云涨近10%，智谱涨4.5%，阿里巴巴涨近3%。",
+          "url": "https://wallstreetcn.com/livenews/3044512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 15时36分]"
+        },
+        {
+          "title": "AI承诺内容有误赔偿10万 用户起诉",
+          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时28分 ~ 15时36分]"
+        },
+        {
           "title": "俞敏洪称AI+教育会消灭大量老师岗",
           "url": "https://www.toutiao.com/trending/7598868320989118473/",
           "source": "今日头条",
@@ -3336,28 +3419,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时01分 ~ 01时02分]"
-        },
-        {
-          "title": "港股AIGC概念股持续拉升，Minimax-WP涨超21%，金山云涨近10%，智谱涨4.5%，阿里巴巴涨近3%。",
-          "url": "https://wallstreetcn.com/livenews/3044512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
-        },
-        {
-          "title": "AI承诺内容有误赔偿10万 用户起诉",
-          "url": "https://www.baidu.com/s?wd=AI%E6%89%BF%E8%AF%BA%E5%86%85%E5%AE%B9%E6%9C%89%E8%AF%AF%E8%B5%94%E5%81%BF10%E4%B8%87+%E7%94%A8%E6%88%B7%E8%B5%B7%E8%AF%89",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时28分"
         },
         {
           "title": "AI贾维斯这次真的实现了",
@@ -3429,8 +3490,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时24分 ~ 15时02分]"
+          "appearance_count": 6,
+          "time_info": "[13时24分 ~ 15时36分]"
         },
         {
           "title": "OpenAI首席信息安全官宣布将离职",
@@ -3574,11 +3635,12 @@
           "url": "https://search.bilibili.com/all?keyword=Ultra%20X9%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 15时36分]"
         },
         {
           "title": "标普500指数初步收涨0.5%，电信板块涨1.3%，科技板块涨0.9%，可选消费板块跌0.6%。 纳斯达克100指数初步收涨0.4%，成分股中，Atlassian涨超5%，贝克休斯涨4.4%，希捷科技涨3.8%，CrowdStrike涨3.4%，思科涨3.1%，苹果涨2.9%，核电股CEG、Strategy则收跌超1%，美光科技跌2.4%，特斯拉跌3%，AMD跌3.4%，英特尔跌5.6%。 思科初步收涨3.2%，和苹果领跑道指成分股，亚马逊则跌0.3%，英伟达跌0.6%，波音跌1.4%，3M跌1.7%。",
@@ -3616,8 +3678,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时01分 ~ 15时02分]"
+          "appearance_count": 3,
+          "time_info": "[15时01分 ~ 15时36分]"
         },
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
