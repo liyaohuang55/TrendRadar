@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T06:22:49.837300+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-01-29T06:54:32.018980+08:00",
+  "total_titles_processed": 862,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
@@ -28,8 +28,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "现货白银日内涨幅达4.5%，报117.09美元/盎司。",
@@ -51,11 +51,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时26分 ~ 06时22分]"
+          "appearance_count": 4,
+          "time_info": "[05时26分 ~ 06时54分]"
         },
         {
           "title": "高盛测算，在MSCI评估市场准入情况后，印尼股市在良性情景下可能面临22亿美元的被动资金流出，在极端情景下这一数字可能高达78亿美元。",
@@ -109,6 +110,19 @@
           "time_info": "[00时43分 ~ 01时59分]"
         },
         {
+          "title": "Levi Strauss & Co.（LEVI）四季度净营收17.7亿美元，分析师预期17.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 06时54分]"
+        },
+        {
           "title": "IBM(IBM.N)第四季度营收为196.9亿美元，高于IBES预期的192.3亿美元。",
           "url": "https://flash.jin10.com/detail/20260129050837710800",
           "source": "金十数据",
@@ -119,6 +133,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时26分 ~ 06时22分]"
+        },
+        {
+          "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
+          "url": "https://wallstreetcn.com/livenews/3045838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 06时54分]"
         },
         {
           "title": "资管机构：预计美元今年将下探最近十一年低位，跌势可能至少会持续至特朗普任期届满",
@@ -132,6 +159,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 01时59分]"
+        },
+        {
+          "title": "IBM四季度营收196.9亿美元，分析师预期192.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3045837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 06时54分]"
         },
         {
           "title": "欧元/美元日内跌幅达1.0%，创7月份以来最大盘中跌幅，报1.192。",
@@ -169,6 +209,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时26分"
+        },
+        {
+          "title": "纽约期银涨9.8%，试图收复117美元",
+          "url": "https://wallstreetcn.com/livenews/3045855",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 06时54分]"
         },
         {
           "title": "宽松周期步入延长期 分析师看淡美元后续上涨空间",
@@ -216,17 +268,6 @@
           "time_info": "04时57分"
         },
         {
-          "title": "纽约期银涨9.8%，试图收复117美元",
-          "url": "https://wallstreetcn.com/livenews/3045855",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
-        },
-        {
           "title": "美元指数涨0.89%，报96.63点。 美元兑日元涨1.12%，美元兑瑞郎涨1.34%。 欧元兑美元跌0.99%，英镑兑美元跌0.55%；澳元跌0.36%，纽元跌0.38%，加元跌0.14%。",
           "url": "https://wallstreetcn.com/livenews/3045755",
           "source": "华尔街见闻-快讯",
@@ -263,30 +304,6 @@
           "time_info": "[02时37分 ~ 03时24分]"
         },
         {
-          "title": "Levi Strauss & Co.（LEVI）四季度净营收17.7亿美元，分析师预期17.1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3045839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时22分]"
-        },
-        {
-          "title": "特斯拉：CyberCab、Semi、Megapack3都处于2026年规划的正轨之上。 将在多个产品铺开六条新的产品线。 公司将投资20亿美元，购买xAI的系列E优先股；特斯拉与xAI就此达成框架协议。 Cybercab和特斯拉Semi有望在2026年量产，Megapack3也有望在今年量产。 人形机器人Optimus第一代产品线正在铺设中。",
-          "url": "https://wallstreetcn.com/livenews/3045838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时22分]"
-        },
-        {
           "title": "LME期铜收涨80美元，报13086美元/吨。 LME期铝收涨50美元，报3257美元/吨。 LME期锌收涨13美元，报3364美元/吨。 LME期铅收跌3美元，报2017美元/吨。 LME期镍收涨101美元，报18270美元/吨。 LME期锡收涨1075美元，报55953美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3045731",
           "source": "华尔街见闻-快讯",
@@ -297,18 +314,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时24分]"
-        },
-        {
-          "title": "IBM四季度营收196.9亿美元，分析师预期192.1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3045837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时22分]"
         },
         {
           "title": "美元兑日元涨幅扩大至1%，美国财长贝森特宣称“绝对没有”干预（日元）汇率。 新兴市场货币刷新日高，投资者关注贝森特汇率立场。",
@@ -528,6 +533,17 @@
           "time_info": "03时50分"
         },
         {
+          "title": "周三（1月28日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.9437元，较周二纽约尾盘跌100点。 日内，离岸人民币整体交投于6.9319-6.9493元区间，整体持续下挫，03:00美联储宣布按兵不动时刷新日低，之后略微收复失地。",
+          "url": "https://wallstreetcn.com/livenews/3045860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
+        {
           "title": "美联储主席鲍威尔：我们未见数据表明投资者在对冲美元风险。",
           "url": "https://flash.jin10.com/detail/20260129035117392800",
           "source": "金十数据",
@@ -685,7 +701,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -695,8 +711,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "美联储决议前，强劲财报提振科技股，标普500突破7000点创新高，阿斯麦转跌，美元止跌，黄金5300，银、铜、铝集体上涨",
@@ -707,8 +723,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "科技巨头财报前标普五连阳，美元重挫创四年新低，黄金又新高，原油拉升，期银跳水",
@@ -719,8 +735,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "金价屡创历史新高意味着什么",
@@ -733,8 +749,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时43分 ~ 06时22分]"
+          "appearance_count": 13,
+          "time_info": "[00时43分 ~ 06时54分]"
         },
         {
           "title": "未来几周看涨到150美元！花旗高喊白银是“打了兴奋剂的黄金”，中国主导、印度跟买，但全球ETF净流出",
@@ -745,8 +761,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "黄金白银基金暂停申购",
@@ -757,8 +773,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "金价波动如何影响实体金店",
@@ -773,11 +789,12 @@
             24,
             27,
             19,
-            7
+            7,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "【每日收评】三大指数震荡分化涨跌不一，全市场超3600股飘绿，黄金、油气等周期股持续爆发",
@@ -789,8 +806,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "黄金突破 5300 美元关口，国内金饰克价突破 1610 元，黄金还能涨多久？",
@@ -800,19 +817,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "水贝黄金预定价平台“杰我睿”兑付困难，深圳罗湖成立工作专班",
           "url": "https://m.thepaper.cn/newsDetail_forward_32480151",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "黄金白银基金宣布暂停申购",
@@ -827,8 +845,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "黄金平台暴雷,老千卷百亿跑路",
@@ -838,8 +856,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -850,8 +868,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -863,19 +881,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
-        },
-        {
-          "title": "水贝黄金预定价平台「杰我睿」疑似暴雷，深圳罗湖成立工作专班，目前情况怎么样？影响如何？受害者该怎么做？",
-          "url": "https://www.zhihu.com/question/1999102898806732352",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时00分 ~ 04时24分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "金价波动",
@@ -887,8 +894,19 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时37分 ~ 06时54分]"
+        },
+        {
+          "title": "水贝黄金预定价平台「杰我睿」疑似暴雷，深圳罗湖成立工作专班，目前情况怎么样？影响如何？受害者该怎么做？",
+          "url": "https://www.zhihu.com/question/1999102898806732352",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[02时37分 ~ 06时22分]"
+          "time_info": "[00时00分 ~ 04时24分]"
         },
         {
           "title": "如何看待李蓓看空黄金",
@@ -1022,6 +1040,18 @@
           "time_info": "02时37分"
         },
         {
+          "title": "现货黄金涨超4.5%，刷新历史高位至5400美元上方，纽约期金涨超5.8%",
+          "url": "https://wallstreetcn.com/livenews/3045856",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 06时54分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 1月28日（周三）晚盘收盘上涨2.39%报1190.75元/克；<br/>上海黄金交易所白银T+D 1月28日（周三）晚盘收盘下跌0.13%报28981.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260129023052248800",
           "source": "金十数据",
@@ -1031,17 +1061,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "现货黄金涨超4.5%，刷新历史高位至5400美元上方，纽约期金涨超5.8%",
-          "url": "https://wallstreetcn.com/livenews/3045856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时22分"
         },
         {
           "title": "现货黄金涨1.80%，暂报5274.50美元；COMEX黄金期货涨3.71%。 现货白银跌0.65%，纽约期银涨5.15%。 COMEX铜期货涨0.96%。 WTI原油期货涨1.17%，布油涨1.01%。",
@@ -1054,6 +1073,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时24分 ~ 03时50分]"
+        },
+        {
+          "title": "黄金日内大涨220美元 创下单日涨幅之最",
+          "url": "https://flash.jin10.com/detail/20260129054901568800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时22分 ~ 06时54分]"
         },
         {
           "title": "美联储决议公布前，现货黄金站上5320美元/盎司，再创新高，日内涨2.71%。",
@@ -1091,15 +1122,15 @@
           "time_info": "[00时43分 ~ 01时59分]"
         },
         {
-          "title": "黄金日内大涨220美元 创下单日涨幅之最",
-          "url": "https://flash.jin10.com/detail/20260129054901568800",
+          "title": "现货黄金收于纪录高位，报5417.4美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260129060100939800",
           "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时22分"
+          "time_info": "06时54分"
         },
         {
           "title": "现货黄金站上5370美元/盎司，日内涨3.68%。",
@@ -1192,8 +1223,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "满嘴跑火车，特朗普这回真撞“枪口”上了",
@@ -1215,8 +1246,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "特朗普再施压伊朗：庞大舰队已部署在途 谈判时间所剩无几",
@@ -1230,8 +1261,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -1241,11 +1272,12 @@
             14,
             12,
             9,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "美国总统特朗普赞赏财长贝森特，称自己不想失去他。",
@@ -1273,6 +1305,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时29分 ~ 02时37分]"
+        },
+        {
+          "title": "周三（1月28日，美联储决议声明发布日），降息赢家指数跌1.03%，报103.42点，美联储宣布按兵不动之后、北京时间03:31（美联储主席鲍威尔新闻发布会开始之际）刷新日高至105.05点——短线呈现出尖锐的冲高回落走势，从而打破盘中持续震荡下行的走势。 “特朗普关税输家”指数跌1.22%，“特朗普金融指数”跌0.50%，散户抱团概念股指数/迷因股（meme stock）指数跌2.01%。",
+          "url": "https://wallstreetcn.com/livenews/3045847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 06时54分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢比尔·阿克曼。",
@@ -1376,18 +1421,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 01时59分]"
-        },
-        {
-          "title": "周三（1月28日，美联储决议声明发布日），降息赢家指数跌1.03%，报103.42点，美联储宣布按兵不动之后、北京时间03:31（美联储主席鲍威尔新闻发布会开始之际）刷新日高至105.05点——短线呈现出尖锐的冲高回落走势，从而打破盘中持续震荡下行的走势。 “特朗普关税输家”指数跌1.22%，“特朗普金融指数”跌0.50%，散户抱团概念股指数/迷因股（meme stock）指数跌2.01%。",
-          "url": "https://wallstreetcn.com/livenews/3045847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时53分 ~ 06时22分]"
         },
         {
           "title": "美国总统特朗普：Visa(V.N)推出（特朗普）账户现金返还奖励平台。呼吁企业提供账户匹配服务。",
@@ -1625,7 +1658,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -1637,8 +1670,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "华尔街传奇大空头“剑指”数据中心：AI交易中最不该碰的领域！",
@@ -1649,8 +1682,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "AI将替代9200万工作岗位",
@@ -1666,8 +1699,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "马云谈AI时代教育",
@@ -1679,8 +1712,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "刘强东给老家建了间AI教室",
@@ -1690,8 +1723,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "特斯拉与XAI框架达成协议，评估人工智能合作。",
@@ -1727,6 +1760,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时24分]"
+        },
+        {
+          "title": "从技术突破到价值落地，智能体开启AI进化新格局",
+          "url": "https://wallstreetcn.com/livenews/3045866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
         },
         {
           "title": "分析师：苹果公司的AI路线图仍是投资者最关心的问题",
@@ -1811,11 +1855,12 @@
             10,
             8,
             7,
-            6
+            6,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "外交敲警钟:春节慎去日本蹦跶",
@@ -1825,8 +1870,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         },
         {
           "title": "日经民调：日本自民党有望在选举中赢得多数席位。",
@@ -1884,8 +1929,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
+          "url": "https://wallstreetcn.com/livenews/3045867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时54分"
+        },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
           "url": "https://flash.jin10.com/detail/20260129021221208800",
@@ -1912,8 +1968,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时00分 ~ 06时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时00分 ~ 06时54分]"
         }
       ]
     },
