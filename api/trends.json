@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T11:42:58.516686+08:00",
-  "total_titles_processed": 1299,
+  "generated_at": "2026-01-29T13:04:48.034719+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 85,
+      "match_count": 95,
       "titles": [
         {
           "title": "美元跌至四年低谷，特朗普“火上浇油”：不担心，美元表现出色，能找到合理水平",
@@ -34,6 +34,18 @@
           "time_info": "[00时00分 ~ 11时42分]"
         },
         {
+          "title": "燃气轮机、电网设备需求爆发，GE Vernova Q4营收超预期，积压订单达到1500亿美元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 13时04分]"
+        },
+        {
           "title": "现货白银日内涨幅达4.5%，报117.09美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3045824",
           "source": "华尔街见闻-快讯",
@@ -59,18 +71,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时26分 ~ 06时54分]"
-        },
-        {
-          "title": "燃气轮机、电网设备需求爆发，GE Vernova Q4营收超预期，积压订单达到1500亿美元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764381",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时48分 ~ 11时42分]"
         },
         {
           "title": "高盛测算，在MSCI评估市场准入情况后，印尼股市在良性情景下可能面临22亿美元的被动资金流出，在极端情景下这一数字可能高达78亿美元。",
@@ -231,7 +231,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -253,7 +253,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -420,6 +420,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "纽元兑美元延续涨势，上涨0.45%至0.6089。",
+          "url": "https://flash.jin10.com/detail/20260129125247568800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "美元兑日元涨幅扩大至1%，美国财长贝森特宣称“绝对没有”干预（日元）汇率。 新兴市场货币刷新日高，投资者关注贝森特汇率立场。",
@@ -635,7 +646,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -662,6 +673,17 @@
           "time_info": "03时24分"
         },
         {
+          "title": "现货钯金逆转跌势，日内涨幅扩大至2%，现报2090.56美元/盎司；此前一度跌3%。",
+          "url": "https://flash.jin10.com/detail/20260129124851025800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "现货白银站上18美元/盎司，创下历史新高，日内涨1.15%。",
           "url": "https://wallstreetcn.com/livenews/3045900",
           "source": "华尔街见闻-快讯",
@@ -673,6 +695,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "钯金期货日内涨4%，报2130.00美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3046104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "纽约期金站上5500美元/盎司，日内涨超3%。",
           "url": "https://wallstreetcn.com/livenews/3045899",
           "source": "华尔街见闻-快讯",
@@ -682,6 +715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "1美元vs10亿美元前沿科技",
+          "url": "https://search.bilibili.com/all?keyword=1%E7%BE%8E%E5%85%83vs10%E4%BA%BF%E7%BE%8E%E5%85%83%E5%89%8D%E6%B2%BF%E7%A7%91%E6%8A%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9475元，较周二夜盘收盘涨70点。成交量487.80亿美元。",
@@ -723,7 +767,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -734,7 +778,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -748,6 +792,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "伦敦金属交易所（LME）铜价延续涨势，首次突破14000美元大关。",
+          "url": "https://flash.jin10.com/detail/20260129124419566800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "彭博美元指数刷新日高，贝森特谈及外汇市场。 美元兑日元走高。 国际油价继续回吐涨幅。",
@@ -772,6 +827,17 @@
           "time_info": "09时28分"
         },
         {
+          "title": "澳元兑美元上涨0.63%，至0.70855美元。",
+          "url": "https://wallstreetcn.com/livenews/3046099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "贝森特：美国目前“绝对不会”干预美元兑日元的汇率",
           "url": "https://wallstreetcn.com/livenews/3045674",
           "source": "华尔街见闻-快讯",
@@ -781,6 +847,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "美国天然气期货主力合约日内涨幅扩大至3%，现报3.844美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260129124131895800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "据知情人士透露，Jersey Mike为超过10亿美元规模美国IPO遴选银行。（彭博）",
@@ -827,6 +904,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "LME铜首次站上14000美元，日内大涨超5%。",
+          "url": "https://wallstreetcn.com/livenews/3046100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "欧洲央行管委Simkus：欧元兑美元的汇率水平并不意味着任何的政策方向。 当前，欧洲央行政策立场“非常适用于当前的局势”。",
           "url": "https://wallstreetcn.com/livenews/3045665",
           "source": "华尔街见闻-快讯",
@@ -844,7 +932,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -899,7 +987,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -932,7 +1020,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -948,15 +1036,37 @@
           "time_info": "04时24分"
         },
         {
+          "title": "伦镍日内涨幅扩大至2.00%，现报18803.50美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260129122014195800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "伦敦金属交易所（LME）三个月期铜上涨3.24%，创下13510美元/吨的历史新高。",
           "url": "https://flash.jin10.com/detail/20260129105611595800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "布伦特原油日内涨超1%，现报68.11美元/桶。WTI原油涨近1%，报64.16美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260129121529078800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "巴西财政部：我们预计将更频繁参与市场，持续发行美元债券，并对欧元和人民币等其他货币保持开放态度，从而拓宽巴西融资战略的覆盖范围。",
@@ -976,7 +1086,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -995,7 +1105,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1154,11 +1264,12 @@
           "ranks": [
             18,
             22,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时00分 ~ 11时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时00分 ~ 13时04分]"
         },
         {
           "title": "黄金价格为何一路猛涨",
@@ -1170,8 +1281,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时00分 ~ 11时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时00分 ~ 13时04分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1248,8 +1359,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时48分 ~ 11时42分]"
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 13时04分]"
         },
         {
           "title": "水贝一黄金预定价平台兑付困难？官方通报",
@@ -1262,6 +1373,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时00分 ~ 01时59分]"
+        },
+        {
+          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
+          "url": "https://www.cls.cn/detail/2273420",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 13时04分]"
         },
         {
           "title": "现货黄金日内涨幅达4.0%，报5390.19美元/盎司。 纽约银日内涨幅达10.5%，报117.1美元/盎司。",
@@ -1328,17 +1450,6 @@
           "time_info": "[04时57分 ~ 05时53分]"
         },
         {
-          "title": "【早报】5400美元，金价再迈新台阶；多家房企已不用上报“三道红线”",
-          "url": "https://www.cls.cn/detail/2273420",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时42分]"
-        },
-        {
           "title": "现货黄金突破5320美元/盎司，日内涨2.69%。",
           "url": "https://wallstreetcn.com/livenews/3045740",
           "source": "华尔街见闻-快讯",
@@ -1350,6 +1461,32 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 03时50分]"
+        },
+        {
+          "title": "黄金变现业务爆了",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B0%E4%B8%9A%E5%8A%A1%E7%88%86%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 13时04分]"
+        },
+        {
+          "title": "1月29日投资避雷针：4连板人气股提示风险 公司未拥有黄金探矿权、采矿权",
+          "url": "https://www.cls.cn/detail/2273490",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 13时04分]"
         },
         {
           "title": "现货黄金突破5350美元/盎司，再创历史新高，日内涨3.29%。",
@@ -1365,6 +1502,19 @@
           "time_info": "[04时57分 ~ 05时53分]"
         },
         {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 13时04分]"
+        },
+        {
           "title": "金价在鲍威尔新闻发布会结束后刷新历史高位至5340美元上方",
           "url": "https://wallstreetcn.com/livenews/3045814",
           "source": "华尔街见闻-快讯",
@@ -1376,6 +1526,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 05时53分]"
+        },
+        {
+          "title": "现货黄金首次突破5500美元大关",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B45500%E7%BE%8E%E5%85%83%E5%A4%A7%E5%85%B3",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 13时04分]"
         },
         {
           "title": "美联储决议无新意，美股涨跌互现，希捷飙升19%领涨存储股，黄金突破5400美元",
@@ -1457,18 +1619,6 @@
           "time_info": "[03时24分 ~ 03时50分]"
         },
         {
-          "title": "黄金变现业务爆了",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E5%8F%98%E7%8E%B0%E4%B8%9A%E5%8A%A1%E7%88%86%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时42分]"
-        },
-        {
           "title": "黄金日内大涨220美元 创下单日涨幅之最",
           "url": "https://flash.jin10.com/detail/20260129054901568800",
           "source": "金十数据",
@@ -1492,18 +1642,6 @@
           "time_info": "07时49分"
         },
         {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时42分]"
-        },
-        {
           "title": "美联储决议公布前，现货黄金站上5320美元/盎司，再创新高，日内涨2.71%。",
           "url": "https://flash.jin10.com/detail/20260129022233930800",
           "source": "金十数据",
@@ -1515,16 +1653,39 @@
           "time_info": "02时37分"
         },
         {
-          "title": "1月29日投资避雷针：4连板人气股提示风险 公司未拥有黄金探矿权、采矿权",
-          "url": "https://www.cls.cn/detail/2273490",
-          "source": "财联社热门",
+          "title": "手机SIM卡含0.02克黄金？不实",
+          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BASIM%E5%8D%A1%E5%90%AB0.02%E5%85%8B%E9%BB%84%E9%87%91%EF%BC%9F%E4%B8%8D%E5%AE%9E",
+          "source": "百度热搜",
           "ranks": [
-            13,
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时42分]"
+          "time_info": "[11时42分 ~ 13时04分]"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 13时04分]"
+        },
+        {
+          "title": "一日内突破5200美元、5300美元关口！现货黄金日内涨超2%，续创历史新高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32481828",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 13时04分]"
         },
         {
           "title": "现货黄金首次突破5500美元",
@@ -1539,15 +1700,16 @@
           "time_info": "[09时28分 ~ 11时42分]"
         },
         {
-          "title": "现货黄金首次突破5500美元大关",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%A6%96%E6%AC%A1%E7%AA%81%E7%A0%B45500%E7%BE%8E%E5%85%83%E5%A4%A7%E5%85%B3",
-          "source": "百度热搜",
+          "title": "现货黄金高台跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            21
+            28,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时42分]"
+          "time_info": "[11时42分 ~ 13时04分]"
         },
         {
           "title": "现货黄金突破5330美元/盎司，日内涨2.89%。",
@@ -1560,6 +1722,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时26分]"
+        },
+        {
+          "title": "黄金柜台3小时卖120万元金条",
+          "url": "https://www.toutiao.com/trending/7599942623373754431/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时28分 ~ 13时04分]"
         },
         {
           "title": "水贝杰我睿涉嫌黄金高杠杆对赌",
@@ -1613,7 +1787,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -1662,17 +1836,6 @@
           "time_info": "09时28分"
         },
         {
-          "title": "手机SIM卡含0.02克黄金？不实",
-          "url": "https://www.baidu.com/s?wd=%E6%89%8B%E6%9C%BASIM%E5%8D%A1%E5%90%AB0.02%E5%85%8B%E9%BB%84%E9%87%91%EF%BC%9F%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
           "title": "美联储如期按兵不动，现货黄金短线走高14美元，现报5290.75美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260129030100439800",
           "source": "金十数据",
@@ -1695,15 +1858,15 @@
           "time_info": "04时57分"
         },
         {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
+          "title": "薛佳凝自曝2013年开始投资黄金",
+          "url": "https://www.toutiao.com/trending/7600603899720482858/",
+          "source": "今日头条",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "13时04分"
         },
         {
           "title": "金十图示：2026年01月29日（周四）上海金早盘价为1240.99元/克，较国际金价(1238.18元/克)，高2.81元/克",
@@ -1712,7 +1875,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -1772,17 +1935,6 @@
           "time_info": "09时28分"
         },
         {
-          "title": "一日内突破5200美元、5300美元关口！现货黄金日内涨超2%，续创历史新高",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32481828",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.58吨，当前持仓量为1089.96吨。",
           "url": "https://flash.jin10.com/detail/20260129070252883800",
           "source": "金十数据",
@@ -1816,6 +1968,17 @@
           "time_info": "07时49分"
         },
         {
+          "title": "现货黄金首次突破5500美元",
+          "url": "https://www.douyin.com/hot/2382637",
+          "source": "抖音",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "现货黄金小幅高开，续刷新高至5424美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260129070052887800",
           "source": "金十数据",
@@ -1827,24 +1990,13 @@
           "time_info": "07时49分"
         },
         {
-          "title": "黄金柜台3小时卖120万元金条",
-          "url": "https://www.toutiao.com/trending/7599942623373754431/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
           "title": "金价银价暴涨原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=24&Refer=top",
           "source": "微博",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -1858,23 +2010,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
-        },
-        {
-          "title": "现货黄金高台跳水",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E9%AB%98%E5%8F%B0%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -1942,6 +2083,18 @@
           "is_new": false,
           "appearance_count": 19,
           "time_info": "[00时00分 ~ 09时28分]"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 13时04分]"
         },
         {
           "title": "美国总统特朗普赞赏财长贝森特，称自己不想失去他。",
@@ -2023,18 +2176,6 @@
           "time_info": "[01时29分 ~ 02时37分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://news.ifeng.com/c/8qIp4NFuO3j",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时42分]"
-        },
-        {
           "title": "美国总统特朗普：让泽尔丁负责洛杉矶山火重建许可。",
           "url": "https://flash.jin10.com/detail/20260129002712537800",
           "source": "金十数据",
@@ -2046,6 +2187,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时43分 ~ 01时59分]"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 13时04分]"
         },
         {
           "title": "美国总统特朗普在“特朗普账户”活动上感谢Gerstner、优步（Uber）、以及英特尔。",
@@ -2170,18 +2324,6 @@
           "time_info": "[01时29分 ~ 01时59分]"
         },
         {
-          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2273451",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时42分]"
-        },
-        {
           "title": "美国总统特朗普感谢达利欧在康涅狄格州为“特朗普账户”进行投资。",
           "url": "https://flash.jin10.com/detail/20260129004148471800",
           "source": "金十数据",
@@ -2204,6 +2346,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 00时43分]"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 13时04分]"
         },
         {
           "title": "美国国务卿鲁比奥：作为总司令，美国总统特朗普从未排除任何选项，但目前在委内瑞拉，唯一的军事存在形式将是驻在大使馆的海军卫队。",
@@ -2299,6 +2453,17 @@
           "time_info": "01时59分"
         },
         {
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "消息人士称，特朗普政府正逐步取消关键矿产项目的价格下限。",
           "url": "https://flash.jin10.com/detail/20260129064430759800",
           "source": "金十数据",
@@ -2308,17 +2473,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
-        },
-        {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         },
         {
           "title": "特朗普政府继续施压加拿大 曾会见阿尔伯塔省分离主义分子",
@@ -2341,6 +2495,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "特朗普与参议院民主党领袖推进磋商 力图避免政府停摆",
+          "url": "https://flash.jin10.com/detail/20260129123617629800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "特朗普：明尼苏达州联邦执法将适度放缓 但不会停",
@@ -2398,6 +2563,17 @@
           "time_info": "02时37分"
         },
         {
+          "title": "特朗普和舒默朝着可能达成避免美国政府停摆的协议迈进。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3046090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "美国总统特朗普：对标普500指数涨至7000点表示欢迎。",
           "url": "https://wallstreetcn.com/livenews/3045663",
           "source": "华尔街见闻-快讯",
@@ -2409,6 +2585,17 @@
           "time_info": "00时01分"
         },
         {
+          "title": "据纽约时报：美国总统特朗普和美国参议院少数党领袖舒默正朝着达成一项可能的协议迈进，以避免政府停摆。",
+          "url": "https://flash.jin10.com/detail/20260129122742373800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
           "url": "https://wallstreetcn.com/livenews/3045946",
           "source": "华尔街见闻-快讯",
@@ -2418,12 +2605,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
+          "url": "https://wallstreetcn.com/livenews/3046082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "美法官叫停特朗普政府针对明尼苏达州合法难民的审查政策",
+          "url": "https://flash.jin10.com/detail/20260129120407962800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "如何看待马化腾罕见点评字节和阿里的 AI 策略？",
@@ -2506,6 +2715,18 @@
           "time_info": "[05时26分 ~ 06时22分]"
         },
         {
+          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
+          "url": "https://wallstreetcn.com/articles/3764410",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 13时04分]"
+        },
+        {
           "title": "赛道路演连轴转，听众不够用了？AI、太空、光伏谁在C位？",
           "url": "https://www.cls.cn/detail/2272316",
           "source": "财联社热门",
@@ -2552,25 +2773,13 @@
           "time_info": "[02时37分 ~ 03时24分]"
         },
         {
-          "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
-          "url": "https://wallstreetcn.com/articles/3764410",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时42分]"
-        },
-        {
           "title": "1月29日午间收评：创业板指冲高回落微跌，AI应用端集体爆发",
           "url": "https://wallstreetcn.com/livenews/3046069",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -2611,6 +2820,39 @@
           "time_info": "[04时57分 ~ 05时26分]"
         },
         {
+          "title": "AI应用板块爆发",
+          "url": "https://www.toutiao.com/trending/7599545650313642034/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764408",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "AI引爆存储涨价潮！三星Q4营收利润均创新高 芯片业务利润飙升470%",
+          "url": "https://www.cls.cn/detail/2273507",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "SK海力士：Nand正在成为支持AI的存储解决方案。",
           "url": "https://wallstreetcn.com/livenews/3045947",
           "source": "华尔街见闻-快讯",
@@ -2628,112 +2870,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai chatgpt",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
-          "url": "https://flash.jin10.com/detail/20260129071859575800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "OpenAI融资前估值或达7300亿美元，吸引三大科技巨头联手投资",
-          "url": "https://flash.jin10.com/detail/20260129110922470800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
-          "url": "https://flash.jin10.com/detail/20260129071311535800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时49分"
-        },
-        {
-          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3046051",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "据TheInformation：英伟达(NVDA.O)正商谈向OpenAI投资高达300亿美元。",
-          "url": "https://flash.jin10.com/detail/20260129110013792800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "据TheInformation：英伟达(NVDA.O)、亚马逊与微软正在商讨向OpenAI投资高达600亿美元。",
-          "url": "https://flash.jin10.com/detail/20260129105953844800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "据The Information：亚马逊(AMZN.O)正就向OpenAI投资超过100亿美元进行洽谈。",
-          "url": "https://flash.jin10.com/detail/20260129105915164800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "据The Information：新一轮融资可能将OpenAI的估值定在7300亿美元。",
-          "url": "https://flash.jin10.com/detail/20260129105841041800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
-        },
-        {
-          "title": "据The Information：微软(MSFT.O)正洽谈以低于100亿美元投资OpenAI。",
-          "url": "https://flash.jin10.com/detail/20260129105817254800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
@@ -2741,7 +2878,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "德国 7:1 巴西跟日本 7:0 中国哪个难度更大?",
@@ -2787,6 +2924,29 @@
           "time_info": "[04时57分 ~ 05时53分]"
         },
         {
+          "title": "东大发飙!日本熊猫库存清零",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349852&amp;topic_name=%E4%B8%9C%E5%A4%A7%E5%8F%91%E9%A3%99%21%E6%97%A5%E6%9C%AC%E7%86%8A%E7%8C%AB%E5%BA%93%E5%AD%98%E6%B8%85%E9%9B%B6",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 13时04分]"
+        },
+        {
+          "title": "现代汽车：丰田2025年从日本出口到美国的汽车数量增至615,204辆。",
+          "url": "https://flash.jin10.com/detail/20260129125404576800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "日本央行将购买400亿日元的通胀挂钩日本政府债券，上一次操作为500亿日元。",
           "url": "https://flash.jin10.com/detail/20260129091208362800",
           "source": "金十数据",
@@ -2804,20 +2964,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
         {
-          "title": "东大发飙!日本熊猫库存清零",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349852&amp;topic_name=%E4%B8%9C%E5%A4%A7%E5%8F%91%E9%A3%99%21%E6%97%A5%E6%9C%AC%E7%86%8A%E7%8C%AB%E5%BA%93%E5%AD%98%E6%B8%85%E9%9B%B6",
-          "source": "贴吧",
+          "title": "日本1月家庭消费者信心指数 37.9，预期 37.1，前值 37.2。",
+          "url": "https://wallstreetcn.com/livenews/3046109",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "13时04分"
         },
         {
           "title": "据日本时事通讯社：系统故障导致日本全国140家信用合作社的外汇交易中断。",
@@ -2826,9 +2986,31 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "丰田汽车：丰田12月从日本出口至美国的汽车数量同比下降6.2%，至52357辆。",
+          "url": "https://flash.jin10.com/detail/20260129125028094800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
+          "title": "丰田汽车：12月位于日本的独资工厂汽车产量下降2.4%至249223辆。",
+          "url": "https://flash.jin10.com/detail/20260129123121389800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
         },
         {
           "title": "前日本央行官员竹内惇：日本可能暂时不干预日元汇率",
@@ -2848,7 +3030,112 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai chatgpt",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
+          "url": "https://flash.jin10.com/detail/20260129071859575800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "OpenAI融资前估值或达7300亿美元，吸引三大科技巨头联手投资",
+          "url": "https://flash.jin10.com/detail/20260129110922470800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
+          "url": "https://flash.jin10.com/detail/20260129071311535800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3046051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "据TheInformation：英伟达(NVDA.O)正商谈向OpenAI投资高达300亿美元。",
+          "url": "https://flash.jin10.com/detail/20260129110013792800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "据TheInformation：英伟达(NVDA.O)、亚马逊与微软正在商讨向OpenAI投资高达600亿美元。",
+          "url": "https://flash.jin10.com/detail/20260129105953844800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "据The Information：亚马逊(AMZN.O)正就向OpenAI投资超过100亿美元进行洽谈。",
+          "url": "https://flash.jin10.com/detail/20260129105915164800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "据The Information：新一轮融资可能将OpenAI的估值定在7300亿美元。",
+          "url": "https://flash.jin10.com/detail/20260129105841041800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时42分"
+        },
+        {
+          "title": "据The Information：微软(MSFT.O)正洽谈以低于100亿美元投资OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260129105817254800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
@@ -2868,8 +3155,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时00分 ~ 11时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时00分 ~ 13时04分]"
         },
         {
           "title": "三星：考虑到市场前景，预计内存资本支出将增加。预计2026年内存资本支出将增加。",
@@ -2922,6 +3209,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "人类基因密码被谷歌AI破解",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 13时04分]"
+        },
+        {
           "title": "谷歌母公司Alphabet美股盘后涨3%，投资者关注Meta业绩报告。",
           "url": "https://wallstreetcn.com/livenews/3045867",
           "source": "华尔街见闻-快讯",
@@ -2932,17 +3231,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时22分]"
-        },
-        {
-          "title": "人类基因密码被谷歌AI破解",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E7%B1%BB%E5%9F%BA%E5%9B%A0%E5%AF%86%E7%A0%81%E8%A2%AB%E8%B0%B7%E6%AD%8CAI%E7%A0%B4%E8%A7%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
@@ -3015,7 +3303,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         }
