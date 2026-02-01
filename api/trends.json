@@ -1,27 +1,12 @@
 {
-  "generated_at": "2026-02-02T07:20:50.985057+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-02-02T07:47:50.116867+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 22,
       "titles": [
-        {
-          "title": "爱泼斯坦案多名受害者指控特朗普",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%A4%9A%E5%90%8D%E5%8F%97%E5%AE%B3%E8%80%85%E6%8C%87%E6%8E%A7%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            5,
-            6,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 07时20分]"
-        },
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
           "url": "https://news.ifeng.com/c/8qOFedymx0W",
@@ -34,17 +19,34 @@
           "time_info": "[00时23分 ~ 06时51分]"
         },
         {
+          "title": "爱泼斯坦案多名受害者指控特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E5%A4%9A%E5%90%8D%E5%8F%97%E5%AE%B3%E8%80%85%E6%8C%87%E6%8E%A7%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            5,
+            6,
+            2,
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时55分 ~ 07时47分]"
+        },
+        {
           "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
           "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
           "source": "澎湃新闻",
           "ranks": [
             3,
             5,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
         },
         {
           "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
@@ -55,20 +57,6 @@
           ],
           "is_new": false,
           "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
-        },
-        {
-          "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。 未来数日将就拨款法案展开 “富有成效的” 磋商。",
-          "url": "https://wallstreetcn.com/livenews/3047823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 14,
           "time_info": "[00时23分 ~ 07时20分]"
         },
         {
@@ -83,6 +71,21 @@
           "time_info": "[00时23分 ~ 06时51分]"
         },
         {
+          "title": "美国众议院议长约翰逊：特朗普在移民政策上可能会进行“重新调整”。 未来数日将就拨款法案展开 “富有成效的” 磋商。",
+          "url": "https://wallstreetcn.com/livenews/3047823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6,
+            16,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时23分 ~ 07时47分]"
+        },
+        {
           "title": "特朗普：美委将“分享”石油收益",
           "url": "https://m.thepaper.cn/newsDetail_forward_32510288",
           "source": "澎湃新闻",
@@ -91,8 +94,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -198,9 +201,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时47分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -208,11 +211,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            12
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[06时51分 ~ 07时47分]"
         },
         {
           "title": "特朗普称希望与伊朗“能够达成协议”",
@@ -220,11 +224,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[06时51分 ~ 07时47分]"
+        },
+        {
+          "title": "特朗普表示，将关闭肯尼迪中心两年，以进行翻修。",
+          "url": "https://wallstreetcn.com/livenews/3047860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         },
         {
           "title": "特朗普：正与伊朗进行对话",
@@ -233,15 +249,48 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时47分]"
+        },
+        {
+          "title": "美媒曝特朗普要建巨型凯旋门，白宫回应",
+          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时47分"
+        },
+        {
+          "title": "美国总统特朗普：肯尼迪中心的娱乐业务将暂停约两年。",
+          "url": "https://flash.jin10.com/detail/20260202072609969800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "美国总统特朗普：肯尼迪中心将因施工暂时关闭。",
+          "url": "https://flash.jin10.com/detail/20260202072358625800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
@@ -251,8 +300,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
         },
         {
           "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
@@ -262,8 +311,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
         },
         {
           "title": "美银Hartnett：终结\"黄金大牛市\"的只能是\"更大的事件\"",
@@ -273,8 +322,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
         },
         {
           "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
@@ -286,8 +335,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
         },
         {
           "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
@@ -298,8 +347,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
         },
         {
           "title": "男子看金价下跌花20多万买200克",
@@ -332,50 +381,98 @@
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            4
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时51分 ~ 07时20分]"
+          "appearance_count": 3,
+          "time_info": "[06时51分 ~ 07时47分]"
         },
         {
           "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
           "url": "https://wallstreetcn.com/livenews/3047847",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时47分]"
         },
         {
           "title": "现货黄金回落至4750美元/盎司下方，日内跌2.80%。",
           "url": "https://flash.jin10.com/detail/20260202071131330800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时47分]"
+        },
+        {
+          "title": "现货黄金盘中一度跌破4700美元关口，日内跌超3%；现货白银盘中一度跌破77美元关口，日内跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3047858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时47分"
         },
         {
           "title": "金十图示：2026年02月02日（周一）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260202064537259800",
           "source": "金十数据",
           "ranks": [
-            13
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时47分]"
+        },
+        {
+          "title": "现货白银跌幅再次扩大，最低触及78.23美元/盎司，日内跌超7%。 现货黄金盘中跌至4715.25美元/盎司，日内跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3047854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时47分"
+        },
+        {
+          "title": "现货黄金跌破4700美元/盎司，日内跌3.79%。",
+          "url": "https://flash.jin10.com/detail/20260202071846038800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 6,
+      "match_count": 12,
       "titles": [
         {
           "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
@@ -387,8 +484,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
         },
         {
           "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
@@ -398,58 +495,128 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
         },
         {
           "title": "WTI原油日内大跌4.00%，最低报63.03美元/桶。",
           "url": "https://flash.jin10.com/detail/20260202070849010800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时47分]"
         },
         {
           "title": "美元兑日元周一亚市盘初走高，此前日本首相高市早苗周末就日元汇率发表评论。",
           "url": "https://wallstreetcn.com/livenews/3047843",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时47分]"
         },
         {
           "title": "现货金银快速反弹，现分别报4864美元/盎司和83.40美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260202070347403800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时47分]"
         },
         {
           "title": "美元兑日元USD/JPY日内涨近0.4%，至155.32。",
           "url": "https://flash.jin10.com/detail/20260202064619760800",
           "source": "金十数据",
           "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时47分]"
+        },
+        {
+          "title": "甲骨文计划年内筹资至高500亿美元加码云业务投资",
+          "url": "https://flash.jin10.com/detail/20260202073309201800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "现货白银收复部分跌幅，重回80美元/盎司之上。",
+          "url": "https://flash.jin10.com/detail/20260202072612200800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "甲骨文表示，预计2026年将筹集450亿至500亿美元总现金，计划通过发债和股权融资来实现。",
+          "url": "https://wallstreetcn.com/livenews/3047851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "现货白银向下触及77美元/盎司，日内跌9.61%。",
+          "url": "https://flash.jin10.com/detail/20260202072058151800",
+          "source": "金十数据",
+          "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时20分"
+          "time_info": "07时47分"
+        },
+        {
+          "title": "甲骨文(ORCL.N)：预计2026年将筹集450亿至500亿美元总现金。",
+          "url": "https://flash.jin10.com/detail/20260202071808774800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD日内跌超0.50%，现报0.6926。",
+          "url": "https://flash.jin10.com/detail/20260202071637996800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "王毅会见绍伊古，谈及日本和台海问题",
@@ -459,19 +626,31 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
+        },
+        {
+          "title": "日本央行将于十分钟后公布1月货币政策会议审议委员意见摘要。",
+          "url": "https://flash.jin10.com/detail/20260202074000001800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         },
         {
           "title": "前日本财务省财务官渡边博史：放宽财政政策或再掀市场动荡",
           "url": "https://wallstreetcn.com/livenews/3047846",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时47分]"
         },
         {
           "title": "22岁澳大利亚籍女游客命丧日本滑雪场",
@@ -484,6 +663,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 07时20分]"
+        },
+        {
+          "title": "朝日新闻民调：日本执政联盟或将在选举中赢得超过300个席位。",
+          "url": "https://wallstreetcn.com/livenews/3047850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时47分"
         }
       ]
     },
@@ -499,8 +689,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
         },
         {
           "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
@@ -512,8 +702,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
         },
         {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
@@ -541,8 +731,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
         },
         {
           "title": "黄仁勋：OpenAI邀请英伟达进行高达1000亿美元投资，但千亿美元投资“绝非承诺”。我们将逐步投资OpenAI。",
@@ -573,8 +763,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时19分 ~ 07时20分]"
+          "appearance_count": 6,
+          "time_info": "[05时19分 ~ 07时47分]"
         },
         {
           "title": "三大内存厂打击囤货",
@@ -598,11 +788,12 @@
           "url": "https://wallstreetcn.com/articles/3764656",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时23分 ~ 07时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
         }
       ]
     }
