@@ -1,11 +1,351 @@
 {
-  "generated_at": "2026-02-02T07:47:50.116867+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-02-02T09:45:29.737689+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "金价 黄金",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
+          "url": "https://wallstreetcn.com/articles/3764687",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
+          "url": "https://www.cls.cn/detail/2276774",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "美银Hartnett：终结\"黄金大牛市\"的只能是\"更大的事件\"",
+          "url": "https://wallstreetcn.com/articles/3764682",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
+          "url": "https://www.cls.cn/detail/2276655",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 07时47分]"
+        },
+        {
+          "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
+          "url": "https://www.cls.cn/detail/2276583",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 09时45分]"
+        },
+        {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            26,
+            22,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时55分 ~ 07时20分]"
+        },
+        {
+          "title": "黄金白银为何暴涨暴跌",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时20分 ~ 09时45分]"
+        },
+        {
+          "title": "金价暴跌后回收变现火爆",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时51分 ~ 07时47分]"
+        },
+        {
+          "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
+          "url": "https://wallstreetcn.com/livenews/3047847",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时47分]"
+        },
+        {
+          "title": "【早报】金价巨震，银行密集提示风险；两只大牛股今日复牌",
+          "url": "https://www.cls.cn/detail/2276967",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "A股贵金属板块开盘大跌，晓程科技、招金黄金、四川黄金、湖南黄金、中金黄金、赤峰黄金、西部黄金、山东黄金等十余股竞价跌停。",
+          "url": "https://wallstreetcn.com/livenews/3047941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "现货黄金回落至4750美元/盎司下方，日内跌2.80%。",
+          "url": "https://flash.jin10.com/detail/20260202071131330800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时47分]"
+        },
+        {
+          "title": "现货黄金盘中一度跌破4700美元关口，日内跌超3%；现货白银盘中一度跌破77美元关口，日内跌超9%。",
+          "url": "https://wallstreetcn.com/livenews/3047858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "黄金白银又跌麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%8F%88%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时47分 ~ 09时45分]"
+        },
+        {
+          "title": "金十图示：2026年02月02日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260202064537259800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时47分]"
+        },
+        {
+          "title": "现货白银跌幅再次扩大，最低触及78.23美元/盎司，日内跌超7%。 现货黄金盘中跌至4715.25美元/盎司，日内跌超2%。",
+          "url": "https://wallstreetcn.com/livenews/3047854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "金银深V遭沪盘打压，现货黄金跌破4600美元关口、沪银跌17%、沪金跌超10%，美股期货、原油走低",
+          "url": "https://wallstreetcn.com/articles/3764699",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "现货黄金跌破4600美元，日内跌5.7%。",
+          "url": "https://wallstreetcn.com/livenews/3047923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "现货黄金跌破4700美元/盎司，日内跌3.79%。",
+          "url": "https://flash.jin10.com/detail/20260202071846038800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时47分"
+        },
+        {
+          "title": "上海黄金交易所：调整白银延期合约保证金水平和涨跌停板",
+          "url": "https://wallstreetcn.com/livenews/3047920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "现货黄金一度跌破4600美元",
+          "url": "https://flash.jin10.com/detail/20260202091337479800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "金价震荡 多家银行发布风险提示",
+          "url": "https://www.toutiao.com/trending/7601831569082859583/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "现货黄金回落至4630美元/盎司下方，日内跌5.28%。",
+          "url": "https://flash.jin10.com/detail/20260202091031998800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "中金：黄金超过5500美元/盎司是一个重要分水岭",
+          "url": "https://wallstreetcn.com/livenews/3047904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "金价有没有天花板",
+          "url": "https://www.toutiao.com/trending/7602036177641672238/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "金价下跌30克金镯2天降价6000元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C30%E5%85%8B%E9%87%91%E9%95%AF2%E5%A4%A9%E9%99%8D%E4%BB%B76000%E5%85%83%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "上海黄金交易所：调整白银延期合约保证金水平和涨跌停板",
+          "url": "https://flash.jin10.com/detail/20260202090353500800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "现货黄金失守4700美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%B1%E5%AE%884700%E7%BE%8E%E5%85%83%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普：印度将进口委内瑞拉石油，同样欢迎中国",
@@ -45,8 +385,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 07时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "特朗普宣布：白宫草坪看格斗，首都街头飙赛车",
@@ -94,8 +434,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 07时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：我们始终未发现特朗普提及派往俄近海的两艘核潜艇。",
@@ -199,11 +539,12 @@
           "url": "https://news.ifeng.com/c/8qMd74BpD5R",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时47分]"
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时45分]"
         },
         {
           "title": "特朗普再次表态：将与古巴达成协议",
@@ -238,9 +579,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "美媒曝特朗普计划建造76米巨型凯旋门，白宫回应(图)",
+          "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "特朗普：正与伊朗进行对话",
@@ -254,13 +606,24 @@
           "time_info": "[07时20分 ~ 07时47分]"
         },
         {
+          "title": "哈梅内伊：伊朗人民不应该被特朗普的话吓倒",
+          "url": "https://news.ifeng.com/c/8qPOoB0E678",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "美媒曝特朗普要建巨型凯旋门，白宫回应",
           "url": "https://news.ifeng.com/c/8qOoTOMvfMS",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -271,7 +634,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -282,189 +645,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "周末要闻汇总：SpaceX申请部署100万颗卫星；黄金、白银迎史诗级暴跌",
-          "url": "https://www.cls.cn/detail/2276774",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 07时47分]"
-        },
-        {
-          "title": "金价暴跌，深圳水贝挤满了人，扎堆买金；演员自曝4元/克买的白银，13年前存在银行保险箱忘了，逾期需补交7000多元",
-          "url": "https://wallstreetcn.com/articles/3764687",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 07时47分]"
-        },
-        {
-          "title": "美银Hartnett：终结\"黄金大牛市\"的只能是\"更大的事件\"",
-          "url": "https://wallstreetcn.com/articles/3764682",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 07时47分]"
-        },
-        {
-          "title": "【早报】SpaceX申请部署100万颗卫星；CME上调黄金、白银期货保证金比例",
-          "url": "https://www.cls.cn/detail/2276655",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 07时47分]"
-        },
-        {
-          "title": "拟整合6000亿元金矿的黄金股月内股价涨超70% 1月披露并购重组进展的A股名单一览",
-          "url": "https://www.cls.cn/detail/2276583",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 07时47分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            26,
-            22,
-            23,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时55分 ~ 07时20分]"
-        },
-        {
-          "title": "黄金白银为何暴涨暴跌",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E4%B8%BA%E4%BD%95%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时20分 ~ 07时20分]"
-        },
-        {
-          "title": "金价暴跌后回收变现火爆",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%90%8E%E5%9B%9E%E6%94%B6%E5%8F%98%E7%8E%B0%E7%81%AB%E7%88%86%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时51分 ~ 07时47分]"
-        },
-        {
-          "title": "美股期货亚市盘初走低，纳斯达克100指数期货跌0.8%，标普500指数期货跌0.6%。 现货黄金盘初大幅波动，最低报4783.98美元/盎司，目前反弹至4840美元一线附近，日内跌0.5%。 现货白银亦大幅波动，最低报80.53美元/盎司，目前反弹至82.15美元，日内跌2.7%。 布伦特原油期货亚市开盘下跌2.4%，至每桶67.78美元。",
-          "url": "https://wallstreetcn.com/livenews/3047847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时47分]"
-        },
-        {
-          "title": "现货黄金回落至4750美元/盎司下方，日内跌2.80%。",
-          "url": "https://flash.jin10.com/detail/20260202071131330800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时47分]"
-        },
-        {
-          "title": "现货黄金盘中一度跌破4700美元关口，日内跌超3%；现货白银盘中一度跌破77美元关口，日内跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/3047858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "金十图示：2026年02月02日（周一）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260202064537259800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时47分]"
-        },
-        {
-          "title": "现货白银跌幅再次扩大，最低触及78.23美元/盎司，日内跌超7%。 现货黄金盘中跌至4715.25美元/盎司，日内跌超2%。",
-          "url": "https://wallstreetcn.com/livenews/3047854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "现货黄金跌破4700美元/盎司，日内跌3.79%。",
-          "url": "https://flash.jin10.com/detail/20260202071846038800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "07时47分"
         }
@@ -472,7 +653,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 21,
       "titles": [
         {
           "title": "加密货币市场持续暴跌、比特币跌破8万美元，超42万人爆仓",
@@ -484,8 +665,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 07时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "沃什终结“美元贬值交易”？币圈周末继续重挫，比特币跌破8万美元大关",
@@ -495,8 +676,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 07时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "WTI原油日内大跌4.00%，最低报63.03美元/桶。",
@@ -535,6 +716,17 @@
           "time_info": "[07时20分 ~ 07时47分]"
         },
         {
+          "title": "布伦特原油日内大跌4.00%，现报66.82美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260202093219833800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
           "title": "美元兑日元USD/JPY日内涨近0.4%，至155.32。",
           "url": "https://flash.jin10.com/detail/20260202064619760800",
           "source": "金十数据",
@@ -553,9 +745,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "沃什提名引美元巨震 政策博弈加剧汇市空头压力",
+          "url": "https://flash.jin10.com/detail/20260202093110919800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "现货白银收复部分跌幅，重回80美元/盎司之上。",
@@ -564,9 +767,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.9695，下调17点；上一交易日中间价6.9678，上一交易日官方收盘价6.9486，上日夜盘报收6.9566。",
+          "url": "https://wallstreetcn.com/livenews/3047927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "甲骨文表示，预计2026年将筹集450亿至500亿美元总现金，计划通过发债和股权融资来实现。",
@@ -575,9 +789,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "韩元兑美元日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3047924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "韩元/美元汇率下跌逾1%。",
+          "url": "https://flash.jin10.com/detail/20260202092832200800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "现货白银向下触及77美元/盎司，日内跌9.61%。",
@@ -586,9 +822,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "比特币跌破80000美元！与特朗普政府紧密联系反成拖累",
+          "url": "https://www.cls.cn/detail/2276706",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "甲骨文(ORCL.N)：预计2026年将筹集450亿至500亿美元总现金。",
@@ -597,7 +844,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -608,26 +855,60 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "台湾证交所加权股价指数盘初下跌1.1%至31,712.11点。 新台币兑美元下跌0.3%至31.565。",
+          "url": "https://wallstreetcn.com/livenews/3047913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "现货铂金下跌逾5%，至每盎司2,043.80美元。",
+          "url": "https://flash.jin10.com/detail/20260202091256381800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "WTI原油回落至63美元/桶下方，日内跌4.24%。",
+          "url": "https://flash.jin10.com/detail/20260202091245194800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "王毅会见绍伊古，谈及日本和台海问题",
           "url": "https://news.ifeng.com/c/8qOk2zCQSdE",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 07时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "日本央行将于十分钟后公布1月货币政策会议审议委员意见摘要。",
@@ -636,7 +917,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         },
@@ -651,6 +932,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时47分]"
+        },
+        {
+          "title": "日本米价飞天,开启史诗通胀",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350007&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%B1%B3%E4%BB%B7%E9%A3%9E%E5%A4%A9%2C%E5%BC%80%E5%90%AF%E5%8F%B2%E8%AF%97%E9%80%9A%E8%83%80",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         },
         {
           "title": "22岁澳大利亚籍女游客命丧日本滑雪场",
@@ -671,9 +963,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
+        },
+        {
+          "title": "日本财务省将于2月9日拍卖3.8万亿日元的短期国债。",
+          "url": "https://flash.jin10.com/detail/20260202092023008800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
+        },
+        {
+          "title": "日本1月制造业PMI终值 51.5，初值 51.5。",
+          "url": "https://wallstreetcn.com/livenews/3047899",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时45分"
         }
       ]
     },
@@ -689,8 +1003,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 07时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "元宝登顶App Store免费榜！10亿红包驱动“社交裂变” 大厂争抢AI超级入口",
@@ -702,8 +1016,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 07时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 09时45分]"
         },
         {
           "title": "2月1日，腾讯旗下AI助手元宝，正式宣布“元宝派”公测上线。",
@@ -760,11 +1074,12 @@
           "ranks": [
             19,
             16,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时19分 ~ 07时47分]"
+          "appearance_count": 7,
+          "time_info": "[05时19分 ~ 09时45分]"
         },
         {
           "title": "三大内存厂打击囤货",
@@ -789,11 +1104,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时23分 ~ 07时47分]"
+          "appearance_count": 19,
+          "time_info": "[00时23分 ~ 09时45分]"
         }
       ]
     }
