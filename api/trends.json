@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T05:37:30.113102+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-02-04T05:59:55.018207+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -28,8 +28,31 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
+        },
+        {
+          "title": "美国证交会（SEC）文件显示，甲骨文(ORCL.N)申请发行高达200亿美元的普通股。",
+          "url": "https://flash.jin10.com/detail/20260204053043747800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "彭博美元指数跌约0.3%",
+          "url": "https://wallstreetcn.com/livenews/3049308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 05时59分]"
         },
         {
           "title": "LME期铜收涨586美元，报13478美元/吨。 LME期铝收涨50美元，报3106美元/吨。 LME期锌收涨15美元，报3338美元/吨。 LME期铅收平，报1964美元/吨。 LME期镍收涨620美元，报17447美元/吨。 LME期锡收涨3531美元，报50122美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -45,6 +68,28 @@
           "time_info": "[02时12分 ~ 03时59分]"
         },
         {
+          "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
+          "url": "https://wallstreetcn.com/livenews/3049338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "AMD四季度营收102.7亿美元，分析师预期96.5亿美元。 四季度调整后每股收益（EPS）为1.53美元，分析师预期1.32美元。 四季度运营利润28.5亿美元，分析师预期24.7亿美元。 四季度运营利润率28%，分析师预期25.4%。 四季度研发开支23.3亿美元，分析师预期21.6亿美元。 四季度资本开支2.22亿美元，分析师预期2.314亿美元。 预计一季度营收95亿-101亿美元，分析师预期93.9亿美元。 预计一季度调整后毛利润率大约55%，分析师预期54.5%。 AMD美股盘后跌4%。",
+          "url": "https://wallstreetcn.com/livenews/3049337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
           "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
           "url": "https://wallstreetcn.com/livenews/3049277",
           "source": "华尔街见闻-快讯",
@@ -56,6 +101,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时26分 ~ 04时40分]"
+        },
+        {
+          "title": "墨式烤肉（Chipotle Mexican Grill Inc.）四季度营收29.8亿美元，分析师预期29.6亿美元。 四季度同店销售下滑2.5%，分析师预期下降2.94%。",
+          "url": "https://wallstreetcn.com/livenews/3049334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
         },
         {
           "title": "周二（2月3日），美联储隔夜逆回购协议（RRP）使用规模为17.85亿美元（交易对手18家），上个交易日报104.15亿美元。",
@@ -95,17 +151,6 @@
           "time_info": "[03时59分 ~ 04时40分]"
         },
         {
-          "title": "美国证交会（SEC）文件显示，甲骨文(ORCL.N)申请发行高达200亿美元的普通股。",
-          "url": "https://flash.jin10.com/detail/20260204053043747800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "德意志银行牵头的一个银行团体为软件供应商一宗收购案承销的12亿美元贷款无人问津，投资者被AI相关的担忧情绪笼罩。 未来，该银行团体将通过6.25亿美元定期贷款、一笔2028年到期5.4亿美元贷款来支持Conga Corp.的收购交易。",
           "url": "https://wallstreetcn.com/livenews/3049297",
           "source": "华尔街见闻-快讯",
@@ -142,29 +187,6 @@
           "time_info": "[03时59分 ~ 04时40分]"
         },
         {
-          "title": "彭博美元指数跌约0.3%",
-          "url": "https://wallstreetcn.com/livenews/3049308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时37分]"
-        },
-        {
-          "title": "Take-Two Interactive Software第三财季净预定17.6亿美元，分析师预期15.8亿美元。 预计全年净预定66.5亿-67.0亿美元，分析师预期64.7亿美元。 预计第四财季净预定15.1亿-15.6亿美元，分析师预期15.4亿美元。 TTWO美股盘后涨5%。",
-          "url": "https://wallstreetcn.com/livenews/3049338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "比特币跌穿7.3万美元，跌幅扩大至将近7%，北京时间00:00之前大致持稳于7.8万美元附近，之后加速下跌。",
           "url": "https://wallstreetcn.com/livenews/3049291",
           "source": "华尔街见闻-快讯",
@@ -177,15 +199,15 @@
           "time_info": "[03时59分 ~ 04时40分]"
         },
         {
-          "title": "AMD四季度营收102.7亿美元，分析师预期96.5亿美元。 四季度调整后每股收益（EPS）为1.53美元，分析师预期1.32美元。 四季度运营利润28.5亿美元，分析师预期24.7亿美元。 四季度运营利润率28%，分析师预期25.4%。 四季度研发开支23.3亿美元，分析师预期21.6亿美元。 四季度资本开支2.22亿美元，分析师预期2.314亿美元。 预计一季度营收95亿-101亿美元，分析师预期93.9亿美元。 预计一季度调整后毛利润率大约55%，分析师预期54.5%。 AMD美股盘后跌4%。",
-          "url": "https://wallstreetcn.com/livenews/3049337",
-          "source": "华尔街见闻-快讯",
+          "title": "AMD(AMD.O)2025年Q4净利润15.11亿美元，市场预期13.8亿美元，去年同期4.82亿美元。",
+          "url": "https://flash.jin10.com/detail/20260204051707504800",
+          "source": "金十数据",
           "ranks": [
-            3
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
         },
         {
           "title": "城堡投资创始人格里芬：美元在去年已失去部分光彩",
@@ -236,15 +258,48 @@
           "time_info": "[02时12分 ~ 03时26分]"
         },
         {
-          "title": "墨式烤肉（Chipotle Mexican Grill Inc.）四季度营收29.8亿美元，分析师预期29.6亿美元。 四季度同店销售下滑2.5%，分析师预期下降2.94%。",
-          "url": "https://wallstreetcn.com/livenews/3049334",
+          "title": "AMD(AMD.O)预计第一季度收入98亿美元。",
+          "url": "https://flash.jin10.com/detail/20260204051634860800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "AMD(AMD.O)2025年Q4营收103亿美元，市场预期96.65亿美元，去年同期76.58亿美元。",
+          "url": "https://flash.jin10.com/detail/20260204051607142800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "芯片设计公司芯科科技盘后大涨40%，据英国金融时报报道，德州仪器正就收购芯科科技进行深入谈判，交易金额约70亿美元。",
+          "url": "https://flash.jin10.com/detail/20260204050701189800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "安进四季度调整后EPS为5.29美元，分析师预期4.71美元。 四季度营收98.7亿美元，分析师预期94.6亿美元。 预计2026年营收370亿-384亿美元，分析师预期371.1亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3049326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
         },
         {
           "title": "Prosus于1月26-30日当周按均值49.9973欧元回购股票17.56605万股，合计0.878亿欧元（折合1.047亿美元）。 Naspers同期按均价1027.0534南非兰特回购股票64.7万股，合计6.645亿兰特（折合0.417亿美元）。",
@@ -259,6 +314,28 @@
           "time_info": "[00时11分 ~ 01时28分]"
         },
         {
+          "title": "韩国1月外汇储备 4259.1亿美元，前值4280.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260204050002149800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "布伦特原油站上68美元/桶，日内涨2.71%。",
+          "url": "https://flash.jin10.com/detail/20260204044637244800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
           "title": "金银比转涨，报58.9，现货白银较日高大幅回调6美元，现报83美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260204030540084800",
           "source": "金十数据",
@@ -268,17 +345,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时59分"
-        },
-        {
-          "title": "AMD(AMD.O)2025年Q4净利润15.11亿美元，市场预期13.8亿美元，去年同期4.82亿美元。",
-          "url": "https://flash.jin10.com/detail/20260204051707504800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         },
         {
           "title": "高盛：预计印尼今年上半年的矿石供应量将同比下降11%至2.6亿吨，这将收紧精炼市场，并支撑镍价在2026年第二季度升至每吨18,700美元。",
@@ -292,17 +358,6 @@
           "time_info": "03时59分"
         },
         {
-          "title": "AMD(AMD.O)预计第一季度收入98亿美元。",
-          "url": "https://flash.jin10.com/detail/20260204051634860800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "WTI 3月原油期货收涨1.07美元，涨幅1.72%，报63.21美元/桶。 布伦特4月原油期货收报67.33美元/桶。 NYMEX 3月天然气期货收报3.3110美元/百万英热单位。 NYMEX 3月汽油期货收报1.8979美元/加仑，NYMEX 3月取暖油期货收报2.4093美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3049301",
           "source": "华尔街见闻-快讯",
@@ -312,17 +367,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
-        },
-        {
-          "title": "AMD(AMD.O)2025年Q4营收103亿美元，市场预期96.65亿美元，去年同期76.58亿美元。",
-          "url": "https://flash.jin10.com/detail/20260204051607142800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         },
         {
           "title": "纽约金日内涨幅达7.5%，报5001.8美元/盎司。",
@@ -347,28 +391,6 @@
           "time_info": "04时40分"
         },
         {
-          "title": "芯片设计公司芯科科技盘后大涨40%，据英国金融时报报道，德州仪器正就收购芯科科技进行深入谈判，交易金额约70亿美元。",
-          "url": "https://flash.jin10.com/detail/20260204050701189800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "安进四季度调整后EPS为5.29美元，分析师预期4.71美元。 四季度营收98.7亿美元，分析师预期94.6亿美元。 预计2026年营收370亿-384亿美元，分析师预期371.1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3049326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "WTI原油日内涨幅达2.0%，报63.47美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3049246",
           "source": "华尔街见闻-快讯",
@@ -378,17 +400,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
-        },
-        {
-          "title": "韩国1月外汇储备 4259.1亿美元，前值4280.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20260204050002149800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         },
         {
           "title": "沃尔玛市值首次突破1万亿美元 AI布局与高性价比推动增长",
@@ -433,17 +444,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时40分"
-        },
-        {
-          "title": "布伦特原油站上68美元/桶，日内涨2.71%。",
-          "url": "https://flash.jin10.com/detail/20260204044637244800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         },
         {
           "title": "美国天然气期货日内涨超3.00%，现报3.336美元/百万英热。",
@@ -503,8 +503,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
@@ -514,8 +514,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
@@ -525,8 +525,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -540,6 +540,17 @@
           "time_info": "[00时11分 ~ 01时28分]"
         },
         {
+          "title": "美国总统特朗普准备签署拨款法案。",
+          "url": "https://flash.jin10.com/detail/20260204052536623800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
           "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
           "url": "https://wallstreetcn.com/livenews/3049283",
           "source": "华尔街见闻-快讯",
@@ -551,6 +562,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时26分 ~ 04时40分]"
+        },
+        {
+          "title": "特朗普称有问题的是比尔盖茨那些人",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 05时59分]"
         },
         {
           "title": "哥伦比亚总统佩特罗：未与美国总统特朗普讨论可卡因作物喷洒问题。",
@@ -576,15 +600,15 @@
           "time_info": "[03时59分 ~ 04时40分]"
         },
         {
-          "title": "美国总统特朗普准备签署拨款法案。",
-          "url": "https://flash.jin10.com/detail/20260204052536623800",
-          "source": "金十数据",
+          "title": "美国总统特朗普将于美东时间16:30签署（众议院移交的）政府拨款法案。",
+          "url": "https://wallstreetcn.com/livenews/3049331",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
         },
         {
           "title": "哥伦比亚总统佩特罗：和美国总统特朗普讨论了出口委内瑞拉天然气的问题。",
@@ -621,6 +645,17 @@
           "time_info": "[03时26分 ~ 03时59分]"
         },
         {
+          "title": "美国总统特朗普将于美国东部时间下午4:30（北京时间今日05:30）在椭圆形办公室现场签署政府资金法案。",
+          "url": "https://flash.jin10.com/detail/20260204050958631800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
           "url": "https://wallstreetcn.com/livenews/3049273",
           "source": "华尔街见闻-快讯",
@@ -633,16 +668,70 @@
           "time_info": "[03时26分 ~ 03时59分]"
         },
         {
-          "title": "特朗普称有问题的是比尔盖茨那些人",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9C%89%E9%97%AE%E9%A2%98%E7%9A%84%E6%98%AF%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E9%82%A3%E4%BA%9B%E4%BA%BA%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
+          "url": "https://flash.jin10.com/detail/20260204045944147800",
+          "source": "金十数据",
           "ranks": [
-            29,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "英国首相斯塔默于当地时间今天下午与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260204045437679800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "诉状称：“特朗普金卡”计划为非法的“权钱交易”计划",
+          "url": "https://wallstreetcn.com/livenews/3049312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "美国总统特朗普在Truth Social平台上发布白宫宴会厅效果图。",
+          "url": "https://flash.jin10.com/detail/20260204045232753800",
+          "source": "金十数据",
+          "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时37分]"
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "哥伦比亚总统佩特罗在与美国总统特朗普会面后表示，他喜欢“坦率的美国人”。",
+          "url": "https://flash.jin10.com/detail/20260204044913626800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "哥伦比亚总统佩特罗：已请美国总统特朗普斡旋与厄瓜多尔总统诺沃亚在贸易和毒品问题上的争端。",
+          "url": "https://flash.jin10.com/detail/20260204043659433800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
         },
         {
           "title": "市场消息：美国众议院批准拨款法案以结束政府停摆；法案将送交美国总统特朗普签署成法。",
@@ -656,17 +745,6 @@
           "time_info": "03时59分"
         },
         {
-          "title": "美国总统特朗普将于美东时间16:30签署（众议院移交的）政府拨款法案。",
-          "url": "https://wallstreetcn.com/livenews/3049331",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "美国白宫：美国总统特朗普在白宫会见哥伦比亚总统佩特罗。",
           "url": "https://flash.jin10.com/detail/20260204014438637800",
           "source": "金十数据",
@@ -676,17 +754,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
-        },
-        {
-          "title": "美国总统特朗普将于美国东部时间下午4:30（北京时间今日05:30）在椭圆形办公室现场签署政府资金法案。",
-          "url": "https://flash.jin10.com/detail/20260204050958631800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         },
         {
           "title": "据悉美国主要开发商将考虑推出100万套“特朗普住宅”的计划。",
@@ -711,17 +778,6 @@
           "time_info": "00时11分"
         },
         {
-          "title": "英国政府：英国首相斯塔默、美国总统特朗普承认迪戈加西亚岛的战略重要性。",
-          "url": "https://flash.jin10.com/detail/20260204045944147800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
           "url": "https://flash.jin10.com/detail/20260204022425976800",
           "source": "金十数据",
@@ -731,17 +787,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
-        },
-        {
-          "title": "英国首相斯塔默于当地时间今天下午与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20260204045437679800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         },
         {
           "title": "美国里士满联储主席Barkin：我既担心通胀，又担心就业。 需求和GDP数据都出现鼓舞人心的迹象。 期待与（总统特朗普的美联储主席提名人）凯文·沃什共事。 （现阶段的）生产力问题与20世纪90年代的现象是有区别的。 企业之间有韧性，并不存在（通胀）重新加速的问题。",
@@ -755,17 +800,6 @@
           "time_info": "00时11分"
         },
         {
-          "title": "诉状称：“特朗普金卡”计划为非法的“权钱交易”计划",
-          "url": "https://wallstreetcn.com/livenews/3049312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
           "url": "https://flash.jin10.com/detail/20260204022404753800",
           "source": "金十数据",
@@ -777,28 +811,6 @@
           "time_info": "03时26分"
         },
         {
-          "title": "美国总统特朗普在Truth Social平台上发布白宫宴会厅效果图。",
-          "url": "https://flash.jin10.com/detail/20260204045232753800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "哥伦比亚总统佩特罗在与美国总统特朗普会面后表示，他喜欢“坦率的美国人”。",
-          "url": "https://flash.jin10.com/detail/20260204044913626800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "Archer-Daniels-Midland Co.（ADM）跌8.3%，创4月份以来最大盘中跌幅。 投资者担心，（美国总统特朗普政府的）生物燃料政策推迟恐怕会不利于公司的利润前景。",
           "url": "https://wallstreetcn.com/livenews/3049193",
           "source": "华尔街见闻-快讯",
@@ -808,17 +820,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "哥伦比亚总统佩特罗：已请美国总统特朗普斡旋与厄瓜多尔总统诺沃亚在贸易和毒品问题上的争端。",
-          "url": "https://flash.jin10.com/detail/20260204043659433800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         }
       ]
     },
@@ -838,6 +839,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时12分 ~ 03时59分]"
+        },
+        {
+          "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
+          "url": "https://wallstreetcn.com/livenews/3049302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 05时59分]"
         },
         {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)对OpenAI的投资计划正在按计划推进。",
@@ -863,18 +876,6 @@
           "time_info": "02时12分"
         },
         {
-          "title": "黄仁勋：英伟达希望参与OpenAI的IPO",
-          "url": "https://wallstreetcn.com/livenews/3049302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时37分]"
-        },
-        {
           "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
           "url": "https://wallstreetcn.com/livenews/3049251",
           "source": "华尔街见闻-快讯",
@@ -885,6 +886,50 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时12分 ~ 03时26分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT当前存在一些问题。",
+          "url": "https://wallstreetcn.com/livenews/3049318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "用户报告称，OpenAI出现故障。（DownDetector）",
+          "url": "https://wallstreetcn.com/livenews/3049313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "OpenAI谈ChatGPT故障问题：我们正在努力实施缓解措施。",
+          "url": "https://flash.jin10.com/detail/20260204044011737800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "网络状况监测网站DownDetector：用户报告显示OpenAI出现问题。",
+          "url": "https://flash.jin10.com/detail/20260204043502987800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
         },
         {
           "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
@@ -931,28 +976,6 @@
           "time_info": "02时12分"
         },
         {
-          "title": "OpenAI：ChatGPT当前存在一些问题。",
-          "url": "https://wallstreetcn.com/livenews/3049318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "用户报告称，OpenAI出现故障。（DownDetector）",
-          "url": "https://wallstreetcn.com/livenews/3049313",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
           "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)将投资于OpenAI的下一轮（融资），公司希望参与未来OpenAI的IPO。",
           "url": "https://flash.jin10.com/detail/20260204033430684800",
           "source": "金十数据",
@@ -984,28 +1007,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
-        },
-        {
-          "title": "OpenAI谈ChatGPT故障问题：我们正在努力实施缓解措施。",
-          "url": "https://flash.jin10.com/detail/20260204044011737800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
-        },
-        {
-          "title": "网络状况监测网站DownDetector：用户报告显示OpenAI出现问题。",
-          "url": "https://flash.jin10.com/detail/20260204043502987800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         }
       ]
     },
@@ -1021,8 +1022,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
@@ -1034,8 +1035,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "黄金牛市还在吗？华尔街坚定看多：技术性回调不要怕，中国买家已成黄金市场强劲支柱！",
@@ -1045,8 +1046,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "黄金白银为何又大涨",
@@ -1060,8 +1061,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "金价波动",
@@ -1105,6 +1106,18 @@
           "time_info": "[00时11分 ~ 03时26分]"
         },
         {
+          "title": "10岁女孩连续3年用压岁钱买黄金",
+          "url": "https://www.toutiao.com/trending/7602442496341344298/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时27分 ~ 05时59分]"
+        },
+        {
           "title": "现货黄金日内涨幅达7.0%，报4984.69美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3049236",
           "source": "华尔街见闻-快讯",
@@ -1127,17 +1140,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 03时59分]"
-        },
-        {
-          "title": "10岁女孩连续3年用压岁钱买黄金",
-          "url": "https://www.toutiao.com/trending/7602442496341344298/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时27分 ~ 01时28分]"
         },
         {
           "title": "现货黄金站上4990美元/盎司，日内涨7.07%。",
@@ -1175,8 +1177,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "春节为何成为AI红包主战场",
@@ -1185,11 +1187,12 @@
           "ranks": [
             5,
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -1200,8 +1203,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
@@ -1212,8 +1215,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "解读SpaceX收购xAI",
@@ -1223,8 +1226,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
@@ -1246,8 +1249,19 @@
             28
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 05时59分]"
+        },
+        {
+          "title": "Centerview联合创始人：AI变革真实存在，但推进节奏或不及预期",
+          "url": "https://wallstreetcn.com/livenews/3049303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时37分]"
+          "time_info": "[05时37分 ~ 05时59分]"
         },
         {
           "title": "CenterView高管Blair Effron：在（并购/M&A）交易方面，我们的确面临大量的尾部风险。 经济、受抑的需求、监管都帮助推进并购。",
@@ -1270,17 +1284,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
-        },
-        {
-          "title": "Centerview联合创始人：AI变革真实存在，但推进节奏或不及预期",
-          "url": "https://wallstreetcn.com/livenews/3049303",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         }
       ]
     },
@@ -1296,8 +1299,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "日本公开采集稀土泥全过程",
@@ -1310,8 +1313,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "中方回应日本称开采出含稀土泥浆",
@@ -1323,11 +1326,12 @@
             16,
             8,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "日本中小学生自杀呈上升趋势，专家：预防不应过于依靠数字手段",
@@ -1339,8 +1343,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "第1现场｜日本遭遇强降雪致30人死亡，积雪厚度达255厘米",
@@ -1352,8 +1356,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "日本将调查外国人大规模购地状况",
@@ -1363,8 +1367,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "外交部回应日本海底挖到稀土泥",
@@ -1377,8 +1381,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时11分 ~ 05时37分]"
+          "appearance_count": 9,
+          "time_info": "[00时11分 ~ 05时59分]"
         },
         {
           "title": "中国男篮能击败日本队吗",
@@ -1391,8 +1395,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时27分 ~ 05时59分]"
         }
       ]
     },
@@ -1400,6 +1404,18 @@
       "keyword_group": "显卡 英伟达",
       "match_count": 7,
       "titles": [
+        {
+          "title": "英伟达跌幅扩大至5%。",
+          "url": "https://wallstreetcn.com/livenews/3049306",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 05时59分]"
+        },
         {
           "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
           "url": "https://wallstreetcn.com/livenews/3049265",
@@ -1424,18 +1440,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时59分 ~ 04时40分]"
-        },
-        {
-          "title": "英伟达跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3049306",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时37分]"
         },
         {
           "title": "英伟达(NVDA.O)首席执行官：人工智能将促使能源成本降低。",
@@ -1559,8 +1563,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 05时37分]"
+          "appearance_count": 8,
+          "time_info": "[01时27分 ~ 05时59分]"
         },
         {
           "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
@@ -1576,6 +1580,17 @@
           "time_info": "[02时12分 ~ 03时59分]"
         },
         {
+          "title": "法院文件显示，美国就谷歌搜索反垄断案提起上诉。",
+          "url": "https://flash.jin10.com/detail/20260204045424029800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
           "url": "https://flash.jin10.com/detail/20260204012848095800",
           "source": "金十数据",
@@ -1585,17 +1600,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时12分"
-        },
-        {
-          "title": "法院文件显示，美国就谷歌搜索反垄断案提起上诉。",
-          "url": "https://flash.jin10.com/detail/20260204045424029800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
         }
       ]
     },
@@ -1622,9 +1626,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时37分 ~ 05时59分]"
         },
         {
           "title": "金十图示：2026年02月03日（周二）全球股市指数-美洲市场（盘初）",
