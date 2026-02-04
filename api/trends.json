@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T22:48:16.014563+08:00",
-  "total_titles_processed": 2200,
+  "generated_at": "2026-02-04T23:38:39.183941+08:00",
+  "total_titles_processed": 2281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 132,
+      "match_count": 134,
       "titles": [
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -44,6 +44,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[17时07分 ~ 22时02分]"
+        },
+        {
+          "title": "中美元首通电话",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E7%94%B5%E8%AF%9D%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时38分]"
         },
         {
           "title": "美国证交会（SEC）文件显示，甲骨文(ORCL.N)申请发行高达200亿美元的普通股。",
@@ -407,6 +419,17 @@
           "time_info": "18时08分"
         },
         {
+          "title": "现货白银涨幅收窄至2.6%，回撤至87.40美元下方，显著脱离北京时间22:05刷新的日高92.2043美元。",
+          "url": "https://wallstreetcn.com/livenews/3049994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "贝伦斯坦：将AMD(AMD.O)目标价从225美元上调至235美元。",
           "url": "https://flash.jin10.com/detail/20260204151928836800",
           "source": "金十数据",
@@ -556,17 +579,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 05时59分]"
-        },
-        {
-          "title": "中美元首通电话",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E7%94%B5%E8%AF%9D%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "芯片设计公司芯科科技盘后大涨40%，据英国金融时报报道，德州仪器正就收购芯科科技进行深入谈判，交易金额约70亿美元。",
@@ -921,7 +933,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -979,6 +991,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "墨西哥推进与美国之家的外交谈判，希望继续向古巴供应石油。 墨西哥国家石油公司PEMEX的CEO称，去年向古巴（出口）销售价值4.96亿美元的石油和燃料。",
+          "url": "https://wallstreetcn.com/livenews/3049980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "市场消息：美国纽约和新泽西州就美国总统特朗普决定扣留160亿美元隧道项目资金提起诉讼。",
@@ -1262,7 +1285,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1317,7 +1340,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1383,7 +1406,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1405,7 +1428,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1471,7 +1494,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -1512,7 +1535,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 72,
       "titles": [
         {
           "title": "特朗普希望中国也加入核军控谈判，中方回应",
@@ -1620,8 +1643,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时01分 ~ 22时48分]"
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时38分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -1631,8 +1654,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时01分 ~ 22时48分]"
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时38分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -1642,8 +1665,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时01分 ~ 22时48分]"
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时38分]"
         },
         {
           "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
@@ -1658,6 +1681,17 @@
           "time_info": "[11时55分 ~ 16时02分]"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时38分]"
+        },
+        {
           "title": "特朗普与爱泼斯坦聚会视频曝光",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%81%9A%E4%BC%9A%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -1669,17 +1703,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时07分 ~ 19时07分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
@@ -1702,6 +1725,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时37分 ~ 05时59分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时47分 ~ 23时38分]"
         },
         {
           "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
@@ -1798,17 +1832,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时26分 ~ 16时02分]"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话",
-          "url": "https://wallstreetcn.com/articles/3764980",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时47分 ~ 22时48分]"
         },
         {
           "title": "美国总统特朗普将于美东时间16:30签署（众议院移交的）政府拨款法案。",
@@ -2115,6 +2138,17 @@
           "time_info": "19时07分"
         },
         {
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "美国参议员格雷厄姆敦促特朗普向基辅提供战斧导弹。",
           "url": "https://flash.jin10.com/detail/20260203230620098800",
           "source": "金十数据",
@@ -2154,7 +2188,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -2176,7 +2210,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -2192,6 +2226,17 @@
           "time_info": "17时07分"
         },
         {
+          "title": "印度官员试图平息各界对特朗普贸易协议的担忧",
+          "url": "https://wallstreetcn.com/livenews/3049972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
           "url": "https://flash.jin10.com/detail/20260204022425976800",
           "source": "金十数据",
@@ -2201,6 +2246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "海湾国家官员表示，目前的计划是由美国总统特使威特科夫和特朗普女婿库什纳代表美国。",
+          "url": "https://flash.jin10.com/detail/20260204232402509800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "美国里士满联储主席Barkin：我既担心通胀，又担心就业。 需求和GDP数据都出现鼓舞人心的迹象。 期待与（总统特朗普的美联储主席提名人）凯文·沃什共事。 （现阶段的）生产力问题与20世纪90年代的现象是有区别的。 企业之间有韧性，并不存在（通胀）重新加速的问题。",
@@ -2305,7 +2361,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 63,
+      "match_count": 64,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -2327,8 +2383,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时24分 ~ 22时48分]"
+          "appearance_count": 20,
+          "time_info": "[07时24分 ~ 23时38分]"
         },
         {
           "title": "黄金牛市还在吗？华尔街坚定看多：技术性回调不要怕，中国买家已成黄金市场强劲支柱！",
@@ -2452,8 +2508,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时01分 ~ 22时48分]"
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时38分]"
         },
         {
           "title": "现货黄金重新站上5000美元",
@@ -2558,6 +2614,18 @@
           "time_info": "[01时27分 ~ 05时59分]"
         },
         {
+          "title": "为什么大家都买黄金",
+          "url": "https://www.toutiao.com/trending/7602943415394766346/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时01分 ~ 23时38分]"
+        },
+        {
           "title": "女子用20克黄金做美甲",
           "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E7%94%A820%E5%85%8B%E9%BB%84%E9%87%91%E5%81%9A%E7%BE%8E%E7%94%B2",
           "source": "百度热搜",
@@ -2641,13 +2709,36 @@
           "time_info": "[18时08分 ~ 19时07分]"
         },
         {
+          "title": "现货黄金短线从5037美元附近跳水，逼近4967美元，日内整体涨幅迅速收窄至0.5%。 现货白银回落至89美元一线，目前涨4.6%，美股盘前还曾涨至92.2043美元。",
+          "url": "https://wallstreetcn.com/livenews/3049959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 23时38分]"
+        },
+        {
+          "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
+          "url": "https://wallstreetcn.com/articles/3764901",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "美股黄金股上涨，纽蒙特矿业(NEM.N)涨2.3%，巴里克黄金(GOLD.N)涨1.9%。",
           "url": "https://flash.jin10.com/detail/20260204223418245800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -2697,17 +2788,6 @@
           "time_info": "19时54分"
         },
         {
-          "title": "现货黄金短线从5037美元附近跳水，逼近4967美元，日内整体涨幅迅速收窄至0.5%。 现货白银回落至89美元一线，目前涨4.6%，美股盘前还曾涨至92.2043美元。",
-          "url": "https://wallstreetcn.com/livenews/3049959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时48分"
-        },
-        {
           "title": "怕家长花压岁钱 女孩连续3年买黄金",
           "url": "https://www.baidu.com/s?wd=%E6%80%95%E5%AE%B6%E9%95%BF%E8%8A%B1%E5%8E%8B%E5%B2%81%E9%92%B1+%E5%A5%B3%E5%AD%A9%E8%BF%9E%E7%BB%AD3%E5%B9%B4%E4%B9%B0%E9%BB%84%E9%87%91",
           "source": "百度热搜",
@@ -2742,17 +2822,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时26分 ~ 03时59分]"
-        },
-        {
-          "title": "为什么大家都买黄金",
-          "url": "https://www.toutiao.com/trending/7602943415394766346/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "机构：黄金跌幅已缩减一半 但再度下挫风险仍高",
@@ -2849,7 +2918,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -2970,7 +3039,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -2992,7 +3061,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -3055,7 +3124,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -3066,8 +3135,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时28分 ~ 22时48分]"
+          "appearance_count": 18,
+          "time_info": "[09时28分 ~ 23时38分]"
         },
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -3108,8 +3177,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时07分 ~ 22时48分]"
+          "appearance_count": 12,
+          "time_info": "[17时07分 ~ 23时38分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -3192,8 +3261,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时01分 ~ 22时48分]"
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时38分]"
         },
         {
           "title": "中央一号文件促进AI与农业发展相结合 AI赋能种植链前景可期",
@@ -3370,6 +3439,17 @@
           "time_info": "17时07分"
         },
         {
+          "title": "美国得克萨斯州电力可靠性委员会（ERCOT）考虑重新评估某些与人工智能（AI）相关的数据中心项目。 此前，当地电力监管部门因新用户激增而批准了多个数据中心项目。",
+          "url": "https://wallstreetcn.com/livenews/3049978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "最近刷屏的 AI 助手 ClawdBot，爆火的原因是什么？",
           "url": "https://www.zhihu.com/question/1999445661884626109",
           "source": "知乎",
@@ -3381,13 +3461,24 @@
           "time_info": "14时09分"
         },
         {
+          "title": "亚马逊计划利用AI来加速电视和电影产品。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3049977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "亚马逊在美推出AI版数字助理Alexa",
           "url": "https://flash.jin10.com/detail/20260204221420202800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -3398,7 +3489,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -3745,7 +3836,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时48分"
         },
@@ -3895,8 +3986,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时54分 ~ 22时48分]"
+          "appearance_count": 8,
+          "time_info": "[19时54分 ~ 23时38分]"
         },
         {
           "title": "日本人神言论:稀土属于全地球",
@@ -3904,11 +3995,12 @@
           "source": "贴吧",
           "ranks": [
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时01分 ~ 22时48分]"
+          "appearance_count": 5,
+          "time_info": "[22时01分 ~ 23时38分]"
         },
         {
           "title": "日本40年期国债收益率上行1.5个基点，至3.940%。",
@@ -4206,8 +4298,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时08分 ~ 22时48分]"
+          "appearance_count": 16,
+          "time_info": "[13时08分 ~ 23时38分]"
         },
         {
           "title": "英伟达跌幅扩大至5%。",
