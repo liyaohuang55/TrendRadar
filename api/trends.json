@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T05:53:28.270663+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2026-02-05T06:22:15.376338+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
         {
           "title": "中美元首通话全文公布",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "中美元首通电话",
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             15,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
@@ -41,6 +42,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时41分 ~ 04时29分]"
+        },
+        {
+          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
+          "url": "https://wallstreetcn.com/articles/3764985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时01分 ~ 06时22分]"
         },
         {
           "title": "美、布两油短线下跌1美元。",
@@ -67,6 +80,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 05时53分]"
+        },
+        {
+          "title": "周三（2月4日）纽约尾盘，欧元兑美元跌0.12%，英镑兑美元跌0.33%，美元兑瑞郎涨0.24%。 商品货币对中，澳元兑美元跌0.33%，纽元兑美元跌0.70%，美元兑加元涨0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3050095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时22分]"
         },
         {
           "title": "周三（2月4日），美联储隔夜逆回购协议（RRP）使用规模为24.14亿美元（交易对手18家），上个交易日报17.85亿美元。",
@@ -133,16 +159,27 @@
           "time_info": "[02时42分 ~ 03时36分]"
         },
         {
-          "title": "周三（2月4日）纽约尾盘，欧元兑美元跌0.12%，英镑兑美元跌0.33%，美元兑瑞郎涨0.24%。 商品货币对中，澳元兑美元跌0.33%，纽元兑美元跌0.70%，美元兑加元涨0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3050095",
+          "title": "Arm控股第三财季总体营收12.4亿美元，分析师预期12.3亿美元。 第三财季年化合同价值16.2亿美元，分析师预期15.2亿美元。 第三财季使用费收入7.37亿美元，分析师预期7.101亿美元。 第三财季许可和其他收入5.05亿美元，分析师预期5.201亿美元。 预计第四财季营收14.2亿-15.2亿美元，分析师预期14.3亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050111",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            15
+            3,
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时53分]"
+          "time_info": "[05时53分 ~ 06时22分]"
+        },
+        {
+          "title": "周三（2月4日）纽约尾盘，现货白银涨3.62%，报88.2660美元/盎司，北京时间22:05刷新日高至92.2043美元，随后回吐涨幅，逼近07:08刷新的日低83.2961美元。 COMEX白银期货涨5.11%，报87.555美元/盎司，22:06刷新日高至92.015美元。 COMEX铜期货跌2.77%，报5.9420美元/磅，22:00-02:00持续扩大跌幅。 现货铂金涨0.60%，现货钯金涨1.05%。",
+          "url": "https://wallstreetcn.com/livenews/3050121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "WTI 3月原油期货收涨3.05%，报65.14美元/桶。 NYMEX 3月天然气期货收报3.4650美元/百万英热单位。 NYMEX 3月汽油期货收报1.9652美元/加仑，NYMEX 3月取暖油期货收报2.47美元/加仑。",
@@ -156,15 +193,28 @@
           "time_info": "04时29分"
         },
         {
-          "title": "Arm控股第三财季总体营收12.4亿美元，分析师预期12.3亿美元。 第三财季年化合同价值16.2亿美元，分析师预期15.2亿美元。 第三财季使用费收入7.37亿美元，分析师预期7.101亿美元。 第三财季许可和其他收入5.05亿美元，分析师预期5.201亿美元。 预计第四财季营收14.2亿-15.2亿美元，分析师预期14.3亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3050111",
+          "title": "Alphabet(GOOGL.O)：2026年资本支出预计为1750亿至1850亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050639901800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
+        },
+        {
+          "title": "Wolfspeed第二财季净营收1.685亿美元，同比下滑6.6%。 预计第三财季营收1.40亿-1.60亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050107",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            6,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
         },
         {
           "title": "美财长：一直支持强美元政策",
@@ -179,18 +229,6 @@
           "time_info": "[04时29分 ~ 05时01分]"
         },
         {
-          "title": "报道：中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
-          "url": "https://wallstreetcn.com/articles/3764985",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时53分]"
-        },
-        {
           "title": "Cerebras Systems完成H轮融资，按大约230亿美元估值募集10亿美元。 本轮投资由Tiger Global领投，Benchmark、Fidelity Management & Research Company、Atreides Management、Alpha Wave Global、Altimeter、AMD、Coatue、以及1789 Capital等参与。",
           "url": "https://wallstreetcn.com/livenews/3050004",
           "source": "华尔街见闻-快讯",
@@ -200,6 +238,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)2025年Q4净利润344.55亿美元，市场预期317.58亿美元，上年同期265.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050443026800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
+        },
+        {
+          "title": "高通第一财季调整后营收122.5亿美元，分析师预期122亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3050102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
         },
         {
           "title": "美国财长贝森特：总统特朗普明确表示，数字美元对他而言是“令人厌恶”的。",
@@ -226,6 +288,18 @@
           "time_info": "[05时01分 ~ 05时53分]"
         },
         {
+          "title": "Alphabet(GOOGL.O)2025年Q4营收1138.28亿美元，市场预期1113.75亿美元，上年同期964.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050245228800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
+        },
+        {
           "title": "WTI 3月原油期货收涨3.05%，报65.14美元/桶。 ICE布伦特4月原油期货收报69.46美元/桶。 NYMEX 3月天然气期货收报3.4650美元/百万英热单位。 NYMEX 3月汽油期货收报1.9652美元/加仑，NYMEX 3月取暖油期货收报2.47美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3050080",
           "source": "华尔街见闻-快讯",
@@ -236,6 +310,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时53分]"
+        },
+        {
+          "title": "高通(QCOM.O)2026财年第二季度营收展望为102-110亿美元，市场预期111.2亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050118583800",
+          "source": "金十数据",
+          "ranks": [
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
+        },
+        {
+          "title": "高通(QCOM.O)2026财年Q1营收122.5亿美元，市场预期121.65亿美元，上年同期116.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050033498800",
+          "source": "金十数据",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
         },
         {
           "title": "货币市场数据分析公司iMoneyNet：截至2月3日当周，美国货币市场基金资产增加了403.2亿美元。",
@@ -250,26 +348,15 @@
           "time_info": "[03时36分 ~ 04时29分]"
         },
         {
-          "title": "Alphabet(GOOGL.O)：2026年资本支出预计为1750亿至1850亿美元。",
-          "url": "https://flash.jin10.com/detail/20260205050639901800",
+          "title": "Alphabet季报优于预期 今年资本支出高达1850亿美元",
+          "url": "https://flash.jin10.com/detail/20260205052546423800",
           "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "Wolfspeed第二财季净营收1.685亿美元，同比下滑6.6%。 预计第三财季营收1.40亿-1.60亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3050107",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "time_info": "06时22分"
         },
         {
           "title": "伦敦金属交易所（LME）三个月期铜下跌3%，至每吨13,070美元。",
@@ -281,28 +368,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)2025年Q4净利润344.55亿美元，市场预期317.58亿美元，上年同期265.4亿美元。",
-          "url": "https://flash.jin10.com/detail/20260205050443026800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "高通第一财季调整后营收122.5亿美元，分析师预期122亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3050102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
         },
         {
           "title": "市场消息：人工智能芯片制造商Cerebras Systems以230亿美元的估值完成10亿美元的H轮融资。",
@@ -327,28 +392,6 @@
           "time_info": "00时44分"
         },
         {
-          "title": "Alphabet(GOOGL.O)2025年Q4营收1138.28亿美元，市场预期1113.75亿美元，上年同期964.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260205050245228800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "高通(QCOM.O)2026财年第二季度营收展望为102-110亿美元，市场预期111.2亿美元。",
-          "url": "https://flash.jin10.com/detail/20260205050118583800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "WTI原油日内涨幅达2.5%，刷新日高至64.83美元/桶。 纳斯达克综合指数跌幅扩大至2%，AMD跌超17%。标普500指数跌约0.9%。",
           "url": "https://wallstreetcn.com/livenews/3050039",
           "source": "华尔街见闻-快讯",
@@ -369,17 +412,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
-        },
-        {
-          "title": "高通(QCOM.O)2026财年Q1营收122.5亿美元，市场预期121.65亿美元，上年同期116.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260205050033498800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
         },
         {
           "title": "美国财长贝森特声称：我们往往会支持一个强势美元政策。",
@@ -440,7 +472,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -450,8 +482,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -461,8 +493,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -472,8 +504,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -485,8 +517,21 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
+          "time_info": "[01时42分 ~ 06时22分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -497,20 +542,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
-        },
-        {
-          "title": "详讯丨习近平同美国总统特朗普通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 05时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "美国总统特朗普：仍必须就（移民执法）保持强硬的立场。",
@@ -592,6 +625,17 @@
         },
         {
           "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
+          "url": "https://news.ifeng.com/c/8qTDVc9qcbD",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 06时22分]"
+        },
+        {
+          "title": "企图在高尔夫球场刺杀特朗普的枪手被判终身监禁",
           "url": "https://wallstreetcn.com/livenews/3050053",
           "source": "华尔街见闻-快讯",
           "ranks": [
@@ -602,6 +646,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时29分]"
+        },
+        {
+          "title": "美国联邦住房金融局局长：没有在积极考虑“特朗普房”这个想法",
+          "url": "https://wallstreetcn.com/livenews/3050090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时22分]"
         },
         {
           "title": "美国核管理委员会表示，正根据美国总统特朗普推动核反应堆许可的举措进行重组，将在60天内制定新的组织架构图及管理计划。",
@@ -628,6 +685,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时42分 ~ 04时29分]"
+        },
+        {
+          "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E6%80%A5%E4%BA%8E%E5%B0%86%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%BF%BB%E7%AF%87%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时53分 ~ 06时22分]"
         },
         {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美已做好上市准备，接下来就看总统特朗普的决定了。",
@@ -664,18 +733,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时01分]"
-        },
-        {
-          "title": "美国联邦住房金融局局长：没有在积极考虑“特朗普房”这个想法",
-          "url": "https://wallstreetcn.com/livenews/3050090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时53分]"
         },
         {
           "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
@@ -733,17 +790,6 @@
           "time_info": "01时42分"
         },
         {
-          "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%B8%BA%E4%BD%95%E6%80%A5%E4%BA%8E%E5%B0%86%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%BF%BB%E7%AF%87%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
           "title": "美国国务卿鲁比奥：美国总统特使威特科夫和特朗普女婿库什纳将出席有关乌克兰会议的部分议程。",
           "url": "https://flash.jin10.com/detail/20260204233806408800",
           "source": "金十数据",
@@ -757,8 +803,132 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
+          "url": "https://flash.jin10.com/detail/20260205051339983800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
+          "url": "https://flash.jin10.com/detail/20260205055519813800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "谷歌(GOOG.O)盘后逆转6%的跌幅，现涨1%。",
+          "url": "https://flash.jin10.com/detail/20260205050944063800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
+          "url": "https://flash.jin10.com/detail/20260205050807413800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
+        },
+        {
+          "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
+          "url": "https://wallstreetcn.com/livenews/3050110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
+        },
+        {
+          "title": "微软CEO Nadella在内部备忘录中宣布：任命谷歌Hayete Gallot为新的安全事务主管。 原安全主管Charlie Bell（2021年从亚马逊跳槽而来）将转岗至新的工程质量岗位。",
+          "url": "https://wallstreetcn.com/livenews/3050028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时42分 ~ 02时42分]"
+        },
+        {
+          "title": "谷歌营收业绩超预期，2026年资本开支超预期",
+          "url": "https://wallstreetcn.com/livenews/3050103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)美股盘后跌超6%。",
+          "url": "https://flash.jin10.com/detail/20260205050408864800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
+        },
+        {
+          "title": "Alphabet(GOOGL.O)2025年Q4谷歌云收入176.6亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205050325162800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet：谷歌Gemini服务部门成本较2025年下调78%。 YouTube年收入突破600亿美元。 Alphabet按优先云供应商的身份与苹果公司合作。 Gemini企业用户超过12万，同比增幅65%。 AI Solutions收入同比增长超过300%。 12月份，自动驾驶部门Waymo出行次数超过2000万。 直播间设备商Podcast观众较2025年增长75%。",
+          "url": "https://wallstreetcn.com/livenews/3050115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -769,8 +939,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -781,8 +951,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "金价巨震之下，水贝难寻金条现货|传真",
@@ -794,8 +964,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "现货黄金创2009年以来最大单日涨幅",
@@ -808,6 +978,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时42分 ~ 01时42分]"
+        },
+        {
+          "title": "黄金连续两天回测5000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3050118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "李稻葵：黄金长期逻辑没有改变",
@@ -868,103 +1049,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
-          "url": "https://flash.jin10.com/detail/20260205051339983800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "谷歌(GOOG.O)盘后逆转6%的跌幅，现涨1%。",
-          "url": "https://flash.jin10.com/detail/20260205050944063800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)：谷歌云收入增长48%至177亿美元，主要得益于企业对AI基础设施（GCP）及AI解决方案的需求增长，核心GCP产品亦表现强劲。",
-          "url": "https://flash.jin10.com/detail/20260205050807413800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "谷歌A美股盘后转涨，此前一度重挫超7%。",
-          "url": "https://wallstreetcn.com/livenews/3050110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "微软CEO Nadella在内部备忘录中宣布：任命谷歌Hayete Gallot为新的安全事务主管。 原安全主管Charlie Bell（2021年从亚马逊跳槽而来）将转岗至新的工程质量岗位。",
-          "url": "https://wallstreetcn.com/livenews/3050028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时42分 ~ 02时42分]"
-        },
-        {
-          "title": "谷歌营收业绩超预期，2026年资本开支超预期",
-          "url": "https://wallstreetcn.com/livenews/3050103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "谷歌(GOOG.O)美股盘后跌超6%。",
-          "url": "https://flash.jin10.com/detail/20260205050408864800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        },
-        {
-          "title": "Alphabet(GOOGL.O)2025年Q4谷歌云收入176.6亿美元。",
-          "url": "https://flash.jin10.com/detail/20260205050325162800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "日本",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "日本人神言论:稀土属于全地球",
@@ -974,8 +1060,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "日本多地强降雪致35死358伤",
@@ -986,8 +1072,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "中方回应日本扬言将自卫队写入宪法",
@@ -1016,6 +1102,28 @@
           "time_info": "[02时42分 ~ 04时29分]"
         },
         {
+          "title": "据日本读卖新闻：台积电(TSM.N)在熊本工厂的投资将增至2.6万亿日元。",
+          "url": "https://flash.jin10.com/detail/20260205055427415800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "据日本读卖新闻：台积电(TSM.N)将在日本熊本工厂生产3纳米芯片。",
+          "url": "https://flash.jin10.com/detail/20260205055402487800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
           "title": "美国贸易代表格里尔宣布：在关键矿物问题上与欧盟和日本合作。",
           "url": "https://wallstreetcn.com/livenews/3050030",
           "source": "华尔街见闻-快讯",
@@ -1026,6 +1134,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 02时42分]"
+        },
+        {
+          "title": "台积电将在日本熊本生产3纳米芯片。（读卖新闻）",
+          "url": "https://wallstreetcn.com/livenews/3050119",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美国宣布与日本、墨西哥及欧盟合作，共同开发关键矿产资源",
@@ -1054,7 +1173,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -1079,8 +1198,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -1090,8 +1209,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时44分 ~ 05时53分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 06时22分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -1102,8 +1221,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时42分 ~ 05时53分]"
+          "appearance_count": 10,
+          "time_info": "[01时42分 ~ 06时22分]"
         },
         {
           "title": "德国财政部长：AI中心将增强数字主权",
@@ -1111,11 +1230,34 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时01分 ~ 05时53分]"
+          "appearance_count": 3,
+          "time_info": "[05时01分 ~ 06时22分]"
+        },
+        {
+          "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
+          "url": "https://wallstreetcn.com/livenews/3050122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO皮查伊：自AI模式推出以来，观察到每位用户的每日AI模式查询量翻倍。",
+          "url": "https://flash.jin10.com/detail/20260205054238420800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时22分"
         },
         {
           "title": "美国得克萨斯州电力可靠性委员会（ERCOT）考虑重新评估某些与人工智能（AI）相关的数据中心项目。 此前，当地电力监管部门因新用户激增而批准了多个数据中心项目。",
@@ -1157,8 +1299,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 05时53分]"
+          "appearance_count": 12,
+          "time_info": "[00时42分 ~ 06时22分]"
         },
         {
           "title": "AMD跌幅扩大至16%，创2018年以来最大盘中跌幅。 应用材料跌6.4%，恐创2025年8月以来最大单日跌幅。 英伟达跌3%。 费城半导体指数跌4.1%。 标普500指数重新跌超0.3%。",
@@ -1202,7 +1344,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
         }
@@ -1229,11 +1371,12 @@
           "url": "https://flash.jin10.com/detail/20260205050538146800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
         },
         {
           "title": "美国股市延续跌势，纳指跌超2%，标普500指数跌1%。特斯拉(TSLA.O)跌幅扩大至5%。",
@@ -1274,11 +1417,12 @@
           "url": "https://flash.jin10.com/detail/20260205050136423800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时53分 ~ 06时22分]"
         }
       ]
     }
