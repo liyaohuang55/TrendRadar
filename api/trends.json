@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T15:32:51.143802+08:00",
-  "total_titles_processed": 1343,
+  "generated_at": "2026-02-05T16:37:47.907160+08:00",
+  "total_titles_processed": 1450,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 71,
+      "match_count": 75,
       "titles": [
         {
           "title": "中美元首通话全文公布",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[05时01分 ~ 15时32分]"
+          "appearance_count": 14,
+          "time_info": "[05时01分 ~ 16时37分]"
         },
         {
           "title": "中美元首通电话",
@@ -55,8 +55,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 16时37分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -76,11 +76,12 @@
           "ranks": [
             9,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 16时37分]"
         },
         {
           "title": "报道称，中财期货在近期白银价格暴跌前做空，获利超过5亿美元",
@@ -309,7 +310,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -453,6 +454,17 @@
           "time_info": "14时15分"
         },
         {
+          "title": "欧元兑美元抹去0.2%的跌幅，基本持平于1.1806。",
+          "url": "https://wallstreetcn.com/livenews/3050505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "消息人士：日本国际协力银行正考虑向新日铁提供约64亿美元贷款。据悉新日铁正考虑发行高达32亿美元的可转换债券。",
           "url": "https://flash.jin10.com/detail/20260205125055360800",
           "source": "金十数据",
@@ -584,6 +596,17 @@
           "time_info": "[03时36分 ~ 04时29分]"
         },
         {
+          "title": "中国台湾1月外汇存底 6044.57亿美元，前值6025.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205162002149800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "现货金银周四高开，现分别报4980美元/盎司和88.3美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260205070102818800",
           "source": "金十数据",
@@ -606,15 +629,37 @@
           "time_info": "00时44分"
         },
         {
+          "title": "分析师：贵金属波动仍将持续 反弹取决于美元走势等因素",
+          "url": "https://flash.jin10.com/detail/20260205161655335800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
+        },
+        {
           "title": "马士基预计2026年EBITDA为45亿至70亿美元，市场预期为57.6亿美元。 预计2026年全球集装箱贸易量增长2%至4%。 预计2026年EBIT将在亏损15亿美元至盈利10亿美元之间。 第四季度EBITDA为18.4亿美元，同比下降49%，市场预期为17.4亿美元。 第四季度海运板块EBITDA为11.7亿美元，市场预期为8.76亿美元。 第四季度物流与服务板块EBITDA为4.18亿美元，市场预期为4.38亿美元。",
           "url": "https://wallstreetcn.com/livenews/3050439",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
+        },
+        {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "市场消息：人工智能芯片制造商Cerebras Systems以230亿美元的估值完成10亿美元的H轮融资。",
@@ -645,7 +690,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -678,7 +723,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -722,7 +767,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -744,7 +789,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         },
@@ -897,8 +942,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时42分 ~ 15时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 16时37分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -913,8 +958,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时42分 ~ 15时32分]"
+          "appearance_count": 20,
+          "time_info": "[01时42分 ~ 16时37分]"
         },
         {
           "title": "习近平同美国总统特朗普通电话",
@@ -961,8 +1006,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 16时37分]"
         },
         {
           "title": "特朗普政府为何急于将爱泼斯坦案翻篇",
@@ -1269,11 +1314,12 @@
             7,
             16,
             18,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时42分 ~ 15时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 16时37分]"
         },
         {
           "title": "日本多地强降雪致35死358伤",
@@ -1293,11 +1339,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 16时37分]"
         },
         {
           "title": "台积电将在日本熊本生产3纳米芯片。（读卖新闻）",
@@ -1640,7 +1687,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -1696,6 +1743,32 @@
           "time_info": "[06时22分 ~ 07时50分]"
         },
         {
+          "title": "现货黄金跌破4800美元",
+          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44800%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            26,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时37分]"
+        },
+        {
+          "title": "黄金突然下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%AA%81%E7%84%B6%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            24,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时15分 ~ 16时37分]"
+        },
+        {
           "title": "现货黄金创2009年以来最大单日涨幅",
           "url": "https://www.toutiao.com/trending/7602933065064648211/",
           "source": "今日头条",
@@ -1706,19 +1779,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时42分 ~ 01时42分]"
-        },
-        {
-          "title": "现货黄金跌破4800美元",
-          "url": "https://www.baidu.com/s?wd=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44800%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时32分]"
         },
         {
           "title": "现货黄金重返4880美元/盎司上方，日内跌幅收窄至1.6%，此前一度跌超3%。",
@@ -1767,6 +1827,18 @@
           "time_info": "07时50分"
         },
         {
+          "title": "酒店卖出原本放大堂的79公斤黄金",
+          "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E5%8D%96%E5%87%BA%E5%8E%9F%E6%9C%AC%E6%94%BE%E5%A4%A7%E5%A0%82%E7%9A%8479%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 16时37分]"
+        },
+        {
           "title": "李稻葵：黄金长期逻辑没有改变",
           "url": "https://www.toutiao.com/trending/7602985945658297906/",
           "source": "今日头条",
@@ -1788,18 +1860,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时36分 ~ 04时29分]"
-        },
-        {
-          "title": "黄金突然下跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%AA%81%E7%84%B6%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时15分 ~ 15时32分]"
         },
         {
           "title": "现货黄金5分钟内上涨8.67美元/盎司，报5000.22美元/盎司。",
@@ -1879,15 +1939,15 @@
           "time_info": "11时57分"
         },
         {
-          "title": "酒店卖出原本放大堂的79公斤黄金",
-          "url": "https://www.baidu.com/s?wd=%E9%85%92%E5%BA%97%E5%8D%96%E5%87%BA%E5%8E%9F%E6%9C%AC%E6%94%BE%E5%A4%A7%E5%A0%82%E7%9A%8479%E5%85%AC%E6%96%A4%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
+          "title": "英皇娱乐酒店940万买黄金卖近1亿",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B1%E7%9A%87%E5%A8%B1%E4%B9%90%E9%85%92%E5%BA%97940%E4%B8%87%E4%B9%B0%E9%BB%84%E9%87%91%E5%8D%96%E8%BF%911%E4%BA%BF%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            25
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "16时37分"
         },
         {
           "title": "现货黄金较日高回落200美元",
@@ -1925,8 +1985,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 15时32分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 16时37分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -1934,11 +1994,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 15时32分]"
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 16时37分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -2011,6 +2072,18 @@
           "time_info": "[05时53分 ~ 07时22分]"
         },
         {
+          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
+          "url": "https://www.cls.cn/detail/2281205",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时16分 ~ 16时37分]"
+        },
+        {
           "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
           "url": "https://wallstreetcn.com/livenews/3050126",
           "source": "华尔街见闻-快讯",
@@ -2063,17 +2136,6 @@
           "time_info": "[06时52分 ~ 07时50分]"
         },
         {
-          "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
-          "url": "https://www.cls.cn/detail/2281205",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时32分]"
-        },
-        {
           "title": "Alphabet(GOOG.O)高管：谷歌云的积压订单环比增长55%，同比增长一倍多，截至第四季度末达到2400亿美元。",
           "url": "https://flash.jin10.com/detail/20260205055948666800",
           "source": "金十数据",
@@ -2123,6 +2185,17 @@
           "time_info": "[01时42分 ~ 02时42分]"
         },
         {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 16时37分]"
+        },
+        {
           "title": "谷歌(GOOG.O)美股盘后跌超6%。",
           "url": "https://flash.jin10.com/detail/20260205050408864800",
           "source": "金十数据",
@@ -2145,17 +2218,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时22分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
         },
         {
           "title": "周四亚太盘初，纳指期货涨超0.3%，标普股指期货与罗素2000股指期货涨超0.2%，道指期货微跌不到0.1%。 当前（美股盘后），博通涨5.67%，美光科技涨3.05%，Snap涨2.37%，AMD反弹2.19%，英伟达、台积电涨超1%，恩智浦跌约0.4%，微软跌超0.7%，谷歌A跌1.2%，高通跌9.2%。",
@@ -2193,8 +2255,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时52分 ~ 15时32分]"
+          "appearance_count": 10,
+          "time_info": "[06时52分 ~ 16时37分]"
         },
         {
           "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
@@ -2222,8 +2284,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时42分 ~ 15时32分]"
+          "appearance_count": 22,
+          "time_info": "[00时42分 ~ 16时37分]"
         },
         {
           "title": "AI目前对SaaS最大的冲击：AI 并没有在功能上吃掉你的产品，它是在财务上吃掉了你的预算",
@@ -2301,6 +2363,18 @@
           "time_info": "[13时16分 ~ 15时32分]"
         },
         {
+          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
+          "url": "https://www.cls.cn/detail/2281373",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 16时37分]"
+        },
+        {
           "title": "AI竞赛打到太空了吗",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%AB%9E%E8%B5%9B%E6%89%93%E5%88%B0%E5%A4%AA%E7%A9%BA%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
@@ -2332,17 +2406,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时28分 ~ 09时29分]"
-        },
-        {
-          "title": "马斯克“AI太空基建梦”更进一步：SpaceX申请已获审理 100万颗卫星要上天？",
-          "url": "https://www.cls.cn/detail/2281373",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
         },
         {
           "title": "花旗：智能体AI难以撼动旅游平台 指跨平台比价仍是用户刚需",
@@ -2392,7 +2455,7 @@
     },
     {
       "keyword_group": "显卡 英伟达",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
@@ -2454,12 +2517,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时53分"
+        },
+        {
+          "title": "英伟达服务器需求持续强劲 鸿海1月营收飙升35%超预期",
+          "url": "https://flash.jin10.com/detail/20260205155859096800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         }
       ]
     },
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周三（2月4日），南非富时/JSE非洲领先40可交易指数收涨0.31%，逼近11.28万点。",
@@ -2484,6 +2558,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时22分]"
+        },
+        {
+          "title": "金十图示：2026年02月05日（周四）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260205161131891800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时37分"
         },
         {
           "title": "美国股市延续跌势，纳指跌超2%，标普500指数跌1%。特斯拉(TSLA.O)跌幅扩大至5%。",
@@ -2549,7 +2634,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时32分"
         }
@@ -2564,11 +2649,12 @@
           "url": "https://www.cls.cn/detail/2281407",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 16时37分]"
         }
       ]
     }
