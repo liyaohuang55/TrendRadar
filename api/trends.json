@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T19:07:42.482568+08:00",
-  "total_titles_processed": 1792,
+  "generated_at": "2026-02-06T19:54:57.304442+08:00",
+  "total_titles_processed": 1874,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 111,
+      "match_count": 113,
       "titles": [
         {
           "title": "美团拟 7.17 亿美元收购叮咚买菜，已有小象超市等类似业务为何还需要高额收购？收购后将带来哪些改变？",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时48分 ~ 19时07分]"
+          "appearance_count": 14,
+          "time_info": "[07时48分 ~ 19时54分]"
         },
         {
           "title": "中美元首 2 月 4 日晚通电话，哪些信息值得关注？",
@@ -68,11 +68,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时57分 ~ 19时07分]"
+          "appearance_count": 11,
+          "time_info": "[11时57分 ~ 19时54分]"
         },
         {
           "title": "专家：中俄中美元首同日互动实属罕见",
@@ -104,8 +105,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[03时12分 ~ 19时07分]"
+          "appearance_count": 24,
+          "time_info": "[03时12分 ~ 19时54分]"
         },
         {
           "title": "美团：拟7.17亿美元收购叮咚",
@@ -595,6 +596,18 @@
           "time_info": "[07时20分 ~ 07时49分]"
         },
         {
+          "title": "Biogen第四季度营收22.8亿美元，预估22.2亿美元。 第四季度调整后每股收益1.99美元，上年同期3.44美元，预估1.56美元。 Biogen预计2026年调整后每股收益15.25美元至16.25美元。 Biogen美股盘前微涨。",
+          "url": "https://wallstreetcn.com/livenews/3051361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 19时54分]"
+        },
+        {
           "title": "现货白银日内跌幅达18.0%，报72.12美元/盎司。 纽约银日内跌幅达15.0%，报71.72美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3050784",
           "source": "华尔街见闻-快讯",
@@ -651,17 +664,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
-        },
-        {
-          "title": "Biogen第四季度营收22.8亿美元，预估22.2亿美元。 第四季度调整后每股收益1.99美元，上年同期3.44美元，预估1.56美元。 Biogen预计2026年调整后每股收益15.25美元至16.25美元。 Biogen美股盘前微涨。",
-          "url": "https://wallstreetcn.com/livenews/3051361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
         },
         {
           "title": "韩国12月未季调经常帐 187亿美元，前值由122.367亿美元修正为129亿美元。",
@@ -740,7 +742,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -1091,9 +1093,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：当前美元疲软可能源于政治意愿，而非欧元走强。",
+          "url": "https://flash.jin10.com/detail/20260206190122481800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "消息称韩国保险机构探索首次进军印度千亿美元保险市场",
@@ -1140,6 +1153,17 @@
           "time_info": "00时05分"
         },
         {
+          "title": "伯恩斯坦：将亚马逊(AMZN.O)目标价从300美元下调至265美元。",
+          "url": "https://flash.jin10.com/detail/20260206185459390800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "比特币盘中一度跌至60033美元，逼近6万美元大关。",
           "url": "https://wallstreetcn.com/livenews/3050976",
           "source": "华尔街见闻-快讯",
@@ -1179,7 +1203,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -1190,7 +1214,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -1352,7 +1376,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -1363,8 +1387,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时29分 ~ 19时07分]"
+          "appearance_count": 12,
+          "time_info": "[09时29分 ~ 19时54分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -1378,8 +1402,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时57分 ~ 19时07分]"
+          "appearance_count": 11,
+          "time_info": "[11时57分 ~ 19时54分]"
         },
         {
           "title": "是否谋求第三任期？特朗普：告诉你就太无聊了",
@@ -1405,6 +1429,17 @@
           "time_info": "[11时57分 ~ 15时29分]"
         },
         {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时03分 ~ 19时54分]"
+        },
+        {
           "title": "沃什未上任已被特朗普施压",
           "url": "https://www.douyin.com/hot/2390169",
           "source": "抖音",
@@ -1417,17 +1452,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时09分 ~ 07时49分]"
-        },
-        {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://news.ifeng.com/c/8qWaGQvtmJo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时03分 ~ 19时07分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：（美国总统特朗普的政府）愿意讨论民主党在国土安全部（DHS）预算拨款问题上的某些要求。",
@@ -1525,6 +1549,19 @@
           "time_info": "[03时56分 ~ 05时01分]"
         },
         {
+          "title": "中方回应特朗普公开支持高市早苗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 19时54分]"
+        },
+        {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
           "url": "https://flash.jin10.com/detail/20260206020145026800",
           "source": "金十数据",
@@ -1607,18 +1644,6 @@
           "time_info": "[03时13分 ~ 03时56分]"
         },
         {
-          "title": "中方回应特朗普公开支持高市早苗",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%85%AC%E5%BC%80%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时07分]"
-        },
-        {
           "title": "特朗普下场支持高市：她将赢得选举，下月来白宫",
           "url": "https://news.ifeng.com/c/8qW6McngHpX",
           "source": "凤凰网",
@@ -1675,6 +1700,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时15分 ~ 02时09分]"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 19时54分]"
         },
         {
           "title": "外交部回应特朗普支持高市赢得大选",
@@ -1765,6 +1802,17 @@
           "time_info": "18时06分"
         },
         {
+          "title": "美国公司拿下大量委内瑞拉石油，打折卖仍滞销，特朗普亲自「带货」委石油，哪些国家会购买？为何会滞销？",
+          "url": "https://www.zhihu.com/question/2002762561406390549",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "美国总统特朗普：从今晚开始，数十种最常用的处方药将在一个新网站上（TrumpRx）以大幅折扣的价格面向所有消费者供应。",
           "url": "https://flash.jin10.com/detail/20260206084843211800",
           "source": "金十数据",
@@ -1826,7 +1874,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -1892,7 +1940,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -1919,17 +1967,6 @@
           "time_info": "15时29分"
         },
         {
-          "title": "美伊谈判前特朗普发李小龙视频",
-          "url": "https://www.douyin.com/hot/2391580",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
-        },
-        {
           "title": "唐宁街发言人：英国首相斯塔默与美国总统特朗普一致认为，达成一项协议以确保在迪戈加西亚岛建立英美联合基地至关重要，而该基地对双方共同的安全利益依然至关重要。",
           "url": "https://flash.jin10.com/detail/20260206022526998800",
           "source": "金十数据",
@@ -1944,7 +1981,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 40,
+      "match_count": 43,
       "titles": [
         {
           "title": "英皇娱乐酒店把酒店大堂的黄金卖了！超十倍买入价出售79公斤黄金，赚了9020万港元",
@@ -1984,8 +2021,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时03分 ~ 19时07分]"
+          "appearance_count": 5,
+          "time_info": "[16时03分 ~ 19时54分]"
         },
         {
           "title": "女演员开箱取出100克黄金500克白银",
@@ -1994,11 +2031,12 @@
           "ranks": [
             2,
             4,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时28分 ~ 17时08分]"
+          "appearance_count": 5,
+          "time_info": "[15时28分 ~ 19时54分]"
         },
         {
           "title": "芝商所上调黄金、白银期货保证金比例",
@@ -2218,6 +2256,17 @@
           "time_info": "17时08分"
         },
         {
+          "title": "“全员发5克黄金”，超20家游戏公司把金条搬上年会舞台",
+          "url": "https://wallstreetcn.com/livenews/3051382",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 2月6日（周五）早盘盘初下跌3.37%报1068.94元/克；<br/>上海黄金交易所白银T+D 2月6日（周五）早盘盘初下跌16.42%报17165.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260206090110632800",
           "source": "金十数据",
@@ -2238,6 +2287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
+        },
+        {
+          "title": "欧洲央行管委科赫尔：奥地利央行无意出售储备黄金或增加黄金储备。",
+          "url": "https://flash.jin10.com/detail/20260206190442457800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4吨，当前持仓量为1077.95吨。",
@@ -2334,7 +2394,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -2359,6 +2419,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
+        },
+        {
+          "title": "演员鲍天琦遗忘的保险箱里开出黄金",
+          "url": "https://www.baidu.com/s?wd=%E6%BC%94%E5%91%98%E9%B2%8D%E5%A4%A9%E7%90%A6%E9%81%97%E5%BF%98%E7%9A%84%E4%BF%9D%E9%99%A9%E7%AE%B1%E9%87%8C%E5%BC%80%E5%87%BA%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "现货黄金跌至4655.31美元/盎司，日内跌2.4%。",
@@ -2419,7 +2490,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "尼泊尔总统到访日本，高市早苗亲自帮其穿上日本服饰",
@@ -2654,6 +2725,17 @@
           "time_info": "14时12分"
         },
         {
+          "title": "亚洲杯小组赛第二轮，陈熠 1-3 不敌削球日本选手桥本帆乃香，如何评价比赛？",
+          "url": "https://www.zhihu.com/question/2002900608752058775",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "日本央行审议委员增一行：没有设定具体加息步伐。 认为日本央行的货币政策并未落后。 关注除大米价格之外的食品通胀。 如果价格走势持续高于2%，并不特别可取。 需要让价格走势稳定在2%左右。 外汇对通胀的影响比以前要大。 必须密切关注汇率对通胀的影响。",
           "url": "https://wallstreetcn.com/livenews/3051135",
           "source": "华尔街见闻-快讯",
@@ -2877,7 +2959,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -2899,8 +2981,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时14分 ~ 19时07分]"
+          "appearance_count": 10,
+          "time_info": "[13时14分 ~ 19时54分]"
         },
         {
           "title": "马斯克再谈“太空GPU”畅想：36个月内太空会是部署AI的最便宜去处",
@@ -2976,6 +3058,18 @@
           "time_info": "[06时22分 ~ 13时15分]"
         },
         {
+          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
+          "url": "https://www.cls.cn/detail/2282814",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时08分 ~ 19时54分]"
+        },
+        {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
           "url": "https://wallstreetcn.com/livenews/3050847",
           "source": "华尔街见闻-快讯",
@@ -3013,18 +3107,6 @@
           "time_info": "[06时55分 ~ 07时20分]"
         },
         {
-          "title": "微信连环封禁千问、元宝红包口令 AI春节获客大战遇阻",
-          "url": "https://www.cls.cn/detail/2282814",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时08分 ~ 19时07分]"
-        },
-        {
           "title": "Anthropic发布新AI 金融服务公司承压",
           "url": "https://flash.jin10.com/detail/20260206032448754800",
           "source": "金十数据",
@@ -3059,6 +3141,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时36分]"
+        },
+        {
+          "title": "科技股回调 “抗AI”板块成为新赢家",
+          "url": "https://flash.jin10.com/detail/20260206193333001800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "亚马逊(AMZN.O)CEO：预计到2026年年中，所有Trainium 3芯片都将被预订完毕。",
@@ -3129,6 +3222,17 @@
           "time_info": "14时12分"
         },
         {
+          "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
+          "url": "https://www.cls.cn/detail/2282989",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
+        },
+        {
           "title": "黑石敲定五十亿澳元贷款协议 支持澳大利亚初创公司扩建AI数据中心",
           "url": "https://flash.jin10.com/detail/20260206134521872800",
           "source": "金十数据",
@@ -3157,7 +3261,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         },
@@ -3176,7 +3280,7 @@
     },
     {
       "keyword_group": "openai chatgpt",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI：与Ginko Bioworks Holdings Inc.（DNA）合作，设法将GPT-5链接到Autonomous Lab。 希望将蛋白质产品成本砍掉40%。",
@@ -3218,6 +3322,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时13分 ~ 04时28分]"
+        },
+        {
+          "title": "OpenAI 正式发布 GPT-5.3-Codex，与其他版本相比，它在哪些方面有所改进？",
+          "url": "https://www.zhihu.com/question/2002935266940310387",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时54分"
         },
         {
           "title": "OpenAI推出新平台Frontier，助力企业部署“AI同事”",
@@ -3304,11 +3419,12 @@
           "ranks": [
             10,
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时29分 ~ 19时07分]"
+          "appearance_count": 12,
+          "time_info": "[09时29分 ~ 19时54分]"
         }
       ]
     },
@@ -3388,33 +3504,36 @@
             1,
             3,
             11,
-            12
+            12,
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时57分 ~ 19时07分]"
+          "appearance_count": 11,
+          "time_info": "[11时57分 ~ 19时54分]"
         },
         {
           "title": "CPU告急！英特尔、AMD双双预警：交货周期恐长达半年",
           "url": "https://www.cls.cn/detail/2282722",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时06分 ~ 19时07分]"
+          "appearance_count": 3,
+          "time_info": "[18时06分 ~ 19时54分]"
         },
         {
           "title": "CPU供应短缺再升级，英特尔和AMD被曝告知中国客户交货延长",
           "url": "https://wallstreetcn.com/livenews/3051344",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时07分 ~ 19时54分]"
         }
       ]
     },
@@ -3443,7 +3562,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时07分"
         }
