@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-07T07:21:15.452543+08:00",
-  "total_titles_processed": 654,
+  "generated_at": "2026-02-07T07:49:05.970204+08:00",
+  "total_titles_processed": 674,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时49分]"
         },
         {
           "title": "Gravity AI：拟申请在纳斯达克资本市场上市，正提交IPO申请，拟发行375万股，每股发行价格暂定为4.00美元，处于4.00美元至5.00美元发行区间低端。",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时28分 ~ 07时21分]"
+          "appearance_count": 7,
+          "time_info": "[04时28分 ~ 07时49分]"
         },
         {
           "title": "美国财长贝森特：特朗普政府的政策显示了对强势美元的支持",
@@ -39,8 +39,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时35分 ~ 07时21分]"
+          "appearance_count": 8,
+          "time_info": "[03时35分 ~ 07时49分]"
         },
         {
           "title": "美国国防部：美国国务院批准向乌克兰出售价值1.85亿美元的IX级备件及相关设备。",
@@ -50,8 +50,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时28分 ~ 07时21分]"
+          "appearance_count": 7,
+          "time_info": "[04时28分 ~ 07时49分]"
+        },
+        {
+          "title": "美国12月消费信贷 240.5亿美元，预期80亿美元，前值由42.29亿美元修正为47亿美元。",
+          "url": "https://flash.jin10.com/detail/20260207040013468800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时28分 ~ 07时49分]"
         },
         {
           "title": "比特币遭血洗！暴跌12%至6.3万美元，超40万人爆仓！市场陷入“信心危机”",
@@ -66,15 +77,49 @@
           "time_info": "[00时38分 ~ 04时59分]"
         },
         {
-          "title": "美国12月消费信贷 240.5亿美元，预期80亿美元，前值由42.29亿美元修正为47亿美元。",
-          "url": "https://flash.jin10.com/detail/20260207040013468800",
-          "source": "金十数据",
+          "title": "美联储：美国上周银行存款18.647万亿美元，之前一周18.610万亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3051631",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            2,
+            8,
+            13,
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时28分 ~ 07时21分]"
+          "appearance_count": 5,
+          "time_info": "[05时35分 ~ 07时49分]"
+        },
+        {
+          "title": "Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3051623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            14,
+            19,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时35分 ~ 07时49分]"
+        },
+        {
+          "title": "英伟达收涨7.8%，市值增加3250亿美元。 本周，亚马逊累跌12%，创2022年以来最差单周表现。",
+          "url": "https://wallstreetcn.com/livenews/3051622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            15,
+            20,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时35分 ~ 07时49分]"
         },
         {
           "title": "美国12月消费信贷变动 240.45亿美元，预期 80亿美元，前值 42.29亿美元。",
@@ -89,20 +134,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 06时19分]"
-        },
-        {
-          "title": "美联储：美国上周银行存款18.647万亿美元，之前一周18.610万亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3051631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            13,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时35分 ~ 07时21分]"
         },
         {
           "title": "Bill Holdings涨43%，报50.88美元。",
@@ -175,34 +206,6 @@
           "time_info": "[02时41分 ~ 04时59分]"
         },
         {
-          "title": "Vista Equity Partners在人工智能（AI）芯片初创公司SambaNova的3.5亿美元融资轮中进行了投资，英特尔公司也承诺出资至多1.5亿美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3051623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            14,
-            19,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时35分 ~ 07时21分]"
-        },
-        {
-          "title": "英伟达收涨7.8%，市值增加3250亿美元。 本周，亚马逊累跌12%，创2022年以来最差单周表现。",
-          "url": "https://wallstreetcn.com/livenews/3051622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            15,
-            20,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时35分 ~ 07时21分]"
-        },
-        {
           "title": "美国商品期货交易委员会（CFTC）：2月3日当周，投机者对美元的看空程度创7月份以来最高。",
           "url": "https://wallstreetcn.com/livenews/3051614",
           "source": "华尔街见闻-快讯",
@@ -215,6 +218,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时35分 ~ 07时21分]"
+        },
+        {
+          "title": "周五（2月6日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9301元，较周四纽约尾盘涨104点，日内整体交投于6.9419-6.9297元区间。",
+          "url": "https://wallstreetcn.com/livenews/3051642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时50分 ~ 07时49分]"
         },
         {
           "title": "WTI 3月原油期货收报63.55美元/桶。 NYMEX 3月天然气期货收报3.4220美元/百万英热单位。 NYMEX 3月汽油期货收报1.9532美元/加仑，NYMEX 3月取暖油期货收报2.4133美元/加仑。",
@@ -240,6 +256,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时59分 ~ 06时19分]"
+        },
+        {
+          "title": "印度和美国将扩大GPUs和数据中心商品的贸易规模。 印度有意从美国购买价值5000亿美元的美国能源、飞机、金属。",
+          "url": "https://wallstreetcn.com/livenews/3051639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时50分 ~ 07时49分]"
         },
         {
           "title": "WTI 3月原油期货收报63.55美元/桶。 布伦特4月原油期货收报68.05美元/桶。 NYMEX 3月天然气期货收报3.4220美元/百万英热单位。 NYMEX 3月汽油期货收报1.9532美元/加仑，NYMEX 3月取暖油期货收报2.4133美元/加仑。",
@@ -304,30 +333,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时38分 ~ 01时38分]"
-        },
-        {
-          "title": "周五（2月6日）纽约尾盘（周六北京时间05:59），离岸人民币（CNH）兑美元报6.9301元，较周四纽约尾盘涨104点，日内整体交投于6.9419-6.9297元区间。",
-          "url": "https://wallstreetcn.com/livenews/3051642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时21分]"
-        },
-        {
-          "title": "印度和美国将扩大GPUs和数据中心商品的贸易规模。 印度有意从美国购买价值5000亿美元的美国能源、飞机、金属。",
-          "url": "https://wallstreetcn.com/livenews/3051639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时50分 ~ 07时21分]"
         },
         {
           "title": "道指日内上涨892点，涨幅达2.0%，报49888.77点。标普500指数涨1.5%，纳指涨405点、涨幅1.65%，半导体指数涨超5%。 比特币重返7万美元上方。",
@@ -424,7 +429,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -436,8 +441,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时49分]"
         },
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -448,8 +453,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时49分]"
         },
         {
           "title": "美伊谈判前特朗普发李小龙视频",
@@ -460,11 +465,12 @@
             17,
             10,
             19,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时49分]"
         },
         {
           "title": "特朗普“下场”支持日本首相",
@@ -490,8 +496,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时35分 ~ 07时21分]"
+          "appearance_count": 8,
+          "time_info": "[03时35分 ~ 07时49分]"
         },
         {
           "title": "美国总统特朗普：道琼斯工业平均指数历史上首次突破50,000点。祝贺美国！",
@@ -501,8 +507,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时28分 ~ 07时21分]"
+          "appearance_count": 7,
+          "time_info": "[04时28分 ~ 07时49分]"
         },
         {
           "title": "白宫：美国总统特朗普签署关于扩大进口阿根廷牛肉的命令是为了美国消费者。",
@@ -512,11 +518,12 @@
             1,
             7,
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时35分 ~ 07时21分]"
+          "appearance_count": 5,
+          "time_info": "[05时35分 ~ 07时49分]"
         },
         {
           "title": "泰森食品跌0.3%，报道称美国总统特朗普下令加大对阿根廷牛肉的进口力度。",
@@ -595,6 +602,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "特朗普社媒账号删除与奥巴马有关视频片段，涉嫌种族歧视",
+          "url": "https://wallstreetcn.com/livenews/3051652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
         },
         {
           "title": "据CBS：特朗普下令将阿根廷的牛肉进口量增至四倍。",
@@ -692,32 +710,8 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时21分]"
-        },
-        {
-          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时21分]"
-        },
         {
           "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
           "url": "https://wallstreetcn.com/articles/3765130",
@@ -728,8 +722,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 07时49分]"
+        },
+        {
+          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时49分]"
+        },
+        {
+          "title": "砸45亿抢AI超级入口，互联网大厂的红包大战怎么打",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32475041",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时49分]"
         },
         {
           "title": "千问、元宝双双崩溃后 工信部发文推进算力调度 AI Infra或迎戴维斯双击",
@@ -751,8 +769,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时28分 ~ 07时21分]"
+          "appearance_count": 7,
+          "time_info": "[04时28分 ~ 07时49分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)将允许在CarPlay AI中使用外部语音控制聊天机器人。",
@@ -762,8 +780,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时28分 ~ 07时21分]"
+          "appearance_count": 7,
+          "time_info": "[04时28分 ~ 07时49分]"
         },
         {
           "title": "一图看懂：美股“AI烧钱”大战今年继续打响",
@@ -816,6 +834,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时38分 ~ 02时41分]"
+        },
+        {
+          "title": "黄仁勋：只要AI公司能赚钱 就会“加倍、加倍、再加倍”地投入",
+          "url": "https://www.cls.cn/detail/2283577",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时48分 ~ 07时49分]"
         },
         {
           "title": "媒体：AI之争又打成了奶茶大战",
@@ -937,8 +966,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时49分]"
         },
         {
           "title": "女演员开箱取出100克黄金500克白银",
@@ -948,11 +977,12 @@
             26,
             25,
             22,
-            27
+            27,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时38分 ~ 07时21分]"
+          "appearance_count": 9,
+          "time_info": "[01时38分 ~ 07时49分]"
         },
         {
           "title": "美国黄金期货价格在数据发布延迟后收于4979.8美元/盎司。",
@@ -962,8 +992,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时28分 ~ 07时21分]"
+          "appearance_count": 7,
+          "time_info": "[04时28分 ~ 07时49分]"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：2月3日当周，投机者所持COMEX黄金净多头头寸减少27,983手合约，至93,438手合约，创15周新低。 所持COMEX白银净多头头寸创23个月新低。 所持COMEX铜净多头头寸创18周新低。 所持NYMEX铂金净多头头寸创八个月新低。",
@@ -1027,6 +1057,79 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3765100",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时38分 ~ 06时50分]"
+        },
+        {
+          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
+          "url": "https://flash.jin10.com/detail/20260207040250896800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时28分 ~ 07时49分]"
+        },
+        {
+          "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
+          "url": "https://flash.jin10.com/detail/20260207035802693800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时28分 ~ 07时49分]"
+        },
+        {
+          "title": "景林资产四季度减持英伟达超150万股，进一步增仓拼多多，重仓谷歌A、Meta、拼多多",
+          "url": "https://wallstreetcn.com/livenews/3051649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时49分"
+        },
+        {
+          "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3051529",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时38分"
+        },
+        {
+          "title": "凯捷与谷歌云扩大战略合作伙伴关系，以加速大规模人工智能的采用，凯捷将帮助客户采用谷歌云的人工智能技术。",
+          "url": "https://flash.jin10.com/detail/20260207004917711800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "显卡 英伟达",
       "match_count": 6,
       "titles": [
@@ -1042,6 +1145,17 @@
           "time_info": "[04时28分 ~ 06时50分]"
         },
         {
+          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 07时49分]"
+        },
+        {
           "title": "科技股抛压暂缓，美股期指集体转涨，英伟达结束五连跌，金银V形反弹，比特币止跌",
           "url": "https://wallstreetcn.com/articles/3765113",
           "source": "华尔街见闻",
@@ -1051,17 +1165,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时38分 ~ 03时35分]"
-        },
-        {
-          "title": "信心回暖引发逢低买盘，美股报复性反弹！道指首破5万点，英伟达大涨7%，金银V形上涨，比特币涨11%",
-          "url": "https://wallstreetcn.com/articles/3765113",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
         },
         {
           "title": "英伟达涨幅扩大至7.3%。",
@@ -1100,68 +1203,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "砸钱AI超谷歌！亚马逊今年支出指引2000亿意外爆表，盘后跳水超10% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3765100",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 06时50分]"
-        },
-        {
-          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
-          "url": "https://flash.jin10.com/detail/20260207040250896800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时28分 ~ 07时21分]"
-        },
-        {
-          "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
-          "url": "https://flash.jin10.com/detail/20260207035802693800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时28分 ~ 07时21分]"
-        },
-        {
-          "title": "美国议员们寻求司法部与苹果公司、Alphabet旗下谷歌公司的联系记录。 他们调查司法部在总统特朗普的移民与海关执法局（ICE）追踪类APP上所发挥的作用。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3051529",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时38分"
-        },
-        {
-          "title": "凯捷与谷歌云扩大战略合作伙伴关系，以加速大规模人工智能的采用，凯捷将帮助客户采用谷歌云的人工智能技术。",
-          "url": "https://flash.jin10.com/detail/20260207004917711800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "日本",
       "match_count": 3,
       "titles": [
@@ -1175,11 +1216,12 @@
             7,
             5,
             18,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时49分]"
         },
         {
           "title": "日本持续强降雪已致42人死亡",
@@ -1187,22 +1229,24 @@
           "source": "抖音",
           "ranks": [
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时49分]"
         },
         {
           "title": "日本再度达到流感流行警报级别",
           "url": "https://wallstreetcn.com/livenews/3051648",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时21分 ~ 07时49分]"
         }
       ]
     },
@@ -1223,8 +1267,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时21分]"
+          "appearance_count": 14,
+          "time_info": "[00时38分 ~ 07时49分]"
         },
         {
           "title": "英特尔：近期普遍面临较大供应链挑战",
