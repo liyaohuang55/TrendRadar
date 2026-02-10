@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T04:39:36.075781+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-02-11T05:38:54.666864+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 33,
+      "match_count": 42,
       "titles": [
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "中芯国际2025年度收入创新高 折旧致毛利率承压 全年资本开支达81亿美元",
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "在岸、离岸人民币对美元汇率双双升破6.91",
@@ -49,8 +49,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9140元，较周一夜盘收盘涨68点。成交量448.03亿美元。",
@@ -58,11 +58,38 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            5
+            5,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时39分]"
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时38分]"
+        },
+        {
+          "title": "WTI原油日内跌幅达1.0%，报63.7美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3053216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时38分]"
+        },
+        {
+          "title": "据知情人士透露，阿布扎比MGX接近达成一份协议，将参与Anthropic本轮200亿美元规模的融资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3053213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时38分]"
         },
         {
           "title": "巴菲特在日股上躺赚20亿美元",
@@ -82,7 +109,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时39分"
         },
@@ -99,16 +126,15 @@
           "time_info": "[00时59分 ~ 02时05分]"
         },
         {
-          "title": "WTI原油日内跌幅达1.0%，报63.7美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3053216",
+          "title": "福特汽车四季度调整后每股收益（EPS）为0.13美元，分析师预期0.18美元。",
+          "url": "https://wallstreetcn.com/livenews/3053245",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            8
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "摩根士丹利：特斯拉计划提振光伏制造，这可能会让公司价值增长250亿-500亿美元，或每股增长6-14美元。",
@@ -134,16 +160,15 @@
           "time_info": "00时59分"
         },
         {
-          "title": "据知情人士透露，阿布扎比MGX接近达成一份协议，将参与Anthropic本轮200亿美元规模的融资。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3053213",
+          "title": "Advanced Energy四季度销售4.894亿美元，分析师预期4.739亿美元。 预计一季度营收4.80亿-5.20亿美元，分析师预期4.701亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053243",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时39分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "WTI原油日内下跌1.00%，现报63.79美元/桶。",
@@ -167,6 +192,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "Lattice Semi四季度营收1.458亿美元，分析师预期1.431亿美元。 预计一季度营收1.58亿-1.72亿美元，分析师预期1.481亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3053242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "周二（2月10日），美联储隔夜逆回购协议（RRP）使用规模为14.47亿美元（交易对手5家），上个交易日报13.06亿美元。",
@@ -227,6 +263,39 @@
           "time_info": "00时59分"
         },
         {
+          "title": "吉利德科学四季度营收79.3亿美元，分析师预期77.1亿美元。 四季度Biktarvy营收39.7亿美元，分析师预期38.4亿美元。 四季度Trodelvy营收3.84亿美元，分析师预期3.868亿美元。 四季度Veklury营收2.12亿美元，分析师预期2.714亿美元。 四季度调整后每股收益（EPS）为1.86美元，分析师预期1.78美元。 预计2026年产品销售296亿-300亿美元，分析师预期300.3亿美元。 预计2026年Veklury营收6亿美元。 2026年业绩展望受到（与美国总统特朗普达成的）关税协议和医疗保健Medicare政策变化的冲击幅度为2%。",
+          "url": "https://wallstreetcn.com/livenews/3053241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "周二（2月10日）纽约尾盘，美元兑日元跌1.01%，报154.30日元，日内交投区间为156.29-154.06日元。 欧元兑日元跌1.11%，报183.64日元；英镑兑日元跌1.31%，报210.649日元。",
+          "url": "https://wallstreetcn.com/livenews/3053234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美元指数10日下跌",
+          "url": "https://flash.jin10.com/detail/20260211041812167800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "现货白银日内跌幅达3.5%，报80.06美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3053151",
           "source": "华尔街见闻-快讯",
@@ -280,6 +349,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "报道：黑石参投Anthropic融资轮，持股规模升至10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3053227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "周二（2月10日）纽约尾盘，ICE美元指数大致持平，报96.814点，日内交投区间为97.007-96.609点。 彭博美元指数跌0.09%，报1181.94点，日内交投区间为1184.46-1180.25点。",
+          "url": "https://wallstreetcn.com/livenews/3053226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "WTI 3月原油期货收跌0.62%，报63.96美元/桶。 布伦特4月原油期货收跌0.24美元，跌幅0.35%，报68.80美元/桶。 NYMEX 3月天然气期货收报3.1150美元/百万英热单位。 NYMEX 3月汽油期货收报1.9592美元/加仑，NYMEX 3月取暖油期货收报2.3988美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3053225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "纽约联储：自2019年底以来，美国家庭总债务在第四季度增加了4.6万亿美元。",
@@ -384,7 +486,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -394,8 +496,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
@@ -403,11 +505,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时39分]"
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时38分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普认为，美方应该对Gordie Howe Bridge大桥拥有一半的所有权。 特朗普今天打电话给加拿大总理卡尼，讨论安大略（跨境）大桥。",
@@ -415,11 +518,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            4
+            4,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时39分]"
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时38分]"
         },
         {
           "title": "美国白宫：特朗普支持美国商务部长卢特尼克。",
@@ -427,11 +531,49 @@
           "source": "金十数据",
           "ranks": [
             3,
-            15
+            15,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时39分]"
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时38分]"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普本周将聚焦能源和去监管。 特朗普将于2月11日主持一场关于煤炭的活动。",
+          "url": "https://wallstreetcn.com/livenews/3053211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时38分]"
+        },
+        {
+          "title": "特朗普：若美伊谈判失败，或向中东再派一支航母打击群",
+          "url": "https://wallstreetcn.com/livenews/3053209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时38分 ~ 05时38分]"
+        },
+        {
+          "title": "美国总统特朗普：我认为美联储主席提名人凯文·沃什同意所说说的。",
+          "url": "https://wallstreetcn.com/livenews/3053247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "美国白宫：特朗普今天早些时候与加拿大总理卡尼通话，并明确阐述了他的立场。",
@@ -446,47 +588,24 @@
           "time_info": "[03时38分 ~ 04时39分]"
         },
         {
+          "title": "据PBS记者：美国总统特朗普将于周五前往布拉格堡，与执行了委内瑞拉行动、抓捕马杜罗的特种作战小组会面。",
+          "url": "https://flash.jin10.com/detail/20260211034403957800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
+        },
+        {
           "title": "美国白宫：（就美加大桥）加拿大将拥有两侧土地的事实是不可接受的。特朗普认为，美国应共享主权，至少拥有50%的主权。",
           "url": "https://flash.jin10.com/detail/20260211030322937800",
           "source": "金十数据",
           "ranks": [
             5,
             17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时39分]"
-        },
-        {
-          "title": "据PBS记者：美国总统特朗普将于周五前往布拉格堡，与执行了委内瑞拉行动、抓捕马杜罗的特种作战小组会面。",
-          "url": "https://flash.jin10.com/detail/20260211034403957800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时39分"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：美国总统特朗普本周将聚焦能源和去监管。 特朗普将于2月11日主持一场关于煤炭的活动。",
-          "url": "https://wallstreetcn.com/livenews/3053211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时38分 ~ 04时39分]"
-        },
-        {
-          "title": "特朗普：若美伊谈判失败，或向中东再派一支航母打击群",
-          "url": "https://wallstreetcn.com/livenews/3053209",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            11
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -565,6 +684,17 @@
           "time_info": "[03时38分 ~ 04时39分]"
         },
         {
+          "title": "美国总统特朗普：我认为2026年将会很棒。",
+          "url": "https://flash.jin10.com/detail/20260211050353108800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "特朗普政府对数十亿纳税人资金的掌控在美国法庭受挫",
           "url": "https://wallstreetcn.com/livenews/3053180",
           "source": "华尔街见闻-快讯",
@@ -574,6 +704,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "特朗普：反对以色列推进约旦河西岸吞并举措",
+          "url": "https://wallstreetcn.com/livenews/3053235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -623,7 +764,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -633,8 +774,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
@@ -644,11 +785,12 @@
             13,
             9,
             8,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -659,8 +801,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -670,8 +812,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
@@ -683,8 +825,21 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时05分 ~ 05时38分]"
+        },
+        {
+          "title": "AI制图骗局",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%88%B6%E5%9B%BE%E9%AA%97%E5%B1%80&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            6,
+            30
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时05分 ~ 04时39分]"
+          "time_info": "[03时37分 ~ 05时38分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
@@ -713,18 +868,6 @@
           "time_info": "[02时05分 ~ 04时39分]"
         },
         {
-          "title": "AI制图骗局",
-          "url": "https://s.weibo.com/weibo?q=AI%E5%88%B6%E5%9B%BE%E9%AA%97%E5%B1%80&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时37分 ~ 04时39分]"
-        },
-        {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
           "url": "https://wallstreetcn.com/livenews/3053195",
           "source": "华尔街见闻-快讯",
@@ -735,6 +878,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时39分]"
+        },
+        {
+          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
+          "url": "https://www.zhihu.com/question/2004239051759312966",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时39分 ~ 05时38分]"
         },
         {
           "title": "AI税务工具冲击财富管理板块 相关股票集体大跌",
@@ -748,15 +902,15 @@
           "time_info": "02时05分"
         },
         {
-          "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
-          "url": "https://www.zhihu.com/question/2004239051759312966",
-          "source": "知乎",
+          "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
+          "url": "https://flash.jin10.com/detail/20260211042006504800",
+          "source": "金十数据",
           "ranks": [
-            20
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时39分"
+          "time_info": "05时38分"
         },
         {
           "title": "AI应用成为最强主线引爆传媒链",
@@ -773,7 +927,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "是否担心高市大胜影响在华日企经营？中国日本商会答凤凰问",
@@ -783,8 +937,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "专家：日本政局“一强多弱”，进入是否坚持和平的重要节点",
@@ -794,8 +948,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
@@ -805,8 +959,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "扶桑谈｜高市早苗靠强硬选举大胜，日本却正滑入美国战略套现轨道",
@@ -816,8 +970,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
+        },
+        {
+          "title": "日本彻底失控",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BD%BB%E5%BA%95%E5%A4%B1%E6%8E%A7%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "日本众议院选举结果公布",
@@ -829,20 +996,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
-        },
-        {
-          "title": "日本彻底失控",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BD%BB%E5%BA%95%E5%A4%B1%E6%8E%A7%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "自民党众院选举大胜，对日本是福还是祸？本次大选后他们的执政前景如何？",
@@ -865,6 +1020,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "日媒：日本将采购美制装备援乌",
+          "url": "https://www.toutiao.com/trending/7605189138233065515/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         }
       ]
     },
@@ -880,8 +1046,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
@@ -891,8 +1057,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
@@ -902,8 +1068,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
         },
         {
           "title": "Lightspark Group的CEO David Marcus：（美国）政府应该将黄金储备转换为比特币。（彭博电视）",
@@ -980,6 +1146,34 @@
       ]
     },
     {
+      "keyword_group": "股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月10日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260211050703550800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周二（2月10日），南非富时/JSE非洲领先40可交易指数收涨0.59%，逼近11.3万点。",
+          "url": "https://wallstreetcn.com/livenews/3053141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "显卡 英伟达",
       "match_count": 2,
       "titles": [
@@ -1009,23 +1203,6 @@
       ]
     },
     {
-      "keyword_group": "股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "非洲股市收盘播报｜周二（2月10日），南非富时/JSE非洲领先40可交易指数收涨0.59%，逼近11.3万点。",
-          "url": "https://wallstreetcn.com/livenews/3053141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "内存 存储颗粒",
       "match_count": 1,
       "titles": [
@@ -1038,8 +1215,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 04时39分]"
+          "appearance_count": 6,
+          "time_info": "[00时59分 ~ 05时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "CPU 英特尔",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "标普500指数初步收跌0.3%，电信、金融板块跌0.8%，科技板块跌0.6%。 纳斯达克100指数初步收跌0.5%，成分股中，西部数据跌8%，希捷科技跌5.8%，英特尔跌6.3%，Strategy跌3.7%，Datadog则涨13.8%。 安进初步收跌2.9%，沃尔玛跌1.8%，可口可乐跌1.4%，领跌道指成分股，Travelers Companies Inc.涨2.1%，迪士尼涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3053237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         }
       ]
     }
