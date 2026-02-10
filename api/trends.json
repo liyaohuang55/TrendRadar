@@ -1,44 +1,23 @@
 {
-  "generated_at": "2026-02-11T00:59:43.189017+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-02-11T02:05:42.723836+08:00",
+  "total_titles_processed": 397,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
-        {
-          "title": "麦肯锡同意将旗下200亿美元投资业务控制权移交路博迈",
-          "url": "https://wallstreetcn.com/livenews/3053162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "美元兑瑞郎USD/CHF走高，最新上涨0.03%，报0.7663。",
-          "url": "https://flash.jin10.com/detail/20260211002815064800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
         {
           "title": "美国零售销售不及预期强化降息前景，美股指集体高开，美国国债价格上涨，美元指数走低",
           "url": "https://wallstreetcn.com/articles/3765361",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
         },
         {
           "title": "中芯国际2025年度收入创新高 折旧致毛利率承压 全年资本开支达81亿美元",
@@ -48,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
         },
         {
           "title": "特朗普被曝私下大发雷霆：5500亿美元还没落地，日本蓄意拖延？",
@@ -59,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
         },
         {
           "title": "巴菲特在日股上躺赚20亿美元",
@@ -68,6 +47,41 @@
           "source": "抖音",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "麦肯锡同意将旗下200亿美元投资业务控制权移交路博迈",
+          "url": "https://wallstreetcn.com/livenews/3053162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "摩根士丹利：特斯拉计划提振光伏制造，这可能会让公司价值增长250亿-500亿美元，或每股增长6-14美元。",
+          "url": "https://wallstreetcn.com/livenews/3053159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "美元兑瑞郎USD/CHF走高，最新上涨0.03%，报0.7663。",
+          "url": "https://flash.jin10.com/detail/20260211002815064800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -85,15 +99,15 @@
           "time_info": "00时59分"
         },
         {
-          "title": "摩根士丹利：特斯拉计划提振光伏制造，这可能会让公司价值增长250亿-500亿美元，或每股增长6-14美元。",
-          "url": "https://wallstreetcn.com/livenews/3053159",
-          "source": "华尔街见闻-快讯",
+          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
         },
         {
           "title": "据汽车新闻网站Electrek：特斯拉(TSLA.O)500英里续航电动半挂卡车定价29万美元。",
@@ -123,17 +137,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -193,6 +196,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.51%，暂报2652.98点。 MarketVectorTM数字资产100中盘指数跌1.02%，报2734.15点。 MarketVector数字资产100指数跌1.60%，报13869.65点。 Solana目前跌3.66%，狗狗币跌3.11%，XRP跌2.52%。 比特币跌1.89%，暂报69373美元；以太坊跌4.56%，暂报2028.89美元。",
+          "url": "https://wallstreetcn.com/livenews/3053171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
         },
         {
           "title": "纽约联储：第四季度信用卡债务达1.3万亿美元，较第三季度增加440亿美元。",
@@ -274,91 +288,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "是否担心高市大胜影响在华日企经营？中国日本商会答凤凰问",
-          "url": "https://news.ifeng.com/c/8qdMsKDThwR",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "专家：日本政局“一强多弱”，进入是否坚持和平的重要节点",
-          "url": "https://news.ifeng.com/c/8qdDQ7ppwvG",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "扶桑谈｜高市早苗靠强硬选举大胜，日本却正滑入美国战略套现轨道",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572906",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "自民党众院选举大胜，对日本是福还是祸？本次大选后他们的执政前景如何？",
-          "url": "https://www.zhihu.com/question/2004190292983703175",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "日本众议院选举结果公布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "日本彻底失控",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BD%BB%E5%BA%95%E5%A4%B1%E6%8E%A7%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -368,30 +299,54 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
+          "url": "https://wallstreetcn.com/livenews/3053191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "02时05分"
+        },
+        {
+          "title": "美国国会议员们质询国防部使用马斯克旗下xAI开发的大模型Grok一事。",
+          "url": "https://wallstreetcn.com/livenews/3053187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
         },
         {
           "title": "AI周星驰视频大量传播 经纪人质疑",
           "url": "https://www.baidu.com/s?wd=AI%E5%91%A8%E6%98%9F%E9%A9%B0%E8%A7%86%E9%A2%91%E5%A4%A7%E9%87%8F%E4%BC%A0%E6%92%AD+%E7%BB%8F%E7%BA%AA%E4%BA%BA%E8%B4%A8%E7%96%91",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
           "source": "贴吧",
           "ranks": [
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -401,8 +356,30 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "AI税务工具冲击财富管理板块 相关股票集体大跌",
+          "url": "https://flash.jin10.com/detail/20260211013915640800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "02时05分"
+        },
+        {
+          "title": "为什么 AI 会建议我走路去洗车？AI 还提出过什么壮举？",
+          "url": "https://www.zhihu.com/question/2004524090598323141",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
         },
         {
           "title": "AI应用成为最强主线引爆传媒链",
@@ -418,8 +395,104 @@
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "是否担心高市大胜影响在华日企经营？中国日本商会答凤凰问",
+          "url": "https://news.ifeng.com/c/8qdMsKDThwR",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "专家：日本政局“一强多弱”，进入是否坚持和平的重要节点",
+          "url": "https://news.ifeng.com/c/8qdDQ7ppwvG",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "扶桑谈｜高市早苗靠强硬选举大胜，日本却正滑入美国战略套现轨道",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572906",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "自民党众院选举大胜，对日本是福还是祸？本次大选后他们的执政前景如何？",
+          "url": "https://www.zhihu.com/question/2004190292983703175",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "日本众议院选举结果公布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%BC%97%E8%AE%AE%E9%99%A2%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "日本彻底失控",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BD%BB%E5%BA%95%E5%A4%B1%E6%8E%A7%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "日本考虑对嫖娼者加以处罚",
+          "url": "https://www.toutiao.com/trending/7604123352739020806/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -429,8 +502,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
         },
         {
           "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
@@ -440,8 +513,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
         },
         {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
@@ -451,14 +524,64 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "Lightspark Group的CEO David Marcus：（美国）政府应该将黄金储备转换为比特币。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3053182",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌：Fitbit的个人健康教练现将在更多国家推出，包括英国、加拿大、澳大利亚、新西兰和新加坡。",
+          "url": "https://flash.jin10.com/detail/20260211012335531800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "欧盟委员会声明：欧盟无条件批准谷歌公司320亿美元收购Wiz的网络安全交易。 这笔交易不会对欧洲经济区（EEA）构成竞争顾虑。",
+          "url": "https://wallstreetcn.com/livenews/3053139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "谷歌：Fitbit的个人健康教练体验正向全球更多用户扩展。",
+          "url": "https://flash.jin10.com/detail/20260211012231222800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时05分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -468,8 +591,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        },
+        {
+          "title": "特朗普政府对数十亿纳税人资金的掌控在美国法庭受挫",
+          "url": "https://wallstreetcn.com/livenews/3053180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "02时05分"
         },
         {
           "title": "花旗：美国总统特朗普住房政策对房地产开发商的影响仍然不明朗。",
@@ -477,23 +611,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "欧盟委员会声明：欧盟无条件批准谷歌公司320亿美元收购Wiz的网络安全交易。 这笔交易不会对欧洲经济区（EEA）构成竞争顾虑。",
-          "url": "https://wallstreetcn.com/livenews/3053139",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -527,11 +644,29 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350528&amp;topic_name=%E5%86%85%E5%AD%98%E5%91%8A%E6%80%A5%21%E8%80%81%E9%BB%8426%E5%B9%B4%E6%96%AD%E6%9B%B4%E6%96%B0%E5%8D%A1",
           "source": "贴吧",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 02时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "显卡 英伟达",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "芝商所（CME）：新增现金结算期货合约，将纳入包括Alphabet、Meta、英伟达和特斯拉在内的50多只美国顶级个股。",
+          "url": "https://flash.jin10.com/detail/20260211014636095800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时59分"
+          "time_info": "02时05分"
         }
       ]
     }
