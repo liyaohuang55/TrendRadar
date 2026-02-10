@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-10T19:46:51.598704+08:00",
-  "total_titles_processed": 1545,
+  "generated_at": "2026-02-10T21:02:07.161192+08:00",
+  "total_titles_processed": 1651,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 71,
+      "match_count": 79,
       "titles": [
         {
           "title": "巴菲特在日股上躺赚20亿美元",
@@ -19,6 +19,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时10分 ~ 17时57分]"
+        },
+        {
+          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 21时02分]"
         },
         {
           "title": "美防长：国防预算或提到1.5万亿美元，将导弹驱逐舰产能推到极限",
@@ -98,6 +111,18 @@
           "time_info": "[04时51分 ~ 06时32分]"
         },
         {
+          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
+          "url": "https://wallstreetcn.com/articles/3765361",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时46分 ~ 21时02分]"
+        },
+        {
           "title": "现货白银日内大涨6美元，现报83.81美元/盎司，涨幅7.73%。",
           "url": "https://flash.jin10.com/detail/20260210042022848800",
           "source": "金十数据",
@@ -109,18 +134,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时51分 ~ 06时32分]"
-        },
-        {
-          "title": "在岸、离岸人民币对美元汇率双双升破6.91",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32573316",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时46分]"
         },
         {
           "title": "美元兑日元USD/JPY日内跌超0.50%，现报155.06。",
@@ -284,6 +297,17 @@
           "time_info": "[18时53分 ~ 19时46分]"
         },
         {
+          "title": "摩根士丹利：预计特斯拉(TSLA.O)太阳能业务有望为其能源板块增加200亿至500亿美元的股权价值。尽管这一投资本身不具变革性，但它可能开启长期增长空间，并缓解能源瓶颈，从而支持特斯拉更宏大的战略目标。",
+          "url": "https://flash.jin10.com/detail/20260210202612810800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "英镑兑美元GBP/USD向上触及1.37，日内涨0.64%。",
           "url": "https://flash.jin10.com/detail/20260210034233838800",
           "source": "金十数据",
@@ -320,13 +344,24 @@
           "time_info": "[04时01分 ~ 04时51分]"
         },
         {
+          "title": "摩根士丹利：维持对特斯拉(TSLA.O)的中性评级及415美元目标价。",
+          "url": "https://flash.jin10.com/detail/20260210202541427800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "西维斯健康（CVS）第四季度调整后每股收益为1.09美元，去年同期为1.19美元。 第四季度同店销售增长16%，去年同期增长10.2%，市场预期增长11.1%。 第四季度净收入1056.9亿美元，同比增长8.2%，市场预期1036.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3053011",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -479,7 +514,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -504,17 +539,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时45分"
-        },
-        {
-          "title": "全球股市创历史新高，欧股奢侈品大涨，台积电夜盘涨超3%，金银下挫，美元企稳人民币走强",
-          "url": "https://wallstreetcn.com/articles/3765361",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时46分"
         },
         {
           "title": "WTI原油短线下跌0.4美元，失守64美元/桶，日内跌幅0.71%。",
@@ -572,6 +596,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "可口可乐第四季度净营收118亿美元，市场预估120.3亿美元。 第四季度可比每股收益0.58美元，市场预估0.57美元。 预计2026年资本支出22亿美元，市场预估23.1亿美元。 可口可乐美股盘前一度跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "人民币兑美元中间价报6.9458，上调65点；上一交易日中间价6.9523，上一交易日16:30官方收盘价6.9284，上日夜盘报收6.9208。",
           "url": "https://wallstreetcn.com/livenews/3052613",
           "source": "华尔街见闻-快讯",
@@ -611,7 +646,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -671,6 +706,17 @@
           "time_info": "15时38分"
         },
         {
+          "title": "日本首席贸易谈判代表赤泽亮正与美国商务部长卢特尼克将于本周会晤，讨论通过5500亿美元投资工具支持的首个项目。",
+          "url": "https://flash.jin10.com/detail/20260210200940210800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "现货白银日内上涨7% 纽约期银站上83美元",
           "url": "https://flash.jin10.com/detail/20260210003752203800",
           "source": "金十数据",
@@ -680,6 +726,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "德意志银行：将美光科技(MU.O)目标价从300美元上调至500美元。",
+          "url": "https://flash.jin10.com/detail/20260210200835777800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "LME期铜收涨182美元，报13176美元/吨。 LME期铝收涨40美元，报3126美元/吨。 LME期锌收涨30美元，报3376美元/吨。 LME期铅收涨10美元，报1970美元/吨。 LME期镍收涨259美元，报17349美元/吨。 LME期锡收涨2380美元，报49098美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -748,6 +805,17 @@
           "time_info": "17时57分"
         },
         {
+          "title": "可口可乐(KO.N)预计2026年资本支出22亿美元，市场预估23.1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260210200100472800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "纽约银日内涨幅达7.0%，报82.29美元/盎司。 现货白银日内涨幅达6.5%，报82.54美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3052434",
           "source": "华尔街见闻-快讯",
@@ -792,6 +860,17 @@
           "time_info": "15时38分"
         },
         {
+          "title": "西维斯健康（CVS）第四季度调整后每股收益为1.09美元，去年同期为1.19美元。 第四季度同店销售增长16%，去年同期增长10.2%，市场预期增长11.1%。 第四季度净收入1056.9亿美元，同比增长8.2%，市场预期1036.9亿美元。 西维斯健康盘前下跌2.3%。",
+          "url": "https://wallstreetcn.com/livenews/3053011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "市场消息：巴西启动45亿美元美元计价债券发售。",
           "url": "https://flash.jin10.com/detail/20260210024422348800",
           "source": "金十数据",
@@ -801,6 +880,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "可口可乐(KO.N)第四季度净营收118亿美元，市场预估120.3亿美元。",
+          "url": "https://flash.jin10.com/detail/20260210195656250800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "以太坊跌破2000美元，日内跌超5%。",
@@ -895,6 +985,18 @@
           "time_info": "[01时47分 ~ 15时38分]"
         },
         {
+          "title": "专家：日本政局“一强多弱”，进入是否坚持和平的重要节点",
+          "url": "https://news.ifeng.com/c/8qdDQ7ppwvG",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时45分 ~ 21时02分]"
+        },
+        {
           "title": "扶桑谈｜高市早苗和自民党众院选举大胜，对日本是福还是祸？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32565263",
           "source": "澎湃新闻",
@@ -915,6 +1017,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时47分 ~ 07时33分]"
+        },
+        {
+          "title": "是否担心高市大胜影响在华日企经营？中国日本商会答凤凰问",
+          "url": "https://news.ifeng.com/c/8qdMsKDThwR",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时56分 ~ 21时02分]"
         },
         {
           "title": "日本执政联盟赢得众议院选举过半议席，日元日债面临压力",
@@ -940,6 +1054,18 @@
           "time_info": "[01时47分 ~ 07时33分]"
         },
         {
+          "title": "自民党众院选举大胜，对日本是福还是祸？本次大选后他们的执政前景如何？",
+          "url": "https://www.zhihu.com/question/2004190292983703175",
+          "source": "知乎",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时45分 ~ 21时02分]"
+        },
+        {
           "title": "日本众议院选举结果公布：由自民党和日本维新会组成的执政联盟获过半数议席",
           "url": "https://m.thepaper.cn/newsDetail_forward_32564947",
           "source": "澎湃新闻",
@@ -951,40 +1077,17 @@
           "time_info": "[01时47分 ~ 05时36分]"
         },
         {
-          "title": "专家：日本政局“一强多弱”，进入是否坚持和平的重要节点",
-          "url": "https://news.ifeng.com/c/8qdDQ7ppwvG",
-          "source": "凤凰网",
+          "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时45分 ~ 19时46分]"
-        },
-        {
-          "title": "是否担心高市大胜影响在华日企经营？中国日本商会答凤凰问",
-          "url": "https://news.ifeng.com/c/8qdMsKDThwR",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            2
+            10,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[17时56分 ~ 19时46分]"
-        },
-        {
-          "title": "自民党众院选举大胜，对日本是福还是祸？本次大选后他们的执政前景如何？",
-          "url": "https://www.zhihu.com/question/2004190292983703175",
-          "source": "知乎",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时45分 ~ 19时46分]"
+          "time_info": "[18时52分 ~ 21时02分]"
         },
         {
           "title": "澳洲女孩日本滑雪场背包卡缆车身亡，被背包拖拽悬空为何可能致命？现场管理机制有何漏洞？",
@@ -1048,18 +1151,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时56分 ~ 17时57分]"
-        },
-        {
-          "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32574685",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时46分]"
         },
         {
           "title": "外交部回应日本自民党胜选",
@@ -1136,7 +1227,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -1169,7 +1260,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -1191,7 +1282,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -1224,7 +1315,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -1298,7 +1389,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "不要对AI说谢谢",
@@ -1338,8 +1429,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时58分 ~ 19时46分]"
+          "appearance_count": 12,
+          "time_info": "[09时58分 ~ 21时02分]"
         },
         {
           "title": "一图看懂｜AI应用“春节档”持续上新，下一波神仙打架已就位？",
@@ -1366,6 +1457,21 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时58分 ~ 19时46分]"
+        },
+        {
+          "title": "以假乱真,奥特曼大AI时代来临",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            13,
+            15,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时31分 ~ 21时02分]"
         },
         {
           "title": "AIGC整活新春联欢会",
@@ -1425,21 +1531,6 @@
           "time_info": "[01时47分 ~ 07时33分]"
         },
         {
-          "title": "以假乱真,奥特曼大AI时代来临",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350479&amp;topic_name=%E4%BB%A5%E5%81%87%E4%B9%B1%E7%9C%9F%2C%E5%A5%A5%E7%89%B9%E6%9B%BC%E5%A4%A7AI%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%B8%B4",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            13,
-            15,
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 19时46分]"
-        },
-        {
           "title": "AI应用集体“上春晚” 豆包官宣“参战”!",
           "url": "https://www.cls.cn/detail/2285532",
           "source": "财联社热门",
@@ -1451,6 +1542,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时31分 ~ 18时53分]"
+        },
+        {
+          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
+          "url": "https://wallstreetcn.com/articles/3765363",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时45分 ~ 21时02分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨近3%，全市场超4600股飘红，AI应用方向集体爆发",
@@ -1465,30 +1570,17 @@
           "time_info": "[01时47分 ~ 07时33分]"
         },
         {
-          "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
-          "url": "https://wallstreetcn.com/articles/3765363",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时45分 ~ 19时46分]"
-        },
-        {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
           "url": "https://www.zhihu.com/question/2004239051759312966",
           "source": "知乎",
           "ranks": [
             4,
-            6
+            6,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 21时02分]"
         },
         {
           "title": "不要对AI说谢谢",
@@ -1597,6 +1689,17 @@
           "time_info": "14时10分"
         },
         {
+          "title": "“AI新大陆”正在向平民招手",
+          "url": "https://www.toutiao.com/trending/7605168435990892082/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
           "title": "洗衣机演奏I can't wait",
           "url": "https://search.bilibili.com/all?keyword=%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%BC%94%E5%A5%8FI%20can't%20wait",
           "source": "bilibili 热搜",
@@ -1669,7 +1772,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -1691,7 +1794,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -1721,7 +1824,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
@@ -1732,8 +1835,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时58分 ~ 19时46分]"
+          "appearance_count": 12,
+          "time_info": "[09时58分 ~ 21时02分]"
+        },
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时45分 ~ 21时02分]"
         },
         {
           "title": "美股三大指数开盘小幅下跌，美债走跌，英镑延续涨势，黄金涨至5040美元",
@@ -1747,6 +1864,19 @@
           "time_info": "[01时47分 ~ 04时51分]"
         },
         {
+          "title": "年会中黄金熔炼后变白银 公司喊冤",
+          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E4%BC%9A%E4%B8%AD%E9%BB%84%E9%87%91%E7%86%94%E7%82%BC%E5%90%8E%E5%8F%98%E7%99%BD%E9%93%B6+%E5%85%AC%E5%8F%B8%E5%96%8A%E5%86%A4",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 21时02分]"
+        },
+        {
           "title": "科技股反弹提振市场，标普逼近历史高位，微软反弹3%，黄金重回5000美元，白银涨超7%",
           "url": "https://wallstreetcn.com/articles/3765262",
           "source": "华尔街见闻",
@@ -1756,19 +1886,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时35分 ~ 06时32分]"
-        },
-        {
-          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时45分 ~ 19时46分]"
         },
         {
           "title": "买139999元黄金手机壳送苹果手机",
@@ -1781,18 +1898,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时47分 ~ 07时33分]"
-        },
-        {
-          "title": "年会中黄金熔炼后变白银 公司喊冤",
-          "url": "https://www.baidu.com/s?wd=%E5%B9%B4%E4%BC%9A%E4%B8%AD%E9%BB%84%E9%87%91%E7%86%94%E7%82%BC%E5%90%8E%E5%8F%98%E7%99%BD%E9%93%B6+%E5%85%AC%E5%8F%B8%E5%96%8A%E5%86%A4",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时46分]"
         },
         {
           "title": "科技股反弹提振市场，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，白银涨超7%",
@@ -1887,6 +1992,17 @@
           "time_info": "[06时32分 ~ 07时33分]"
         },
         {
+          "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
+          "url": "https://wallstreetcn.com/articles/3765365",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
           "title": "截至2月9日，全球最大的黄金ETF SPDR Gold Trust持仓量为1079.66吨，较前一个交易日增加3.43吨。",
           "url": "https://flash.jin10.com/detail/20260210070957936800",
           "source": "金十数据",
@@ -1896,6 +2012,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时33分"
+        },
+        {
+          "title": "女子年会中4克黄金熔后变白银",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B9%B4%E4%BC%9A%E4%B8%AD4%E5%85%8B%E9%BB%84%E9%87%91%E7%86%94%E5%90%8E%E5%8F%98%E7%99%BD%E9%93%B6%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "法巴银行：金价年内有望涨至6000美元 涨势合乎逻辑",
@@ -2022,7 +2149,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "谷爱凌回应特朗普大骂冬奥运动员",
@@ -2033,11 +2160,12 @@
             11,
             13,
             14,
-            26
+            26,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 19时46分]"
+          "appearance_count": 11,
+          "time_info": "[12时31分 ~ 21时02分]"
         },
         {
           "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
@@ -2054,6 +2182,17 @@
           "time_info": "[01时47分 ~ 07时33分]"
         },
         {
+          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
+          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时56分 ~ 21时02分]"
+        },
+        {
           "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
           "url": "https://www.cls.cn/detail/2285295",
           "source": "财联社热门",
@@ -2066,17 +2205,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时58分 ~ 16时45分]"
-        },
-        {
-          "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
-          "url": "https://news.ifeng.com/c/8qdLiMlCmog",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时56分 ~ 19时46分]"
         },
         {
           "title": "再翻一倍？特朗普豪言：我任期结束前 道指将站上10万点！",
@@ -2271,6 +2399,17 @@
           "time_info": "07时33分"
         },
         {
+          "title": "美国贸易代表格里尔：美国与加拿大的谈判主要针对跨国大桥议题。特朗普总统对这一问题存在合理关切。",
+          "url": "https://flash.jin10.com/detail/20260210201654942800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "特朗普：若沃什履职得当，美国经济可增长15%",
           "url": "https://wallstreetcn.com/livenews/3052529",
           "source": "华尔街见闻-快讯",
@@ -2318,7 +2457,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "谷歌拟发行200亿美元债券 融资加码AI支出",
@@ -2344,6 +2483,17 @@
           "time_info": "01时47分"
         },
         {
+          "title": "字节“乘胜追击”又发新一代图像模型 称可与谷歌旗舰产品对标",
+          "url": "https://www.cls.cn/detail/2285787",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
           "title": "美国已通过多个渠道要求韩国批准谷歌将该国高精度地图数据出口至海外；同时，美国贸易代表格里尔对韩国的非关税壁垒表示强烈担忧。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3052699",
           "source": "华尔街见闻-快讯",
@@ -2355,6 +2505,17 @@
           "time_info": "12时31分"
         },
         {
+          "title": "谷歌母公司Alphabet的100年期英镑债在各期限券种中获得最高认购。",
+          "url": "https://wallstreetcn.com/livenews/3053034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
           "title": "市场消息：谷歌与Entrust将合作推出基于人工智能的身份验证服务。",
           "url": "https://flash.jin10.com/detail/20260210010437354800",
           "source": "金十数据",
@@ -2364,6 +2525,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
+        },
+        {
+          "title": "谷歌母公司Alphabet将通过发行英镑债券筹集创纪录的45亿英镑资金，其英镑债券发行吸引了创纪录的240亿英镑认购需求。",
+          "url": "https://wallstreetcn.com/livenews/3053029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时02分"
         },
         {
           "title": "谷歌“向天再借一百年”！全球科技界将迎来本世纪首只“百年债券”",
@@ -2383,7 +2555,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -2394,7 +2566,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         },
@@ -2515,8 +2687,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 19时46分]"
+          "appearance_count": 5,
+          "time_info": "[18时52分 ~ 21时02分]"
         },
         {
           "title": "内存价格飙升90%",
@@ -2575,7 +2747,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时46分"
         }
