@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T12:27:52.132503+08:00",
-  "total_titles_processed": 948,
+  "generated_at": "2026-02-11T13:53:27.248262+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "中芯国际2025年度收入创新高 折旧致毛利率承压 全年资本开支达81亿美元",
@@ -373,6 +373,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "菲律宾比索兑美元升至去年10月份来高点。",
+          "url": "https://wallstreetcn.com/livenews/3053439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
           "title": "纽约期银日内跌幅达3.00%，现报79.74美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260211000803442800",
           "source": "金十数据",
@@ -500,7 +511,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -596,7 +607,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "内塔尼亚胡1年内将第7次见特朗普，以官员回应",
@@ -617,8 +628,42 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时53分]"
+        },
+        {
+          "title": "特朗普又翻脸了，中国再躺枪",
+          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时53分]"
+        },
+        {
+          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
+          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时53分]"
+        },
+        {
+          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
+          "url": "https://www.cls.cn/detail/2286509",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时53分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普全力支持商务部长卢特尼克。 （虽然爆出与爱博斯坦有过联系，但）卢特尼克仍然是特朗普团队的重要成员。",
@@ -647,17 +692,6 @@
           "time_info": "[03时38分 ~ 05时38分]"
         },
         {
-          "title": "特朗普又翻脸了，中国再躺枪",
-          "url": "https://news.ifeng.com/c/8qeOp6WY2Il",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时27分]"
-        },
-        {
           "title": "美国白宫：特朗普支持美国商务部长卢特尼克。",
           "url": "https://flash.jin10.com/detail/20260211030702917800",
           "source": "金十数据",
@@ -669,29 +703,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时38分 ~ 05时38分]"
-        },
-        {
-          "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
-          "url": "https://news.ifeng.com/c/8qeNWWhXyTI",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时27分]"
-        },
-        {
-          "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
-          "url": "https://www.cls.cn/detail/2286509",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时27分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普本周将聚焦能源和去监管。 特朗普将于2月11日主持一场关于煤炭的活动。",
@@ -875,6 +886,18 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
+          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
+          "url": "https://www.cls.cn/detail/2286531",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时53分]"
+        },
+        {
           "title": "美国总统特朗普：我们的利率应该比现在低2个百分点。",
           "url": "https://flash.jin10.com/detail/20260211053946147800",
           "source": "金十数据",
@@ -1027,15 +1050,15 @@
           "time_info": "05时38分"
         },
         {
-          "title": "特朗普对伊朗释放强硬信号 欧洲议会通过2040年减排90%目标 | 环球市场",
-          "url": "https://www.cls.cn/detail/2286531",
-          "source": "财联社热门",
+          "title": "据美国媒体报道，以色列总理内塔尼亚胡10日晚在白宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会晤，双方讨论了伊朗局势。",
+          "url": "https://flash.jin10.com/detail/20260211122756306800",
+          "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "13时53分"
         },
         {
           "title": "美众议院以微弱优势否决动议 特朗普关税决议可提全院表决",
@@ -1044,7 +1067,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -1066,7 +1089,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -1077,7 +1100,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -1121,7 +1144,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         },
@@ -1143,7 +1166,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
@@ -1151,7 +1174,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -1205,11 +1228,12 @@
             15,
             16,
             14,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 12时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 13时53分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -1222,6 +1246,31 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时59分 ~ 06时36分]"
+        },
+        {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时53分]"
+        },
+        {
+          "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
+          "url": "https://www.cls.cn/detail/2286559",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时53分]"
         },
         {
           "title": "AI制图骗局",
@@ -1237,28 +1286,27 @@
           "time_info": "[03时37分 ~ 05时38分]"
         },
         {
-          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
-          "url": "https://wallstreetcn.com/articles/3765438",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时27分]"
-        },
-        {
-          "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
-          "url": "https://www.cls.cn/detail/2286559",
+          "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
+          "url": "https://www.cls.cn/detail/2286616",
           "source": "财联社热门",
           "ranks": [
-            7,
-            5
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时53分]"
+        },
+        {
+          "title": "国产AI降维打击,老外酸了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时53分]"
         },
         {
           "title": "美国克利夫兰联储主席Hammack：实现2%通胀目标具有至关重要的意义。 现在判断人工智能（AI）对经济的影响还言之过早。",
@@ -1287,18 +1335,6 @@
           "time_info": "[02时05分 ~ 04时39分]"
         },
         {
-          "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
-          "url": "https://www.cls.cn/detail/2286616",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 12时27分]"
-        },
-        {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
           "url": "https://www.zhihu.com/question/2004239051759312966",
           "source": "知乎",
@@ -1311,15 +1347,28 @@
           "time_info": "[04时39分 ~ 07时35分]"
         },
         {
-          "title": "国产AI降维打击,老外酸了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
-          "source": "贴吧",
+          "title": "阿里千问、飞猪宣布与全球超40家旅行品牌达成AI合作",
+          "url": "https://wallstreetcn.com/livenews/3053432",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时53分]"
+        },
+        {
+          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
+          "url": "https://www.cls.cn/detail/2286740",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时53分]"
         },
         {
           "title": "AI应用端继续活跃，掌阅科技3连板，荣信文化、捷成股份涨超10%，人民网、中文在线等纷纷高开。",
@@ -1333,15 +1382,28 @@
           "time_info": "09时54分"
         },
         {
-          "title": "阿里千问、飞猪宣布与全球超40家旅行品牌达成AI合作",
-          "url": "https://wallstreetcn.com/livenews/3053432",
+          "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
+          "url": "https://wallstreetcn.com/livenews/3053429",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            6,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时53分]"
+        },
+        {
+          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
+          "url": "https://www.zhihu.com/question/2004629058894389561",
+          "source": "知乎",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时53分]"
         },
         {
           "title": "中芯国际赵海军：与AI、存储、中高端应用相关订单增加",
@@ -1401,37 +1463,48 @@
           "time_info": "02时05分"
         },
         {
-          "title": "网易有道发布中国版“OpenClaw”，推出全场景个人助理Agent“LobsterAI”",
-          "url": "https://wallstreetcn.com/livenews/3053429",
-          "source": "华尔街见闻-快讯",
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "13时53分"
         },
         {
-          "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
-          "url": "https://www.cls.cn/detail/2286740",
-          "source": "财联社热门",
+          "title": "消息人士：字节跳动自研AI芯片 与三星洽谈代工事宜",
+          "url": "https://flash.jin10.com/detail/20260211125408785800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "13时53分"
         },
         {
-          "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
-          "url": "https://www.zhihu.com/question/2004629058894389561",
-          "source": "知乎",
+          "title": "据路透援引消息人士，字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节跳动计划今年生产10万至30万颗该款AI芯片。",
+          "url": "https://flash.jin10.com/detail/20260211124843503800",
+          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时27分"
+          "time_info": "13时53分"
+        },
+        {
+          "title": "有哪些和 AI 的对话瞬间，让你觉得人类还没有一败涂地？",
+          "url": "https://www.zhihu.com/question/2003053229764732430",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "AI应用成为最强主线引爆传媒链",
@@ -1459,7 +1532,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
@@ -1470,8 +1543,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 12时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 13时53分]"
         },
         {
           "title": "是否担心高市大胜影响在华日企经营？中国日本商会答凤凰问",
@@ -1546,6 +1619,17 @@
           "time_info": "[00时59分 ~ 03时38分]"
         },
         {
+          "title": "胡锡进：日本这次选举是典型的民粹主义狂欢，很低质",
+          "url": "https://news.ifeng.com/c/8qec1PYiH19",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时53分]"
+        },
+        {
           "title": "李大霄解读日本股市大涨",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82%E5%A4%A7%E6%B6%A8",
           "source": "bilibili 热搜",
@@ -1555,6 +1639,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时53分 ~ 09时54分]"
+        },
+        {
+          "title": "日本将举行首相指名选举",
+          "url": "https://www.douyin.com/hot/2396667",
+          "source": "抖音",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时53分]"
         },
         {
           "title": "日本考虑引入针对嫖娼者处罚措施",
@@ -1568,17 +1664,6 @@
           "time_info": "[09时53分 ~ 09时54分]"
         },
         {
-          "title": "胡锡进：日本这次选举是典型的民粹主义狂欢，很低质",
-          "url": "https://news.ifeng.com/c/8qec1PYiH19",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
           "title": "日本考虑对嫖娼者加以处罚",
           "url": "https://www.toutiao.com/trending/7604123352739020806/",
           "source": "今日头条",
@@ -1590,17 +1675,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "日本将举行首相指名选举",
-          "url": "https://www.douyin.com/hot/2396667",
-          "source": "抖音",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
           "title": "日媒：日本将采购美制装备援乌",
           "url": "https://www.toutiao.com/trending/7605189138233065515/",
           "source": "今日头条",
@@ -1610,12 +1684,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "国台办回应台积电拟在日本量产芯片",
+          "url": "https://www.toutiao.com/trending/7604459386661683227/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
@@ -1626,8 +1711,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 12时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 13时53分]"
         },
         {
           "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
@@ -1654,6 +1739,18 @@
           "time_info": "[00时59分 ~ 06时36分]"
         },
         {
+          "title": "金十图示：2026年02月11日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260211115306469800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 13时53分]"
+        },
+        {
           "title": "周二（2月10日）纽约尾盘，现货黄金跌0.62%，报5026.20美元/盎司。 COMEX黄金期货跌0.65%，报5046.50美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3053267",
           "source": "华尔街见闻-快讯",
@@ -1664,17 +1761,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时36分 ~ 07时35分]"
-        },
-        {
-          "title": "金十图示：2026年02月11日（周三）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260211115306469800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
         },
         {
           "title": "富国银行：获利了结无碍长牛 上调黄金目标价至6300美元",
@@ -1728,9 +1814,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "一次性出手8公斤金条！金价高位震荡，千万元级套现频频",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32581000",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月10日（周二）晚盘收盘下跌0.49%报1115.02元/克；<br/>上海黄金交易所白银T+D 2月10日（周二）晚盘收盘下跌0.32%报19238.0元/千克。",
@@ -1750,7 +1847,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
@@ -1807,6 +1904,45 @@
       ]
     },
     {
+      "keyword_group": "openai chatgpt",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
+          "url": "https://flash.jin10.com/detail/20260211093843055800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
+          "url": "https://flash.jin10.com/detail/20260211131557627800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        },
+        {
+          "title": "OpenAI创始人Altman：今天我们在ChatGPT中更新了GPT-5.2（即时模型）。虽然变化不大，但希望您觉得有所改进。",
+          "url": "https://wallstreetcn.com/livenews/3053451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "股市",
       "match_count": 2,
       "titles": [
@@ -1846,11 +1982,12 @@
           "ranks": [
             7,
             8,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时59分 ~ 12时27分]"
+          "appearance_count": 13,
+          "time_info": "[00时59分 ~ 13时53分]"
         },
         {
           "title": "三星称凭HBM4重回内存行业巅峰 计划本月量产",
@@ -1859,7 +1996,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
         }
@@ -1891,23 +2028,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时38分 ~ 04时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai chatgpt",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "韩国科学部长：OpenAI、三星和SK将于3月在韩国启动数据中心建设。",
-          "url": "https://flash.jin10.com/detail/20260211093843055800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时54分"
         }
       ]
     },
