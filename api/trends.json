@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-11T15:53:23.456782+08:00",
-  "total_titles_processed": 1217,
+  "generated_at": "2026-02-11T16:42:24.716772+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 61,
+      "match_count": 63,
       "titles": [
         {
           "title": "中芯国际2025年度收入创新高 折旧致毛利率承压 全年资本开支达81亿美元",
@@ -254,7 +254,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -347,7 +347,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -380,7 +380,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -473,6 +473,17 @@
           "time_info": "00时59分"
         },
         {
+          "title": "伦镍盘中短线拉升，日内涨近2.5%，至17915美元/吨。报道称位于印尼的全球最大镍矿被要求削减产量。",
+          "url": "https://wallstreetcn.com/livenews/3053552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "美国商务部长卢特尼克：美元多年来被操纵走高。 外国人利用贸易顺差买我们的国家。",
           "url": "https://wallstreetcn.com/livenews/3053146",
           "source": "华尔街见闻-快讯",
@@ -512,7 +523,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -589,7 +600,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -603,6 +614,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "WTI原油日内涨幅达1.00%，现报64.84美元/桶。布伦特原油日内涨幅达1.00%，现报69.22美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260211161354276800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "Lyft四季度营收15.9亿美元，分析师预期17.6亿美元。 四季度活跃驾驶员2920万，分析师预期2921万。 预计一季度总体订阅大约48.6亿-50亿美元，分析师预期49.3亿美元。",
@@ -622,7 +644,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -728,8 +750,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时53分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 16时42分]"
         },
         {
           "title": "特朗普又翻脸了，中国再躺枪",
@@ -740,8 +762,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时53分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 16时42分]"
         },
         {
           "title": "以总理将见特朗普，伊朗外长：美国不要受以色列影响",
@@ -751,8 +773,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时53分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 16时42分]"
         },
         {
           "title": "特朗普放话：若美伊谈判无果 或向中东增派航母打击群",
@@ -895,11 +917,23 @@
           "url": "https://wallstreetcn.com/livenews/3053536",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
+          "url": "https://news.ifeng.com/c/8qeou7377qN",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时42分]"
         },
         {
           "title": "美国白宫：特朗普今天早些时候与加拿大总理卡尼通话，并明确阐述了他的立场。",
@@ -1129,17 +1163,6 @@
           "time_info": "[06时36分 ~ 07时35分]"
         },
         {
-          "title": "特朗普为何突然盯上加拿大这座大桥？加官员这么说",
-          "url": "https://news.ifeng.com/c/8qeou7377qN",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
           "title": "美国联邦航空管理局（FAA）：特朗普政府已解决与加拿大之间的飞机认证问题。",
           "url": "https://flash.jin10.com/detail/20260211061349478800",
           "source": "金十数据",
@@ -1297,7 +1320,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "中国AI大战：“百模大战”已结束，最大的利润池归属大厂，智谱和MiniMax如何突围？",
@@ -1353,11 +1376,25 @@
             14,
             20,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 15时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 16时42分]"
+        },
+        {
+          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
+          "url": "https://wallstreetcn.com/articles/3765438",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 16时42分]"
         },
         {
           "title": "Claude搅动硅谷，AI开始抢企业软件饭碗了？",
@@ -1372,17 +1409,18 @@
           "time_info": "[00时59分 ~ 06时36分]"
         },
         {
-          "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
-          "url": "https://wallstreetcn.com/articles/3765438",
-          "source": "华尔街见闻",
+          "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
+          "url": "https://www.cls.cn/detail/2286616",
+          "source": "财联社热门",
           "ranks": [
+            13,
+            8,
             5,
-            4,
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时53分]"
+          "appearance_count": 7,
+          "time_info": "[09时53分 ~ 16时42分]"
         },
         {
           "title": "阿里AI战事再加码！千问支持买电影票，下一代模型亮相在即",
@@ -1399,19 +1437,6 @@
           "time_info": "[09时53分 ~ 15时53分]"
         },
         {
-          "title": "持股持基过节，都买什么？Seedance带疯AI应用，资金再流向红利",
-          "url": "https://www.cls.cn/detail/2286616",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时53分 ~ 15时53分]"
-        },
-        {
           "title": "国产AI降维打击,老外酸了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350534&amp;topic_name=%E5%9B%BD%E4%BA%A7AI%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB%2C%E8%80%81%E5%A4%96%E9%85%B8%E4%BA%86",
           "source": "贴吧",
@@ -1419,8 +1444,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 16时42分]"
         },
         {
           "title": "“一块布”卡住AI供应链 产业“涨价潮”带动“涨停潮”",
@@ -1432,8 +1457,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 16时42分]"
         },
         {
           "title": "周星驰经纪人质疑短视频平台对 AI 生成视频侵权放任不管，这触犯了哪些法律红线？平台该如何管理？",
@@ -1446,8 +1471,20 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 16时42分]"
+        },
+        {
+          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
+          "url": "https://wallstreetcn.com/articles/3765455",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时53分]"
+          "time_info": "[13时53分 ~ 16时42分]"
         },
         {
           "title": "AI制图骗局",
@@ -1487,18 +1524,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 04时39分]"
-        },
-        {
-          "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
-          "url": "https://wallstreetcn.com/articles/3765455",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时53分]"
         },
         {
           "title": "影视飓风深夜发视频，未收钱过往视频却被字节用于最新模型训练，个人声音环境等数据被 AI 训练会有哪些风险？",
@@ -1570,6 +1595,18 @@
           "time_info": "[09时53分 ~ 09时54分]"
         },
         {
+          "title": "美国最大风投押注“AI伴侣”赛道 AI应用有望在陪伴场景率先爆发",
+          "url": "https://www.cls.cn/detail/2286560",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时42分]"
+        },
+        {
           "title": "黑石加码Anthropic 坐拥两大AI巨头股份",
           "url": "https://flash.jin10.com/detail/20260211042006504800",
           "source": "金十数据",
@@ -1592,6 +1629,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时53分 ~ 14时56分]"
+        },
+        {
+          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
+          "url": "https://www.zhihu.com/question/2004565156580049390",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时42分]"
+        },
+        {
+          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
+          "url": "https://www.zhihu.com/question/2004509950915868142",
+          "source": "知乎",
+          "ranks": [
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时42分]"
         },
         {
           "title": "财富管理公司全线暴跌，新AI工具引发对行业前景忧虑",
@@ -1617,17 +1678,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "美国最大风投押注“AI伴侣”赛道 AI应用有望在陪伴场景率先爆发",
-          "url": "https://www.cls.cn/detail/2286560",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
           "title": "据路透援引消息人士，字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节跳动计划今年生产10万至30万颗该款AI芯片。",
           "url": "https://flash.jin10.com/detail/20260211124843503800",
           "source": "金十数据",
@@ -1639,28 +1689,6 @@
           "time_info": "13时53分"
         },
         {
-          "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
-          "url": "https://www.zhihu.com/question/2004565156580049390",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
-          "title": "如何看待《黑神话：悟空》制作人冯骥谈即梦 Seedance 2.0「AIGC 的童年时代，结束了」？",
-          "url": "https://www.zhihu.com/question/2004509950915868142",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
-        },
-        {
           "title": "有哪些和 AI 的对话瞬间，让你觉得人类还没有一败涂地？",
           "url": "https://www.zhihu.com/question/2003053229764732430",
           "source": "知乎",
@@ -1670,6 +1698,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时53分"
+        },
+        {
+          "title": "马斯克酝酿在月球造AI卫星工厂",
+          "url": "https://wallstreetcn.com/livenews/3053545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "AI应用成为最强主线引爆传媒链",
@@ -1697,7 +1736,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "国防部：日本政府为“再军事化”披上虚伪的“法治”外衣",
@@ -1781,8 +1820,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时53分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 16时42分]"
         },
         {
           "title": "自民党众院选举大胜，对日本是福还是祸？本次大选后他们的执政前景如何？",
@@ -1809,6 +1848,18 @@
           "time_info": "[12时27分 ~ 14时56分]"
         },
         {
+          "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
+          "url": "https://wallstreetcn.com/livenews/3053533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时42分]"
+        },
+        {
           "title": "李大霄解读日本股市大涨",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E6%97%A5%E6%9C%AC%E8%82%A1%E5%B8%82%E5%A4%A7%E6%B6%A8",
           "source": "bilibili 热搜",
@@ -1820,15 +1871,16 @@
           "time_info": "[09时53分 ~ 09时54分]"
         },
         {
-          "title": "外交部：日本军国主义强征“慰安妇”铁证如山不容否认",
-          "url": "https://wallstreetcn.com/livenews/3053533",
-          "source": "华尔街见闻-快讯",
+          "title": "自民党众议院获胜，日本政治的政策右转趋势会加速吗？",
+          "url": "https://www.zhihu.com/question/2004480771465947078",
+          "source": "知乎",
           "ranks": [
-            5
+            17,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时53分 ~ 16时42分]"
         },
         {
           "title": "日本考虑引入针对嫖娼者处罚措施",
@@ -1842,6 +1894,17 @@
           "time_info": "[09时53分 ~ 09时54分]"
         },
         {
+          "title": "澳新银行：日本央行今年加息空间有限",
+          "url": "https://flash.jin10.com/detail/20260211162918685800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "日本考虑对嫖娼者加以处罚",
           "url": "https://www.toutiao.com/trending/7604123352739020806/",
           "source": "今日头条",
@@ -1851,17 +1914,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        },
-        {
-          "title": "自民党众议院获胜，日本政治的政策右转趋势会加速吗？",
-          "url": "https://www.zhihu.com/question/2004480771465947078",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时53分"
         },
         {
           "title": "日媒：日本将采购美制装备援乌",
@@ -1889,7 +1941,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "达利欧最新深度访谈：美国处于秩序崩溃与内战边缘，黄金是唯一避险方舟",
@@ -1933,11 +1985,23 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时53分 ~ 15时53分]"
+          "appearance_count": 4,
+          "time_info": "[13时53分 ~ 16时42分]"
+        },
+        {
+          "title": "小区买房送黄金房价跌了住户却赚了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%8C%BA%E4%B9%B0%E6%88%BF%E9%80%81%E9%BB%84%E9%87%91%E6%88%BF%E4%BB%B7%E8%B7%8C%E4%BA%86%E4%BD%8F%E6%88%B7%E5%8D%B4%E8%B5%9A%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "金十图示：2026年02月11日（周三）黄金ETF持仓报告",
@@ -1998,6 +2062,17 @@
           "time_info": "07时35分"
         },
         {
+          "title": "港股收盘：恒生指数收涨0.31%，恒生科技指数收涨0.9%。小米集团、金蝶国际涨超4%，有色金属板块走高，赤峰黄金涨近6%，赣锋锂业涨5.5%。",
+          "url": "https://wallstreetcn.com/livenews/3053571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
           "title": "Lightspark Group的CEO David Marcus：（美国）政府应该将黄金储备转换为比特币。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3053182",
           "source": "华尔街见闻-快讯",
@@ -2026,7 +2101,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时53分"
         },
@@ -2159,7 +2234,7 @@
     },
     {
       "keyword_group": "股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十图示：2026年02月10日（周二）全球股市指数-美洲市场（收盘）",
@@ -2183,6 +2258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时59分"
+        },
+        {
+          "title": "金十图示：2026年02月11日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260211161210784800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         }
       ]
     },
@@ -2199,11 +2285,12 @@
             8,
             14,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 15时53分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 16时42分]"
         },
         {
           "title": "三星称凭HBM4重回内存行业巅峰 计划本月量产",
