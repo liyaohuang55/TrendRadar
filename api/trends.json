@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T19:37:38.621597+08:00",
-  "total_titles_processed": 1664,
+  "generated_at": "2026-02-12T20:55:45.667906+08:00",
+  "total_titles_processed": 1777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 70,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -31,8 +31,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[02时02分 ~ 19时37分]"
+          "appearance_count": 23,
+          "time_info": "[02时02分 ~ 20时55分]"
+        },
+        {
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时46分 ~ 20时55分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -60,20 +74,6 @@
           "time_info": "[13时46分 ~ 19时37分]"
         },
         {
-          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时46分 ~ 19时37分]"
-        },
-        {
           "title": "特朗普否认了，仅拒邀两人",
           "url": "https://news.ifeng.com/c/8qgMtgtYs0u",
           "source": "凤凰网",
@@ -92,11 +92,12 @@
           "source": "抖音",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时48分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[15时48分 ~ 20时55分]"
         },
         {
           "title": "特朗普将于4月初访华？外交部回应",
@@ -106,8 +107,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时37分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 20时55分]"
         },
         {
           "title": "中方回应特朗普或将4月访华",
@@ -116,11 +117,12 @@
           "ranks": [
             2,
             4,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时37分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 20时55分]"
         },
         {
           "title": "中方回应特朗普预计4月初访华",
@@ -130,11 +132,12 @@
             6,
             4,
             2,
-            7
+            7,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时37分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 20时55分]"
         },
         {
           "title": "美国总统特朗普签署命令，授意五角大楼（国防部）采购煤电。",
@@ -149,6 +152,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时01分 ~ 07时54分]"
+        },
+        {
+          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时43分 ~ 20时55分]"
         },
         {
           "title": "Peabody Energy美股盘后涨7%，此前特朗普兜售美国煤炭。",
@@ -227,6 +244,17 @@
           "time_info": "[05时46分 ~ 06时39分]"
         },
         {
+          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
+          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 20时55分]"
+        },
+        {
           "title": "中方回应特朗普预计4月初访华",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E9%A2%84%E8%AE%A14%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
@@ -266,17 +294,17 @@
           "time_info": "[06时01分 ~ 07时28分]"
         },
         {
-          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
-          "source": "澎湃新闻",
+          "title": "中方回应“特朗普将于4月初访华”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            11,
-            9,
-            6
+            7,
+            13,
+            8
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[17时43分 ~ 19时37分]"
+          "time_info": "[18时40分 ~ 20时55分]"
         },
         {
           "title": "美国总统特朗普：由于关税，贸易逆差下降了78%。",
@@ -367,17 +395,6 @@
           "time_info": "[03时33分 ~ 04时34分]"
         },
         {
-          "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
-          "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
           "title": "美国财长贝森特：特朗普正全力关注房地产市场。",
           "url": "https://flash.jin10.com/detail/20260212032127249800",
           "source": "金十数据",
@@ -435,18 +452,6 @@
           "time_info": "07时54分"
         },
         {
-          "title": "中方回应“特朗普将于4月初访华”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BA%8E4%E6%9C%88%E5%88%9D%E8%AE%BF%E5%8D%8E%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时37分]"
-        },
-        {
           "title": "美国众议院投票，否决特朗普对加拿大加征关税",
           "url": "https://wallstreetcn.com/livenews/3054016",
           "source": "华尔街见闻-快讯",
@@ -464,7 +469,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -675,7 +680,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -713,6 +718,17 @@
           "time_info": "03时33分"
         },
         {
+          "title": "特朗普和加拿大抢桥还碰瓷中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8A%A2%E6%A1%A5%E8%BF%98%E7%A2%B0%E7%93%B7%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "美国总统特朗普：如果能够达成协议，我已告知内塔尼亚胡那将是优先选择。如果无法达成协议，我们只能拭目以待。",
           "url": "https://flash.jin10.com/detail/20260212025718088800",
           "source": "金十数据",
@@ -722,6 +738,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时33分"
+        },
+        {
+          "title": "美股煤炭股盘前上涨，Peabody Energy上涨5.2%，公司表示正与特朗普政府合作，探讨新建燃煤电厂的可能性。Core自然资源涨3.1%，Warrior冶金煤股份涨3.4%。",
+          "url": "https://wallstreetcn.com/livenews/3054500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "美国总统特朗普：除了我坚决要求与伊朗的谈判继续进行，看看是否能够达成协议外，与内塔尼亚胡的会晤没有达成任何决定。",
@@ -826,7 +853,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 64,
+      "match_count": 68,
       "titles": [
         {
           "title": "深度推演美元霸权的续命逻辑",
@@ -841,11 +868,12 @@
             21,
             14,
             19,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时47分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[09时47分 ~ 20时55分]"
         },
         {
           "title": "外交部：中美元首通话中，特朗普总统再次表达了4月访华的愿望",
@@ -857,8 +885,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时40分 ~ 19时37分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 20时55分]"
         },
         {
           "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
@@ -950,6 +978,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时39分 ~ 07时54分]"
+        },
+        {
+          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 20时55分]"
         },
         {
           "title": "麦当劳四季度营收70.1亿美元，分析师预期68.3亿美元。 四季度同店销售增长5.7%，分析师预期3.76%。 四季度美国同店销售增长6.8%，分析师预期增长5.05%。 四季度调整后每股收益（EPS）为3.12美元，分析师预期3.04美元。",
@@ -1065,7 +1105,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -1082,6 +1122,17 @@
           "time_info": "[01时12分 ~ 02时02分]"
         },
         {
+          "title": "芝商所（CME）将季度股息从1.25美元上调至1.30美元。",
+          "url": "https://flash.jin10.com/detail/20260212203139297800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "美元兑日元短线拉升，日内涨0.02%，此前报道称日本要求美联储在1月进行汇率询价。",
           "url": "https://wallstreetcn.com/livenews/3054252",
           "source": "华尔街见闻-快讯",
@@ -1093,16 +1144,15 @@
           "time_info": "14时57分"
         },
         {
-          "title": "福特汽车去年净亏损82亿美元，全球销量首次被比亚迪超越",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32585791",
-          "source": "澎湃新闻",
+          "title": "Nova预计第一季度调整后每股收益为2.13至2.25美元，市场预期为2.11美元。 预计第一季度营收为2.22亿至2.32亿美元。 第四季度调整后每股收益为2.14美元，同比增长1.94美元，市场预期为2.09美元。 第四季度总营收为2.226亿美元，同比增长14%，市场预期为2.205亿美元。 第四季度调整后净利润为7220万美元，同比增长16%，市场预期为7190万美元。",
+          "url": "https://wallstreetcn.com/livenews/3054525",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时37分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9106元，较周二夜盘收盘涨34点。成交量351.12亿美元。",
@@ -1115,6 +1165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时33分 ~ 04时34分]"
+        },
+        {
+          "title": "美元兑主要货币回吐涨幅 强劲非农难改结构性疲软预期",
+          "url": "https://flash.jin10.com/detail/20260212203107705800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "美国1月政府预算 -946.15亿美元，预期 -944亿美元，前值 -1447亿美元。",
@@ -1175,6 +1236,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 06时01分]"
+        },
+        {
+          "title": "在岸、离岸人民币对美元汇率升破6.9，再创33个月新高",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590716",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 20时55分]"
         },
         {
           "title": "思科(CSCO.O)：来自超大规模厂商的人工智能基础设施订单总额达21亿美元，反映出增长显著加速。",
@@ -1387,6 +1460,17 @@
           "time_info": "12时20分"
         },
         {
+          "title": "Nebius第四季度营收2.277亿美元，市场预期2.475亿美元。 第四季度调整后EBITDA1500万美元，市场预期2260万美元 第四季度调整后净亏损1.73亿美元，市场预期亏损为.515亿美元。 Nebius盘前一度跌超7%。",
+          "url": "https://wallstreetcn.com/livenews/3054513",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "美核聚变新贵融资4.5亿美元 瞄准2030年启动商业电站建设",
           "url": "https://www.cls.cn/detail/2287635",
           "source": "财联社热门",
@@ -1415,7 +1499,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -1473,17 +1557,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
-        },
-        {
-          "title": "在岸、离岸人民币对美元汇率升破6.9，再创33个月新高",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32590716",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
         },
         {
           "title": "思科(CSCO.O) CEO：目前预计人工智能订单将超过50亿美元，并在2026财年从超大规模企业中确认超过30亿美元的人工智能基础设施收入。",
@@ -1577,7 +1650,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 55,
+      "match_count": 60,
       "titles": [
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -1588,8 +1661,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时27分 ~ 19时37分]"
+          "appearance_count": 15,
+          "time_info": "[07时27分 ~ 20时55分]"
         },
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -1614,8 +1687,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时47分 ~ 19时37分]"
+          "appearance_count": 12,
+          "time_info": "[09时47分 ~ 20时55分]"
         },
         {
           "title": "最癫的AI赛博榨菜",
@@ -1630,8 +1703,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时12分 ~ 19时37分]"
+          "appearance_count": 24,
+          "time_info": "[01时12分 ~ 20时55分]"
         },
         {
           "title": "让AI集体翻车的洗车难题",
@@ -1697,8 +1770,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时12分 ~ 19时37分]"
+          "appearance_count": 24,
+          "time_info": "[01时12分 ~ 20时55分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -1756,6 +1829,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时56分 ~ 14时57分]"
+        },
+        {
+          "title": "哈尔滨小哥为早回家过年找AI替班",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 20时55分]"
         },
         {
           "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
@@ -1823,7 +1909,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -1864,13 +1950,24 @@
           "time_info": "[12时20分 ~ 13时46分]"
         },
         {
+          "title": "从严整治传播无AI标识虚假信息问题",
+          "url": "https://www.toutiao.com/trending/7605939603580898867/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "严厉打击无AI标识的虚假不实信息",
           "url": "https://www.douyin.com/hot/2398522",
           "source": "抖音",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -1884,18 +1981,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时56分 ~ 14时57分]"
-        },
-        {
-          "title": "哈尔滨小哥为早回家过年找AI替班",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B0%8F%E5%93%A5%E4%B8%BA%E6%97%A9%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E6%89%BEAI%E6%9B%BF%E7%8F%AD",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时40分 ~ 19时37分]"
         },
         {
           "title": "AI基础设施需求爆发 思科上调业绩预期",
@@ -1932,6 +2017,17 @@
           "time_info": "[03时33分 ~ 04时34分]"
         },
         {
+          "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
+          "url": "https://www.zhihu.com/question/2004603319558042744",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时37分 ~ 20时55分]"
+        },
+        {
           "title": "依视路陆逊梯卡：AI眼镜价格将上涨。",
           "url": "https://wallstreetcn.com/livenews/3053910",
           "source": "华尔街见闻-快讯",
@@ -1966,13 +2062,24 @@
           "time_info": "02时02分"
         },
         {
+          "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
+          "url": "https://www.cls.cn/detail/2288655",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "深圳：开展智能网联汽车“车路云一体化”应用试点 加大“智造+智驾”汽车全产业链AI赋能力度",
           "url": "https://wallstreetcn.com/livenews/3054473",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -1994,9 +2101,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
+          "url": "https://wallstreetcn.com/articles/3765558",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         },
         {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
@@ -2043,6 +2161,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
+          "url": "https://www.cls.cn/detail/2288560",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "德银全球CIO：AI不是泡沫，中国资产吸引力上升",
           "url": "https://wallstreetcn.com/livenews/3054379",
           "source": "华尔街见闻-快讯",
@@ -2060,7 +2189,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -2142,6 +2271,17 @@
           "time_info": "16时40分"
         },
         {
+          "title": "整治传播无AI标识的虚假不实信息",
+          "url": "https://www.baidu.com/s?wd=%E6%95%B4%E6%B2%BB%E4%BC%A0%E6%92%AD%E6%97%A0AI%E6%A0%87%E8%AF%86%E7%9A%84%E8%99%9A%E5%81%87%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
           "title": "千问6天AI订单量破1.2亿单",
           "url": "https://wallstreetcn.com/livenews/3054153",
           "source": "华尔街见闻-快讯",
@@ -2159,7 +2299,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         },
@@ -2173,17 +2313,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
-        },
-        {
-          "title": "AI 视频工具已经能生成导演级镜头，作为观众，你能接受 AI 生成的影视剧或动画吗？愿意买单吗？",
-          "url": "https://www.zhihu.com/question/2004603319558042744",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时37分"
         },
         {
           "title": "新加坡公布2026年预算案 将加码扶持本地企业、押注AI与国际贸易",
@@ -2225,7 +2354,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
         }
@@ -2544,7 +2673,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "财晓得｜当黄金开始暴涨暴跌，你得知道为何它这么“激动”",
@@ -2762,6 +2891,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月12日（周四）晚盘盘初暂无成交；<br/>上海黄金交易所白银T+D 2月12日（周四）晚盘盘初下跌1.08%报19704.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260212200515382800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
+        },
+        {
+          "title": "现在金价这么高，把「三金」卖了，以后金价跌了再买合适吗？",
+          "url": "https://www.zhihu.com/question/1964981998281036870",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时55分"
         }
       ]
     },
@@ -2790,18 +2941,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时12分 ~ 09时47分]"
-        },
-        {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时12分 ~ 19时37分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -2849,6 +2988,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时12分 ~ 09时47分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 24,
+          "time_info": "[01时12分 ~ 20时55分]"
         },
         {
           "title": "从Deepseek到Seedance中国AI成了",
