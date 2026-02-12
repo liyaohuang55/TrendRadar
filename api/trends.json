@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T07:54:17.544832+08:00",
-  "total_titles_processed": 675,
+  "generated_at": "2026-02-12T09:47:34.946196+08:00",
+  "total_titles_processed": 824,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 51,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -26,11 +26,12 @@
             10,
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时02分 ~ 07时54分]"
+          "appearance_count": 12,
+          "time_info": "[02时02分 ~ 09时47分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -220,7 +221,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -278,7 +279,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -289,7 +290,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -300,7 +301,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -467,9 +468,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "特朗普关税政策正迎来新的挑战",
+          "url": "https://www.toutiao.com/trending/7605755745048464905/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "曾派遣武装退伍军人守卫加沙援助站点的美国安保公司UG Solutions周三表示，正与特朗普政府的“和平委员会”商讨该公司在加沙的后续行动。此前该公司因援助点发生致命冲突而遭到联合国谴责。",
@@ -607,7 +619,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "富兰克林邓普顿警告：做空美元交易已过度拥挤",
@@ -747,6 +759,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "深度推演美元霸权的续命逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A8%E6%BC%94%E7%BE%8E%E5%85%83%E9%9C%B8%E6%9D%83%E7%9A%84%E7%BB%AD%E5%91%BD%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "福特汽车计划在至2030年这段时期推出5款售价低于4万美元的新车。",
           "url": "https://wallstreetcn.com/livenews/3053880",
           "source": "华尔街见闻-快讯",
@@ -769,6 +792,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时33分 ~ 04时34分]"
+        },
+        {
+          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
+          "url": "https://www.cls.cn/detail/2287778",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "美国1月政府预算 -946.15亿美元，预期 -944亿美元，前值 -1447亿美元。",
@@ -904,7 +938,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -915,7 +949,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -929,6 +963,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "现货白银日内走低3.00%，现报81.64美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260212091511285800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.9457，下调19点；上一交易日中间价6.9438，交易日16:30官方收盘价6.9115，上日夜盘报收6.9106。",
+          "url": "https://wallstreetcn.com/livenews/3054075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "Link Data Services数据显示，加拿大Cold Lake重油较美国墨西哥湾沿岸的WTI原油的折扣幅度扩大至8.50美元/桶，创2023年12月8日以来最阔。",
@@ -1044,7 +1100,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -1066,11 +1122,12 @@
           "ranks": [
             1,
             10,
-            9
+            9,
+            24
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 07时54分]"
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 09时47分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -1081,8 +1138,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 07时54分]"
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 09时47分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -1092,8 +1149,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 07时54分]"
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 09时47分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -1103,8 +1160,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 07时54分]"
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 09时47分]"
         },
         {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
@@ -1126,8 +1183,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时27分 ~ 07时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时27分 ~ 09时47分]"
+        },
+        {
+          "title": "让AI集体翻车的洗车难题",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9AI%E9%9B%86%E4%BD%93%E7%BF%BB%E8%BD%A6%E7%9A%84%E6%B4%97%E8%BD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "马斯克旗下xAI披露全体会议的视频。",
@@ -1176,6 +1244,18 @@
           "time_info": "[05时46分 ~ 06时01分]"
         },
         {
+          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 09时47分]"
+        },
+        {
           "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
           "url": "https://wallstreetcn.com/livenews/3053915",
           "source": "华尔街见闻-快讯",
@@ -1222,6 +1302,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
+          "url": "https://wallstreetcn.com/articles/3765544",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "中美AI“隔空开打”",
           "url": "https://www.toutiao.com/trending/7605571340929601066/",
           "source": "今日头条",
@@ -1231,6 +1322,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "AI淘金热变成AI恐慌潮！华尔街新共识：躲开一切可能被颠覆的公司",
+          "url": "https://wallstreetcn.com/articles/3765478",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         },
         {
           "title": "马斯克在周二深夜主持xAI全体员工会议。 马斯克讨论了该公司的重组事宜，但并非透露具体信息。（Business Insider）",
@@ -1255,6 +1357,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "跟喜人学过年AI夸人公式",
+          "url": "https://www.baidu.com/s?wd=%E8%B7%9F%E5%96%9C%E4%BA%BA%E5%AD%A6%E8%BF%87%E5%B9%B4AI%E5%A4%B8%E4%BA%BA%E5%85%AC%E5%BC%8F",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "依视路陆逊梯卡（EssilorLuxottica）四季度营收76亿欧元，分析师预期71.5亿欧元。 四季度剔除汇率因素后营收增长18.4%，分析师预期增长11.5%。 全年营收284.9亿欧元，分析师预期280.9亿欧元。 全年剔除汇率因素的营收增长11.2%，分析师预期增长9.19%。 全年销售超过700万套人工智能眼镜（AI glasses）。 预计营收将在未来五年稳步增长。 依视路陆逊梯卡ADR涨幅扩大至8.6%。",
           "url": "https://wallstreetcn.com/livenews/3053884",
           "source": "华尔街见闻-快讯",
@@ -1266,21 +1379,21 @@
           "time_info": "02时02分"
         },
         {
-          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
-          "source": "澎湃新闻",
+          "title": "五角大楼施压AI巨头 力求在机密网络无限制部署大模型",
+          "url": "https://flash.jin10.com/detail/20260212084523268800",
+          "source": "金十数据",
           "ranks": [
-            19
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "09时47分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "财晓得｜当黄金开始暴涨暴跌，你得知道为何它这么“激动”",
@@ -1403,102 +1516,59 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
-          "url": "https://www.zhihu.com/question/2004971546536585165",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 07时54分]"
         },
         {
-          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
-          "url": "https://www.cls.cn/detail/2287578",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 07时54分]"
-        },
-        {
-          "title": "UP主实测DeepSeek新模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 07时54分]"
-        },
-        {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 07时54分]"
-        },
-        {
-          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
-          "url": "https://wallstreetcn.com/articles/3765457",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 07时54分]"
-        },
-        {
-          "title": "DeepSeek新模型来了？",
-          "url": "https://wallstreetcn.com/articles/3765514",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时01分 ~ 07时54分]"
-        },
-        {
-          "title": "【金十数据整理：每日科技要闻速递（2月12日）】 集成电路（芯片）： <span class=\"section-news\">1. 闻泰科技：对荷兰企业法庭就安世半导体案件最新裁决极为失望与强烈不满。</span> <span class=\"section-news\">2. 中国电科14所华创微创新研发的高性能处理器、首款AI处理芯片完成流片及测试。</span> <span class=\"section-news\">3. 三星电子芯片业务总裁兼首席技术官宋在爀表示，凭借其新一代HBM4技术，三星电子已重回内存行业巅峰。</span> <span class=\"section-news\">4. 消息人士：字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节计划今年生产10万至30万颗该款AI芯片。</span> 人工智能： <span class=\"section-news\">1. 豆包App开启Seedance 2.0灰度测试。</span> <span class=\"section-news\">2. Meta将在印第安纳州数据中心投资超过100亿美元。</span> <span class=\"section-news\">3. 科大讯飞发布基于全国产算力训练的星火X2大模型。</span> <span class=\"section-news\">4. 古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布。</span> <span class=\"section-news\">5. 美团发布原生“深度研究”Agent，攻略可用率超ChatGPT。</span> <span class=\"section-news\">6. DeepSeek灰度测试百万Token上下文，知识库更新至2025年5月。</span> <span class=\"section-news\">7. 智谱发布新一代旗舰模型GLM-5，智谱确认神秘模型“Pony Alpha”为GLM-5。</span> <span class=\"section-news\">8. 据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。</span> <span class=\"section-news\">9. MiniMax M2.5模型即将正式上线 ，目前MiniMax M2.5模型已在海外的 MiniMax Agent产品进行内测。</span> <span class=\"section-news\">10. 蚂蚁集团开源发布全模态大模型Ming-Flash-Omni2.0，是业界首个全场景音频统一生成模型，可在同一条音轨中同时生成语音、环境音效与音乐。</span> 其他： <span class=\"section-news\">1. 比尔·盖茨时隔两年半再度到访中国。</span> <span class=\"section-news\">2. 长征十号运载火箭系统低空演示验证与梦舟载人飞船系统最大动压逃逸飞行试验取得成功。</span> <span class=\"section-news\">3. 中国汽车工业协会：1月份，新能源汽车产销分别完成104.1万辆和94.5万辆，同比分别增长2.5%和0.1%。 </span>",
-          "url": "https://flash.jin10.com/detail/20260212071937799800",
+          "title": "美国能源部长赖特：美国正就天然气、采矿、黄金、关键矿物和电力与委内瑞拉进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260212092508576800",
           "source": "金十数据",
           "ranks": [
-            2
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "09时47分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月12日（周四）早盘盘初下跌0.07%报1123.16元/克；<br/>上海黄金交易所白银T+D 2月12日（周四）早盘盘初上涨0.31%报19669.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260212090109519800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "黄金白银直线下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "黄金白银直线下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "野田佳彦惨败辞职后，日本在野党将选新党代表",
@@ -1517,11 +1587,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 07时54分]"
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 09时47分]"
         },
         {
           "title": "日本首相正开启东亚“潘多拉魔盒”",
@@ -1548,6 +1619,17 @@
           "time_info": "[01时12分 ~ 02时02分]"
         },
         {
+          "title": "日本10年期国债收益率下跌4.5个基点，至2.190%。",
+          "url": "https://flash.jin10.com/detail/20260212084009976800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "据日经新闻：日本计划在2033年左右实现抗干扰设备的商业化。",
           "url": "https://flash.jin10.com/detail/20260212003129410800",
           "source": "金十数据",
@@ -1570,15 +1652,176 @@
           "time_info": "01时12分"
         },
         {
+          "title": "日本30年期国债收益率下行7.5个基点至3.420%。 日本40年期国债收益率下行8个基点至3.645%。",
+          "url": "https://wallstreetcn.com/livenews/3054059",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "日本20年期国债收益率下行5个基点至3.055%。",
+          "url": "https://wallstreetcn.com/livenews/3054057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：正以高度紧迫感密切关注市场动态，不对具体汇率水平发表评论；我们丝毫没有放松警惕；与美国当局保持密切联系。",
+          "url": "https://wallstreetcn.com/livenews/3054055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "外交部：日本强征慰安妇铁证如山",
           "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%BC%BA%E5%BE%81%E6%85%B0%E5%AE%89%E5%A6%87%E9%93%81%E8%AF%81%E5%A6%82%E5%B1%B1",
           "source": "百度热搜",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "日本40年期国债收益率下行5.5个基点至3.67%。",
+          "url": "https://wallstreetcn.com/livenews/3054048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 09时47分]"
+        },
+        {
+          "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
+          "url": "https://www.cls.cn/detail/2287578",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 09时47分]"
+        },
+        {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 09时47分]"
+        },
+        {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 09时47分]"
+        },
+        {
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 09时47分]"
+        },
+        {
+          "title": "DeepSeek新模型来了？",
+          "url": "https://wallstreetcn.com/articles/3765514",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时01分 ~ 09时47分]"
+        },
+        {
+          "title": "【金十数据整理：每日科技要闻速递（2月12日）】 集成电路（芯片）： <span class=\"section-news\">1. 闻泰科技：对荷兰企业法庭就安世半导体案件最新裁决极为失望与强烈不满。</span> <span class=\"section-news\">2. 中国电科14所华创微创新研发的高性能处理器、首款AI处理芯片完成流片及测试。</span> <span class=\"section-news\">3. 三星电子芯片业务总裁兼首席技术官宋在爀表示，凭借其新一代HBM4技术，三星电子已重回内存行业巅峰。</span> <span class=\"section-news\">4. 消息人士：字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节计划今年生产10万至30万颗该款AI芯片。</span> 人工智能： <span class=\"section-news\">1. 豆包App开启Seedance 2.0灰度测试。</span> <span class=\"section-news\">2. Meta将在印第安纳州数据中心投资超过100亿美元。</span> <span class=\"section-news\">3. 科大讯飞发布基于全国产算力训练的星火X2大模型。</span> <span class=\"section-news\">4. 古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布。</span> <span class=\"section-news\">5. 美团发布原生“深度研究”Agent，攻略可用率超ChatGPT。</span> <span class=\"section-news\">6. DeepSeek灰度测试百万Token上下文，知识库更新至2025年5月。</span> <span class=\"section-news\">7. 智谱发布新一代旗舰模型GLM-5，智谱确认神秘模型“Pony Alpha”为GLM-5。</span> <span class=\"section-news\">8. 据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。</span> <span class=\"section-news\">9. MiniMax M2.5模型即将正式上线 ，目前MiniMax M2.5模型已在海外的 MiniMax Agent产品进行内测。</span> <span class=\"section-news\">10. 蚂蚁集团开源发布全模态大模型Ming-Flash-Omni2.0，是业界首个全场景音频统一生成模型，可在同一条音轨中同时生成语音、环境音效与音乐。</span> 其他： <span class=\"section-news\">1. 比尔·盖茨时隔两年半再度到访中国。</span> <span class=\"section-news\">2. 长征十号运载火箭系统低空演示验证与梦舟载人飞船系统最大动压逃逸飞行试验取得成功。</span> <span class=\"section-news\">3. 中国汽车工业协会：1月份，新能源汽车产销分别完成104.1万辆和94.5万辆，同比分别增长2.5%和0.1%。 </span>",
+          "url": "https://flash.jin10.com/detail/20260212071937799800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "边问边买，谷歌将AI购物功能嵌入搜索与Gemini",
+          "url": "https://wallstreetcn.com/livenews/3053878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时12分 ~ 02时02分]"
+        },
+        {
+          "title": "谷歌的母公司 Alphabet 拟发行百年期债券，科技圈 30 年来首次，如何解读？",
+          "url": "https://www.zhihu.com/question/2004856222604551649",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
         }
       ]
     },
@@ -1623,8 +1866,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时12分 ~ 07时54分]"
+          "appearance_count": 13,
+          "time_info": "[01时12分 ~ 09时47分]"
         },
         {
           "title": "思科(CSCO.O) CEO：已宣布上调内存价格，将继续关注市场趋势，并在必要时做出进一步调整。",
@@ -1636,24 +1879,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "边问边买，谷歌将AI购物功能嵌入搜索与Gemini",
-          "url": "https://wallstreetcn.com/livenews/3053878",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时12分 ~ 02时02分]"
         }
       ]
     }
