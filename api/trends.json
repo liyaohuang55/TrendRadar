@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T12:20:50.266815+08:00",
-  "total_titles_processed": 988,
+  "generated_at": "2026-02-12T13:46:26.141699+08:00",
+  "total_titles_processed": 1080,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普：伊朗希望达成协议，不然太蠢了",
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[02时02分 ~ 12时20分]"
+          "appearance_count": 14,
+          "time_info": "[02时02分 ~ 13时46分]"
         },
         {
           "title": "特朗普称「若美伊谈判失败，或向中东再派一支航母打击群」，美伊会走向冲突吗？",
@@ -307,6 +307,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
+          "url": "https://www.cls.cn/detail/2287759",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时46分]"
+        },
+        {
           "title": "美国总统特朗普：希望我这四年任期内不会有（新审批的）风电场。",
           "url": "https://wallstreetcn.com/livenews/3053974",
           "source": "华尔街见闻-快讯",
@@ -474,6 +485,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "多名共和党议员“倒戈”！美众议院投票否决特朗普对加拿大征收关税",
+          "url": "https://www.cls.cn/detail/2288046",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "特朗普关税政策正迎来新的挑战",
           "url": "https://www.toutiao.com/trending/7605755745048464905/",
           "source": "今日头条",
@@ -485,15 +507,15 @@
           "time_info": "09时47分"
         },
         {
-          "title": "特朗普称赞1月非农强劲表现 再度呼吁大幅降息",
-          "url": "https://www.cls.cn/detail/2287759",
-          "source": "财联社热门",
+          "title": "特朗普会以总理，称同伊朗达成协议将是“首选”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32588414",
+          "source": "澎湃新闻",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "13时46分"
         },
         {
           "title": "曾派遣武装退伍军人守卫加沙援助站点的美国安保公司UG Solutions周三表示，正与特朗普政府的“和平委员会”商讨该公司在加沙的后续行动。此前该公司因援助点发生致命冲突而遭到联合国谴责。",
@@ -631,8 +653,21 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 48,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
+          "url": "https://www.cls.cn/detail/2287778",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时46分]"
+        },
         {
           "title": "富兰克林邓普顿警告：做空美元交易已过度拥挤",
           "url": "https://wallstreetcn.com/livenews/3053937",
@@ -645,6 +680,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时33分 ~ 05时46分]"
+        },
+        {
+          "title": "深度推演美元霸权的续命逻辑",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A8%E6%BC%94%E7%BE%8E%E5%85%83%E9%9C%B8%E6%9D%83%E7%9A%84%E7%BB%AD%E5%91%BD%E9%80%BB%E8%BE%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时46分]"
         },
         {
           "title": "摩根士丹利将CEO Pick的薪酬从3400万美元提高至4500万美元。",
@@ -699,18 +747,6 @@
           "time_info": "[06时39分 ~ 07时54分]"
         },
         {
-          "title": "AI基建投入持续加码 Meta斥资逾100亿美元新建1吉瓦数据中心",
-          "url": "https://www.cls.cn/detail/2287778",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 12时20分]"
-        },
-        {
           "title": "大摩CEO年薪涨至4500万美元 华尔街大佬一齐步入“涨薪季”",
           "url": "https://flash.jin10.com/detail/20260212055207285800",
           "source": "金十数据",
@@ -760,16 +796,16 @@
           "time_info": "[07时28分 ~ 07时54分]"
         },
         {
-          "title": "深度推演美元霸权的续命逻辑",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A8%E6%BC%94%E7%BE%8E%E5%85%83%E9%9C%B8%E6%9D%83%E7%9A%84%E7%BB%AD%E5%91%BD%E9%80%BB%E8%BE%91",
-          "source": "bilibili 热搜",
+          "title": "联想集团第三财季营收222.0亿美元，预估207.6亿美元。 第三财季净利润5.455亿美元。 第三财季研发支出6.377亿美元，预估6.516亿美元。 第三财季毛利率15.1％，预估15.4％。",
+          "url": "https://wallstreetcn.com/livenews/3054184",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            23
+            2,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时47分 ~ 12时20分]"
+          "time_info": "[12时20分 ~ 13时46分]"
         },
         {
           "title": "WTI 3月原油期货收涨0.67美元，涨幅1.05%，报64.63美元/桶。 布伦特4月原油期货收涨0.60美元，涨幅0.87%，报69.40美元/桶。 NYMEX 3月天然气期货收报3.1590美元/百万英热单位。 NYMEX 3月汽油期货收报1.9789美元/加仑，NYMEX 3月取暖油期货收报2.4404美元/加仑。",
@@ -784,6 +820,17 @@
           "time_info": "[04时34分 ~ 05时46分]"
         },
         {
+          "title": "杰富瑞：将麦当劳(MCD.N)目标价从360美元上调至375美元。",
+          "url": "https://flash.jin10.com/detail/20260212133848939800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        },
+        {
           "title": "周三（2月11日），韩元兑美元最终涨0.73%，刷新日高至1446.73韩元，非农数据发布后跳水至1459.49韩元刷新日低。",
           "url": "https://wallstreetcn.com/livenews/3053897",
           "source": "华尔街见闻-快讯",
@@ -793,17 +840,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "联想集团第三财季营收222.0亿美元，预估207.6亿美元。 第三财季净利润5.455亿美元。 第三财季研发支出6.377亿美元，预估6.516亿美元。 第三财季毛利率15.1％，预估15.4％。",
-          "url": "https://wallstreetcn.com/livenews/3054184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "福特汽车计划在至2030年这段时期推出5款售价低于4万美元的新车。",
@@ -816,6 +852,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时02分]"
+        },
+        {
+          "title": "阿波罗推进打造私募信贷二级市场 去年交易100亿美元投资级私募贷款",
+          "url": "https://wallstreetcn.com/livenews/3054210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9106元，较周二夜盘收盘涨34点。成交量351.12亿美元。",
@@ -985,7 +1032,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1007,7 +1054,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1040,7 +1087,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1051,7 +1098,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1062,7 +1109,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1084,7 +1131,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1109,6 +1156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时46分"
+        },
+        {
+          "title": "离岸人民币兑美元升破6.9元关口",
+          "url": "https://www.toutiao.com/trending/7605789817812553222/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "思科(CSCO.O) CEO：目前预计人工智能订单将超过50亿美元，并在2026财年从超大规模企业中确认超过30亿美元的人工智能基础设施收入。",
@@ -1191,7 +1249,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "“AI之战”输不得！如果美股Mag 7今年就把现金流“烧成负数”，这对市场意味着什么？",
@@ -1218,8 +1276,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[01时12分 ~ 13时46分]"
         },
         {
           "title": "Seedance爆火背后：真假难辨和个人隐私受关注，AI创作如何守住边界？",
@@ -1228,11 +1286,12 @@
           "ranks": [
             16,
             14,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[01时12分 ~ 13时46分]"
         },
         {
           "title": "国产AI降维打击,老外酸了",
@@ -1240,11 +1299,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[01时12分 ~ 13时46分]"
         },
         {
           "title": "以假乱真,奥特曼大AI时代来临",
@@ -1258,6 +1318,18 @@
           "time_info": "[01时12分 ~ 09时47分]"
         },
         {
+          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
+          "url": "https://wallstreetcn.com/articles/3765486",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时27分 ~ 13时46分]"
+        },
+        {
           "title": "美股遍寻“下一个AI受害者”，周一保险经纪崩了、周二财富管理崩了，嘉信理财盘中跌超9%",
           "url": "https://wallstreetcn.com/articles/3765438",
           "source": "华尔街见闻",
@@ -1269,16 +1341,18 @@
           "time_info": "[01时12分 ~ 05时46分]"
         },
         {
-          "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
-          "url": "https://wallstreetcn.com/articles/3765486",
-          "source": "华尔街见闻",
+          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
+          "source": "澎湃新闻",
           "ranks": [
-            2,
-            1
+            19,
+            17,
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时27分 ~ 12时20分]"
+          "appearance_count": 4,
+          "time_info": "[07时54分 ~ 13时46分]"
         },
         {
           "title": "让AI集体翻车的洗车难题",
@@ -1286,35 +1360,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 12时20分]"
-        },
-        {
-          "title": "传统制作成本转向算力成本？AI技术平权能给影视行业带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583102",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            17,
-            13
+            7,
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时54分 ~ 12时20分]"
-        },
-        {
-          "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
-          "url": "https://wallstreetcn.com/livenews/3054185",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "[09时47分 ~ 13时46分]"
         },
         {
           "title": "“下一个AI受害者”出现了，房地产服务股遭抛售，创疫情以来最大单日跌幅",
@@ -1325,8 +1376,31 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时46分]"
+        },
+        {
+          "title": "美团升级“问小团”加入AI大战，春节前上线吃喝玩乐“AI管家”",
+          "url": "https://wallstreetcn.com/livenews/3054185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时47分 ~ 12时20分]"
+          "time_info": "[12时20分 ~ 13时46分]"
+        },
+        {
+          "title": "智谱午后涨幅扩大至40%，公司上调AI编程订阅套餐价格并将推出新模型。",
+          "url": "https://wallstreetcn.com/livenews/3054213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "马斯克旗下xAI披露全体会议的视频。",
@@ -1339,6 +1413,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时34分 ~ 05时46分]"
+        },
+        {
+          "title": "支付宝AI付笔数超1.2亿",
+          "url": "https://wallstreetcn.com/livenews/3054179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时46分]"
         },
         {
           "title": "马斯克：遗憾的是，必须与xAI的部分员工分道扬镳。",
@@ -1376,15 +1462,16 @@
           "time_info": "[09时47分 ~ 12时20分]"
         },
         {
-          "title": "支付宝AI付笔数超1.2亿",
-          "url": "https://wallstreetcn.com/livenews/3054179",
-          "source": "华尔街见闻-快讯",
+          "title": "男子用AI一夜赚够一线房首付",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E4%B8%80%E5%A4%9C%E8%B5%9A%E5%A4%9F%E4%B8%80%E7%BA%BF%E6%88%BF%E9%A6%96%E4%BB%98%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
           "ranks": [
-            5
+            7,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时46分]"
         },
         {
           "title": "AI基础设施需求爆发 思科上调业绩预期",
@@ -1396,6 +1483,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时46分 ~ 06时01分]"
+        },
+        {
+          "title": "马斯克xAI全员大会宣布裁员",
+          "url": "https://www.toutiao.com/trending/7605774882411908671/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时46分]"
         },
         {
           "title": "巴西Flavio Bolsonaro：在我竞选总统一事上，Minas Gerais的Zema会是一个不错的副总统人选，但我们还没有谈及此事。",
@@ -1444,17 +1542,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "男子用AI一夜赚够一线房首付",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%94%A8AI%E4%B8%80%E5%A4%9C%E8%B5%9A%E5%A4%9F%E4%B8%80%E7%BA%BF%E6%88%BF%E9%A6%96%E4%BB%98%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
           "title": "中美AI“隔空开打”",
           "url": "https://www.toutiao.com/trending/7605571340929601066/",
           "source": "今日头条",
@@ -1475,6 +1562,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "即梦AI正式接入最新视频生成模型Seedance 2.0与图片生成模型Seedream 5.0 Lite。",
+          "url": "https://wallstreetcn.com/livenews/3054196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "腾讯是在把 AI 泛娱乐生态拱手让给字节跳动吗？",
@@ -1527,20 +1625,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
         {
-          "title": "马斯克xAI全员大会宣布裁员",
-          "url": "https://www.toutiao.com/trending/7605774882411908671/",
-          "source": "今日头条",
+          "title": "机械开发设计岗会不会被 ai 取代?",
+          "url": "https://www.zhihu.com/question/1892919652683850639",
+          "source": "知乎",
           "ranks": [
-            19
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "13时46分"
         },
         {
           "title": "千问6天AI订单量破1.2亿单",
@@ -1549,7 +1647,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1560,7 +1658,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         },
@@ -1571,7 +1669,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时20分"
         }
@@ -1685,6 +1783,30 @@
           "time_info": "[06时01分 ~ 07时28分]"
         },
         {
+          "title": "黄金白银直线下跌",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 13时46分]"
+        },
+        {
+          "title": "金十图示：2026年02月12日（周四）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260212120338120800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时46分]"
+        },
+        {
           "title": "非农就业意外强劲，美股指集体高开，标普500创新高，美元指数短线走高，美债承压，黄金涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3765486",
           "source": "华尔街见闻",
@@ -1696,17 +1818,6 @@
           "time_info": "01时12分"
         },
         {
-          "title": "金十图示：2026年02月12日（周四）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260212120338120800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2吨，当前持仓量为1081.32吨。",
           "url": "https://flash.jin10.com/detail/20260212071526208800",
           "source": "金十数据",
@@ -1716,18 +1827,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
-        },
-        {
-          "title": "黄金白银直线下跌",
-          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E7%9B%B4%E7%BA%BF%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 12时20分]"
         },
         {
           "title": "美国能源部长赖特：美国正就天然气、采矿、黄金、关键矿物和电力与委内瑞拉进行磋商。",
@@ -1790,8 +1889,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[01时12分 ~ 13时46分]"
         },
         {
           "title": "日本首相正开启东亚“潘多拉魔盒”",
@@ -1806,6 +1905,17 @@
           "time_info": "[06时01分 ~ 07时28分]"
         },
         {
+          "title": "邱毅：日本政坛剧变再度成为亚太乱源",
+          "url": "https://www.toutiao.com/trending/7604684055234002990/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时46分]"
+        },
+        {
           "title": "据日经新闻：日本计划最早于今年夏季开始测试反干扰技术，并力争在2028财年之前研发出相关设备。",
           "url": "https://flash.jin10.com/detail/20260212003139866800",
           "source": "金十数据",
@@ -1816,17 +1926,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时02分]"
-        },
-        {
-          "title": "邱毅：日本政坛剧变再度成为亚太乱源",
-          "url": "https://www.toutiao.com/trending/7604684055234002990/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
         },
         {
           "title": "日本10年期国债收益率下跌4.5个基点，至2.190%。",
@@ -1920,7 +2019,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
@@ -1951,11 +2050,12 @@
           "ranks": [
             4,
             5,
-            14
+            14,
+            8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[01时12分 ~ 13时46分]"
         },
         {
           "title": "DeepSeek低调升级新模型",
@@ -1966,8 +2066,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 12时20分]"
+          "appearance_count": 15,
+          "time_info": "[01时12分 ~ 13时46分]"
         },
         {
           "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
@@ -1993,8 +2093,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时01分 ~ 12时20分]"
+          "appearance_count": 9,
+          "time_info": "[06时01分 ~ 13时46分]"
         },
         {
           "title": "【金十数据整理：每日科技要闻速递（2月12日）】 集成电路（芯片）： <span class=\"section-news\">1. 闻泰科技：对荷兰企业法庭就安世半导体案件最新裁决极为失望与强烈不满。</span> <span class=\"section-news\">2. 中国电科14所华创微创新研发的高性能处理器、首款AI处理芯片完成流片及测试。</span> <span class=\"section-news\">3. 三星电子芯片业务总裁兼首席技术官宋在爀表示，凭借其新一代HBM4技术，三星电子已重回内存行业巅峰。</span> <span class=\"section-news\">4. 消息人士：字节跳动正在研发一款AI芯片，并正与三星洽谈代工事宜，字节计划今年生产10万至30万颗该款AI芯片。</span> 人工智能： <span class=\"section-news\">1. 豆包App开启Seedance 2.0灰度测试。</span> <span class=\"section-news\">2. Meta将在印第安纳州数据中心投资超过100亿美元。</span> <span class=\"section-news\">3. 科大讯飞发布基于全国产算力训练的星火X2大模型。</span> <span class=\"section-news\">4. 古尔曼：苹果Siri升级陷僵局 部分功能或推迟至9月发布。</span> <span class=\"section-news\">5. 美团发布原生“深度研究”Agent，攻略可用率超ChatGPT。</span> <span class=\"section-news\">6. DeepSeek灰度测试百万Token上下文，知识库更新至2025年5月。</span> <span class=\"section-news\">7. 智谱发布新一代旗舰模型GLM-5，智谱确认神秘模型“Pony Alpha”为GLM-5。</span> <span class=\"section-news\">8. 据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。</span> <span class=\"section-news\">9. MiniMax M2.5模型即将正式上线 ，目前MiniMax M2.5模型已在海外的 MiniMax Agent产品进行内测。</span> <span class=\"section-news\">10. 蚂蚁集团开源发布全模态大模型Ming-Flash-Omni2.0，是业界首个全场景音频统一生成模型，可在同一条音轨中同时生成语音、环境音效与音乐。</span> 其他： <span class=\"section-news\">1. 比尔·盖茨时隔两年半再度到访中国。</span> <span class=\"section-news\">2. 长征十号运载火箭系统低空演示验证与梦舟载人飞船系统最大动压逃逸飞行试验取得成功。</span> <span class=\"section-news\">3. 中国汽车工业协会：1月份，新能源汽车产销分别完成104.1万辆和94.5万辆，同比分别增长2.5%和0.1%。 </span>",
@@ -2006,12 +2106,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "从Deepseek到Seedance中国AI成了",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%8EDeepseek%E5%88%B0Seedance%E4%B8%AD%E5%9B%BDAI%E6%88%90%E4%BA%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "边问边买，谷歌将AI购物功能嵌入搜索与Gemini",
@@ -2024,6 +2135,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时12分 ~ 02时02分]"
+        },
+        {
+          "title": "韩国IT巨头Kakao宣布将与谷歌合作，共同开发基于Android XR和Android移动体验的AI眼镜用户体验，并将最新AI技术融入其中。",
+          "url": "https://wallstreetcn.com/livenews/3054194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
         },
         {
           "title": "谷歌的母公司 Alphabet 拟发行百年期债券，科技圈 30 年来首次，如何解读？",
@@ -2104,11 +2226,12 @@
           "url": "https://www.cls.cn/detail/2287935",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时20分 ~ 13时46分]"
         }
       ]
     }
