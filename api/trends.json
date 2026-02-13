@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T18:35:29.040833+08:00",
-  "total_titles_processed": 1676,
+  "generated_at": "2026-02-13T19:28:32.986575+08:00",
+  "total_titles_processed": 1764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 87,
+      "match_count": 90,
       "titles": [
         {
           "title": "深度推演美元霸权的续命逻辑",
@@ -54,6 +54,18 @@
           "time_info": "[00时29分 ~ 09时49分]"
         },
         {
+          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
+          "url": "https://wallstreetcn.com/articles/3765636",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时54分 ~ 19时28分]"
+        },
+        {
           "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
           "url": "https://www.cls.cn/detail/2289062",
           "source": "财联社热门",
@@ -66,18 +78,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时49分 ~ 15时47分]"
-        },
-        {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时54分 ~ 18时35分]"
         },
         {
           "title": "英伟达将租赁由38亿美元垃圾债融资建设的数据中心",
@@ -821,6 +821,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "美银：美国政策催生“一切皆可、美元除外”交易 其他国际资产将受提振",
+          "url": "https://wallstreetcn.com/livenews/3055137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "周四（2月12日），韩元兑美元最终涨0.50%，报1439.44韩元，亚太时段持续走高，北京时间14:00以来高位震荡。",
           "url": "https://wallstreetcn.com/livenews/3054659",
           "source": "华尔街见闻-快讯",
@@ -860,7 +871,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -942,13 +953,24 @@
           "time_info": "01时36分"
         },
         {
+          "title": "逾6亿美元拨款“被砍”，4州起诉特朗普政府",
+          "url": "https://wallstreetcn.com/livenews/3055132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "去年印度GDP达4.18万亿美元",
           "url": "https://www.toutiao.com/trending/7605162003853803563/",
           "source": "今日头条",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -984,6 +1006,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
+        },
+        {
+          "title": "俄罗斯央行：将根据通货膨胀情况考虑采取进一步措施。 预计2026年底的通胀率将在4.5%至5.5%之间，此前的预期为4%至5%。 预计2026年GDP增长率为0.5%至1.5%，此前预计0.5%至1.5%。 预计2026年经常账户盈余将达100亿美元，此前预计270亿美元。 截至2月9日，通货膨胀率为6.3%。 在下次会议中评估是否需要降息。 1月份通货膨胀飙升系由一次性因素所致。",
+          "url": "https://wallstreetcn.com/livenews/3055130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "美元兑加元USD/CAD站上1.36，日内涨0.20%。",
@@ -1047,7 +1080,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
@@ -1055,7 +1088,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
@@ -1080,19 +1113,6 @@
           "time_info": "[00时29分 ~ 07时55分]"
         },
         {
-          "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
-          "url": "https://news.ifeng.com/c/8qhfIw9PImo",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 18时35分]"
-        },
-        {
           "title": "春节前，中国工厂忙赶工，“仿佛特朗普关税不存在”",
           "url": "https://news.ifeng.com/c/8qgZNx2x3dB",
           "source": "凤凰网",
@@ -1102,6 +1122,20 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时29分 ~ 09时49分]"
+        },
+        {
+          "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
+          "url": "https://news.ifeng.com/c/8qhfIw9PImo",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 19时28分]"
         },
         {
           "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
@@ -1180,6 +1214,20 @@
           "time_info": "[00时29分 ~ 07时55分]"
         },
         {
+          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
+          "url": "https://www.cls.cn/detail/2289315",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时43分 ~ 19时28分]"
+        },
+        {
           "title": "路透社：特朗普访华前暂停对华科技禁令",
           "url": "https://news.ifeng.com/c/8qhwigwSERf",
           "source": "凤凰网",
@@ -1192,20 +1240,6 @@
           "time_info": "[13时43分 ~ 17时39分]"
         },
         {
-          "title": "煤炭业的狂欢 环保者的悲哀！特朗普宣布撤销“温室气体危害认定”",
-          "url": "https://www.cls.cn/detail/2289315",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时43分 ~ 18时35分]"
-        },
-        {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
           "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
           "source": "凤凰网",
@@ -1214,8 +1248,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 19时28分]"
         },
         {
           "title": "特朗普：美国“必须”与伊朗达成协议，否则局势将“非常严重”",
@@ -1230,6 +1264,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时47分 ~ 05时42分]"
+        },
+        {
+          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 19时28分]"
         },
         {
           "title": "美国总统特朗普将于下周宣布加沙重建计划。（路透）",
@@ -1373,17 +1419,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时47分 ~ 05时01分]"
-        },
-        {
-          "title": "特朗普称印度同意不再购买俄油？俄方回应：没听说过",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32593433",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 18时35分]"
         },
         {
           "title": "英媒：特朗普拟缩减部分钢铁和铝制品关税 以缓解“可负担性危机”",
@@ -1619,6 +1654,17 @@
           "time_info": "02时56分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-13）",
+          "url": "https://flash.jin10.com/detail/20260213184225992800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：预计参议院将对“众议院已经批准的‘拒绝特朗普对加拿大加征关税’”进行表决。",
           "url": "https://wallstreetcn.com/livenews/3054633",
           "source": "华尔街见闻-快讯",
@@ -1781,8 +1827,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 18时35分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 19时28分]"
         },
         {
           "title": "强劲非农打击降息预期，AI担忧拖累美股指，美债承压，金银涨，原油冲高回落",
@@ -1830,8 +1876,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时16分 ~ 18时35分]"
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 19时28分]"
         },
         {
           "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
@@ -1855,8 +1901,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时49分 ~ 18时35分]"
+          "appearance_count": 11,
+          "time_info": "[09时49分 ~ 19时28分]"
         },
         {
           "title": "【焦点复盘】市场全天现深强沪弱，AI硬件端表现火热，大消费板块延续调整",
@@ -1946,6 +1992,30 @@
           "time_info": "[09时49分 ~ 14时54分]"
         },
         {
+          "title": "老码农裁员理由+1:被AI优化",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 19时28分]"
+        },
+        {
+          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
+          "url": "https://wallstreetcn.com/articles/3765637",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时47分 ~ 19时28分]"
+        },
+        {
           "title": "网信部门从严整治传播无AI标识的虚假不实信息问题",
           "url": "https://m.thepaper.cn/newsDetail_forward_32593042",
           "source": "澎湃新闻",
@@ -1960,16 +2030,44 @@
           "time_info": "[14时54分 ~ 18时35分]"
         },
         {
-          "title": "老码农裁员理由+1:被AI优化",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350655&amp;topic_name=%E8%80%81%E7%A0%81%E5%86%9C%E8%A3%81%E5%91%98%E7%90%86%E7%94%B1%2B1%3A%E8%A2%ABAI%E4%BC%98%E5%8C%96",
-          "source": "贴吧",
+          "title": "一个2.6万亿AI独角兽诞生",
+          "url": "https://www.toutiao.com/trending/7606174592784158251/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时47分 ~ 19时28分]"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            25,
+            23,
+            18,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时47分 ~ 19时28分]"
+        },
+        {
+          "title": "杭州大哥开1人公司靠AI月入200万",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
             2,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时35分]"
+          "time_info": "[17时38分 ~ 19时28分]"
         },
         {
           "title": "中国AI视频双雄并起",
@@ -1986,54 +2084,30 @@
           "time_info": "[00时29分 ~ 03时47分]"
         },
         {
-          "title": "加剧AI恐慌！微软高管：大多数白领工作将在“未来12-18个月内”完全自动化",
-          "url": "https://wallstreetcn.com/articles/3765637",
-          "source": "华尔街见闻",
+          "title": "澎湃AI晚新闻丨2026年2月12日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
+          "source": "澎湃新闻",
           "ranks": [
-            10
+            19,
+            16,
+            11
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时47分 ~ 18时35分]"
+          "time_info": "[16时37分 ~ 19时28分]"
         },
         {
-          "title": "一个2.6万亿AI独角兽诞生",
-          "url": "https://www.toutiao.com/trending/7606174592784158251/",
-          "source": "今日头条",
+          "title": "AI整活无底线,赛文演员急了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
+          "source": "贴吧",
           "ranks": [
-            13,
-            12,
-            18
+            5,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时47分 ~ 18时35分]"
-        },
-        {
-          "title": "Seedance2.0展示中国AI潜力",
-          "url": "https://www.douyin.com/hot/2398167",
-          "source": "抖音",
-          "ranks": [
-            25,
-            23,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时47分 ~ 18时35分]"
-        },
-        {
-          "title": "杭州大哥开1人公司靠AI月入200万",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 18时35分]"
+          "appearance_count": 4,
+          "time_info": "[17时38分 ~ 19时28分]"
         },
         {
           "title": "AI初创公司助力企业预测财报电话会议提问",
@@ -2063,28 +2137,15 @@
           "time_info": "[06时58分 ~ 07时55分]"
         },
         {
-          "title": "澎湃AI晚新闻丨2026年2月12日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32595090",
-          "source": "澎湃新闻",
+          "title": "杭州大哥开1人公司靠AI月入200万",
+          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87",
+          "source": "百度热搜",
           "ranks": [
-            19,
-            16
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时35分]"
-        },
-        {
-          "title": "AI整活无底线,赛文演员急了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350657&amp;topic_name=AI%E6%95%B4%E6%B4%BB%E6%97%A0%E5%BA%95%E7%BA%BF%2C%E8%B5%9B%E6%96%87%E6%BC%94%E5%91%98%E6%80%A5%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时38分 ~ 18时35分]"
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时28分]"
         },
         {
           "title": "AI引发的资本市场大溃逃，美股商业地产遭遇“黑色星期四”",
@@ -2139,17 +2200,6 @@
           "time_info": "[03时47分 ~ 05时01分]"
         },
         {
-          "title": "杭州大哥开1人公司靠AI月入200万",
-          "url": "https://www.baidu.com/s?wd=%E6%9D%AD%E5%B7%9E%E5%A4%A7%E5%93%A5%E5%BC%801%E4%BA%BA%E5%85%AC%E5%8F%B8%E9%9D%A0AI%E6%9C%88%E5%85%A5200%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
           "title": "美股饱受AI焦虑摧残 亚洲芯片制造龙头企业受全球资金追捧",
           "url": "https://wallstreetcn.com/livenews/3054952",
           "source": "华尔街见闻-快讯",
@@ -2184,6 +2234,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时29分 ~ 07时55分]"
+        },
+        {
+          "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
+          "url": "https://www.zhihu.com/question/2005346719148237010",
+          "source": "知乎",
+          "ranks": [
+            17,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时28分]"
         },
         {
           "title": "软件股“遭嫌弃”？亚马逊AWS CEO力挺：因AI产生的恐惧被夸大了！",
@@ -2332,17 +2394,6 @@
           "time_info": "02时56分"
         },
         {
-          "title": "因制作「奥特曼怀孕」等视频多名博主被罚，AI 二创的伦理边界在哪里？平台与创作者各自该承担什么责任？",
-          "url": "https://www.zhihu.com/question/2005346719148237010",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
           "title": "美欧市场物流股集体跳水，成为“AI恐慌交易”又一受害者",
           "url": "https://wallstreetcn.com/livenews/3054660",
           "source": "华尔街见闻-快讯",
@@ -2412,7 +2463,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "玉渊谭天：日本正迈出“危险三步”",
@@ -2430,6 +2481,29 @@
           "time_info": "[12时16分 ~ 16时37分]"
         },
         {
+          "title": "外交部回应日本扣押中国渔船",
+          "url": "https://www.douyin.com/hot/2399431",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 19时28分]"
+        },
+        {
+          "title": "中方回应日本扣押中国渔船",
+          "url": "https://news.ifeng.com/c/8qiCGsBqPHB",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 19时28分]"
+        },
+        {
           "title": "日媒：日本扣押一艘中国渔船，船长被逮捕",
           "url": "https://news.ifeng.com/c/8qhsTBfhicI",
           "source": "凤凰网",
@@ -2441,27 +2515,29 @@
           "time_info": "[12时16分 ~ 15时47分]"
         },
         {
-          "title": "外交部回应日本扣押中国渔船",
-          "url": "https://www.douyin.com/hot/2399431",
-          "source": "抖音",
+          "title": "中方回应日本扣押中国渔船",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9",
+          "source": "百度热搜",
           "ranks": [
-            1
+            5,
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 19时28分]"
         },
         {
           "title": "中方回应日本扣押中国渔船",
-          "url": "https://news.ifeng.com/c/8qiCGsBqPHB",
-          "source": "凤凰网",
+          "url": "https://www.toutiao.com/trending/7606125280272482346/",
+          "source": "今日头条",
           "ranks": [
-            1,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时35分]"
+          "appearance_count": 5,
+          "time_info": "[16时37分 ~ 19时28分]"
         },
         {
           "title": "日本正在迈出“危险的三步”",
@@ -2476,30 +2552,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时43分 ~ 16时37分]"
-        },
-        {
-          "title": "中方回应日本扣押中国渔船",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时35分]"
-        },
-        {
-          "title": "中方回应日本扣押中国渔船",
-          "url": "https://www.toutiao.com/trending/7606125280272482346/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时37分 ~ 18时35分]"
         },
         {
           "title": "时隔4年 日本再次扣押中国大陆渔船",
@@ -2534,6 +2586,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时38分 ~ 17时39分]"
+        },
+        {
+          "title": "外交部回应日本再次扣押中国大陆渔船一事，日方近期在涉华问题上动作频频，哪些信息值得关注？会有什么影响？",
+          "url": "https://www.zhihu.com/question/2005639895000044849",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时28分]"
         },
         {
           "title": "两年期日本国债收益率跌幅收窄，现下跌0.5个基点至1.295%。",
@@ -2606,6 +2669,17 @@
           "time_info": "[15时47分 ~ 16时37分]"
         },
         {
+          "title": "太猖狂!日本扣押中国渔船",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350665&amp;topic_name=%E5%A4%AA%E7%8C%96%E7%8B%82%21%E6%97%A5%E6%9C%AC%E6%89%A3%E6%8A%BC%E4%B8%AD%E5%9B%BD%E6%B8%94%E8%88%B9",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "日本2月6日当周净买进国外债券 -3657亿日元，前值 7137亿日元。",
           "url": "https://wallstreetcn.com/livenews/3054779",
           "source": "华尔街见闻-快讯",
@@ -2638,17 +2712,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
-        },
-        {
-          "title": "外交部回应日本再次扣押中国大陆渔船一事，日方近期在涉华问题上动作频频，哪些信息值得关注？会有什么影响？",
-          "url": "https://www.zhihu.com/question/2005639895000044849",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
         },
         {
           "title": "日本央行审议委员田村直树：我认为过去加息对日本经济的影响非常有限。",
@@ -2904,6 +2967,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "日本首相将于周一会见日本央行行长。",
+          "url": "https://wallstreetcn.com/livenews/3055134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "日本央行审议委员田村直树：我们正处于一个需要仔细审视各种数据的阶段，以确定日本能否平稳实现物价目标。",
           "url": "https://flash.jin10.com/detail/20260213113216920800",
           "source": "金十数据",
@@ -2943,7 +3017,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -2962,7 +3036,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
@@ -2972,8 +3046,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 18时35分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 19时28分]"
         },
         {
           "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
@@ -2984,8 +3058,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时49分 ~ 18时35分]"
+          "appearance_count": 12,
+          "time_info": "[09时49分 ~ 19时28分]"
         },
         {
           "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
@@ -3041,8 +3115,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时43分 ~ 18时35分]"
+          "appearance_count": 9,
+          "time_info": "[13时43分 ~ 19时28分]"
         },
         {
           "title": "黄金“疯狂”行情背后推手是谁",
@@ -3174,7 +3248,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         },
@@ -3247,6 +3321,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "黄金还能买吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 19时28分]"
         },
         {
           "title": "现货黄金日内涨幅达1.00%，现报4972.06美元/盎司。",
@@ -3392,17 +3478,6 @@
           "time_info": "09时49分"
         },
         {
-          "title": "黄金还能买吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%BB%84%E9%87%91%E8%BF%98%E8%83%BD%E4%B9%B0%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时35分"
-        },
-        {
           "title": "现货黄金短线反弹逾70美元，现回升至4956美元/盎司，此前一度跳水至最低4878.37美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260213004334868800",
           "source": "金十数据",
@@ -3412,6 +3487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "宁德时代、洛阳钼业和老铺黄金将纳入香港恒生指数",
+          "url": "https://wallstreetcn.com/livenews/3055121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         }
       ]
     },
@@ -3449,8 +3535,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 18时35分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 19时28分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -3471,8 +3557,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 18时35分]"
+          "appearance_count": 26,
+          "time_info": "[00时29分 ~ 19时28分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -3499,8 +3585,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时47分 ~ 18时35分]"
+          "appearance_count": 6,
+          "time_info": "[15时47分 ~ 19时28分]"
         },
         {
           "title": "DeepSeek回应被指冷淡",
@@ -3711,7 +3797,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
@@ -3767,7 +3853,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时35分"
         }
@@ -3786,11 +3872,12 @@
             11,
             9,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时54分 ~ 18时35分]"
+          "appearance_count": 7,
+          "time_info": "[14时54分 ~ 19时28分]"
         }
       ]
     },
