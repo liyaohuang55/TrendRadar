@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T04:24:41.908997+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-02-17T04:55:16.693715+08:00",
+  "total_titles_processed": 531,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "LME期铜收跌30美元，报12850美元/吨。 LME期铝收跌25美元，报3052美元/吨。 LME期锌收跌48美元，报3290美元/吨。 LME期铅收跌2美元，报1958美元/吨。 LME期镍收涨131美元，报17155美元/吨。 LME期锡收跌1021美元，报45681美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -13,11 +13,51 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            9
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 04时55分]"
+        },
+        {
+          "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3055826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时01分 ~ 04时24分]"
+          "time_info": "[03时08分 ~ 04时55分]"
+        },
+        {
+          "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20260217014706786800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13,
+            20,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 04时55分]"
+        },
+        {
+          "title": "布伦特4月原油期货收报68.65美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3055824",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 04时55分]"
         },
         {
           "title": "Smithfield Foods未来三年将针对设施开支大约13亿美元。 该公司将新建美国南达科塔州猪肉加工厂。（华尔街日报）",
@@ -33,53 +73,18 @@
           "time_info": "[01时09分 ~ 04时24分]"
         },
         {
-          "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3055826",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 04时24分]"
-        },
-        {
-          "title": "美国总统特朗普：反对纽约州和新泽西州的Gateway项目，该项目的成本将比预期高出数十亿美元。",
-          "url": "https://flash.jin10.com/detail/20260217014706786800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            13,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 04时24分]"
-        },
-        {
-          "title": "布伦特4月原油期货收报68.65美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3055824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 04时24分]"
-        },
-        {
           "title": "据纽约邮报：特朗普称“和平委员会”将商讨如何使用为加沙项目筹集的50亿美元资金。",
           "url": "https://flash.jin10.com/detail/20260217024318964800",
           "source": "金十数据",
           "ranks": [
             1,
             8,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 04时55分]"
         },
         {
           "title": "现货钯金上涨逾3%，至1741.69美元/盎司。",
@@ -100,11 +105,34 @@
           "source": "金十数据",
           "ranks": [
             7,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时52分 ~ 04时24分]"
+          "appearance_count": 3,
+          "time_info": "[03时52分 ~ 04时55分]"
+        },
+        {
+          "title": "声明显示，必和必拓(BHP.N)和伦丁旗下的维库纳公司（Vicuna Corp）预计将在未来数年对阿根廷铜矿项目投资180亿美元。",
+          "url": "https://flash.jin10.com/detail/20260217043631932800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
+        },
+        {
+          "title": "周一（2月16日）纽约尾盘，ICE美元指数涨0.16%，报97.066点，日内交投区间为96.907-97.120点。 彭博美元指数涨0.13%，报1182.94点，日内交投区间为1181.33-1183.44点。",
+          "url": "https://wallstreetcn.com/livenews/3055833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         },
         {
           "title": "现货钯金站上1700美元/盎司，日内涨1.56%。",
@@ -202,8 +230,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -214,8 +242,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "AI遇上最强春节档 Token通胀已成必然？",
@@ -226,8 +254,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -238,8 +266,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -250,8 +278,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -262,8 +290,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "新春走基层·山乡新貌｜从清理冒牌软件到教用AI：家乡长辈们正努力填平“数字鸿沟”",
@@ -275,8 +303,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "1.3亿人春节首次体验AI购物，千问一跃成为国民级AI助手",
@@ -285,11 +313,26 @@
           "ranks": [
             8,
             18,
+            26,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 04时55分]"
+        },
+        {
+          "title": "刘维用AI与去世父母姥姥隔空相见",
+          "url": "https://www.toutiao.com/trending/7607362287455797294/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            23,
+            18,
             26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "这波三角洲AI春晚真该留到今晚看",
@@ -303,19 +346,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时08分 ~ 04时24分]"
-        },
-        {
-          "title": "刘维用AI与去世父母姥姥隔空相见",
-          "url": "https://www.toutiao.com/trending/7607362287455797294/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            23,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时04分 ~ 03时08分]"
         },
         {
           "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
@@ -332,7 +362,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
@@ -341,11 +371,12 @@
           "ranks": [
             5,
             15,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 04时55分]"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -353,11 +384,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 04时55分]"
         },
         {
           "title": "美国总统特朗普：联邦政府绝不会为任何成本超支承担一分钱责任！ 但联邦政府愿意介入协商，以确保此类情况不会发生。",
@@ -367,11 +399,40 @@
             1,
             12,
             19,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 04时55分]"
+        },
+        {
+          "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
+          "url": "https://flash.jin10.com/detail/20260217021035538800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15,
+            19,
             23
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时01分 ~ 04时24分]"
+          "time_info": "[03时08分 ~ 04时55分]"
+        },
+        {
+          "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
+          "url": "https://flash.jin10.com/detail/20260217020218911800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            17,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 04时55分]"
         },
         {
           "title": "特朗普抨击加州州长与英国签署清洁能源协议“不合适”",
@@ -385,32 +446,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时09分 ~ 03时08分]"
-        },
-        {
-          "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
-          "url": "https://flash.jin10.com/detail/20260217021035538800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 04时24分]"
-        },
-        {
-          "title": "特朗普：联邦政府绝不为“Gateway”项目超支买单",
-          "url": "https://flash.jin10.com/detail/20260217020218911800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 04时24分]"
         },
         {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
@@ -435,6 +470,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时09分 ~ 02时01分]"
+        },
+        {
+          "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
+          "url": "https://flash.jin10.com/detail/20260217040455048800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时55分"
         }
       ]
     },
@@ -451,8 +497,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -464,8 +510,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -537,8 +583,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时55分]"
         },
         {
           "title": "据日经新闻：日本瑞穗银行证券公司面临内幕交易调查。",
@@ -547,11 +593,12 @@
           "ranks": [
             11,
             18,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时08分 ~ 04时24分]"
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 04时55分]"
         },
         {
           "title": "日方称针对中方就日本安保政策作出的“不恰当发言”已提出交涉，中使馆：所谓交涉歪曲事实、颠倒黑白、纯属狡辩，完全于理不通！（环球时报）",
@@ -578,11 +625,12 @@
           "ranks": [
             7,
             17,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时09分 ~ 04时24分]"
+          "appearance_count": 6,
+          "time_info": "[01时09分 ~ 04时55分]"
         },
         {
           "title": "金十图示：2026年02月17日（周二）全球股市指数-欧洲市场（收盘）",
@@ -611,8 +659,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时55分]"
         }
       ]
     },
@@ -631,8 +679,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 04时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时04分 ~ 04时55分]"
         }
       ]
     },
@@ -646,11 +694,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时01分 ~ 04时24分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 04时55分]"
         }
       ]
     }
