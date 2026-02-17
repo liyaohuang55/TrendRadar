@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T12:15:22.387396+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-02-17T13:42:12.690120+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -274,7 +274,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         },
@@ -288,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "美元兑日元USD/JPY跌破153，日内跌0.28%。",
+          "url": "https://flash.jin10.com/detail/20260217124018353800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "WTI原油日内涨幅扩大至1.00%，现报63.44美元/桶。",
@@ -326,7 +337,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "AI热潮助力港股蛇年收官战告捷，MiniMax暴涨25%、智谱涨4.74%齐创新高，有色板块拉升",
@@ -337,8 +348,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时04分 ~ 12时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时04分 ~ 13时42分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -361,8 +372,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时04分 ~ 12时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时04分 ~ 13时42分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -373,8 +384,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时04分 ~ 12时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时04分 ~ 13时42分]"
         },
         {
           "title": "告别“码农”时代？马斯克预言“就在年底”，国产大模型春节竞速AI编程",
@@ -385,8 +396,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时04分 ~ 12时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时04分 ~ 13时42分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -459,6 +470,19 @@
           "time_info": "[06时57分 ~ 12时15分]"
         },
         {
+          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
+          "url": "https://wallstreetcn.com/articles/3765781",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 13时42分]"
+        },
+        {
           "title": "这波三角洲AI春晚真该留到今晚看",
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%B3%A2%E4%B8%89%E8%A7%92%E6%B4%B2AI%E6%98%A5%E6%99%9A%E7%9C%9F%E8%AF%A5%E7%95%99%E5%88%B0%E4%BB%8A%E6%99%9A%E7%9C%8B",
           "source": "bilibili 热搜",
@@ -515,16 +539,16 @@
           "time_info": "[05时53分 ~ 07时25分]"
         },
         {
-          "title": "美银Hartnett：“AI颠覆交易”加速扩散，一旦有科技巨头削减开支，将引发美股“轮动海啸”",
-          "url": "https://wallstreetcn.com/articles/3765781",
-          "source": "华尔街见闻",
+          "title": "春晚AI率比我论文高",
+          "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9AAI%E7%8E%87%E6%AF%94%E6%88%91%E8%AE%BA%E6%96%87%E9%AB%98&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            10,
-            8
+            17,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时15分]"
+          "time_info": "[12时15分 ~ 13时42分]"
         },
         {
           "title": "豆包：除夕豆包AI互动总数达19亿",
@@ -533,9 +557,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "豆包：除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
+          "url": "https://wallstreetcn.com/livenews/3055884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "印度AI争夺战日趋激烈 Anthropic在印度开设首家办事处",
@@ -550,6 +585,17 @@
           "time_info": "[07时25分 ~ 07时53分]"
         },
         {
+          "title": "马年迎好运 AI定制新春祝福",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E5%B9%B4%E8%BF%8E%E5%A5%BD%E8%BF%90+AI%E5%AE%9A%E5%88%B6%E6%96%B0%E6%98%A5%E7%A5%9D%E7%A6%8F",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
+        },
+        {
           "title": "据英国金融时报：欧盟隐私监管机构就AI生成性化图片问题对X平台展开调查。",
           "url": "https://flash.jin10.com/detail/20260217085631257800",
           "source": "金十数据",
@@ -559,17 +605,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
-        },
-        {
-          "title": "春晚AI率比我论文高",
-          "url": "https://s.weibo.com/weibo?q=%E6%98%A5%E6%99%9AAI%E7%8E%87%E6%AF%94%E6%88%91%E8%AE%BA%E6%96%87%E9%AB%98&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
         },
         {
           "title": "软件开发商达索系统法国巴黎股价维持超过7%的跌幅，投资者对人工智能（AI）的恐慌情绪挥之不去。",
@@ -586,7 +621,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -616,6 +651,17 @@
           "time_info": "[06时56分 ~ 09时44分]"
         },
         {
+          "title": "特朗普：将间接参与美伊谈判",
+          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 13时42分]"
+        },
+        {
           "title": "美国总统特朗普声称：（民主党州长Newsom的）加州与英国的能源协议“不合适”。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3055802",
           "source": "华尔街见闻-快讯",
@@ -643,17 +689,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时01分 ~ 04时55分]"
-        },
-        {
-          "title": "特朗普：将间接参与美伊谈判",
-          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时15分]"
         },
         {
           "title": "特朗普：若国会无法通过，将颁布行政令强制选民出示身份证投票",
@@ -710,6 +745,32 @@
           "time_info": "[04时55分 ~ 05时53分]"
         },
         {
+          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
+          "url": "https://wallstreetcn.com/livenews/3055862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            16,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时42分]"
+        },
+        {
+          "title": "特朗普称他将间接参与美国和伊朗谈判",
+          "url": "https://wallstreetcn.com/livenews/3055860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时42分]"
+        },
+        {
           "title": "市场消息：印尼方面表示，最多将有8,000名军人在6月前准备好，可能参与加沙的人道主义维和任务，支持特朗普的加沙战后重建计划。",
           "url": "https://flash.jin10.com/detail/20260216234427683800",
           "source": "金十数据",
@@ -720,6 +781,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 01时09分]"
+        },
+        {
+          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
+          "url": "https://wallstreetcn.com/livenews/3055873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时42分]"
         },
         {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
@@ -734,28 +807,15 @@
           "time_info": "[01时09分 ~ 02时01分]"
         },
         {
-          "title": "特朗普：古巴应该达成协议，没必要在古巴采取类似委内瑞拉的行动。",
-          "url": "https://wallstreetcn.com/livenews/3055862",
-          "source": "华尔街见闻-快讯",
+          "title": "“你真不喜欢特朗普”，捷克官员惹怒希拉里：说他好才该反思",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32620953",
+          "source": "澎湃新闻",
           "ranks": [
-            7,
-            16
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时15分]"
-        },
-        {
-          "title": "特朗普称他将间接参与美国和伊朗谈判",
-          "url": "https://wallstreetcn.com/livenews/3055860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时15分]"
+          "time_info": "[13时41分 ~ 13时42分]"
         },
         {
           "title": "在特朗普要求加拿大做出让步的紧张局势下，加拿大总理卡尼任命珍妮丝·沙雷特为与美国贸易谈判的首席代表，领导对北美贸易协定的审查。",
@@ -769,21 +829,226 @@
           "time_info": "07时53分"
         },
         {
-          "title": "特朗普施压乌克兰“快速”同俄罗斯达成协议",
-          "url": "https://wallstreetcn.com/livenews/3055873",
+          "title": "市场消息：越南最高领导人将于本周三启程前往美国，出席特朗普 “和平委员会” 的首次会议。",
+          "url": "https://flash.jin10.com/detail/20260217122724799800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "火力全开!王毅警告日本",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
+          "source": "贴吧",
+          "ranks": [
+            29,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时04分 ~ 12时15分]"
+        },
+        {
+          "title": "驻日本使馆发言人就日方所谓交涉答记者问",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32622456",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时25分 ~ 13时42分]"
+        },
+        {
+          "title": "大年夜，中国外交官加班驳斥日本",
+          "url": "https://news.ifeng.com/c/8qoHAGvup5g",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 13时42分]"
+        },
+        {
+          "title": "据日经新闻：日本瑞穗银行证券公司面临内幕交易调查。",
+          "url": "https://flash.jin10.com/detail/20260217014829717800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            18,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时08分 ~ 04时55分]"
+        },
+        {
+          "title": "据日本朝日新闻：日本将于夏季开始就反间谍法进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260217062034981800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时57分 ~ 07时53分]"
+        },
+        {
+          "title": "美国日本春节想针对台海搞事",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%97%A5%E6%9C%AC%E6%98%A5%E8%8A%82%E6%83%B3%E9%92%88%E5%AF%B9%E5%8F%B0%E6%B5%B7%E6%90%9E%E4%BA%8B%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时15分 ~ 13时42分]"
+        },
+        {
+          "title": "日本两年期国债收益率下跌1.5个基点，至1.25%。",
+          "url": "https://flash.jin10.com/detail/20260217091255121800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "日本10年期国债收益率在5年期国债拍卖后继续下跌，最新下跌5个基点至2.16%。",
+          "url": "https://flash.jin10.com/detail/20260217114554060800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "市场消息：日本首相高市早苗考虑制定多年期预算以促进增长和危机管理。",
+          "url": "https://flash.jin10.com/detail/20260217130844101800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "日本今日将发行2.5万亿日元1.600%五年期债券。",
+          "url": "https://wallstreetcn.com/livenews/3055870",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时15分 ~ 13时42分]"
+        },
+        {
+          "title": "日本5年期国债拍卖投标倍数为3.10，创自2025年8月以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260217113615582800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "日方称针对中方就日本安保政策作出的“不恰当发言”已提出交涉，中使馆：所谓交涉歪曲事实、颠倒黑白、纯属狡辩，完全于理不通！（环球时报）",
+          "url": "https://wallstreetcn.com/livenews/3055776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时04分 ~ 01时09分]"
+        },
+        {
+          "title": "日本12月第三产业活动指数环比 -0.5%，前值 -0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3055882",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "5年期日本国债收益率下跌2个基点，至1.65%。",
+          "url": "https://flash.jin10.com/detail/20260217085354493800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "日本30年期国债收益率下跌10个基点至3.385%。",
+          "url": "https://flash.jin10.com/detail/20260217124014148800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "亚盘交易时段，金银价格出现V型走势，现已收复早间大部分跌幅；日本前央行官员放风，加息窗口或锁定在4月，当前，金银油多头占比均达80%及以上，日内，留意俄乌及美伊谈判将相继在日内瓦举行，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260217110709315800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "日本12月第三产业活动指数月率 -0.5%，前值-0.20%。",
+          "url": "https://flash.jin10.com/detail/20260217123134447800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "周一（2月16日），现货黄金最终跌0.99%，报4992.08美元/盎司，全天处于下跌状态，整体呈现出W形走势。 COMEX黄金期货跌0.66%，报5013.10美元/盎司。",
@@ -809,8 +1074,34 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时43分 ~ 13时42分]"
+        },
+        {
+          "title": "现货黄金失守4970美元/盎司，日内跌0.42％。",
+          "url": "https://wallstreetcn.com/livenews/3055866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时15分]"
+          "time_info": "[09时44分 ~ 13时42分]"
+        },
+        {
+          "title": "金十图示：2026年02月17日（周二）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260217070207018800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时25分 ~ 13时42分]"
         },
         {
           "title": "惠顿贵金属：预计到2030年黄金产量将增长约50%，达到120万黄金当量盎司。",
@@ -837,16 +1128,37 @@
           "time_info": "[07时25分 ~ 07时53分]"
         },
         {
-          "title": "现货黄金失守4970美元/盎司，日内跌0.42％。",
-          "url": "https://wallstreetcn.com/livenews/3055866",
+          "title": "现货黄金失守4900美元",
+          "url": "https://flash.jin10.com/detail/20260217131859994800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "现货黄金跌破4900美元/盎司，日内跌幅1.83%。现货白银日内跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3055887",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3,
-            12
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时15分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        },
+        {
+          "title": "现货黄金回落至4910美元/盎司下方，日内跌1.59%。",
+          "url": "https://flash.jin10.com/detail/20260217131705849800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         },
         {
           "title": "现货黄金再次跌穿4970美元，跌幅重新扩大至超过1.2%，逼近北京时间13:03刷新的日低4966.41美元。",
@@ -859,18 +1171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 01时09分]"
-        },
-        {
-          "title": "金十图示：2026年02月17日（周二）黄金ETF持仓报告",
-          "url": "https://flash.jin10.com/detail/20260217070207018800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时25分 ~ 07时53分]"
         },
         {
           "title": "现货金、银延续跌势，现货黄金回落至4930美元/盎司下方，日内跌1.26%；现货白银跌破73美元/盎司，日内跌4.36%。",
@@ -936,165 +1236,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "火力全开!王毅警告日本",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350718&amp;topic_name=%E7%81%AB%E5%8A%9B%E5%85%A8%E5%BC%80%21%E7%8E%8B%E6%AF%85%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC",
-          "source": "贴吧",
-          "ranks": [
-            29,
-            30,
-            28
-          ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时04分 ~ 12时15分]"
-        },
-        {
-          "title": "驻日本使馆发言人就日方所谓交涉答记者问",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32622456",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时25分 ~ 12时15分]"
-        },
-        {
-          "title": "大年夜，中国外交官加班驳斥日本",
-          "url": "https://news.ifeng.com/c/8qoHAGvup5g",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 12时15分]"
-        },
-        {
-          "title": "据日经新闻：日本瑞穗银行证券公司面临内幕交易调查。",
-          "url": "https://flash.jin10.com/detail/20260217014829717800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            18,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时08分 ~ 04时55分]"
-        },
-        {
-          "title": "据日本朝日新闻：日本将于夏季开始就反间谍法进行谈判。",
-          "url": "https://flash.jin10.com/detail/20260217062034981800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时57分 ~ 07时53分]"
-        },
-        {
-          "title": "日本两年期国债收益率下跌1.5个基点，至1.25%。",
-          "url": "https://flash.jin10.com/detail/20260217091255121800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "日本10年期国债收益率在5年期国债拍卖后继续下跌，最新下跌5个基点至2.16%。",
-          "url": "https://flash.jin10.com/detail/20260217114554060800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "日本5年期国债拍卖投标倍数为3.10，创自2025年8月以来的最低水平。",
-          "url": "https://flash.jin10.com/detail/20260217113615582800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "日方称针对中方就日本安保政策作出的“不恰当发言”已提出交涉，中使馆：所谓交涉歪曲事实、颠倒黑白、纯属狡辩，完全于理不通！（环球时报）",
-          "url": "https://wallstreetcn.com/livenews/3055776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时09分]"
-        },
-        {
-          "title": "5年期日本国债收益率下跌2个基点，至1.65%。",
-          "url": "https://flash.jin10.com/detail/20260217085354493800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "日本今日将发行2.5万亿日元1.600%五年期债券。",
-          "url": "https://wallstreetcn.com/livenews/3055870",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "美国日本春节想针对台海搞事",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%97%A5%E6%9C%AC%E6%98%A5%E8%8A%82%E6%83%B3%E9%92%88%E5%AF%B9%E5%8F%B0%E6%B5%B7%E6%90%9E%E4%BA%8B%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "亚盘交易时段，金银价格出现V型走势，现已收复早间大部分跌幅；日本前央行官员放风，加息窗口或锁定在4月，当前，金银油多头占比均达80%及以上，日内，留意俄乌及美伊谈判将相继在日内瓦举行，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260217110709315800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
@@ -1224,7 +1366,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
         }
@@ -1245,8 +1387,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时04分 ~ 12时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时04分 ~ 13时42分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -1259,8 +1401,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时04分 ~ 12时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时04分 ~ 13时42分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -1291,8 +1433,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时04分 ~ 12时15分]"
+          "appearance_count": 24,
+          "time_info": "[00时04分 ~ 13时42分]"
         }
       ]
     },
