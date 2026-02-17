@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T15:48:04.008019+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-02-17T16:40:00.186415+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -198,6 +198,40 @@
           "time_info": "[01时09分 ~ 03时08分]"
         },
         {
+          "title": "WTI原油日内跌幅达1.00%，现报63.10美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260217161651647800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达1%，报67.96美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3055918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "英镑兑美元5分钟内下跌约30点，报1.3583。",
+          "url": "https://wallstreetcn.com/livenews/3055907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 16时40分]"
+        },
+        {
           "title": "纽约期金日内大跌2.00%，现报4945.10美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260217090515761800",
           "source": "金十数据",
@@ -220,15 +254,15 @@
           "time_info": "14时53分"
         },
         {
-          "title": "英镑兑美元5分钟内下跌约30点，报1.3583。",
-          "url": "https://wallstreetcn.com/livenews/3055907",
+          "title": "英镑兑美元跌幅达0.5%，现报1.3558。",
+          "url": "https://wallstreetcn.com/livenews/3055915",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时48分"
+          "time_info": "16时40分"
         },
         {
           "title": "现货钯金站上1700美元/盎司，日内涨1.56%。",
@@ -290,6 +324,18 @@
           "time_info": "[01时09分 ~ 02时01分]"
         },
         {
+          "title": "报道：月之暗面寻求在新一轮融资中达到100亿美元估值，阿里腾讯等拟投超7亿美元",
+          "url": "https://wallstreetcn.com/livenews/3055890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 16时40分]"
+        },
+        {
           "title": "TD Cowen：将诺华制药(NVS.N)目标价从160美元上调至180美元。",
           "url": "https://flash.jin10.com/detail/20260217142800441800",
           "source": "金十数据",
@@ -318,7 +364,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -362,7 +408,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -395,7 +441,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -406,20 +452,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
         {
-          "title": "报道：月之暗面寻求在新一轮融资中达到100亿美元估值，阿里腾讯等拟投超7亿美元",
-          "url": "https://wallstreetcn.com/livenews/3055890",
+          "title": "阿达尼计划投资千亿美元建数据中心 瞄准印度AI领域的崛起机遇",
+          "url": "https://wallstreetcn.com/livenews/3055895",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时48分"
+          "time_info": "16时40分"
         },
         {
           "title": "市场消息：德国集装箱航运公司赫伯罗特（Hapag-Lloyd）同意以35美元/股的价格现金收购以色列竞争对手ZIM。",
@@ -442,6 +488,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        },
+        {
+          "title": "英镑兑美元GBP/USD日内下跌0.50%，现报1.3562。",
+          "url": "https://flash.jin10.com/detail/20260217153431249800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
@@ -449,6 +506,17 @@
       "keyword_group": "日本",
       "match_count": 27,
       "titles": [
+        {
+          "title": "大年夜，中国外交官加班驳斥日本",
+          "url": "https://news.ifeng.com/c/8qoHAGvup5g",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 16时40分]"
+        },
         {
           "title": "驻日本使馆发言人就日方所谓交涉答记者问",
           "url": "https://m.thepaper.cn/newsDetail_forward_32622456",
@@ -460,19 +528,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时25分 ~ 15时48分]"
-        },
-        {
-          "title": "大年夜，中国外交官加班驳斥日本",
-          "url": "https://news.ifeng.com/c/8qoHAGvup5g",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 15时48分]"
+          "appearance_count": 14,
+          "time_info": "[07时25分 ~ 16时40分]"
         },
         {
           "title": "火力全开!王毅警告日本",
@@ -501,6 +558,18 @@
           "time_info": "[12时15分 ~ 14时53分]"
         },
         {
+          "title": "黄循财：日本给我们的苦难教训极重",
+          "url": "https://www.toutiao.com/trending/7606935704773361670/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 16时40分]"
+        },
+        {
           "title": "据日经新闻：日本瑞穗银行证券公司面临内幕交易调查。",
           "url": "https://flash.jin10.com/detail/20260217014829717800",
           "source": "金十数据",
@@ -513,6 +582,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时08分 ~ 04时55分]"
+        },
+        {
+          "title": "日本20年期国债收益率下跌10个基点至2.98%。 日本40年期国债收益率下跌12个基点至3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3055889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 16时40分]"
         },
         {
           "title": "据日本朝日新闻：日本将于夏季开始就反间谍法进行谈判。",
@@ -554,18 +636,6 @@
           "time_info": "[12时15分 ~ 14时53分]"
         },
         {
-          "title": "日本20年期国债收益率下跌10个基点至2.98%。 日本40年期国债收益率下跌12个基点至3.6%。",
-          "url": "https://wallstreetcn.com/livenews/3055889",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时48分]"
-        },
-        {
           "title": "日本两年期国债收益率下跌1.5个基点，至1.25%。",
           "url": "https://flash.jin10.com/detail/20260217091255121800",
           "source": "金十数据",
@@ -586,6 +656,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时15分"
+        },
+        {
+          "title": "日本债市延续涨势 高市早苗胜选以来的首次常规性国债标售需求上升",
+          "url": "https://wallstreetcn.com/livenews/3055906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时48分 ~ 16时40分]"
         },
         {
           "title": "市场消息：日本首相高市早苗考虑制定多年期预算以促进增长和危机管理。",
@@ -610,17 +692,6 @@
           "time_info": "12时15分"
         },
         {
-          "title": "日本债市延续涨势 高市早苗胜选以来的首次常规性国债标售需求上升",
-          "url": "https://wallstreetcn.com/livenews/3055906",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
           "title": "日方称针对中方就日本安保政策作出的“不恰当发言”已提出交涉，中使馆：所谓交涉歪曲事实、颠倒黑白、纯属狡辩，完全于理不通！（环球时报）",
           "url": "https://wallstreetcn.com/livenews/3055776",
           "source": "华尔街见闻-快讯",
@@ -633,15 +704,16 @@
           "time_info": "[00时04分 ~ 01时09分]"
         },
         {
-          "title": "黄循财：日本给我们的苦难教训极重",
-          "url": "https://www.toutiao.com/trending/7606935704773361670/",
-          "source": "今日头条",
+          "title": "日经225指数收跌0.4%，报56,566.49点。 日本东证指数收跌0.7%，报3,761.55点。",
+          "url": "https://wallstreetcn.com/livenews/3055893",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            18,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
+          "time_info": "[15时48分 ~ 16时40分]"
         },
         {
           "title": "5年期日本国债收益率下跌2个基点，至1.65%。",
@@ -732,17 +804,6 @@
           "time_info": "14时53分"
         },
         {
-          "title": "日经225指数收跌0.4%，报56,566.49点。 日本东证指数收跌0.7%，报3,761.55点。",
-          "url": "https://wallstreetcn.com/livenews/3055893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        },
-        {
           "title": "日本财政部预测：到2029财年，日本发债规模将较2026财年增长28%",
           "url": "https://flash.jin10.com/detail/20260217134852910800",
           "source": "金十数据",
@@ -779,8 +840,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时04分 ~ 15时48分]"
+          "appearance_count": 30,
+          "time_info": "[00时04分 ~ 16时40分]"
         },
         {
           "title": "AI圈内人士：巨大变革正在发生，人们还懵懂不知",
@@ -803,8 +864,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时04分 ~ 15时48分]"
+          "appearance_count": 30,
+          "time_info": "[00时04分 ~ 16时40分]"
         },
         {
           "title": "AI电荒把燃气轮机“捧上C位” 龙头企业：需求极其旺盛 交付排到2030年",
@@ -825,11 +886,12 @@
           "ranks": [
             9,
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时04分 ~ 15时48分]"
+          "appearance_count": 30,
+          "time_info": "[00时04分 ~ 16时40分]"
         },
         {
           "title": "新春走基层 ·见喜｜当爸妈用AI送出春节祝福",
@@ -971,6 +1033,17 @@
           "time_info": "[05时53分 ~ 07时25分]"
         },
         {
+          "title": "当高定遇上AI，“上海定制”的变与不变",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621562",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 16时40分]"
+        },
+        {
           "title": "豆包：除夕AI互动19亿次，Seedance2.0为春晚提供技术支持",
           "url": "https://wallstreetcn.com/livenews/3055884",
           "source": "华尔街见闻-快讯",
@@ -1030,17 +1103,6 @@
           "time_info": "[13时41分 ~ 13时42分]"
         },
         {
-          "title": "当高定遇上AI，“上海定制”的变与不变",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32621562",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时47分 ~ 15时48分]"
-        },
-        {
           "title": "据英国金融时报：欧盟隐私监管机构就AI生成性化图片问题对X平台展开调查。",
           "url": "https://flash.jin10.com/detail/20260217085631257800",
           "source": "金十数据",
@@ -1058,7 +1120,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时48分"
         },
@@ -1088,8 +1150,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 15时48分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 16时40分]"
         },
         {
           "title": "周一（2月16日），现货黄金最终跌0.99%，报4992.08美元/盎司，全天处于下跌状态，整体呈现出W形走势。 COMEX黄金期货跌0.66%，报5013.10美元/盎司。",
@@ -1132,6 +1194,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时42分 ~ 15时48分]"
+        },
+        {
+          "title": "现货黄金一度向下触及4860美元/盎司，现跌2.36%。纽约期金日内跌超3%。现货白银一度跌破73美元/盎司，日内跌4.58%。",
+          "url": "https://wallstreetcn.com/livenews/3055888",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 16时40分]"
         },
         {
           "title": "金十图示：2026年02月17日（周二）黄金ETF持仓报告",
@@ -1203,18 +1278,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 01时09分]"
-        },
-        {
-          "title": "现货黄金一度向下触及4860美元/盎司，现跌2.36%。纽约期金日内跌超3%。现货白银一度跌破73美元/盎司，日内跌4.58%。",
-          "url": "https://wallstreetcn.com/livenews/3055888",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时48分]"
         },
         {
           "title": "现货金、银延续跌势，现货黄金回落至4930美元/盎司下方，日内跌1.26%；现货白银跌破73美元/盎司，日内跌4.36%。",
@@ -1310,7 +1373,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普：将间接参与美伊谈判",
@@ -1320,8 +1383,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时43分 ~ 15时48分]"
+          "appearance_count": 11,
+          "time_info": "[09时43分 ~ 16时40分]"
         },
         {
           "title": "美国总统特朗普：反对纽约市Gateway铁路项目。 联邦政府不会向Gateway超额成本提供任何支持。",
@@ -1511,6 +1574,17 @@
           "time_info": "[01时09分 ~ 02时01分]"
         },
         {
+          "title": "特朗普反应低调 日本怕中美搞大动作",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 16时40分]"
+        },
+        {
           "title": "在特朗普要求加拿大做出让步的紧张局势下，加拿大总理卡尼任命珍妮丝·沙雷特为与美国贸易谈判的首席代表，领导对北美贸易协定的审查。",
           "url": "https://flash.jin10.com/detail/20260217072412814800",
           "source": "金十数据",
@@ -1610,7 +1684,7 @@
     },
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周一（2月16日），南非富时/JSE非洲领先40可交易指数收涨0.28%，至11.28万点上方。",
@@ -1652,6 +1726,17 @@
           "time_info": "[02时01分 ~ 03时08分]"
         },
         {
+          "title": "金十图示：2026年02月17日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260217161324383800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "金十图示：2026年02月17日（周二）亚太市场股市指数（盘初）",
           "url": "https://flash.jin10.com/detail/20260217104233400800",
           "source": "金十数据",
@@ -1666,7 +1751,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
@@ -1679,8 +1764,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时04分 ~ 15时48分]"
+          "appearance_count": 30,
+          "time_info": "[00时04分 ~ 16时40分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -1694,8 +1779,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时04分 ~ 15时48分]"
+          "appearance_count": 30,
+          "time_info": "[00时04分 ~ 16时40分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -1708,6 +1793,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时04分 ~ 01时09分]"
+        },
+        {
+          "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
+          "url": "https://flash.jin10.com/detail/20260217160309287800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
@@ -1721,11 +1817,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 15时48分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 16时40分]"
         },
         {
           "title": "软银与Ampere Computing联合测试使用CPU运行小型人工智能模型",
@@ -1737,6 +1834,38 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "显卡 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "与英伟达争夺印度市场份额：AMD与塔塔咨询服务合作",
+          "url": "https://wallstreetcn.com/livenews/3055811",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            17,
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时01分 ~ 06时23分]"
+        },
+        {
+          "title": "印度方面表示，英伟达(NVDA.O)正在与一些人工智能基础设施/软件公司合作。",
+          "url": "https://flash.jin10.com/detail/20260217155637581800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
@@ -1755,29 +1884,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时04分 ~ 15时48分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "显卡 英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "与英伟达争夺印度市场份额：AMD与塔塔咨询服务合作",
-          "url": "https://wallstreetcn.com/livenews/3055811",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            17,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时01分 ~ 06时23分]"
+          "appearance_count": 30,
+          "time_info": "[00时04分 ~ 16时40分]"
         }
       ]
     }
