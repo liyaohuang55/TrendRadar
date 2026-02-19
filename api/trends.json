@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T18:38:39.493282+08:00",
-  "total_titles_processed": 1534,
+  "generated_at": "2026-02-19T19:36:03.775457+08:00",
+  "total_titles_processed": 1603,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 76,
+      "match_count": 79,
       "titles": [
         {
           "title": "1万亿美元蒸发背后：垂直软件的护城河，正在被大模型重写",
@@ -112,6 +112,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时45分 ~ 04时34分]"
+        },
+        {
+          "title": "印度首富承诺最高投资1100亿美元建AI基础设施",
+          "url": "https://wallstreetcn.com/livenews/3056605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时40分 ~ 19时36分]"
         },
         {
           "title": "周三（2月18日），美联储隔夜逆回购协议（RRP）使用规模为8.56亿美元（交易对手10家），上个交易日报4.41亿美元。",
@@ -275,6 +288,17 @@
           "time_info": "02时45分"
         },
         {
+          "title": "美国机械制造商Deere第一季度每股收益2.42美元，去年同期为3.19美元，市场预期为2.05美元。 第一季度净收入为6.56亿美元，同比下降25%，市场预期为5.54亿美元。 预计全年净收入为45亿至50亿美元，此前预计40亿至47.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "三星正在就HBM4的单价进行谈判，价格约为700美元。（韩国《朝鲜日报》）",
           "url": "https://wallstreetcn.com/livenews/3056525",
           "source": "华尔街见闻-快讯",
@@ -331,18 +355,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
-        },
-        {
-          "title": "印度首富承诺最高投资1100亿美元建AI基础设施",
-          "url": "https://wallstreetcn.com/livenews/3056605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时38分]"
         },
         {
           "title": "芯片初创公司Efficient Computer筹集6000万美元，用于推进面向人工智能的节能通用处理器。",
@@ -550,7 +562,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -586,6 +598,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "两名消息人士称，石油交易商贡渥集团创始人托恩奎斯特已向员工出借逾40亿美元，用于管理层收购。",
+          "url": "https://flash.jin10.com/detail/20260219182717913800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
+          "title": "两名消息人士表示，石油交易商贡渥集团估值约为50亿美元。",
+          "url": "https://flash.jin10.com/detail/20260219182649971800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "美国IPO市场在72亿美元爆发后步入季节性低迷",
@@ -899,7 +933,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -909,8 +943,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时46分 ~ 18时38分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 19时36分]"
         },
         {
           "title": "唐驳虎：美军12架F-22剑指伊朗，特朗普正在打一场心理战",
@@ -1184,6 +1218,17 @@
           "time_info": "07时53分"
         },
         {
+          "title": "特朗普政府扩大了移民与海关执法局拘留合法难民的权力。",
+          "url": "https://flash.jin10.com/detail/20260219184006351800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "加州就终止能源中心资金起诉特朗普",
           "url": "https://flash.jin10.com/detail/20260219084435962800",
           "source": "金十数据",
@@ -1234,7 +1279,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时38分"
         },
@@ -1270,6 +1315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时45分"
+        },
+        {
+          "title": "美国总统特朗普考虑达成一项不包括加拿大的北美贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260219181201454800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "美国总统特朗普：如果伊朗决定不达成协议，美国可能有必要使用迪戈加西亚。",
@@ -1451,7 +1507,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "日本高市早苗内阁集体辞职",
@@ -1464,8 +1520,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 18时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 19时36分]"
+        },
+        {
+          "title": "日本挖到稀土,全是选举戏码",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350780&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%2C%E5%85%A8%E6%98%AF%E9%80%89%E4%B8%BE%E6%88%8F%E7%A0%81",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 19时36分]"
         },
         {
           "title": "高市早苗确认当选日本新任首相，将着手组建新内阁，此前旧内阁集体辞职，这会给日本政坛带来哪些影响？",
@@ -1494,18 +1562,6 @@
           "time_info": "[09时46分 ~ 17时40分]"
         },
         {
-          "title": "日本挖到稀土,全是选举戏码",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350780&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%8C%96%E5%88%B0%E7%A8%80%E5%9C%9F%2C%E5%85%A8%E6%98%AF%E9%80%89%E4%B8%BE%E6%88%8F%E7%A0%81",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 18时38分]"
-        },
-        {
           "title": "日本教练谈苏翊鸣：最难那关挺过来了",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%95%99%E7%BB%83%E8%B0%88%E8%8B%8F%E7%BF%8A%E9%B8%A3%EF%BC%9A%E6%9C%80%E9%9A%BE%E9%82%A3%E5%85%B3%E6%8C%BA%E8%BF%87%E6%9D%A5%E4%BA%86",
           "source": "百度热搜",
@@ -1522,6 +1578,21 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时36分 ~ 06时39分]"
+        },
+        {
+          "title": "观察｜从防守向进攻转变，日本海上自卫队加速推进转型",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629426",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 19时36分]"
         },
         {
           "title": "中领馆再次提醒近期避免前往日本",
@@ -1545,21 +1616,6 @@
           "time_info": "[00时31分 ~ 07时53分]"
         },
         {
-          "title": "观察｜从防守向进攻转变，日本海上自卫队加速推进转型",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32629426",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 18时38分]"
-        },
-        {
           "title": "中国代表：若日本行使“集体自卫权”介入台湾问题，中方必将迎头痛击",
           "url": "https://m.thepaper.cn/newsDetail_forward_32631952",
           "source": "澎湃新闻",
@@ -1571,8 +1627,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时42分 ~ 18时38分]"
+          "appearance_count": 10,
+          "time_info": "[13时42分 ~ 19时36分]"
         },
         {
           "title": "再次连任日本首相的高市早苗，啥背景？",
@@ -1600,6 +1656,20 @@
           "time_info": "[15时46分 ~ 17时40分]"
         },
         {
+          "title": "日本银行业协会：市场预计日本央行最快3月加息。",
+          "url": "https://wallstreetcn.com/livenews/3056602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 19时36分]"
+        },
+        {
           "title": "日本若介入台湾问题 中方必迎头痛击",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%8B%A5%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98+%E4%B8%AD%E6%96%B9%E5%BF%85%E8%BF%8E%E5%A4%B4%E7%97%9B%E5%87%BB",
           "source": "百度热搜",
@@ -1611,19 +1681,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时46分 ~ 14时55分]"
-        },
-        {
-          "title": "日本银行业协会：市场预计日本央行最快3月加息。",
-          "url": "https://wallstreetcn.com/livenews/3056602",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 18时38分]"
         },
         {
           "title": "10年期日本国债收益率上升1个基点至2.145%。",
@@ -1687,6 +1744,18 @@
           "time_info": "[00时31分 ~ 01时37分]"
         },
         {
+          "title": "日本厚生省专家组批准住友制药的帕金森病诱导多能干细胞衍生疗法。",
+          "url": "https://flash.jin10.com/detail/20260219174228906800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时36分]"
+        },
+        {
           "title": "日本2月13日当周外资净买进日本债券 -3930亿日元。",
           "url": "https://wallstreetcn.com/livenews/3056534",
           "source": "华尔街见闻-快讯",
@@ -1721,6 +1790,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "投资管理公司Aviva Investors预计日本央行将加息两次。",
+          "url": "https://flash.jin10.com/detail/20260219184627677800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "日本10年期国债收益率上涨1.0个基点，至2.145%。",
           "url": "https://flash.jin10.com/detail/20260219114015527800",
           "source": "金十数据",
@@ -1732,6 +1812,17 @@
           "time_info": "12时16分"
         },
         {
+          "title": "Aviva Investors将对日本政府债券的立场从长期的“做空”上调至“中性”。",
+          "url": "https://flash.jin10.com/detail/20260219184603195800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "日本20年期国债拍卖投标倍数为3.08，创2025年5月以来最低水平。",
           "url": "https://flash.jin10.com/detail/20260219113956647800",
           "source": "金十数据",
@@ -1741,17 +1832,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
-        },
-        {
-          "title": "日本厚生省专家组批准住友制药的帕金森病诱导多能干细胞衍生疗法。",
-          "url": "https://flash.jin10.com/detail/20260219174228906800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
         },
         {
           "title": "遭日本男子殴打，一名中国香港游客在北海道遇袭受伤",
@@ -1955,7 +2035,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -1968,6 +2048,18 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时31分 ~ 06时39分]"
+        },
+        {
+          "title": "西方跳脚:东大AI惹怒上帝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 19时36分]"
         },
         {
           "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
@@ -1993,8 +2085,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 18时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 19时36分]"
         },
         {
           "title": "终末地建模,AI偷偷加料",
@@ -2010,8 +2102,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时46分 ~ 18时38分]"
+          "appearance_count": 12,
+          "time_info": "[09时46分 ~ 19时36分]"
         },
         {
           "title": "公开和沃什“唱反调”？多位美联储高官称：AI提升生产力或意味着“更高的中性利率”",
@@ -2025,18 +2117,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[02时45分 ~ 09时46分]"
-        },
-        {
-          "title": "西方跳脚:东大AI惹怒上帝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350778&amp;topic_name=%E8%A5%BF%E6%96%B9%E8%B7%B3%E8%84%9A%3A%E4%B8%9C%E5%A4%A7AI%E6%83%B9%E6%80%92%E4%B8%8A%E5%B8%9D",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 18时38分]"
         },
         {
           "title": "AI大战:鹅厂阿里双双出局",
@@ -2054,8 +2134,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 18时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 19时36分]"
         },
         {
           "title": "疑似ai?鹰角整活六指琴魔",
@@ -2073,8 +2153,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 18时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 19时36分]"
         },
         {
           "title": "AI 编程会替代程序员吗?",
@@ -2246,6 +2326,17 @@
           "time_info": "[01时37分 ~ 02时45分]"
         },
         {
+          "title": "什么样的软件会被AI淘汰？",
+          "url": "https://wallstreetcn.com/articles/3765860",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 19时36分]"
+        },
+        {
           "title": "美国宣布网络安全与AI风险管理倡议",
           "url": "https://wallstreetcn.com/livenews/3056433",
           "source": "华尔街见闻-快讯",
@@ -2338,7 +2429,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
@@ -2420,6 +2511,19 @@
           "time_info": "[14时55分 ~ 17时40分]"
         },
         {
+          "title": "金价迎来新一轮大涨",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%8E%E6%9D%A5%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E6%B6%A8&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25,
+            29,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 19时36分]"
+        },
+        {
           "title": "带黄金马桶去漫展如何呢",
           "url": "https://search.bilibili.com/all?keyword=%E5%B8%A6%E9%BB%84%E9%87%91%E9%A9%AC%E6%A1%B6%E5%8E%BB%E6%BC%AB%E5%B1%95%E5%A6%82%E4%BD%95%E5%91%A2",
           "source": "bilibili 热搜",
@@ -2430,6 +2534,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时46分 ~ 15时47分]"
+        },
+        {
+          "title": "储殷：我被朋友嘲笑黄金卖早了",
+          "url": "https://www.toutiao.com/trending/7607689025717321770/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时38分 ~ 19时36分]"
         },
         {
           "title": "小孩姐三年压岁钱都买了黄金",
@@ -2467,6 +2583,17 @@
           "time_info": "12时16分"
         },
         {
+          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 19时36分]"
+        },
+        {
           "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
           "url": "https://wallstreetcn.com/articles/3765856",
           "source": "华尔街见闻",
@@ -2488,29 +2615,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
-        },
-        {
-          "title": "金价迎来新一轮大涨",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E8%BF%8E%E6%9D%A5%E6%96%B0%E4%B8%80%E8%BD%AE%E5%A4%A7%E6%B6%A8&t=31&band_rank=25&Refer=top",
-          "source": "微博",
-          "ranks": [
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 18时38分]"
-        },
-        {
-          "title": "储殷：我被朋友嘲笑黄金卖早了",
-          "url": "https://www.toutiao.com/trending/7607689025717321770/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
         },
         {
           "title": "非洲股市收盘播报｜周三（2月18日），南非富时/JSE非洲领先40可交易指数收涨2.74%，逼近11.45万点。 现货黄金一度涨超2.5%，刷新日高至5008.98美元/盎司。",
@@ -2734,7 +2838,7 @@
     },
     {
       "keyword_group": "openai chatgpt",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
@@ -2791,6 +2895,17 @@
           "time_info": "[02时45分 ~ 04时34分]"
         },
         {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 19时36分]"
+        },
+        {
           "title": "富时罗素正就IPO“快速纳入”规则征求市场意见。富时罗素提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
           "url": "https://wallstreetcn.com/livenews/3056499",
           "source": "华尔街见闻-快讯",
@@ -2842,8 +2957,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时31分 ~ 18时38分]"
+          "appearance_count": 26,
+          "time_info": "[00时31分 ~ 19时36分]"
         },
         {
           "title": "英伟达CEO黄仁勋：为GTC 2026准备了几款世界前所未见的新芯片",
@@ -2916,11 +3031,12 @@
           "url": "https://flash.jin10.com/detail/20260219180938508800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时38分 ~ 19时36分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）全球股市指数-欧洲市场（盘初）",
