@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-25T22:08:01.815070+08:00",
-  "total_titles_processed": 1882,
+  "generated_at": "2026-02-25T23:32:07.579489+08:00",
+  "total_titles_processed": 1999,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 85,
       "titles": [
         {
           "title": "特朗普称将会在3月31日访问中国，外交部回应",
@@ -28,6 +28,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时03分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
+          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时48分 ~ 23时32分]"
         },
         {
           "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
@@ -66,8 +78,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时03分 ~ 22时08分]"
+          "appearance_count": 12,
+          "time_info": "[17时03分 ~ 23时32分]"
         },
         {
           "title": "中美就特朗普访华事宜保持着沟通",
@@ -82,18 +94,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时03分 ~ 07时55分]"
-        },
-        {
-          "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
-          "url": "https://v.ifeng.com/c/8r1uSam1Yxo",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时48分 ~ 22时08分]"
         },
         {
           "title": "特朗普：100%错误",
@@ -219,6 +219,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 04时30分]"
+        },
+        {
+          "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
+          "url": "https://news.ifeng.com/c/8r2aEG9ywSj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
@@ -978,7 +989,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 79,
+      "match_count": 81,
       "titles": [
         {
           "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
@@ -1030,6 +1041,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时45分 ~ 14时58分]"
+        },
+        {
+          "title": "字节跳动新估值，5500亿美元！",
+          "url": "https://wallstreetcn.com/articles/3766156",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时07分 ~ 23时32分]"
         },
         {
           "title": "芝加哥大豆期货涨0.4%，纽约可可期货一度跌穿3000美元整数位心理关口",
@@ -1202,6 +1224,17 @@
           "time_info": "14时02分"
         },
         {
+          "title": "SK海力士拟在韩国投资150亿美元 以扩建芯片产能",
+          "url": "https://www.cls.cn/detail/2295108",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        },
+        {
           "title": "Lucid Group(LCID.O)：预计2026年的资本支出将在12亿至14亿美元之间。",
           "url": "https://flash.jin10.com/detail/20260225070542666800",
           "source": "金十数据",
@@ -1341,17 +1374,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
-        },
-        {
-          "title": "字节跳动新估值，5500亿美元！",
-          "url": "https://wallstreetcn.com/articles/3766156",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
         },
         {
           "title": "美、布两油短线上扬约0.4美元，现分别报66.08美元/桶和70.96美元/桶。",
@@ -1648,6 +1670,17 @@
           "time_info": "05时59分"
         },
         {
+          "title": "美国天然气期货日内涨幅扩大至3.00%，现报2.916美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260225232716338800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "人民币兑美元中间价创2023年5月11日来新高",
           "url": "https://wallstreetcn.com/livenews/3058431",
           "source": "华尔街见闻-快讯",
@@ -1819,7 +1852,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -1863,7 +1896,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -1893,7 +1926,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "媒体：日本等来当头一棒",
@@ -2004,11 +2037,12 @@
           "ranks": [
             27,
             7,
-            9
+            9,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时38分 ~ 22时08分]"
+          "appearance_count": 8,
+          "time_info": "[19时38分 ~ 23时32分]"
         },
         {
           "title": "警惕！日本拟4年后在敏感地点部署导弹部队",
@@ -2059,6 +2093,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时03分 ~ 18时45分]"
+        },
+        {
+          "title": "中国男篮公布客战日本12人名单",
+          "url": "https://www.douyin.com/hot/2411803",
+          "source": "抖音",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时07分 ~ 23时32分]"
         },
         {
           "title": "对20家日本实体实施出口管制",
@@ -2192,17 +2238,6 @@
           "time_info": "09时46分"
         },
         {
-          "title": "中国男篮公布客战日本12人名单",
-          "url": "https://www.douyin.com/hot/2411803",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
-        },
-        {
           "title": "日本40年期国债收益率上升10个基点，至3.615%。日本5年期国债收益率下跌1.5个基点，至1.580%。",
           "url": "https://flash.jin10.com/detail/20260225141144873800",
           "source": "金十数据",
@@ -2278,6 +2313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "玉渊谭天：商务部此次对日本管制措施有三个特点，值得注意",
+          "url": "https://wallstreetcn.com/livenews/3058945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "日媒：一名日本公民被伊朗拘留",
@@ -2440,7 +2486,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时08分"
         },
@@ -2503,7 +2549,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
@@ -2517,8 +2563,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[02时55分 ~ 22时08分]"
+          "appearance_count": 29,
+          "time_info": "[02时55分 ~ 23时32分]"
         },
         {
           "title": "个人“手搓”AI股票分析助手热潮掀起，全民投研时代要到来了？",
@@ -2561,8 +2607,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时16分 ~ 22时08分]"
+          "appearance_count": 18,
+          "time_info": "[12时16分 ~ 23时32分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -2649,6 +2695,18 @@
           "time_info": "[04时19分 ~ 07时55分]"
         },
         {
+          "title": "韩女子用AI精密策划诱杀致2死1伤",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[20时53分 ~ 23时32分]"
+        },
+        {
           "title": "让 AI 爆改兵马俑挤地铁、蒙娜丽莎敲代码，职场人的精神状态有多超前？",
           "url": "https://www.zhihu.com/topic/2005965391747314002/hot",
           "source": "知乎",
@@ -2709,17 +2767,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时45分 ~ 14时02分]"
-        },
-        {
-          "title": "韩女子用AI精密策划诱杀致2死1伤",
-          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E5%A5%B3%E5%AD%90%E7%94%A8AI%E7%B2%BE%E5%AF%86%E7%AD%96%E5%88%92%E8%AF%B1%E6%9D%80%E8%87%B42%E6%AD%BB1%E4%BC%A4",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 22时08分]"
         },
         {
           "title": "AI开始雇佣人类",
@@ -3014,6 +3061,17 @@
           "time_info": "[20时53分 ~ 20时54分]"
         },
         {
+          "title": "若AI取代人类工作社会会变成什么样",
+          "url": "https://www.toutiao.com/trending/7610770425311661622/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
+        },
+        {
           "title": "寻找AI惊涛骇浪下的避风港，高盛团队称资产密集型股票表现更佳",
           "url": "https://wallstreetcn.com/livenews/3058280",
           "source": "华尔街见闻-快讯",
@@ -3023,6 +3081,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "瑞银财富管理美洲首席投资官建议，AI热潮中弃科技奔实体",
+          "url": "https://wallstreetcn.com/livenews/3058944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "AI投资热潮带动电力基建需求 机构称这些环节有望放量",
@@ -3045,6 +3114,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时02分"
+        },
+        {
+          "title": "戴尔发布适用于Cloud RAN与边缘AI的户外服务器，是首款液冷户外服务器",
+          "url": "https://wallstreetcn.com/livenews/3058942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         },
         {
           "title": "马斯克设想从月球电磁弹射AI卫星 电磁发射有望成商业航天重要方向",
@@ -3078,24 +3158,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时46分"
+        },
+        {
+          "title": "SoundHound AI Inc.在Bengaluru（印度班加罗尔）成立新的创新中心。",
+          "url": "https://wallstreetcn.com/livenews/3058919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
-        {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[07时55分 ~ 22时08分]"
-        },
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
           "url": "https://wallstreetcn.com/articles/3765966",
@@ -3109,6 +3189,18 @@
           "time_info": "[01时03分 ~ 07时27分]"
         },
         {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[07时55分 ~ 23时32分]"
+        },
+        {
           "title": "中使馆：勿信安哥拉遍地是黄金谣言",
           "url": "https://www.toutiao.com/trending/7610573513422913555/",
           "source": "今日头条",
@@ -3118,6 +3210,19 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[12时16分 ~ 18时45分]"
+        },
+        {
+          "title": "老相机成“电子黄金”",
+          "url": "https://www.toutiao.com/trending/7610397908298383396/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时38分 ~ 23时32分]"
         },
         {
           "title": "金店1000余件3055克黄金首饰被盗",
@@ -3134,16 +3239,17 @@
           "time_info": "[17时48分 ~ 20时54分]"
         },
         {
-          "title": "老相机成“电子黄金”",
-          "url": "https://www.toutiao.com/trending/7610397908298383396/",
-          "source": "今日头条",
+          "title": "金价高的已经推出红绳戒指了",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
-            20,
-            10
+            9,
+            7,
+            6
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[19时38分 ~ 22时08分]"
+          "time_info": "[20时53分 ~ 23时32分]"
         },
         {
           "title": "为什么说黄金这波春节上涨“不健康”",
@@ -3172,18 +3278,6 @@
           "time_info": "[18时45分 ~ 20时54分]"
         },
         {
-          "title": "金价高的已经推出红绳戒指了",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E9%AB%98%E7%9A%84%E5%B7%B2%E7%BB%8F%E6%8E%A8%E5%87%BA%E7%BA%A2%E7%BB%B3%E6%88%92%E6%8C%87%E4%BA%86&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 22时08分]"
-        },
-        {
           "title": "大爷欲购200万元黄金店员报警",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%88%B7%E6%AC%B2%E8%B4%AD200%E4%B8%87%E5%85%83%E9%BB%84%E9%87%91%E5%BA%97%E5%91%98%E6%8A%A5%E8%AD%A6%23&t=31&band_rank=1&Refer=top",
           "source": "微博",
@@ -3193,6 +3287,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时16分 ~ 12时17分]"
+        },
+        {
+          "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月24日（周二）晚盘收盘下跌0.17%报1146.0元/克；<br/>上海黄金交易所白银T+D 2月24日（周二）晚盘收盘下跌0.0%报21360.0元/千克。",
@@ -3206,6 +3311,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 04时30分]"
+        },
+        {
+          "title": "女子5.5克黄金戒指换新只剩下2克",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%905.5%E5%85%8B%E9%BB%84%E9%87%91%E6%88%92%E6%8C%87%E6%8D%A2%E6%96%B0%E5%8F%AA%E5%89%A9%E4%B8%8B2%E5%85%8B%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时31分 ~ 23时32分]"
         },
         {
           "title": "AI恐慌暂歇，欧股涨至历史新高，日本长债收益率集体飙升，现货黄金日内涨超1%",
@@ -3399,6 +3515,17 @@
           "time_info": "09时46分"
         },
         {
+          "title": "美银：金价有望在未来12个月内触及6000美元",
+          "url": "https://flash.jin10.com/detail/20260225230013139800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
           "title": "现货黄金向上触及5200美元/盎司，日内涨1.13%。",
           "url": "https://flash.jin10.com/detail/20260225134342741800",
           "source": "金十数据",
@@ -3408,6 +3535,79 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股市",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十图示：2026年02月24日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260225050553581800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时43分]"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260225012013265800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260225161154181800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时03分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260225180756494800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "金十图示：2026年02月25日（周三）全球股市指数-美洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260225230110467800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时32分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周二（2月24日），南非富时/JSE非洲领先40可交易指数收涨0.13%，逼近11.7万点。",
+          "url": "https://wallstreetcn.com/livenews/3058235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
         }
       ]
     },
@@ -3540,68 +3740,6 @@
       ]
     },
     {
-      "keyword_group": "股市",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金十图示：2026年02月24日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260225050553581800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 06时43分]"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）全球股市指数-欧洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260225012013265800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）全球股市指数-欧洲市场（盘初）",
-          "url": "https://flash.jin10.com/detail/20260225161154181800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "金十图示：2026年02月25日（周三）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260225180756494800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周二（2月24日），南非富时/JSE非洲领先40可交易指数收涨0.13%，逼近11.7万点。",
-          "url": "https://wallstreetcn.com/livenews/3058235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        }
-      ]
-    },
-    {
       "keyword_group": "显卡 英伟达",
       "match_count": 4,
       "titles": [
@@ -3624,33 +3762,36 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350981&amp;topic_name=%E8%A1%80%E4%BA%8F%214090%E6%98%BE%E5%8D%A14%E5%8D%83%E5%85%83%E8%A2%AB%E7%A7%92",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时38分 ~ 22时08分]"
+          "appearance_count": 8,
+          "time_info": "[19时38分 ~ 23时32分]"
         },
         {
           "title": "英伟达Q4财报公布在即",
           "url": "https://www.douyin.com/hot/2411539",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时53分 ~ 22时08分]"
+          "appearance_count": 6,
+          "time_info": "[20时53分 ~ 23时32分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
           "url": "https://www.cls.cn/detail/2295156",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时07分 ~ 22时08分]"
+          "appearance_count": 4,
+          "time_info": "[22时07分 ~ 23时32分]"
         }
       ]
     },
