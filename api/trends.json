@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T03:48:01.372905+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-02-26T04:31:08.486301+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "SK海力士拟在韩国投资150亿美元 以扩建芯片产能",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "字节跳动新估值，5500亿美元！",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "离岸人民币兑美元升破 6.9 元关口创新高，驱动因素是什么？人民币升值后续空间还有多大？",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时35分 ~ 03时48分]"
+          "appearance_count": 6,
+          "time_info": "[02时35分 ~ 04时31分]"
         },
         {
           "title": "周三（2月25日），美联储隔夜逆回购协议（RRP）使用规模为11.59亿美元（交易对手7家），上个交易日报9.17亿美元。",
@@ -47,11 +47,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时48分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时31分]"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.615%（1月27日为3.823%），投标倍数2.32（前次为2.34）。",
@@ -59,11 +60,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时48分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时31分]"
         },
         {
           "title": "LME期铜收涨156美元，报13322美元/吨。 LME期铝收涨77美元，报3170美元/吨。 LME期锌收涨9美元，报3388美元/吨。 LME期铅收涨36美元，报1990美元/吨。 LME期镍收涨176美元，报18085美元/吨。 LME期锡收涨3398美元，报53698美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -71,11 +73,47 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            25
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时31分]"
+        },
+        {
+          "title": "提醒：彭博数据显示，NYMEX天然气期货恢复交易，涨幅扩大至超过3%，刷新日高至3.017美元。",
+          "url": "https://wallstreetcn.com/livenews/3059032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时48分]"
+          "time_info": "[03时48分 ~ 04时31分]"
+        },
+        {
+          "title": "WTI 4月原油期货收跌0.21美元，跌幅0.32%，报65.42美元/桶。 布伦特4月原油期货收涨0.08美元，涨幅0.11%，报70.85美元/桶。 NYMEX 3月天然气期货收报2.9690美元/百万英热单位。 NYMEX 3月汽油期货收报1.9914美元/加仑，NYMEX 3月取暖油期货收报2.6740美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3059038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8592元，较周二夜盘收盘涨220点。成交量525.09亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3059028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时31分]"
         },
         {
           "title": "周三（2月25日），韩元兑美元最终涨0.94%，报1427.17韩元，亚太时段持续走高，日内大部分时间高位震荡。 日线图上，韩元逼近1月28日顶部1419.81和2025年10月16日顶部1414.31，创12月24日（当天上涨将近2.52%）以来最大单日涨幅。",
@@ -90,17 +128,6 @@
           "time_info": "[02时36分 ~ 03时48分]"
         },
         {
-          "title": "提醒：彭博数据显示，NYMEX天然气期货恢复交易，涨幅扩大至超过3%，刷新日高至3.017美元。",
-          "url": "https://wallstreetcn.com/livenews/3059032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的11.59亿美元。",
           "url": "https://flash.jin10.com/detail/20260226021704375800",
           "source": "金十数据",
@@ -110,17 +137,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8592元，较周二夜盘收盘涨220点。成交量525.09亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3059028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
         },
         {
           "title": "法院文件显示，部分草甘膦诉讼原告寻求推迟对拜耳拟议72.5亿美元和解协议的初步批准。",
@@ -159,7 +175,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普戏精上身，模仿民众哭诉“赢到不知道该怎么办”(图)",
@@ -169,8 +185,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -180,8 +196,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
@@ -191,8 +207,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
+        },
+        {
+          "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3059016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时31分]"
+        },
+        {
+          "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
+          "url": "https://wallstreetcn.com/livenews/3059035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时48分 ~ 04时31分]"
         },
         {
           "title": "白宫官员：特朗普和泽连斯基通电话。",
@@ -206,27 +247,16 @@
           "time_info": "02时36分"
         },
         {
-          "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3059016",
-          "source": "华尔街见闻-快讯",
+          "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
+          "url": "https://flash.jin10.com/detail/20260226024823938800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            20
+            13,
+            23
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时48分]"
-        },
-        {
-          "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
-          "url": "https://wallstreetcn.com/livenews/3059035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "[03时48分 ~ 04时31分]"
         },
         {
           "title": "市场消息：特朗普目前正在与泽连斯基通电话。",
@@ -240,6 +270,17 @@
           "time_info": "02时36分"
         },
         {
+          "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
+          "url": "https://flash.jin10.com/detail/20260226033018187800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
           "title": "美国堪萨斯城联储主席Schmid：（总统特朗普的美联储主席提名人）凯文·沃什出任美联储理事将是合适的。",
           "url": "https://wallstreetcn.com/livenews/3058987",
           "source": "华尔街见闻-快讯",
@@ -249,17 +290,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
-          "url": "https://flash.jin10.com/detail/20260226024823938800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时48分"
         },
         {
           "title": "据福克斯新闻：乌克兰将在与俄罗斯举行日内瓦会谈前夕会见特朗普特使。",
@@ -290,7 +320,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
         }
@@ -307,11 +337,12 @@
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -321,8 +352,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "韩女子用AI精密策划诱杀致2死1伤",
@@ -333,8 +364,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "AI短片 马上好",
@@ -342,11 +373,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时03分 ~ 02时36分]"
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "若AI取代人类工作社会会变成什么样",
@@ -415,11 +447,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时48分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时31分]"
         },
         {
           "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
@@ -427,11 +460,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时48分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时31分]"
         },
         {
           "title": "谷歌：谷歌Pixel设备上的电话诈骗检测功能现已在美国、澳大利亚、加拿大、印度、爱尔兰和英国上线。",
@@ -503,7 +537,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -514,8 +548,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
@@ -525,8 +559,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "老相机成“电子黄金”",
@@ -535,11 +569,12 @@
           "ranks": [
             20,
             9,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "金价高的已经推出红绳戒指了",
@@ -550,8 +585,19 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
+        },
+        {
+          "title": "芝商所（CME）已恢复金属期货交易，纽约期金现报5226美元/盎司，现货黄金报5206美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260226035234865800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时31分"
         }
       ]
     },
@@ -568,8 +614,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "血亏!4090显卡4千元被秒",
@@ -580,8 +626,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -592,8 +638,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         }
       ]
     },
@@ -639,8 +685,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 03时48分]"
+          "appearance_count": 8,
+          "time_info": "[01时03分 ~ 04时31分]"
         },
         {
           "title": "继法国兴业银行之后，德银退出日本国债走平交易",
@@ -648,11 +694,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时36分 ~ 03时48分]"
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时31分]"
         }
       ]
     },
