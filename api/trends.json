@@ -1,11 +1,528 @@
 {
-  "generated_at": "2026-02-25T07:55:42.989749+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-02-25T09:46:06.065153+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 44,
+      "titles": [
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
+          "source": "澎湃新闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时03分 ~ 09时46分]"
+        },
+        {
+          "title": "特朗普称将会在3月31日访问中国，外交部回应",
+          "url": "https://www.cls.cn/detail/2293557",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时03分 ~ 07时27分]"
+        },
+        {
+          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
+          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时03分 ~ 07时27分]"
+        },
+        {
+          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
+          "url": "https://wallstreetcn.com/articles/3766081",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时03分 ~ 09时46分]"
+        },
+        {
+          "title": "中美就特朗普访华事宜保持着沟通",
+          "url": "https://www.douyin.com/hot/2410424",
+          "source": "抖音",
+          "ranks": [
+            8,
+            7,
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 07时55分]"
+        },
+        {
+          "title": "中方回应特朗普3月31日将访问中国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            8,
+            5,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[04时19分 ~ 07时55分]"
+        },
+        {
+          "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
+          "url": "https://flash.jin10.com/detail/20260225033807828800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时30分]"
+        },
+        {
+          "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
+          "url": "https://flash.jin10.com/detail/20260225033140480800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时30分]"
+        },
+        {
+          "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
+          "url": "https://flash.jin10.com/detail/20260225052942727800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 07时27分]"
+        },
+        {
+          "title": "白宫：特朗普对伊朗首选方案是外交",
+          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时59分 ~ 07时27分]"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
+          "url": "https://flash.jin10.com/detail/20260225041411754800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
+          "url": "https://flash.jin10.com/detail/20260225032658019800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时30分]"
+        },
+        {
+          "title": "特朗普：100%错误",
+          "url": "https://news.ifeng.com/c/8r1UTBsOox0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
+          "url": "https://wallstreetcn.com/livenews/3058387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时55分]"
+        },
+        {
+          "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
+          "url": "https://flash.jin10.com/detail/20260225041158111800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
+          "url": "https://wallstreetcn.com/livenews/3058275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 02时55分]"
+        },
+        {
+          "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3058357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时43分]"
+        },
+        {
+          "title": "特朗普走上“关税悬崖”",
+          "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
+          "url": "https://flash.jin10.com/detail/20260225004034013800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 01时54分]"
+        },
+        {
+          "title": "市场消息：特朗普离开白宫，准备发表国情咨文。",
+          "url": "https://flash.jin10.com/detail/20260225094052863800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "特朗普，走上“关税悬崖”",
+          "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将表示，正在恢复美国在西半球的安全和主导地位。",
+          "url": "https://flash.jin10.com/detail/20260225093851641800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将表示，要充分发挥美国的潜力，首先必须保障社区安全。",
+          "url": "https://flash.jin10.com/detail/20260225093829467800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "特朗普打还是不打，只是时间问题了",
+          "url": "https://news.ifeng.com/c/8r1bJIeSigy",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20260225022141993800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 04时19分]"
+        },
+        {
+          "title": "市场消息：特朗普将于周三举行会议，讨论政府振兴弗吉尼亚州杜勒斯机场的计划。",
+          "url": "https://flash.jin10.com/detail/20260225062520187800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时55分]"
+        },
+        {
+          "title": "特朗普政府被1000多家企业起诉",
+          "url": "https://www.toutiao.com/trending/7609548645095964718/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时55分 ~ 05时04分]"
+        },
+        {
+          "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
+          "url": "https://flash.jin10.com/detail/20260225045852872800",
+          "source": "金十数据",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时43分]"
+        },
+        {
+          "title": "据Politico：美国民主党人调查司法部是否扣留涉特朗普的爱泼斯坦案文件。",
+          "url": "https://flash.jin10.com/detail/20260225045144248800",
+          "source": "金十数据",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时43分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将表示，作为总统，我会尽可能地促进和平，但只要是我们必须采取行动的时候，我绝不会退缩，会毫不犹豫地应对对美国构成的威胁。",
+          "url": "https://flash.jin10.com/detail/20260225093816678800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "周三亚太盘初，美国三大股指期货微幅下跌，罗素2000股指期货跌0.15%。 美国总统特朗普即将发表国情咨文演讲。",
+          "url": "https://wallstreetcn.com/livenews/3058394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将表示，要求立即全面恢复美国边境安全和国土安全部的所有资金。",
+          "url": "https://flash.jin10.com/detail/20260225093620104800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "美国总统特朗普将要求国会禁止投资公司购买房屋。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3058444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将在国情咨文中表示，请求国会永久实施禁止华尔街大型投资公司大量收购独栋住宅的行政命令。",
+          "url": "https://flash.jin10.com/detail/20260225093421945800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
+          "url": "https://flash.jin10.com/detail/20260225002755971800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗还没有同意“不掌握核武器”。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3058321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "乌克兰驻美大使斯特凡尼希娜：我受邀出席美国总统特朗普的国情咨文演讲。",
+          "url": "https://flash.jin10.com/detail/20260225011114735800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "美国总统特朗普：我还要终结处方药价格的飞涨。其他总统也尝试过，但他们都失败了。他们只会空谈，没有实际行动。而我做到了。",
+          "url": "https://flash.jin10.com/detail/20260225092719887800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "报道：特朗普将呼吁出台新形式的减税措施",
+          "url": "https://wallstreetcn.com/livenews/3058320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时04分"
+        },
+        {
+          "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
+          "url": "https://flash.jin10.com/detail/20260225011033725800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时54分"
+        },
+        {
+          "title": "美国总统特朗普：我们实现了前所未有的变革，实现了划时代的逆转。",
+          "url": "https://flash.jin10.com/detail/20260225092635757800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
+          "url": "https://wallstreetcn.com/livenews/3058339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时59分"
+        },
+        {
+          "title": "英国央行行长贝利：特朗普关税出现变动，这对英国的影响偏小。",
+          "url": "https://wallstreetcn.com/livenews/3058233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren：总统特朗普的美联储主席提名人凯文·沃什不会独立自主地做出经济决策。 我会质询特朗普的任何美联储官员提名人，他们在哪些地方不认可特朗普（的意见/做法）。",
+          "url": "https://wallstreetcn.com/livenews/3058232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 34,
+      "match_count": 42,
       "titles": [
         {
           "title": "千亿美元订单落地！AMD深度绑定Meta，五年长约硬刚英伟达",
@@ -16,11 +533,24 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 07时55分]"
+          "appearance_count": 13,
+          "time_info": "[01时03分 ~ 09时46分]"
+        },
+        {
+          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
+          "url": "https://www.cls.cn/detail/2294141",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 09时46分]"
         },
         {
           "title": "芝加哥大豆期货涨0.4%，纽约可可期货一度跌穿3000美元整数位心理关口",
@@ -118,6 +648,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时19分 ~ 05时04分]"
+        },
+        {
+          "title": "众机构唱多三星电子：存储巨头冲击万亿美元市值门槛",
+          "url": "https://www.cls.cn/detail/2294110",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
         },
         {
           "title": "华纳兄弟探索公司(WBD.O)：派拉蒙将现金报价提高至每股 31 美元。派拉蒙的提议可能促成更优报价。",
@@ -254,15 +795,15 @@
           "time_info": "[05时59分 ~ 06时43分]"
         },
         {
-          "title": "【早报】6000亿元！央行今日操作；Meta与AMD达成600亿美元AI芯片采购协议",
-          "url": "https://www.cls.cn/detail/2294141",
-          "source": "财联社热门",
+          "title": "韩国股市总市值达到3.76万亿美元，超过法国股市。",
+          "url": "https://wallstreetcn.com/livenews/3058448",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时46分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了17个对手方的9.17亿美元。",
@@ -391,6 +932,28 @@
           "time_info": "05时59分"
         },
         {
+          "title": "人民币兑美元中间价创2023年5月11日来新高",
+          "url": "https://wallstreetcn.com/livenews/3058431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "美国总统特朗普：展望未来，工厂、就业、投资和数万亿美元将继续涌入美国——因为我们终于有了一位把美国放在首位的总统。",
+          "url": "https://flash.jin10.com/detail/20260225092652948800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
           "title": "美国精神航空：公司与其有担保债权人就重组支持协议的关键条款达成原则性协议。预计于春末或夏初退出破产保护。预计公司债务及租赁负债将由申请破产前的74亿美元降至重整后约21亿美元。",
           "url": "https://flash.jin10.com/detail/20260225004840149800",
           "source": "金十数据",
@@ -411,397 +974,72 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 32,
-      "titles": [
-        {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32649172",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 07时55分]"
         },
         {
-          "title": "特朗普称将会在3月31日访问中国，外交部回应",
-          "url": "https://www.cls.cn/detail/2293557",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时03分 ~ 07时27分]"
-        },
-        {
-          "title": "特朗普第二任期首场国情咨文会谈什么？“剧透”来了",
-          "url": "https://news.ifeng.com/c/8r0VR9GHBdi",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时03分 ~ 07时27分]"
-        },
-        {
-          "title": "报道：特朗普拟用AI定关键矿产参考价，锗、镓、锑、钨首批纳入",
-          "url": "https://wallstreetcn.com/articles/3766081",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 07时55分]"
-        },
-        {
-          "title": "中美就特朗普访华事宜保持着沟通",
-          "url": "https://www.douyin.com/hot/2410424",
-          "source": "抖音",
-          "ranks": [
-            8,
-            7,
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 07时55分]"
-        },
-        {
-          "title": "中方回应特朗普3月31日将访问中国",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE3%E6%9C%8831%E6%97%A5%E5%B0%86%E8%AE%BF%E9%97%AE%E4%B8%AD%E5%9B%BD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            8,
-            5,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[04时19分 ~ 07时55分]"
-        },
-        {
-          "title": "电费太贵 特朗普将在国情咨文中宣布让科技公司为AI能源买单",
-          "url": "https://flash.jin10.com/detail/20260225033807828800",
+          "title": "纽约期金突破5200美元/盎司，日内涨0.46%。",
+          "url": "https://flash.jin10.com/detail/20260225091905268800",
           "source": "金十数据",
           "ranks": [
-            1,
-            7
+            21
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时30分]"
-        },
-        {
-          "title": "据Politico：美国总统特朗普将在国情咨文期间宣布数据中心能源协议。",
-          "url": "https://flash.jin10.com/detail/20260225033140480800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时30分]"
-        },
-        {
-          "title": "据CNBC：特朗普将通过预算协调程序公布减税计划。",
-          "url": "https://flash.jin10.com/detail/20260225052942727800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 07时27分]"
-        },
-        {
-          "title": "白宫：特朗普对伊朗首选方案是外交",
-          "url": "https://www.baidu.com/s?wd=%E7%99%BD%E5%AE%AB%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BC%8A%E6%9C%97%E9%A6%96%E9%80%89%E6%96%B9%E6%A1%88%E6%98%AF%E5%A4%96%E4%BA%A4",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时59分 ~ 07时27分]"
-        },
-        {
-          "title": "据福克斯新闻：特朗普表示，伊朗尚未同意放弃核武器。",
-          "url": "https://flash.jin10.com/detail/20260225041411754800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时30分"
+          "time_info": "09时46分"
         },
         {
-          "title": "市场消息：加拿大输油管道公司South Bow正考虑一项新项目，该项目将重启Keystone XL输油管道的部分线路。加拿大总理卡尼在向美国总统特朗普提出管道构想时，就已知该公司重启的计划。",
-          "url": "https://flash.jin10.com/detail/20260225032658019800",
+          "title": "现货白银向上触及88美元/盎司，日内涨1.01%。",
+          "url": "https://flash.jin10.com/detail/20260225091856106800",
           "source": "金十数据",
           "ranks": [
-            3,
-            9
+            22
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时30分]"
-        },
-        {
-          "title": "美国众议长称，最高法院关税裁决对特朗普是“一记重击”",
-          "url": "https://wallstreetcn.com/livenews/3058387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时55分]"
-        },
-        {
-          "title": "据福克斯新闻：特朗普将呼吁实施新一轮减税。",
-          "url": "https://flash.jin10.com/detail/20260225041158111800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时30分"
+          "time_info": "09时46分"
         },
         {
-          "title": "美国参议院民主党成员Warren等人要求就特朗普关税退款问题制定计划。",
-          "url": "https://wallstreetcn.com/livenews/3058275",
-          "source": "华尔街见闻-快讯",
+          "title": "现货钯金向上触及1800美元/盎司，日内涨1.19%。",
+          "url": "https://flash.jin10.com/detail/20260225091559501800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 02时55分]"
-        },
-        {
-          "title": "美国总统特朗普将通过预算协调程序公布减税计划。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3058357",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
             25
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 06时43分]"
-        },
-        {
-          "title": "乌克兰驻美大使斯特凡尼希娜：预计将在美国总统特朗普的国情咨文演讲中听到有关结束冲突的信息。",
-          "url": "https://flash.jin10.com/detail/20260225004034013800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时54分]"
-        },
-        {
-          "title": "特朗普，走上“关税悬崖”",
-          "url": "https://news.ifeng.com/c/8r1Z2HFV2Mj",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
+          "time_info": "09时46分"
         },
         {
-          "title": "据华尔街日报：消息人士称，美国总统特朗普政府考虑采取行动，要求银行收集客户国籍信息。关于潜在的新行政命令尚未作出最终决定。",
-          "url": "https://flash.jin10.com/detail/20260225022141993800",
-          "source": "金十数据",
+          "title": "澳大利亚CPI数据公布后，澳元兑美元小幅走高，澳洲股指ASX 200指数涨幅收窄至0.6%，澳大利亚3年期国债收益率上行4个基点。",
+          "url": "https://wallstreetcn.com/livenews/3058410",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 04时19分]"
-        },
-        {
-          "title": "市场消息：特朗普将于周三举行会议，讨论政府振兴弗吉尼亚州杜勒斯机场的计划。",
-          "url": "https://flash.jin10.com/detail/20260225062520187800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时27分 ~ 07时55分]"
-        },
-        {
-          "title": "特朗普政府被1000多家企业起诉",
-          "url": "https://www.toutiao.com/trending/7609548645095964718/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时55分 ~ 05时04分]"
-        },
-        {
-          "title": "美国民主党指责司法部为特朗普“打掩护” 关键证据或遭扣押",
-          "url": "https://flash.jin10.com/detail/20260225045852872800",
-          "source": "金十数据",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 06时43分]"
-        },
-        {
-          "title": "据Politico：美国民主党人调查司法部是否扣留涉特朗普的爱泼斯坦案文件。",
-          "url": "https://flash.jin10.com/detail/20260225045144248800",
-          "source": "金十数据",
-          "ranks": [
-            28,
             30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时59分 ~ 06时43分]"
-        },
-        {
-          "title": "周三亚太盘初，美国三大股指期货微幅下跌，罗素2000股指期货跌0.15%。 美国总统特朗普即将发表国情咨文演讲。",
-          "url": "https://wallstreetcn.com/livenews/3058394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
-          "title": "美国发布特朗普行政令公告，延长最低限度豁免（de minimis exemption）暂停期。",
-          "url": "https://flash.jin10.com/detail/20260225002755971800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗还没有同意“不掌握核武器”。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3058321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "乌克兰驻美大使斯特凡尼希娜：我受邀出席美国总统特朗普的国情咨文演讲。",
-          "url": "https://flash.jin10.com/detail/20260225011114735800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "报道：特朗普将呼吁出台新形式的减税措施",
-          "url": "https://wallstreetcn.com/livenews/3058320",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时04分"
-        },
-        {
-          "title": "乌克兰驻美大使斯特凡尼希娜：美国的制裁法案总体而言是一项非常好的法案，若该法案获国会通过，预计美国总统特朗普会予以签署。",
-          "url": "https://flash.jin10.com/detail/20260225011033725800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时54分"
-        },
-        {
-          "title": "美国进口商请求法院执行特朗普关税败诉裁决、索要退款。",
-          "url": "https://wallstreetcn.com/livenews/3058339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        },
-        {
-          "title": "英国央行行长贝利：特朗普关税出现变动，这对英国的影响偏小。",
-          "url": "https://wallstreetcn.com/livenews/3058233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren：总统特朗普的美联储主席提名人凯文·沃什不会独立自主地做出经济决策。 我会质询特朗普的任何美联储官员提名人，他们在哪些地方不认可特朗普（的意见/做法）。",
-          "url": "https://wallstreetcn.com/livenews/3058232",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
+          "time_info": "09时46分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
+          "url": "https://wallstreetcn.com/articles/3766083",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[02时55分 ~ 09时46分]"
+        },
         {
           "title": "李在明社媒发AI视频",
           "url": "https://www.douyin.com/hot/2410021",
@@ -812,11 +1050,12 @@
             9,
             4,
             5,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 07时55分]"
+          "appearance_count": 13,
+          "time_info": "[01时03分 ~ 09时46分]"
         },
         {
           "title": "李佳薇JKAI声乐大师课",
@@ -846,20 +1085,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时03分 ~ 06时43分]"
-        },
-        {
-          "title": "不要颠覆要合作！Anthropic升级企业级AI工具，拓展投行、HR等场景",
-          "url": "https://wallstreetcn.com/articles/3766083",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时55分 ~ 07时55分]"
         },
         {
           "title": "未来有什么工作绝对不会被人工智能（AI）取代？",
@@ -952,6 +1177,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时55分 ~ 04时30分]"
+        },
+        {
+          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
+          "url": "https://wallstreetcn.com/articles/3766059",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 09时46分]"
         },
         {
           "title": "拉美电商巨头MercadoLibre（MELI.US）：代理AI工具将有助于跨境销售和个人财务。",
@@ -1077,6 +1314,17 @@
           "time_info": "[01时54分 ~ 02时55分]"
         },
         {
+          "title": "“AI末日报告”作者发声：市场恐慌超预期，呼吁征收“AI税”来应对失业",
+          "url": "https://wallstreetcn.com/articles/3766046",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
           "title": "Citrini AI报告引发股市震荡，白宫经济顾问回应：纯属“科幻小说”",
           "url": "https://flash.jin10.com/detail/20260225031254647800",
           "source": "金十数据",
@@ -1087,6 +1335,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 04时30分]"
+        },
+        {
+          "title": "印度AI峰会，国际媒体给差评",
+          "url": "https://news.ifeng.com/c/8r1UoAfVAdP",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
         },
         {
           "title": "美国警告Anthropic：必须允许军方无限制使用其AI",
@@ -1113,17 +1372,6 @@
           "time_info": "[06时43分 ~ 07时27分]"
         },
         {
-          "title": "“AI末日”报告暗示亚洲科技股有望成赢家，作者点名MiniMax与智谱",
-          "url": "https://wallstreetcn.com/articles/3766059",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
           "title": "寻找AI惊涛骇浪下的避风港，高盛团队称资产密集型股票表现更佳",
           "url": "https://wallstreetcn.com/livenews/3058280",
           "source": "华尔街见闻-快讯",
@@ -1133,24 +1381,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)AI实验室负责人将在领导层调整中离任。",
+          "url": "https://flash.jin10.com/detail/20260225092013520800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "方正证券电力设备行业2026年策略：AI大周期开启 海外拓展空间广阔",
+          "url": "https://wallstreetcn.com/livenews/3058417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 13,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "“日本以为中方会软化立场，等来的却是当头一棒”",
-          "url": "https://news.ifeng.com/c/8r0kW5XfaOK",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 07时55分]"
-        },
         {
           "title": "媒体：日本等来当头一棒",
           "url": "https://www.toutiao.com/trending/7610063513918160932/",
@@ -1164,6 +1423,18 @@
           "time_info": "[01时03分 ~ 07时55分]"
         },
         {
+          "title": "“日本以为中方会软化立场，等来的却是当头一棒”",
+          "url": "https://news.ifeng.com/c/8r0kW5XfaOK",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时03分 ~ 09时46分]"
+        },
+        {
           "title": "商务部就对日出口管制答问：制止日本“再军事化”和拥核企图",
           "url": "https://m.thepaper.cn/newsDetail_forward_32648558",
           "source": "澎湃新闻",
@@ -1173,8 +1444,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 07时55分]"
+          "appearance_count": 13,
+          "time_info": "[01时03分 ~ 09时46分]"
         },
         {
           "title": "媒体：彻底击碎日本“军国梦”",
@@ -1238,8 +1509,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时03分 ~ 07时55分]"
+          "appearance_count": 13,
+          "time_info": "[01时03分 ~ 09时46分]"
         },
         {
           "title": "对20家日本实体实施出口管制",
@@ -1269,6 +1540,17 @@
           "time_info": "[01时54分 ~ 06时43分]"
         },
         {
+          "title": "警惕！日本拟4年后在敏感地点部署导弹部队",
+          "url": "https://news.ifeng.com/c/8r1hgMQEeyI",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
           "title": "记者观察：日本企业面临双重压力",
           "url": "https://www.toutiao.com/trending/7609466442139893786/",
           "source": "今日头条",
@@ -1287,9 +1569,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "日本首相高市早苗：正以高度紧迫感密切关注外汇走势。",
+          "url": "https://wallstreetcn.com/livenews/3058452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "商务部宣布将 20 家日本实体列入出口管制管控名单，涉及哪些领域？将给日本带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2009569700791752615",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "日本首相高市早苗：正以高度紧迫感密切关注外汇走势。",
+          "url": "https://flash.jin10.com/detail/20260225093628211800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         },
         {
           "title": "日本治理新规剑指企业积压现金 日股吸引力有望看涨",
@@ -1298,15 +1613,48 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
+        },
+        {
+          "title": "日本央行加息前景不明 日元延续盘整",
+          "url": "https://flash.jin10.com/detail/20260225092915573800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "日本40年期国债收益率上行5个基点至3.565%。",
+          "url": "https://wallstreetcn.com/livenews/3058421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        },
+        {
+          "title": "日本10年期国债收益率下跌0.5个基点，至2.095%。",
+          "url": "https://flash.jin10.com/detail/20260225091844139800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI担忧加剧、关税战风险重燃，金融和软件股拖垮美股，黄金四连涨，期银一度涨近8%",
@@ -1319,6 +1667,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[01时03分 ~ 07时27分]"
+        },
+        {
+          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
+          "url": "https://wallstreetcn.com/articles/3766041",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 09时46分]"
         },
         {
           "title": "为什么说黄金这波春节上涨“不健康”",
@@ -1359,17 +1718,6 @@
           "time_info": "[07时27分 ~ 07时55分]"
         },
         {
-          "title": "Anthropic出手缓解AI担忧，纳指涨超1%，人民币盘中涨破6.88，黄金回落",
-          "url": "https://wallstreetcn.com/articles/3766041",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时55分"
-        },
-        {
           "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF，黄金ETF跌约1.4%",
           "url": "https://wallstreetcn.com/livenews/3058353",
           "source": "华尔街见闻-快讯",
@@ -1392,6 +1740,70 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时27分]"
+        },
+        {
+          "title": "现货黄金站上5180美元/盎司，日内涨0.71%。",
+          "url": "https://flash.jin10.com/detail/20260225091825275800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌宣布将新建数据中心：承诺电费全包不涨价 绿电+储能齐推进",
+          "url": "https://www.cls.cn/detail/2294085",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
+          "url": "https://flash.jin10.com/detail/20260225031610332800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 04时30分]"
+        },
+        {
+          "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
+          "url": "https://wallstreetcn.com/livenews/3058274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时54分 ~ 02时55分]"
+        },
+        {
+          "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
+          "url": "https://wallstreetcn.com/livenews/3058254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 01时54分]"
         }
       ]
     },
@@ -1429,7 +1841,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
         },
@@ -1440,51 +1852,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌(GOOG.O)旗下自动驾驶部门Waymo将其自动驾驶叫车服务扩展至美国四座城市。",
-          "url": "https://flash.jin10.com/detail/20260225031610332800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时19分 ~ 04时30分]"
-        },
-        {
-          "title": "谷歌AI Avatars和AI Voiceovers新增七种语言。 其中包括法语、德语、意大利语、葡萄牙语、西班牙语、韩语、日语。 此前，只适用于英语。",
-          "url": "https://wallstreetcn.com/livenews/3058274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 02时55分]"
-        },
-        {
-          "title": "谷歌将在明尼苏达州建设数据中心，配套新增太阳能、风电及储能项目",
-          "url": "https://wallstreetcn.com/livenews/3058254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时54分]"
         }
       ]
     },
