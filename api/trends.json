@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T13:22:18.903566+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-02-26T14:34:23.621009+08:00",
+  "total_titles_processed": 1205,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "SK海力士拟在韩国投资150亿美元 以扩建芯片产能",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时03分 ~ 13时22分]"
+          "appearance_count": 19,
+          "time_info": "[01时03分 ~ 14时34分]"
         },
         {
           "title": "离岸人民币兑美元升破 6.9 元关口创新高，驱动因素是什么？人民币升值后续空间还有多大？",
@@ -166,6 +166,18 @@
           "time_info": "[05时56分 ~ 06时28分]"
         },
         {
+          "title": "美国从陈志案获利150亿美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E9%99%88%E5%BF%97%E6%A1%88%E8%8E%B7%E5%88%A9150%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时59分 ~ 14时34分]"
+        },
+        {
           "title": "人民币兑美元中间价报6.9228，上调93点；上一交易日中间价6.9321，上一交易日16:30官方收盘价6.8672，上日夜盘报收6.8592。",
           "url": "https://wallstreetcn.com/livenews/3059167",
           "source": "华尔街见闻-快讯",
@@ -187,6 +199,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时28分]"
+        },
+        {
+          "title": "英伟达第四财季营收 681 亿美元，同比增长 73%，净利润同比增长 94％，为什么能增长这么多？",
+          "url": "https://www.zhihu.com/question/2010275036578145903",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时34分]"
         },
         {
           "title": "Zoom视频通讯预计2027财年营收50.7亿-50.8亿美元，分析师预期50.3亿美元。",
@@ -305,17 +329,6 @@
           "time_info": "06时28分"
         },
         {
-          "title": "英伟达第四财季营收 681 亿美元，同比增长 73%，净利润同比增长 94％，为什么能增长这么多？",
-          "url": "https://www.zhihu.com/question/2010275036578145903",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
           "title": "现货白银向上触及90美元/盎司，日内涨0.84%。",
           "url": "https://flash.jin10.com/detail/20260226090146181800",
           "source": "金十数据",
@@ -325,6 +338,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "离岸人民币兑美元涨破6.83关口，现报6.8287，日内涨约250点。 在岸人民币兑美元逼近6.83关口，现报6.8326，日内涨约300点。",
+          "url": "https://wallstreetcn.com/livenews/3059323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "机构：2025年第四季DRAM产业营收为535.8亿美元，较上季度增加29.4%",
+          "url": "https://wallstreetcn.com/livenews/3059319",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "英伟达(NVDA.O)：在2026财年期间，我们的资本支出总额为61亿美元。",
@@ -410,7 +445,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -486,17 +521,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "美国从陈志案获利150亿美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E9%99%88%E5%BF%97%E6%A1%88%E8%8E%B7%E5%88%A9150%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -593,6 +617,475 @@
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 41,
+      "titles": [
+        {
+          "title": "中国男篮公布客战日本12人名单",
+          "url": "https://www.douyin.com/hot/2411803",
+          "source": "抖音",
+          "ranks": [
+            5,
+            6,
+            7,
+            4,
+            9,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 09时30分]"
+        },
+        {
+          "title": "中国代表严厉驳斥日本等少数国家",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E4%B8%A5%E5%8E%89%E9%A9%B3%E6%96%A5%E6%97%A5%E6%9C%AC%E7%AD%89%E5%B0%91%E6%95%B0%E5%9B%BD%E5%AE%B6",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时52分 ~ 11时59分]"
+        },
+        {
+          "title": "继法国兴业银行之后，德银退出日本国债走平交易",
+          "url": "https://wallstreetcn.com/livenews/3059008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时36分 ~ 04时31分]"
+        },
+        {
+          "title": "台湾女孩疑在日本街头被恶意撞倒",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AD%A9%E7%96%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E8%A2%AB%E6%81%B6%E6%84%8F%E6%92%9E%E5%80%92%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            17,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时34分]"
+        },
+        {
+          "title": "日本央行行长植田和男：若春季薪资谈判结果强于预期，且生产企业迅速转嫁成本，我们有望提前实现物价目标。",
+          "url": "https://flash.jin10.com/detail/20260226055746498800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "日本12月同步指标月率终值 -0.6%，前值-0.4%。",
+          "url": "https://flash.jin10.com/detail/20260226130353416800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "日本央行行长植田和男：我们不认为在应对通胀过高的风险方面落后于形势。",
+          "url": "https://flash.jin10.com/detail/20260226055636334800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "日本12月领先指标终值 111，前值110.2。",
+          "url": "https://flash.jin10.com/detail/20260226130345152800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "日本12月同步指标终值 114.3，初值 114.5。",
+          "url": "https://wallstreetcn.com/livenews/3059280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "日本央行行长植田和男：将评估12月及此前加息所带来的影响。",
+          "url": "https://flash.jin10.com/detail/20260226050644392800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时56分 ~ 06时28分]"
+        },
+        {
+          "title": "日本央行行长植田和男：与1月份相比，我们对达成物价目标的时间预期未作更改，预计通胀将从当前的放缓态势中重新加速。",
+          "url": "https://flash.jin10.com/detail/20260226055624830800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "日本12月同步指标终值 114.3，前值114.5。",
+          "url": "https://flash.jin10.com/detail/20260226130334979800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "日本12月领先指标终值 111，初值 110.2。",
+          "url": "https://wallstreetcn.com/livenews/3059279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "中国代表严厉驳斥日本等少数国家不实言论",
+          "url": "https://wallstreetcn.com/livenews/3059099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 07时52分]"
+        },
+        {
+          "title": "日本央行行长植田和男：核心通胀率尚未完全达到2%，将引导政策使核心通胀率达到约2%，同时避免其持续高于2%。",
+          "url": "https://flash.jin10.com/detail/20260226055434462800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "日本央行行长植田和男：我们的基本立场是，如果经济和物价预测实现的客观可能性有所提高，我们将继续加息。",
+          "url": "https://flash.jin10.com/detail/20260226055324713800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时28分"
+        },
+        {
+          "title": "避开日本，中国游客推动泰国旅游业复苏",
+          "url": "https://wallstreetcn.com/livenews/3059163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "日本40年期国债收益率下跌3.0个基点，至3.605%。",
+          "url": "https://flash.jin10.com/detail/20260226142059615800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "日本首相高市早苗：继续带着高度紧迫感关注外汇市场。 日本国债收益率、债券市场拍卖结果由市场决定。 对于债券市场应该如何，没有具体的评论。",
+          "url": "https://wallstreetcn.com/livenews/3059276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "丰田：1月份母公司全球汽车产量同比下降6.0%，至735,097辆。1月份日本本土仅面向本国市场的汽车产量同比下降6.1%，至249,827辆。",
+          "url": "https://flash.jin10.com/detail/20260226123035777800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "日本首相高市早苗：预计日本央行将以实现2%通胀目标为导向管理政策。 日本央行的政策并非旨在影响外汇汇率。",
+          "url": "https://wallstreetcn.com/livenews/3059315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "中国男篮vs日本男篮",
+          "url": "https://www.douyin.com/hot/2412274",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "日本2025年新生儿数为70万人",
+          "url": "https://wallstreetcn.com/livenews/3059313",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "男篮生死战迎战日本",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E7%AF%AE%E7%94%9F%E6%AD%BB%E6%88%98%E8%BF%8E%E6%88%98%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "日本2025年新生儿数量再创新低 连续十年下降",
+          "url": "https://flash.jin10.com/detail/20260226134951360800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "中国公民大阪街头被劫，驻大阪总领馆再次提醒中国公民近期避免前往日本。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3059254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "日本2年期国债收益率上行2个基点至2.155%。",
+          "url": "https://wallstreetcn.com/livenews/3059141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "日本央行审议委员高田创：我的决策将逐次会议做出。 多种因素都会影响债券的风险溢价。 与政府的沟通十分重要。 在风险溢价过高的特殊情况下，日本央行必须准备好通过市场操作等方式采取行动。 日本央行审议委员高田创：过去一些海外央行曾不得不以相当快的速度加息，而日本目前并非如此。",
+          "url": "https://wallstreetcn.com/livenews/3059295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "日本东证指数创历史新高。 日经225指数涨超1%，史上首次涨至59000点上方。",
+          "url": "https://wallstreetcn.com/livenews/3059140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "高盛：日本央行新委员提名或降低近期加息概率",
+          "url": "https://flash.jin10.com/detail/20260226133945078800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "日本央行审议委员高田创：过去，一些海外央行不得不以相当快的速度加息，而日本则并非如此。",
+          "url": "https://flash.jin10.com/detail/20260226133212521800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "台湾女孩疑在日本街头被恶意撞倒",
+          "url": "https://www.toutiao.com/trending/7610724479392120842/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时22分"
+        },
+        {
+          "title": "日本央行审议委员高田创：日本央行也必须注意以可持续的方式实现物价目标。",
+          "url": "https://flash.jin10.com/detail/20260226132440631800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "日本央行审议委员高田创：通胀目标已基本实现。 很难提前知道加息的速度或终点利率水平。 将密切关注海外经济，以研判日本央行政策。 日本央行当前并未落后于通胀曲线。 汇率对通胀的影响比以往更大，汇率是影响经济的关键因素。",
+          "url": "https://wallstreetcn.com/livenews/3059287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "媒体：日本涉军工企业被管控一点不冤",
+          "url": "https://www.toutiao.com/trending/7610988260478684718/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "日本五年期国债收益率上升2.5个基点，至1.605%。",
+          "url": "https://flash.jin10.com/detail/20260226083433596800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时30分"
+        },
+        {
+          "title": "日本央行行长植田和男表示，将在3月和4月会议上仔细评估数据以作出政策决定，为近期加息留下可能性。美/日早盘走低，当前多空情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260226104901392800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时59分"
+        },
+        {
+          "title": "日本央行审议委员高田创：欢迎政府通过增长战略和刺激政策来提振经济增长，日本央行可通过政策予以支持。",
+          "url": "https://flash.jin10.com/detail/20260226132435615800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "日本央行审议委员高田创：日本央行理解实现稳定、持续经济增长的重要性。",
+          "url": "https://flash.jin10.com/detail/20260226132327116800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "日本央行审议委员高田创：（在被问及是否将继续在每次货币政策会议上提议加息时）希望根据届时的经济发展情况作出决定。",
+          "url": "https://flash.jin10.com/detail/20260226132321824800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "日本央行行长植田和男（Ueda）：将检视12月及之前加息行动的影响。（Yomiuri）",
+          "url": "https://wallstreetcn.com/livenews/3059074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "显卡 英伟达",
       "match_count": 36,
       "titles": [
@@ -620,8 +1113,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时03分 ~ 13时22分]"
+          "appearance_count": 19,
+          "time_info": "[01时03分 ~ 14时34分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -644,8 +1137,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时02分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[07时02分 ~ 14时34分]"
         },
         {
           "title": "英伟达Q4营收大涨73%再超预期！但数据中心需求集中引担忧",
@@ -656,8 +1149,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 14时34分]"
         },
         {
           "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
@@ -668,8 +1161,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 14时34分]"
         },
         {
           "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
@@ -681,8 +1174,33 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 14时34分]"
+        },
+        {
+          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3766208",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时34分]"
+        },
+        {
+          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
+          "url": "https://www.cls.cn/detail/2295445",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时34分]"
         },
         {
           "title": "英伟达CEO黄仁勋谈及“太空数据中心”，称：当前的太空数据中心经济还是“贫瘠的”，但形势将随着时间的推移而变化。",
@@ -697,17 +1215,6 @@
           "time_info": "[07时02分 ~ 07时52分]"
         },
         {
-          "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
-          "url": "https://wallstreetcn.com/articles/3766208",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时22分]"
-        },
-        {
           "title": "英伟达将于十分钟后公布财报。",
           "url": "https://flash.jin10.com/detail/20260226045000001800",
           "source": "金十数据",
@@ -717,18 +1224,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时07分"
-        },
-        {
-          "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
-          "url": "https://www.cls.cn/detail/2295445",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时22分]"
         },
         {
           "title": "英伟达：有保障的供应将满足好几个季度的需求。",
@@ -918,7 +1413,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -1013,322 +1508,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 27,
-      "titles": [
-        {
-          "title": "中国男篮公布客战日本12人名单",
-          "url": "https://www.douyin.com/hot/2411803",
-          "source": "抖音",
-          "ranks": [
-            5,
-            6,
-            7,
-            4,
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时03分 ~ 09时30分]"
-        },
-        {
-          "title": "中国代表严厉驳斥日本等少数国家",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E4%BB%A3%E8%A1%A8%E4%B8%A5%E5%8E%89%E9%A9%B3%E6%96%A5%E6%97%A5%E6%9C%AC%E7%AD%89%E5%B0%91%E6%95%B0%E5%9B%BD%E5%AE%B6",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时52分 ~ 11时59分]"
-        },
-        {
-          "title": "继法国兴业银行之后，德银退出日本国债走平交易",
-          "url": "https://wallstreetcn.com/livenews/3059008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 04时31分]"
-        },
-        {
-          "title": "日本央行行长植田和男：若春季薪资谈判结果强于预期，且生产企业迅速转嫁成本，我们有望提前实现物价目标。",
-          "url": "https://flash.jin10.com/detail/20260226055746498800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "日本12月同步指标月率终值 -0.6%，前值-0.4%。",
-          "url": "https://flash.jin10.com/detail/20260226130353416800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "日本央行行长植田和男：我们不认为在应对通胀过高的风险方面落后于形势。",
-          "url": "https://flash.jin10.com/detail/20260226055636334800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "日本12月领先指标终值 111，前值110.2。",
-          "url": "https://flash.jin10.com/detail/20260226130345152800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "日本12月同步指标终值 114.3，初值 114.5。",
-          "url": "https://wallstreetcn.com/livenews/3059280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "日本央行行长植田和男：将评估12月及此前加息所带来的影响。",
-          "url": "https://flash.jin10.com/detail/20260226050644392800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时56分 ~ 06时28分]"
-        },
-        {
-          "title": "日本央行行长植田和男：与1月份相比，我们对达成物价目标的时间预期未作更改，预计通胀将从当前的放缓态势中重新加速。",
-          "url": "https://flash.jin10.com/detail/20260226055624830800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "日本12月同步指标终值 114.3，前值114.5。",
-          "url": "https://flash.jin10.com/detail/20260226130334979800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "日本12月领先指标终值 111，初值 110.2。",
-          "url": "https://wallstreetcn.com/livenews/3059279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "中国代表严厉驳斥日本等少数国家不实言论",
-          "url": "https://wallstreetcn.com/livenews/3059099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时02分 ~ 07时52分]"
-        },
-        {
-          "title": "日本央行行长植田和男：核心通胀率尚未完全达到2%，将引导政策使核心通胀率达到约2%，同时避免其持续高于2%。",
-          "url": "https://flash.jin10.com/detail/20260226055434462800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "日本央行行长植田和男：我们的基本立场是，如果经济和物价预测实现的客观可能性有所提高，我们将继续加息。",
-          "url": "https://flash.jin10.com/detail/20260226055324713800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时28分"
-        },
-        {
-          "title": "避开日本，中国游客推动泰国旅游业复苏",
-          "url": "https://wallstreetcn.com/livenews/3059163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "台湾女孩疑在日本街头被恶意撞倒",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E5%A5%B3%E5%AD%A9%E7%96%91%E5%9C%A8%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E8%A2%AB%E6%81%B6%E6%84%8F%E6%92%9E%E5%80%92%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时22分]"
-        },
-        {
-          "title": "日本首相高市早苗：继续带着高度紧迫感关注外汇市场。 日本国债收益率、债券市场拍卖结果由市场决定。 对于债券市场应该如何，没有具体的评论。",
-          "url": "https://wallstreetcn.com/livenews/3059276",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "丰田：1月份母公司全球汽车产量同比下降6.0%，至735,097辆。1月份日本本土仅面向本国市场的汽车产量同比下降6.1%，至249,827辆。",
-          "url": "https://flash.jin10.com/detail/20260226123035777800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "中国公民大阪街头被劫，驻大阪总领馆再次提醒中国公民近期避免前往日本。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3059254",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "日本2年期国债收益率上行2个基点至2.155%。",
-          "url": "https://wallstreetcn.com/livenews/3059141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "日本东证指数创历史新高。 日经225指数涨超1%，史上首次涨至59000点上方。",
-          "url": "https://wallstreetcn.com/livenews/3059140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "台湾女孩疑在日本街头被恶意撞倒",
-          "url": "https://www.toutiao.com/trending/7610724479392120842/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "媒体：日本涉军工企业被管控一点不冤",
-          "url": "https://www.toutiao.com/trending/7610988260478684718/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "日本五年期国债收益率上升2.5个基点，至1.605%。",
-          "url": "https://flash.jin10.com/detail/20260226083433596800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时30分"
-        },
-        {
-          "title": "日本央行行长植田和男表示，将在3月和4月会议上仔细评估数据以作出政策决定，为近期加息留下可能性。美/日早盘走低，当前多空情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260226104901392800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时59分"
-        },
-        {
-          "title": "日本央行行长植田和男（Ueda）：将检视12月及之前加息行动的影响。（Yomiuri）",
-          "url": "https://wallstreetcn.com/livenews/3059074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -1376,8 +1557,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 14时34分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -1408,6 +1589,18 @@
           "time_info": "[02时36分 ~ 05时07分]"
         },
         {
+          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
+          "url": "https://www.cls.cn/detail/2295374",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时34分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
           "url": "https://flash.jin10.com/detail/20260226033018187800",
           "source": "金十数据",
@@ -1419,17 +1612,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 05时56分]"
-        },
-        {
-          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
-          "url": "https://www.cls.cn/detail/2295374",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时22分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -1535,13 +1717,24 @@
           "time_info": "01时04分"
         },
         {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
           "url": "https://www.toutiao.com/trending/7611003629566168602/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -1605,11 +1798,12 @@
             4,
             3,
             2,
-            1
+            1,
+            14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[01时03分 ~ 13时22分]"
+          "appearance_count": 19,
+          "time_info": "[01时03分 ~ 14时34分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -1651,6 +1845,19 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[01时03分 ~ 09时30分]"
+        },
+        {
+          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
+          "url": "https://www.zhihu.com/question/2010042276697565176",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时59分 ~ 14时34分]"
         },
         {
           "title": "AI帮你选对发型",
@@ -1700,18 +1907,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时07分 ~ 06时28分]"
-        },
-        {
-          "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
-          "url": "https://www.zhihu.com/question/2010042276697565176",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时59分 ~ 13时22分]"
         },
         {
           "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
@@ -1766,7 +1961,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -1777,7 +1972,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
@@ -1832,7 +2027,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         }
@@ -1840,7 +2035,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -1923,8 +2118,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时29分 ~ 13时22分]"
+          "appearance_count": 5,
+          "time_info": "[09时29分 ~ 14时34分]"
         },
         {
           "title": "芝商所（CME）已恢复金属期货交易，纽约期金现报5226美元/盎司，现货黄金报5206美元/盎司。",
@@ -1938,6 +2133,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 05时56分]"
+        },
+        {
+          "title": "女子泰国机场1110元金价买了周大福",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时22分 ~ 14时34分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 2月26日（周四）早盘盘初上涨0.09%报1146.79元/克；<br/>上海黄金交易所白银T+D 2月26日（周四）早盘盘初上涨1.65%报22207.0元/千克。",
@@ -1968,26 +2175,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
         },
         {
-          "title": "女子泰国机场1110元金价买了周大福",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "现货黄金站上5200美元/盎司，日内涨0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3059291",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时22分"
+          "time_info": "14时34分"
+        },
+        {
+          "title": "顾客5.5克黄金戒指换新只剩下2克",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A25.5%E5%85%8B%E9%BB%84%E9%87%91%E6%88%92%E6%8C%87%E6%8D%A2%E6%96%B0%E5%8F%AA%E5%89%A9%E4%B8%8B2%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌公司在欧盟抱怨之后测试搜索引擎的修改。（路透）",
@@ -2014,6 +2232,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时31分]"
+        },
+        {
+          "title": "马来西亚总理：这项投资涵盖了谷歌在马来西亚首个数据中心和云服务基础设施的开发和运营。该项目投入运营后，预计到2030年将带来32亿美元的经济效益，并创造26,500个就业岗位。",
+          "url": "https://flash.jin10.com/detail/20260226141522219800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "马来西亚总理：与Alphabet和谷歌的总裁兼首席投资官Ruth Porat及其团队进行了视频会议。我们讨论了谷歌在马来西亚的20亿美元投资进展。该项目进展顺利，超出了最初的预期。",
+          "url": "https://flash.jin10.com/detail/20260226141504282800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
+        },
+        {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时34分"
         },
         {
           "title": "谷歌：谷歌Pixel设备上的电话诈骗检测功能现已在美国、澳大利亚、加拿大、印度、爱尔兰和英国上线。",
