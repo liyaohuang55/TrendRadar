@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T20:54:19.783985+08:00",
-  "total_titles_processed": 1814,
+  "generated_at": "2026-02-26T23:12:48.540716+08:00",
+  "total_titles_processed": 1963,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 82,
+      "match_count": 84,
       "titles": [
         {
           "title": "SK海力士拟在韩国投资150亿美元 以扩建芯片产能",
@@ -56,11 +56,12 @@
             7,
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时49分 ~ 20时54分]"
+          "appearance_count": 8,
+          "time_info": "[15时49分 ~ 23时12分]"
         },
         {
           "title": "美国从陈志案获利150亿美元",
@@ -129,6 +130,19 @@
           "time_info": "[03时48分 ~ 05时56分]"
         },
         {
+          "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32657978",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 23时12分]"
+        },
+        {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.615%（1月27日为3.823%），投标倍数2.32（前次为2.34）。",
           "url": "https://wallstreetcn.com/livenews/3059013",
           "source": "华尔街见闻-快讯",
@@ -181,18 +195,6 @@
           "time_info": "[03时48分 ~ 05时07分]"
         },
         {
-          "title": "最新报告揭露美用技术霸权收割全球虚拟货币资产，两案获利近200亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32657978",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 20时54分]"
-        },
-        {
           "title": "新兴市场股票指数与外汇指数创历史新高，亚洲科技股飙涨。 明晟公司（MSCI）新兴市场外汇指数涨0.4%，连续第四个交易日走强，大部分货币兑美元升值。 MSCI新兴市场股票指数涨1.5%，连续第六个交易日上涨，2026年迄今累计涨幅达到大约15%。",
           "url": "https://wallstreetcn.com/livenews/3059073",
           "source": "华尔街见闻-快讯",
@@ -227,6 +229,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时28分]"
+        },
+        {
+          "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
+          "url": "https://www.cls.cn/detail/2296218",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 23时12分]"
         },
         {
           "title": "摩根士丹利将英伟达(NVDA.O)目标股价从250美元上调至260美元。加拿大皇家银行将英伟达目标股价从240美元上调至250美元。",
@@ -272,6 +286,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "Nutanix Inc.涨10%，创4月份以来最大盘中涨幅，AMD将从这家新合作伙伴购买1.5亿美元股票。",
+          "url": "https://wallstreetcn.com/livenews/3059643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "Zoom(ZM.O)预计2027财年营收50.7亿-50.8亿美元，分析师预期50.3亿美元。",
@@ -482,17 +507,6 @@
           "time_info": "06时28分"
         },
         {
-          "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
-          "url": "https://www.cls.cn/detail/2296218",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "现货白银向上触及90美元/盎司，日内涨0.84%。",
           "url": "https://flash.jin10.com/detail/20260226090146181800",
           "source": "金十数据",
@@ -532,7 +546,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -620,7 +634,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -697,7 +711,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -719,7 +733,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -818,7 +832,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -876,6 +890,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时37分"
+        },
+        {
+          "title": "消息人士：先正达集团计划于第四季度在香港启动首次公开募股（IPO）。集团计划在第二季度提交高达100亿美元的IPO招股说明书。",
+          "url": "https://flash.jin10.com/detail/20260226220958701800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "韩国与阿联酋签署350亿美元防务合作谅解备忘录",
@@ -958,7 +983,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 63,
+      "match_count": 69,
       "titles": [
         {
           "title": "中国男篮公布客战日本12人名单",
@@ -996,8 +1021,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 20时54分]"
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 23时12分]"
         },
         {
           "title": "中国首次启用关注名单制度，将 20 家日本实体列入关注名单，什么是关注名单制度？这意味着什么？",
@@ -1051,6 +1076,41 @@
           "time_info": "[07时52分 ~ 11时59分]"
         },
         {
+          "title": "中国男篮战胜日本男篮",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 23时12分]"
+        },
+        {
+          "title": "世预赛中国男篮逆转战胜日本队",
+          "url": "https://www.douyin.com/hot/2412274",
+          "source": "抖音",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 23时12分]"
+        },
+        {
+          "title": "中国男篮客场逆转击败日本男篮",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AE%A2%E5%9C%BA%E9%80%86%E8%BD%AC%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 23时12分]"
+        },
+        {
           "title": "陪看：世预赛中国男篮vs日本",
           "url": "https://www.baidu.com/s?wd=%E9%99%AA%E7%9C%8B%EF%BC%9A%E4%B8%96%E9%A2%84%E8%B5%9B%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E6%97%A5%E6%9C%AC",
           "source": "百度热搜",
@@ -1060,6 +1120,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时40分 ~ 19时37分]"
+        },
+        {
+          "title": "中国男篮逆转日本获世预赛首胜",
+          "url": "https://www.toutiao.com/trending/7610891080162377766/",
+          "source": "今日头条",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 23时12分]"
         },
         {
           "title": "中国男篮vs日本男篮",
@@ -1072,6 +1144,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时40分 ~ 19时37分]"
+        },
+        {
+          "title": "男篮世界杯预选赛，中国男篮 87-80 逆转日本男篮，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2010391207130391871",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 23时12分]"
         },
         {
           "title": "中国男篮vs日本男篮陪看",
@@ -1124,17 +1208,6 @@
           "time_info": "[18时40分 ~ 19时37分]"
         },
         {
-          "title": "中国男篮战胜日本男篮",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "日本央行行长植田和男：若春季薪资谈判结果强于预期，且生产企业迅速转嫁成本，我们有望提前实现物价目标。",
           "url": "https://flash.jin10.com/detail/20260226055746498800",
           "source": "金十数据",
@@ -1157,37 +1230,16 @@
           "time_info": "13时22分"
         },
         {
-          "title": "中国男篮客场逆转击败日本男篮",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%AE%A2%E5%9C%BA%E9%80%86%E8%BD%AC%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE",
-          "source": "百度热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "中国男篮战胜日本男篮",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%23&t=31&band_rank=2&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "世预赛中国男篮逆转战胜日本队",
-          "url": "https://www.douyin.com/hot/2412274",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 23时12分]"
         },
         {
           "title": "日本央行行长植田和男：我们不认为在应对通胀过高的风险方面落后于形势。",
@@ -1280,28 +1332,6 @@
           "time_info": "[07时02分 ~ 07时52分]"
         },
         {
-          "title": "中国男篮逆转日本获世预赛首胜",
-          "url": "https://www.toutiao.com/trending/7610891080162377766/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "男篮世界杯预选赛，中国男篮 87-80 逆转日本男篮，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2010391207130391871",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "日本央行行长植田和男：核心通胀率尚未完全达到2%，将引导政策使核心通胀率达到约2%，同时避免其持续高于2%。",
           "url": "https://flash.jin10.com/detail/20260226055434462800",
           "source": "金十数据",
@@ -1313,13 +1343,25 @@
           "time_info": "06时28分"
         },
         {
+          "title": "日本一大学把宇树机器人改成僧侣",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A4%A7%E5%AD%A6%E6%8A%8A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B9%E6%88%90%E5%83%A7%E4%BE%A3",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 23时12分]"
+        },
+        {
           "title": "日本 主场哨",
           "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%20%E4%B8%BB%E5%9C%BA%E5%93%A8&t=31&band_rank=5&Refer=top",
           "source": "微博",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1358,6 +1400,17 @@
           "time_info": "[14时34分 ~ 15时49分]"
         },
         {
+          "title": "日本队动作不当裁判吹郭士强技术犯规",
+          "url": "https://www.toutiao.com/trending/7610300251941552166/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "日本40年期国债收益率下跌3.0个基点，至3.605%。",
           "url": "https://flash.jin10.com/detail/20260226142059615800",
           "source": "金十数据",
@@ -1378,6 +1431,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
+        },
+        {
+          "title": "日本物价居然到这种程度了",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E5%B1%85%E7%84%B6%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "日本男篮主场哨",
+          "url": "https://www.douyin.com/hot/2412789",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "丰田：1月份母公司全球汽车产量同比下降6.0%，至735,097辆。1月份日本本土仅面向本国市场的汽车产量同比下降6.1%，至249,827辆。",
@@ -1419,7 +1494,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -1446,15 +1521,26 @@
           "time_info": "14时34分"
         },
         {
-          "title": "日本一大学把宇树机器人改成僧侣",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%A4%A7%E5%AD%A6%E6%8A%8A%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%94%B9%E6%88%90%E5%83%A7%E4%BE%A3",
+          "title": "87比80客场战胜日本，中国男篮世预赛上演半场逆转好戏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32659345",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "日本队恶意伤人反吹中国犯规",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%98%9F%E6%81%B6%E6%84%8F%E4%BC%A4%E4%BA%BA%E5%8F%8D%E5%90%B9%E4%B8%AD%E5%9B%BD%E7%8A%AF%E8%A7%84",
           "source": "百度热搜",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时54分"
+          "time_info": "23时12分"
         },
         {
           "title": "日本首相高市早苗：完全削减消费税可能会影响公共服务。",
@@ -1532,6 +1618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "日本男篮主场裁判争议哨不断",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%9C%BA%E8%A3%81%E5%88%A4%E4%BA%89%E8%AE%AE%E5%93%A8%E4%B8%8D%E6%96%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "高盛：日本央行新委员提名或降低近期加息概率",
@@ -1680,8 +1777,21 @@
     },
     {
       "keyword_group": "显卡 英伟达",
-      "match_count": 37,
+      "match_count": 43,
       "titles": [
+        {
+          "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3766200",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时29分 ~ 23时12分]"
+        },
         {
           "title": "英伟达Q4财报公布在即",
           "url": "https://www.douyin.com/hot/2411539",
@@ -1696,19 +1806,6 @@
           "time_info": "[01时03分 ~ 07时02分]"
         },
         {
-          "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3766200",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时29分 ~ 20时54分]"
-        },
-        {
           "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
           "url": "https://wallstreetcn.com/articles/3766102",
           "source": "华尔街见闻",
@@ -1717,8 +1814,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时02分 ~ 20时54分]"
+          "appearance_count": 15,
+          "time_info": "[07时02分 ~ 23时12分]"
         },
         {
           "title": "英伟达电话会：黄仁勋高呼代理AI拐点已至，“推理即收入”，看好未来太空数据中心",
@@ -1730,8 +1827,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时59分 ~ 20时54分]"
+          "appearance_count": 11,
+          "time_info": "[11时59分 ~ 23时12分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -1758,11 +1855,12 @@
             15,
             16,
             20,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[01时03分 ~ 20时54分]"
+          "appearance_count": 27,
+          "time_info": "[01时03分 ~ 23时12分]"
         },
         {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
@@ -1914,6 +2012,17 @@
           "time_info": "[07时02分 ~ 07时52分]"
         },
         {
+          "title": "英伟达“答卷”难解AI担忧，美股指涨跌互现，纳指跌0.2%，金涨银跌，WTI原油一度跌逾2%",
+          "url": "https://wallstreetcn.com/articles/3766225",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "英伟达CEO黄仁勋：客户竞相投资AI计算。 计算需求迅猛增长。 企业对代理的应用飙升。 Grace Blackwell搭配NVLink是推理的王者。",
           "url": "https://wallstreetcn.com/livenews/3059067",
           "source": "华尔街见闻-快讯",
@@ -1923,6 +2032,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "英伟达财报如此“炸裂”，但为何市场“冷眼相待”？",
+          "url": "https://wallstreetcn.com/articles/3766237",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2296406",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "英伟达四季报超预期，一季度指引超预期，股价盘后涨约4%",
@@ -1967,6 +2098,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "英伟达(NVDA.O)跌幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20260226223755221800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "英伟达Q4营收大涨75%再超预期！但数据中心需求集中引担忧",
@@ -2068,6 +2210,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "美股开盘，道指涨0.35%、标普500指数跌0.04%、纳指跌0.28%，英伟达(NVDA.O)开跌1.24%，此前公司公布了超预期的财报；百度(BIDU.O)开跌4.92%，其2025财年总收入录得同比降幅。",
+          "url": "https://flash.jin10.com/detail/20260226223100930800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "英伟达(NVDA.O)美股盘后涨2.5%，其营收及业绩展望均超预期。",
           "url": "https://flash.jin10.com/detail/20260226053342414800",
           "source": "金十数据",
@@ -2112,6 +2265,17 @@
           "time_info": "07时02分"
         },
         {
+          "title": "谁在接替英伟达暴涨",
+          "url": "https://www.toutiao.com/trending/7611127197012594218/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "英伟达(NVDA.O) CFO：第四季度网络业务表现突出，规模化部署和技术扩展需求创历史新高。",
           "url": "https://flash.jin10.com/detail/20260226061329935800",
           "source": "金十数据",
@@ -2126,7 +2290,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "元宝向用户道歉，此前生成拜年海报中出现脏话，AI 为何会输出侮辱性内容？此事带来哪些警示？",
@@ -2136,11 +2300,12 @@
             7,
             4,
             2,
-            1
+            1,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时59分 ~ 20时54分]"
+          "appearance_count": 11,
+          "time_info": "[11时59分 ~ 23时12分]"
         },
         {
           "title": "汇丰“逆市之言”：软件将吞噬AI，现在是抄底好时机",
@@ -2207,11 +2372,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             23,
-            11
+            11,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 20时54分]"
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 23时12分]"
         },
         {
           "title": "新时代硬通货！GPU抵押融资愈发火热 AI圈迷上疯狂“炼金术”",
@@ -2238,6 +2404,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时29分 ~ 13时22分]"
+        },
+        {
+          "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
+          "url": "https://www.cls.cn/detail/2296230",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 23时12分]"
+        },
+        {
+          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
+          "url": "https://www.cls.cn/detail/2295977",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 23时12分]"
         },
         {
           "title": "红杉资本（Sequoia Capital）合伙人兼共同管理人林君叡表示：软件公司将成功度过当前的人工智能（AI）颠覆浪潮。 别忘了，AI本身在很大程度上就是软件。 像甲骨文这样昔日的传统软件公司，至今依然存在。（彭博）",
@@ -2288,6 +2478,18 @@
           "time_info": "[16时40分 ~ 17时43分]"
         },
         {
+          "title": "中国AI调用量首次超过美国",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时54分 ~ 23时12分]"
+        },
+        {
           "title": "C3.ai美股盘后跌24%，该公司第三财季营收逊色于市场预期。",
           "url": "https://wallstreetcn.com/livenews/3059057",
           "source": "华尔街见闻-快讯",
@@ -2298,28 +2500,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时56分 ~ 06时28分]"
-        },
-        {
-          "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
-          "url": "https://www.cls.cn/detail/2296230",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
-          "title": "【每日收评】三大指数震荡分化涨跌不一，AI算力链卷土重来，周期股分化加剧",
-          "url": "https://www.cls.cn/detail/2295977",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时36分 ~ 19时37分]"
         },
         {
           "title": "AI需求拉动，被动元器件全面涨价即将到来",
@@ -2368,17 +2548,6 @@
           "time_info": "[13时22分 ~ 18时40分]"
         },
         {
-          "title": "中国AI调用量首次超过美国",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时54分"
-        },
-        {
           "title": "百度四季度AI业务收入占比43% 超预期",
           "url": "https://wallstreetcn.com/livenews/3059468",
           "source": "华尔街见闻-快讯",
@@ -2410,6 +2579,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3766259",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "百度集团：2025年第四季度，智能云基础设施收入为人民币58亿元，AI高性能计算设施收入的订阅收入同比增长143%。2025年全年，智能云基础设施收入为约人民币200亿元，同比增长34%。",
@@ -2456,6 +2636,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "博通向富士通交付新型AI芯片，计划扩大推广范围",
+          "url": "https://wallstreetcn.com/livenews/3059624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "盛宝银行：AI交易进入去泡沫阶段 投资需转向供应链韧性环节",
           "url": "https://flash.jin10.com/detail/20260226115757387800",
           "source": "金十数据",
@@ -2500,6 +2691,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "周鸿祎：分不清AI和人工内容，说明AGI已经在稳步实现",
+          "url": "https://wallstreetcn.com/livenews/3059621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美国里士满联储主席Barkin：利率政策无法解决人工智能（AI）造成的干扰。",
           "url": "https://wallstreetcn.com/livenews/3058971",
           "source": "华尔街见闻-快讯",
@@ -2517,7 +2719,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         }
@@ -2525,7 +2727,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -2565,6 +2767,17 @@
           "time_info": "[01时03分 ~ 13时22分]"
         },
         {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时34分 ~ 23时12分]"
+        },
+        {
           "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
           "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
           "source": "凤凰网",
@@ -2575,17 +2788,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时29分 ~ 16时40分]"
-        },
-        {
-          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
-          "url": "https://www.zhihu.com/question/2009941400440025198",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时34分 ~ 20时54分]"
         },
         {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
@@ -2599,6 +2801,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时59分 ~ 17时43分]"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 23时12分]"
         },
         {
           "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
@@ -2628,6 +2843,17 @@
           "time_info": "[03时48分 ~ 05时56分]"
         },
         {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时36分 ~ 23时12分]"
+        },
+        {
           "title": "美国总统特朗普与乌克兰总统泽连斯基通电话。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3059016",
           "source": "华尔街见闻-快讯",
@@ -2640,30 +2866,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时36分 ~ 05时07分]"
-        },
-        {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 20时54分]"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时36分 ~ 20时54分]"
         },
         {
           "title": "乌克兰总统泽连斯基：刚刚和美国总统特朗普通了电话。美国总统特使威特科夫和贾里德·库什纳也参加了通话。我们讨论了双方代表明天在日内瓦双边会晤中将要讨论的问题，以及三月初三方谈判团队全体会议的筹备工作。",
@@ -2788,7 +2990,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -2802,6 +3004,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "特朗普政府劳工部提出有利于零工经济的工人身份认定规则。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3059618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "特朗普顾问希望以色列先动手打伊朗",
@@ -2873,7 +3086,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -3093,6 +3306,17 @@
           "time_info": "09时30分"
         },
         {
+          "title": "一条手链涨价超两万！周大福、老铺黄金等酝酿金饰提价",
+          "url": "https://www.cls.cn/detail/2296411",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "金十图示：2026年02月26日（周四）上海金早盘价为1143.85元/克，较国际金价(1140.26元/克)，高3.59元/克",
           "url": "https://flash.jin10.com/detail/20260226110401427800",
           "source": "金十数据",
@@ -3102,6 +3326,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "现货黄金短线下挫30美元，报5154.32美元/盎司；现货白银日内一度大跌4%，最新报85.90美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260226223237993800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "金十图示：2026年02月26日（周四）黄金ETF持仓报告",
@@ -3121,7 +3356,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时54分"
         },
@@ -3306,7 +3541,7 @@
     },
     {
       "keyword_group": "openai chatgpt",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "英伟达仍然在与OpenAI谈判投资事宜，目前尚未敲定协议。",
@@ -3331,6 +3566,17 @@
           "time_info": "06时28分"
         },
         {
+          "title": "OpenAI：ChatGPT目前发生故障。",
+          "url": "https://wallstreetcn.com/livenews/3059629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "英伟达(NVDA.O)：自ChatGPT出现以来，数据中心业务增长近13倍。",
           "url": "https://flash.jin10.com/detail/20260226053541436800",
           "source": "金十数据",
@@ -3351,6 +3597,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时36分"
+        },
+        {
+          "title": "OpenAI表示，目前在使用ChatGPT时出现了一些问题。",
+          "url": "https://flash.jin10.com/detail/20260226221500966800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "英伟达CEO黄仁勋：公司即将与OpenAI达成合作协议。",
@@ -3469,11 +3726,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时40分 ~ 20时54分]"
+          "appearance_count": 5,
+          "time_info": "[18时40分 ~ 23时12分]"
         }
       ]
     }
