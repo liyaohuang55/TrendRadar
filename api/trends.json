@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-26T15:49:19.798187+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-02-26T16:40:49.849656+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 55,
+      "match_count": 64,
       "titles": [
         {
           "title": "SK海力士拟在韩国投资150亿美元 以扩建芯片产能",
@@ -30,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时03分 ~ 15时49分]"
+          "appearance_count": 21,
+          "time_info": "[01时03分 ~ 16时40分]"
         },
         {
           "title": "离岸人民币兑美元升破 6.9 元关口创新高，驱动因素是什么？人民币升值后续空间还有多大？",
@@ -46,6 +46,30 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[02时35分 ~ 07时52分]"
+        },
+        {
+          "title": "美国从陈志案获利150亿美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E9%99%88%E5%BF%97%E6%A1%88%E8%8E%B7%E5%88%A9150%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时59分 ~ 16时40分]"
+        },
+        {
+          "title": "英伟达第四财季营收 681 亿美元，同比增长 73%，净利润同比增长 94％，为什么能增长这么多？",
+          "url": "https://www.zhihu.com/question/2010275036578145903",
+          "source": "知乎",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时22分 ~ 16时40分]"
         },
         {
           "title": "周三（2月25日），美联储隔夜逆回购协议（RRP）使用规模为11.59亿美元（交易对手7家），上个交易日报9.17亿美元。",
@@ -88,30 +112,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时48分 ~ 05时56分]"
-        },
-        {
-          "title": "美国从陈志案获利150亿美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%BB%8E%E9%99%88%E5%BF%97%E6%A1%88%E8%8E%B7%E5%88%A9150%E4%BA%BF%E7%BE%8E%E5%85%83%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时59分 ~ 15时49分]"
-        },
-        {
-          "title": "英伟达第四财季营收 681 亿美元，同比增长 73%，净利润同比增长 94％，为什么能增长这么多？",
-          "url": "https://www.zhihu.com/question/2010275036578145903",
-          "source": "知乎",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时22分 ~ 15时49分]"
         },
         {
           "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.615%（1月27日为3.823%），投标倍数2.32（前次为2.34）。",
@@ -196,9 +196,31 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "现货白银日内跌幅达3.0%，报86.15美元/盎司；纽约银日内跌幅达5.0%，报86.82美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3059441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "现货白银回落至87美元/盎司下方，日内跌2.53%。",
+          "url": "https://flash.jin10.com/detail/20260226162715582800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "人民币兑美元中间价报6.9228，上调93点；上一交易日中间价6.9321，上一交易日16:30官方收盘价6.8672，上日夜盘报收6.8592。",
@@ -260,15 +282,37 @@
           "time_info": "[11时59分 ~ 13时22分]"
         },
         {
+          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2010322310536590565",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时40分]"
+        },
+        {
           "title": "摩根士丹利将英伟达目标价从250美元上调至260美元。",
           "url": "https://wallstreetcn.com/livenews/3059385",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
+        },
+        {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.8397，较上一交易日官方收盘价涨275点，较上日夜盘收盘涨195点。",
+          "url": "https://wallstreetcn.com/livenews/3059436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "Salesforce预计一季度营收110.3亿-110.8亿美元，分析师预期109.9亿美元。 公司作出新的购票回购承诺，金额高达500亿美元。",
@@ -329,6 +373,17 @@
           "time_info": "09时30分"
         },
         {
+          "title": "现货白银日内跌幅达2.5%，报86.8美元/盎司；纽约银日内跌幅达4.5%，报87.45美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3059435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的11.59亿美元。",
           "url": "https://flash.jin10.com/detail/20260226021704375800",
           "source": "金十数据",
@@ -373,15 +428,15 @@
           "time_info": "14时34分"
         },
         {
-          "title": "中方报告揭露美国利用技术霸权收割全球虚拟货币资产，从陈志案获利达 150 亿美元，会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2010322310536590565",
-          "source": "知乎",
+          "title": "中国台湾第四季度经常帐 699.3亿美元，前值458.4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260226162111754800",
+          "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时49分"
+          "time_info": "16时40分"
         },
         {
           "title": "机构：2025年第四季DRAM产业营收为535.8亿美元，较上季度增加29.4%",
@@ -439,6 +494,28 @@
           "time_info": "05时56分"
         },
         {
+          "title": "汇丰银行：将英伟达(NVDA.O)目标价从310美元下调至295美元。",
+          "url": "https://flash.jin10.com/detail/20260226161800383800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "数据显示，租用超大型油轮（VLCC）将中东原油运往亚洲的成本自2020年以来首次超过20万美元/天。",
+          "url": "https://flash.jin10.com/detail/20260226161749374800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "中国创新药“出海”势头强劲，年内海外授权总金额突破530亿美元",
           "url": "https://wallstreetcn.com/livenews/3059152",
           "source": "华尔街见闻-快讯",
@@ -492,6 +569,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "韩国总统特使：与阿联酋签署价值逾350亿美元的国防工业合作谅解备忘录。",
+          "url": "https://flash.jin10.com/detail/20260226161413762800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "消息人士：国际货币基金组织执行董事会将于周四审议针对乌克兰的81亿美元贷款协议。",
@@ -582,6 +670,17 @@
           "time_info": "11时59分"
         },
         {
+          "title": "澳新银行：上调人民币兑美元年底预测至6.75（此前为6.85）。",
+          "url": "https://wallstreetcn.com/livenews/3059411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "英伟达CFO：我们将超越此前设定的5000亿美元目标。 供应将满足今后至明年的需求。",
           "url": "https://wallstreetcn.com/livenews/3059077",
           "source": "华尔街见闻-快讯",
@@ -651,7 +750,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "中国男篮公布客战日本12人名单",
@@ -680,6 +779,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时52分 ~ 11时59分]"
+        },
+        {
+          "title": "中国男篮vs日本男篮",
+          "url": "https://www.douyin.com/hot/2412274",
+          "source": "抖音",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时40分]"
         },
         {
           "title": "继法国兴业银行之后，德银退出日本国债走平交易",
@@ -728,18 +839,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时22分"
-        },
-        {
-          "title": "中国男篮vs日本男篮",
-          "url": "https://www.douyin.com/hot/2412274",
-          "source": "抖音",
-          "ranks": [
-            12,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时49分]"
         },
         {
           "title": "日本央行行长植田和男：我们不认为在应对通胀过高的风险方面落后于形势。",
@@ -910,6 +1009,17 @@
           "time_info": "13时22分"
         },
         {
+          "title": "中方回应将日本实体列入出口管控名单",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B0%86%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "日本首相高市早苗：预计日本央行将以实现2%通胀目标为导向管理政策。 日本央行的政策并非旨在影响外汇汇率。",
           "url": "https://wallstreetcn.com/livenews/3059315",
           "source": "华尔街见闻-快讯",
@@ -938,7 +1048,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -993,7 +1103,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -1037,7 +1147,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -1171,19 +1281,16 @@
           "time_info": "[01时03分 ~ 07时02分]"
         },
         {
-          "title": "血亏!4090显卡4千元被秒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350981&amp;topic_name=%E8%A1%80%E4%BA%8F%214090%E6%98%BE%E5%8D%A14%E5%8D%83%E5%85%83%E8%A2%AB%E7%A7%92",
-          "source": "贴吧",
+          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
+          "url": "https://wallstreetcn.com/articles/3766102",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            6,
-            10,
-            13,
-            15
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时03分 ~ 15时49分]"
+          "appearance_count": 9,
+          "time_info": "[07时02分 ~ 16时40分]"
         },
         {
           "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
@@ -1199,15 +1306,33 @@
           "time_info": "[01时03分 ~ 13时22分]"
         },
         {
-          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3766102",
+          "title": "血亏!4090显卡4千元被秒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350981&amp;topic_name=%E8%A1%80%E4%BA%8F%214090%E6%98%BE%E5%8D%A14%E5%8D%83%E5%85%83%E8%A2%AB%E7%A7%92",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            10,
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[01时03分 ~ 16时40分]"
+        },
+        {
+          "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3766200",
           "source": "华尔街见闻",
           "ranks": [
+            4,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时02分 ~ 15时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 16时40分]"
         },
         {
           "title": "英伟达Q4营收大涨73%再超预期！但数据中心需求集中引担忧",
@@ -1218,20 +1343,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 15时49分]"
-        },
-        {
-          "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3766200",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 15时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 16时40分]"
         },
         {
           "title": "英伟达大秀下一代AI系统Vera Rubin内部细节 每瓦性能提高10倍",
@@ -1252,11 +1365,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 16时40分]"
         },
         {
           "title": "英伟达财报会实录| 黄仁勋扫清市场忧虑：AI新时代 算力即营收！",
@@ -1269,8 +1383,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 16时40分]"
         },
         {
           "title": "英伟达CEO黄仁勋谈及“太空数据中心”，称：当前的太空数据中心经济还是“贫瘠的”，但形势将随着时间的推移而变化。",
@@ -1305,6 +1419,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时28分"
+        },
+        {
+          "title": "日股史上首次站上59000点！央行加息风险减弱 英伟达财报送上助攻",
+          "url": "https://www.cls.cn/detail/2295604",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时49分 ~ 16时40分]"
         },
         {
           "title": "英伟达美股盘后涨幅收窄至0.4%，该公司CEO黄仁勋与CFO正在讲话。",
@@ -1431,17 +1557,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "日股史上首次站上59000点！央行加息风险减弱 英伟达财报送上助攻",
-          "url": "https://www.cls.cn/detail/2295604",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时49分"
         },
         {
           "title": "英伟达Q4财报亮眼 公司称算力需求依然饥渴",
@@ -1590,7 +1705,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗强硬回击特朗普国情咨文：弥天大谎",
@@ -1638,8 +1753,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时29分 ~ 15时49分]"
+          "appearance_count": 7,
+          "time_info": "[09时29分 ~ 16时40分]"
         },
         {
           "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
@@ -1650,8 +1765,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 16时40分]"
         },
         {
           "title": "阿斯顿马丁将裁员至多20%，来应对美国总统特朗普挑起的关税所造成的复杂形势。",
@@ -1693,6 +1808,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 05时56分]"
+        },
+        {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时40分]"
         },
         {
           "title": "乌克兰总统顾问：泽连斯基与特朗普举行电话会谈，会谈已结束。",
@@ -1753,17 +1879,6 @@
           "time_info": "[09时29分 ~ 09时30分]"
         },
         {
-          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
-          "url": "https://www.zhihu.com/question/2009941400440025198",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时49分]"
-        },
-        {
           "title": "IMF总裁格奥尔基耶娃：我们未对最高法院推翻特朗普部分关税政策的裁决发表意见。",
           "url": "https://flash.jin10.com/detail/20260226062305910800",
           "source": "金十数据",
@@ -1807,6 +1922,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "梳理｜特朗普吹、民主党骂，回看美国史上最长国情咨文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32655137",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "特朗普顾问希望以色列先动手打伊朗",
+          "url": "https://www.toutiao.com/trending/7610052654202437668/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "特朗普把国情咨文演讲开成吹牛大会",
@@ -1867,7 +2004,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "如何评价文章「文科生 72 小时杀入 GitHub 全球榜：我没写一行代码但指挥了一支 AI 军队」？",
@@ -1937,8 +2074,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时59分 ~ 15时49分]"
+          "appearance_count": 5,
+          "time_info": "[11时59分 ~ 16时40分]"
         },
         {
           "title": "AI帮你选对发型",
@@ -2002,6 +2139,17 @@
           "time_info": "[05时56分 ~ 06时28分]"
         },
         {
+          "title": "华为云码道公测版发布 覆盖代码生成等AI编程技术",
+          "url": "https://wallstreetcn.com/livenews/3059437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "AI需求拉动，被动元器件全面涨价即将到来",
           "url": "https://wallstreetcn.com/livenews/3059090",
           "source": "华尔街见闻-快讯",
@@ -2034,6 +2182,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "如何看待 Anthropic 用 AI 改写代码致 IBM 大跌？将对软件外包和咨询行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2009576994401118046",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "黄仁勋：市场“错读”了AI对软件公司的威胁",
@@ -2102,6 +2261,17 @@
           "time_info": "01时04分"
         },
         {
+          "title": "椭圆变速版see you again",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "AI圈爆火的FARS是什么",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84FARS%E6%98%AF%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -2116,7 +2286,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "静待英伟达财报，美股指高开，纳指涨幅扩大至1%，科技股普涨，现货黄金日内涨超1%",
@@ -2217,13 +2387,26 @@
           "time_info": "[04时31分 ~ 05时56分]"
         },
         {
+          "title": "顾客5.5克黄金戒指换新只剩下2克",
+          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A25.5%E5%85%8B%E9%BB%84%E9%87%91%E6%88%92%E6%8C%87%E6%8D%A2%E6%96%B0%E5%8F%AA%E5%89%A9%E4%B8%8B2%E5%85%8B",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时40分]"
+        },
+        {
           "title": "印度监管机构放宽主动型股票基金投资范围 黄金白银成新宠",
           "url": "https://flash.jin10.com/detail/20260226152906756800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -2240,25 +2423,13 @@
           "time_info": "[13时22分 ~ 14时34分]"
         },
         {
-          "title": "顾客5.5克黄金戒指换新只剩下2克",
-          "url": "https://www.baidu.com/s?wd=%E9%A1%BE%E5%AE%A25.5%E5%85%8B%E9%BB%84%E9%87%91%E6%88%92%E6%8C%87%E6%8D%A2%E6%96%B0%E5%8F%AA%E5%89%A9%E4%B8%8B2%E5%85%8B",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时49分]"
-        },
-        {
           "title": "印度市场监管机构允许该国规模达3840亿美元的主动管理型股票基金将更多资金投资于黄金和白银。",
           "url": "https://flash.jin10.com/detail/20260226152215261800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时49分"
         },
@@ -2305,6 +2476,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
+        },
+        {
+          "title": "男子杀鸭从鸭肚中剖出黄金颗粒",
+          "url": "https://www.toutiao.com/trending/7611031515153842182/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "澳新银行：黄金前景依然乐观 目前仍有空间新建多头头寸",
+          "url": "https://flash.jin10.com/detail/20260226160416060800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "游客泰国机场1110元金价买了周大福",
+          "url": "https://www.baidu.com/s?wd=%E6%B8%B8%E5%AE%A2%E6%B3%B0%E5%9B%BD%E6%9C%BA%E5%9C%BA1110%E5%85%83%E9%87%91%E4%BB%B7%E4%B9%B0%E4%BA%86%E5%91%A8%E5%A4%A7%E7%A6%8F",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         }
       ]
     },
@@ -2326,6 +2530,19 @@
           "time_info": "[02时36分 ~ 04时31分]"
         },
         {
+          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
+          "url": "https://www.cls.cn/detail/2295271",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时34分 ~ 16时40分]"
+        },
+        {
           "title": "亚马逊、谷歌、甲骨文将签署数据中心协议。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3059009",
           "source": "华尔街见闻-快讯",
@@ -2337,18 +2554,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时36分 ~ 04时31分]"
-        },
-        {
-          "title": "三星发布会首次展现Gemini手机智能体 苹果iOS翘首以待",
-          "url": "https://www.cls.cn/detail/2295271",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时34分 ~ 15时49分]"
         },
         {
           "title": "马来西亚总理：这项投资涵盖了谷歌在马来西亚首个数据中心和云服务基础设施的开发和运营。该项目投入运营后，预计到2030年将带来32亿美元的经济效益，并创造26,500个就业岗位。",
@@ -2536,7 +2741,7 @@
     },
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金十图示：2026年02月25日（周三）全球股市指数-美洲市场（收盘）",
@@ -2559,6 +2764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
+        },
+        {
+          "title": "金十图示：2026年02月26日（周四）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260226161159402800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "非洲股市收盘播报｜周三（2月25日），南非富时/JSE非洲领先40可交易指数收涨1.47%，至11.85万点上方。",
