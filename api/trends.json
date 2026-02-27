@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T21:57:18.236648+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2026-02-27T22:38:04.784295+08:00",
+  "total_titles_processed": 2089,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 95,
+      "match_count": 96,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -270,6 +270,18 @@
           "time_info": "[19时52分 ~ 20时45分]"
         },
         {
+          "title": "科技巨头与银行股助力，挪威财富基金在2025年获利2500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3060346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时38分]"
+        },
+        {
           "title": "伯恩斯坦：将英伟达(NVDA.O)目标价从每股275美元上调至每股300美元，维持“跑赢大盘”评级。",
           "url": "https://flash.jin10.com/detail/20260227012606598800",
           "source": "金十数据",
@@ -290,17 +302,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时28分"
-        },
-        {
-          "title": "科技巨头与银行股助力，挪威财富基金在2025年获利2500亿美元",
-          "url": "https://wallstreetcn.com/livenews/3060346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         },
         {
           "title": "英镑兑美元GBP/USD向上触及1.35，日内涨0.14%。",
@@ -742,7 +743,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -778,6 +779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "瑞士再保险发布创纪录的48亿美元利润，计划回购15亿美元股票，股价涨5%",
+          "url": "https://wallstreetcn.com/livenews/3060351",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
         {
           "title": "据路透调查：预计2026年美国原油的平均价格将为每桶60.38美元，而1月份的预测为每桶58.72美元。",
@@ -852,7 +864,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -984,7 +996,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -1083,7 +1095,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -1097,6 +1109,522 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 43,
+      "titles": [
+        {
+          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
+          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时14分 ~ 09时28分]"
+        },
+        {
+          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12,
+            14,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时14分 ~ 14时11分]"
+        },
+        {
+          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
+          "url": "https://www.zhihu.com/question/2009941400440025198",
+          "source": "知乎",
+          "ranks": [
+            11,
+            16,
+            18,
+            17,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时14分 ~ 07时52分]"
+        },
+        {
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            15,
+            17,
+            19,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[07时52分 ~ 21时57分]"
+        },
+        {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            9,
+            14,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时03分 ~ 22时38分]"
+        },
+        {
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时06分 ~ 22时38分]"
+        },
+        {
+          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
+          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时12分 ~ 15时28分]"
+        },
+        {
+          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
+          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 18时05分]"
+        },
+        {
+          "title": "【伊美间接谈判结束 斡旋方称谈判“取得重大进展”】总台记者获悉，当地时间2月26日，伊美第三轮间接谈判结束。阿曼外交大臣巴德尔表示，在双方同各自国家政府进行磋商后，各方将尽快举行下一轮谈判。技术层面的谈判将于下周在维也纳举行。巴德尔通过其社交媒体发文表示，当天日内瓦谈判“取得重大进展”。不过，此前谈判仍在进行时有美方消息传出，称美国总统特使威特科夫和特朗普女婿库什纳对伊朗代表团在上午谈判中的表态感到失望。伊朗与美国的第三轮间接谈判26日在瑞士日内瓦举行。此次谈判由阿曼斡旋，在阿曼驻日内瓦外交代表机构举行。伊朗外交部长阿拉格齐率领伊朗代表团参加谈判，美方谈判代表是美国总统特使威特科夫和美国总统特朗普的女婿库什纳。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3059735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时41分 ~ 05时56分]"
+        },
+        {
+          "title": "胡锡进：特朗普将自己置于矛盾境地",
+          "url": "https://news.ifeng.com/c/8r5pc0FsAVG",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时38分]"
+        },
+        {
+          "title": "特朗普旨在引导古巴加大对美依赖",
+          "url": "https://wallstreetcn.com/livenews/3059719",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时44分 ~ 04时32分]"
+        },
+        {
+          "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
+          "url": "https://wallstreetcn.com/livenews/3059705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时35分 ~ 03时41分]"
+        },
+        {
+          "title": "申请英国国籍的美国人数量在特朗普第二任期头一年创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3059757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 06时29分]"
+        },
+        {
+          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时38分]"
+        },
+        {
+          "title": "美国总统特朗普：负责审理这座将成为世界上最美丽宴会厅项目的法官，刚刚驳回并彻底否决了试图阻止其建设的努力。这座宴会厅预计未来还将用于总统就职典礼及大型国事访问活动，目前建设进度提前且低于预算。",
+          "url": "https://flash.jin10.com/detail/20260227022534308800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时44分 ~ 03时41分]"
+        },
+        {
+          "title": "美军驻中东最高将领向特朗普汇报针对伊朗的军事选项",
+          "url": "https://flash.jin10.com/detail/20260227091836465800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "消息人士：没有美国情报支持美国总统特朗普关于伊朗“很快”将拥有可抵达美国的导弹的说法。",
+          "url": "https://flash.jin10.com/detail/20260227114444531800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 13时13分]"
+        },
+        {
+          "title": "特朗普2026国会演讲全解析",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 15时28分]"
+        },
+        {
+          "title": "厄瓜多尔方面表示，将出席美国总统特朗普聚焦安全的会议。",
+          "url": "https://flash.jin10.com/detail/20260227221344850800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美国众议院监督委员会主席Comer：在爱泼斯坦问题上，我们对克林顿夫妇有疑问，将适时对外披露相关信息。 总统特朗普的商务部长卢特尼克可能也会被传唤出席听证会。",
+          "url": "https://wallstreetcn.com/livenews/3059674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "特朗普政府周五面临首个重大关税退税法定期限",
+          "url": "https://wallstreetcn.com/livenews/3060363",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美国纽约市长Mandani与总统特朗普讨论修建1.2万套住房的想法。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3059806",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 07时52分]"
+        },
+        {
+          "title": "德国总理默茨将赴美会晤特朗普 寻求澄清关税政策",
+          "url": "https://wallstreetcn.com/livenews/3060300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时45分"
+        },
+        {
+          "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3059979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时13分 ~ 14时11分]"
+        },
+        {
+          "title": "美媒披露：特朗普与美军方就对伊朗军事行动分歧明显",
+          "url": "https://wallstreetcn.com/livenews/3059670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
+          "url": "https://wallstreetcn.com/livenews/3059695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时35分 ~ 02时44分]"
+        },
+        {
+          "title": "周四（2月26日），降息赢家指数涨1.02%。 “特朗普关税输家”指数涨0.97%，“特朗普金融指数”涨1.11%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.57%。",
+          "url": "https://wallstreetcn.com/livenews/3059780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时01分]"
+        },
+        {
+          "title": "美国参议院少数党领袖舒默：在特朗普任内，制造业岗位减少了10万个。",
+          "url": "https://flash.jin10.com/detail/20260227044702015800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 05时56分]"
+        },
+        {
+          "title": "特朗普威胁驱逐教父饰演者",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E9%A9%B1%E9%80%90%E6%95%99%E7%88%B6%E9%A5%B0%E6%BC%94%E8%80%85%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 04时32分]"
+        },
+        {
+          "title": "市场消息：美国一名联邦法官目前拒绝叫停特朗普提出的白宫宴会厅项目。",
+          "url": "https://flash.jin10.com/detail/20260227012041500800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "媒体：特朗普旨在借能源让古巴更加依赖美国",
+          "url": "https://flash.jin10.com/detail/20260227021750352800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：特朗普将在得州宣传经济和能源政策。",
+          "url": "https://flash.jin10.com/detail/20260227220949883800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "消息人士透露，美国驻中东最高军事指挥官在周四向特朗普汇报了对伊朗采取军事行动的各种方案。",
+          "url": "https://flash.jin10.com/detail/20260227090648243800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
+          "url": "https://flash.jin10.com/detail/20260227120709043800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
+          "url": "https://flash.jin10.com/detail/20260227053249656800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "据知情人士透露，特朗普政府放宽对古巴新兴私营部门燃料运输的举措旨在使古巴在物资供应方面更加依赖美国，从而提升美国在推动政治和经济变革方面的筹码。",
+          "url": "https://flash.jin10.com/detail/20260227021000525800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "据纽约时报：美国总统特朗普将于当地时间周四在华盛顿会见纽约市市长马姆达尼。",
+          "url": "https://flash.jin10.com/detail/20260227011054267800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "德国政府发言人：德国总理默茨与美国总统特朗普将于周二在华盛顿会晤，讨论双边关系以及安全和贸易问题。",
+          "url": "https://flash.jin10.com/detail/20260227183612374800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
+          "title": "特朗普关于伊朗导弹的说法未获美国情报部门支持",
+          "url": "https://flash.jin10.com/detail/20260227115235508800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "特朗普科技集团、TAE、TVA正在洽谈分拆Truth Social。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3060347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "美媒：特朗普政府加紧制定策略 谋划保留关税收入",
+          "url": "https://flash.jin10.com/detail/20260227010102008800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时35分"
+        },
+        {
+          "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
+          "url": "https://flash.jin10.com/detail/20260227015004327800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时44分"
+        },
+        {
+          "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
+          "url": "https://wallstreetcn.com/livenews/3059912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时53分"
         }
       ]
     },
@@ -1271,8 +1799,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[01时35分 ~ 21时57分]"
+          "appearance_count": 30,
+          "time_info": "[01时35分 ~ 22时38分]"
         },
         {
           "title": "中国男篮逆转日本获世预赛首胜",
@@ -1433,6 +1961,18 @@
           "time_info": "[18时05分 ~ 19时52分]"
         },
         {
+          "title": "杨毅：日本男篮这几年占便宜太多了",
+          "url": "https://www.toutiao.com/trending/7610786400359399478/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时38分]"
+        },
+        {
           "title": "日本男篮实力如何",
           "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%94%B7%E7%AF%AE%E5%AE%9E%E5%8A%9B%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
@@ -1469,6 +2009,18 @@
           "time_info": "[11时53分 ~ 13时13分]"
         },
         {
+          "title": "逐帧解析男篮逆转日本",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E7%94%B7%E7%AF%AE%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时38分]"
+        },
+        {
           "title": "日本2年期国债标售投标倍数为3.32，而上一次为3.88。",
           "url": "https://flash.jin10.com/detail/20260227113621233800",
           "source": "金十数据",
@@ -1479,17 +2031,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 13时13分]"
-        },
-        {
-          "title": "逐帧解析男篮逆转日本",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E7%94%B7%E7%AF%AE%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         },
         {
           "title": "瑞穗计划利用人工智能（AI）技术，才未来十年裁员5000个行政岗位。（日本读卖新闻）",
@@ -1626,17 +2167,6 @@
           "time_info": "11时53分"
         },
         {
-          "title": "杨毅：日本男篮这几年占便宜太多了",
-          "url": "https://www.toutiao.com/trending/7610786400359399478/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
           "title": "日本财务省：2月当局未干预外汇市场",
           "url": "https://wallstreetcn.com/livenews/3060213",
           "source": "华尔街见闻-快讯",
@@ -1661,477 +2191,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 39,
-      "titles": [
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时14分 ~ 09时28分]"
-        },
-        {
-          "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            14,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时14分 ~ 14时11分]"
-        },
-        {
-          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
-          "url": "https://www.zhihu.com/question/2009941400440025198",
-          "source": "知乎",
-          "ranks": [
-            11,
-            16,
-            18,
-            17,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时14分 ~ 07时52分]"
-        },
-        {
-          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            15,
-            17,
-            19,
-            14,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时52分 ~ 21时57分]"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时03分 ~ 21时57分]"
-        },
-        {
-          "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
-          "url": "https://news.ifeng.com/c/8r4zqmCwYJf",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时12分 ~ 15时28分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时06分 ~ 21时57分]"
-        },
-        {
-          "title": "史无前例！联合国宣布特朗普夫人将主持安理会会议",
-          "url": "https://news.ifeng.com/c/8r5F4LVejaT",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 18时05分]"
-        },
-        {
-          "title": "【伊美间接谈判结束 斡旋方称谈判“取得重大进展”】总台记者获悉，当地时间2月26日，伊美第三轮间接谈判结束。阿曼外交大臣巴德尔表示，在双方同各自国家政府进行磋商后，各方将尽快举行下一轮谈判。技术层面的谈判将于下周在维也纳举行。巴德尔通过其社交媒体发文表示，当天日内瓦谈判“取得重大进展”。不过，此前谈判仍在进行时有美方消息传出，称美国总统特使威特科夫和特朗普女婿库什纳对伊朗代表团在上午谈判中的表态感到失望。伊朗与美国的第三轮间接谈判26日在瑞士日内瓦举行。此次谈判由阿曼斡旋，在阿曼驻日内瓦外交代表机构举行。伊朗外交部长阿拉格齐率领伊朗代表团参加谈判，美方谈判代表是美国总统特使威特科夫和美国总统特朗普的女婿库什纳。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3059735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时41分 ~ 05时56分]"
-        },
-        {
-          "title": "特朗普旨在引导古巴加大对美依赖",
-          "url": "https://wallstreetcn.com/livenews/3059719",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            18,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时44分 ~ 04时32分]"
-        },
-        {
-          "title": "美国纽约州长Hochul写信给总统特朗普的财政部长贝森特，要求立即实施关税退款。",
-          "url": "https://wallstreetcn.com/livenews/3059705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时35分 ~ 03时41分]"
-        },
-        {
-          "title": "申请英国国籍的美国人数量在特朗普第二任期头一年创历史新高",
-          "url": "https://wallstreetcn.com/livenews/3059757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时28分 ~ 06时29分]"
-        },
-        {
-          "title": "美国总统特朗普：负责审理这座将成为世界上最美丽宴会厅项目的法官，刚刚驳回并彻底否决了试图阻止其建设的努力。这座宴会厅预计未来还将用于总统就职典礼及大型国事访问活动，目前建设进度提前且低于预算。",
-          "url": "https://flash.jin10.com/detail/20260227022534308800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时44分 ~ 03时41分]"
-        },
-        {
-          "title": "美军驻中东最高将领向特朗普汇报针对伊朗的军事选项",
-          "url": "https://flash.jin10.com/detail/20260227091836465800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "消息人士：没有美国情报支持美国总统特朗普关于伊朗“很快”将拥有可抵达美国的导弹的说法。",
-          "url": "https://flash.jin10.com/detail/20260227114444531800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 13时13分]"
-        },
-        {
-          "title": "特朗普2026国会演讲全解析",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE2026%E5%9B%BD%E4%BC%9A%E6%BC%94%E8%AE%B2%E5%85%A8%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时27分 ~ 15时28分]"
-        },
-        {
-          "title": "美国众议院监督委员会主席Comer：在爱泼斯坦问题上，我们对克林顿夫妇有疑问，将适时对外披露相关信息。 总统特朗普的商务部长卢特尼克可能也会被传唤出席听证会。",
-          "url": "https://wallstreetcn.com/livenews/3059674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "美国纽约市长Mandani与总统特朗普讨论修建1.2万套住房的想法。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3059806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时01分 ~ 07时52分]"
-        },
-        {
-          "title": "德国总理默茨将赴美会晤特朗普 寻求澄清关税政策",
-          "url": "https://wallstreetcn.com/livenews/3060300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时45分"
-        },
-        {
-          "title": "消息人士称，美国目前并无情报支持特朗普有关“伊朗将很快拥有能打到美国的导弹”的这一说法。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3059979",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 14时11分]"
-        },
-        {
-          "title": "胡锡进：特朗普将自己置于矛盾境地",
-          "url": "https://news.ifeng.com/c/8r5pc0FsAVG",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "美媒披露：特朗普与美军方就对伊朗军事行动分歧明显",
-          "url": "https://wallstreetcn.com/livenews/3059670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "美国参议院民主党成员Warren发函货币监理署（OCC）、联邦存款保险公司（FDID）、以及EREBOR Bank。 Warren向亚马逊询问，总统特朗普的关税是否造成（该公司）涨价。",
-          "url": "https://wallstreetcn.com/livenews/3059695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时35分 ~ 02时44分]"
-        },
-        {
-          "title": "周四（2月26日），降息赢家指数涨1.02%。 “特朗普关税输家”指数涨0.97%，“特朗普金融指数”涨1.11%。 散户抱团概念股指数/迷因股（meme stock）指数涨3.57%。",
-          "url": "https://wallstreetcn.com/livenews/3059780",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时01分]"
-        },
-        {
-          "title": "美国参议院少数党领袖舒默：在特朗普任内，制造业岗位减少了10万个。",
-          "url": "https://flash.jin10.com/detail/20260227044702015800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 05时56分]"
-        },
-        {
-          "title": "特朗普威胁驱逐教父饰演者",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E9%A9%B1%E9%80%90%E6%95%99%E7%88%B6%E9%A5%B0%E6%BC%94%E8%80%85%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 04时32分]"
-        },
-        {
-          "title": "市场消息：美国一名联邦法官目前拒绝叫停特朗普提出的白宫宴会厅项目。",
-          "url": "https://flash.jin10.com/detail/20260227012041500800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "媒体：特朗普旨在借能源让古巴更加依赖美国",
-          "url": "https://flash.jin10.com/detail/20260227021750352800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "消息人士透露，美国驻中东最高军事指挥官在周四向特朗普汇报了对伊朗采取军事行动的各种方案。",
-          "url": "https://flash.jin10.com/detail/20260227090648243800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "专家：不排除特朗普赶在国会授权前发动攻击的可能",
-          "url": "https://flash.jin10.com/detail/20260227120709043800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "据《今日以色列》：美国官员称，特朗普预计将在周五召集高级顾问，详细讨论伊朗问题，并决定对德黑兰的行动方针。讨论的重点不是袭击是否会发生，而是其范围和潜在目标。官员表示，讨论的选项包括核设施、导弹基地、国家机构和基础设施。",
-          "url": "https://flash.jin10.com/detail/20260227053249656800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "据知情人士透露，特朗普政府放宽对古巴新兴私营部门燃料运输的举措旨在使古巴在物资供应方面更加依赖美国，从而提升美国在推动政治和经济变革方面的筹码。",
-          "url": "https://flash.jin10.com/detail/20260227021000525800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "据纽约时报：美国总统特朗普将于当地时间周四在华盛顿会见纽约市市长马姆达尼。",
-          "url": "https://flash.jin10.com/detail/20260227011054267800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "德国政府发言人：德国总理默茨与美国总统特朗普将于周二在华盛顿会晤，讨论双边关系以及安全和贸易问题。",
-          "url": "https://flash.jin10.com/detail/20260227183612374800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时05分"
-        },
-        {
-          "title": "特朗普关于伊朗导弹的说法未获美国情报部门支持",
-          "url": "https://flash.jin10.com/detail/20260227115235508800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32601815",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "美媒：特朗普政府加紧制定策略 谋划保留关税收入",
-          "url": "https://flash.jin10.com/detail/20260227010102008800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
-        },
-        {
-          "title": "美国特使威特科夫：我不会用“天真”来形容特朗普。他非常明智，他的判断也很有道理。我也是这样，贾里德·库什纳也是。",
-          "url": "https://flash.jin10.com/detail/20260227015004327800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时44分"
-        },
-        {
-          "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
-          "url": "https://wallstreetcn.com/livenews/3059912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -2153,8 +2214,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时27分 ~ 21时57分]"
+          "appearance_count": 18,
+          "time_info": "[09时27分 ~ 22时38分]"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
@@ -2169,6 +2230,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[09时27分 ~ 17时06分]"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时03分 ~ 22时38分]"
         },
         {
           "title": "百度电话会：AI云2025年收入达300亿元，算力订阅Q4同比增143%，“萝卜快跑”订单狂飙200%",
@@ -2210,22 +2282,13 @@
             15,
             17,
             23,
-            27
+            27,
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时14分 ~ 21时57分]"
-        },
-        {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时03分 ~ 21时57分]"
+          "appearance_count": 32,
+          "time_info": "[00时14分 ~ 22时38分]"
         },
         {
           "title": "演员王劲松发文怒斥被AI盗用",
@@ -2383,7 +2446,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -2409,6 +2472,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 05时56分]"
+        },
+        {
+          "title": "中国AI调用量超越美国",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E8%B6%85%E8%B6%8A%E7%BE%8E%E5%9B%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 22时38分]"
         },
         {
           "title": "周四（2月26日），存储芯片与硬件供应链指数跌2.34%，报113.55点。 信息科技指数跌0.71%，人工智能（AI）赢家指数跌2.17%，AI软件先驱指数涨1.95%。",
@@ -2602,8 +2677,428 @@
       ]
     },
     {
+      "keyword_group": "openai chatgpt",
+      "match_count": 37,
+      "titles": [
+        {
+          "title": "硅谷“最贵华人”被OpenAI挖走",
+          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            26,
+            25,
+            18,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时10分 ~ 19时05分]"
+        },
+        {
+          "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
+          "url": "https://flash.jin10.com/detail/20260227062334976800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时01分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI将通过亚马逊云科技（AWS）基础设施使用2吉瓦的Trainium芯片计算能力。",
+          "url": "https://flash.jin10.com/detail/20260227213826999800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "亚马逊将向OpenAI投资500亿美元",
+          "url": "https://flash.jin10.com/detail/20260227213821410800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "亚马逊将向OpenAI投资500亿美元 建立多年战略伙伴关系",
+          "url": "https://wallstreetcn.com/livenews/3060341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时38分]"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：能够定制OpenAI模型以应用于各类人工智能产品。",
+          "url": "https://flash.jin10.com/detail/20260227213746947800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "OpenAI获1100亿美元投资，投前估值达7300亿美元",
+          "url": "https://wallstreetcn.com/livenews/3060345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "微软(MSFT.O)与OpenAI将在研究和工程领域紧密合作。",
+          "url": "https://flash.jin10.com/detail/20260227213634084800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "OpenAI获1100亿美元投资",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时37分 ~ 22时38分]"
+        },
+        {
+          "title": "OpenAI：承诺消耗约2吉瓦的训练算力。",
+          "url": "https://flash.jin10.com/detail/20260227213613966800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "OpenAI：ChatGPT每周活跃用户超过9亿。",
+          "url": "https://flash.jin10.com/detail/20260227213553114800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "OpenAI：Trinium4预计将于2027年开始交付。",
+          "url": "https://flash.jin10.com/detail/20260227213537292800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "据华尔街日报报道，Sam Altman（OpenAI的CEO）与美国国防部合作，研究模型是否可用。 但双方尚未签署任何协议。 Altman呼吁五角大楼与Anthropic缓和争端。",
+          "url": "https://wallstreetcn.com/livenews/3060358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "微软(MSFT.O)：新融资不会改变与OpenAI的关系。",
+          "url": "https://flash.jin10.com/detail/20260227213527626800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "OpenAI：协议涵盖Tranium 3和下一代Tranium 4。",
+          "url": "https://flash.jin10.com/detail/20260227213513559800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
+          "url": "https://flash.jin10.com/detail/20260227025809636800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时41分"
+        },
+        {
+          "title": "OpenAI扩大与英伟达(NVDA.O)的长期协议。",
+          "url": "https://flash.jin10.com/detail/20260227213459303800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI与美国国防部尚未签署任何协议。",
+          "url": "https://flash.jin10.com/detail/20260227220453170800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "OpenAI基金会持有的OpenAI集团股份价值升至逾1800亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213444121800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI创始人奥尔特曼正与美国国防部合作，探讨是否可使用相关模型。",
+          "url": "https://flash.jin10.com/detail/20260227220430471800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "软银：交易完成后对OpenAI持股比例约为13%。",
+          "url": "https://flash.jin10.com/detail/20260227213434251800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
+          "url": "https://wallstreetcn.com/livenews/3059885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "软银对OpenAI的累计投资预计达646亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213400594800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "OpenAI的融资包括来自英伟达(NVDA.O)的300亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213347014800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "OpenAI首席执行官Altman：对在合适的时机上市持开放态度。 希望与亚马逊建立长期、深入的关系。",
+          "url": "https://wallstreetcn.com/livenews/3060349",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "OpenAI与亚马逊(AMZN.O)将开发定制模型。",
+          "url": "https://flash.jin10.com/detail/20260227213324674800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI创始人奥尔特曼呼吁缓和美国国防部与Anthropic之间的争端。",
+          "url": "https://flash.jin10.com/detail/20260227220219102800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "OpenAI的融资包括来自软银的300亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213310566800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "OpenAI宣布以7300亿美元的估值获得1100亿美元的新投资。",
+          "url": "https://flash.jin10.com/detail/20260227213252837800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：OpenAI与亚马逊云服务(AWS)正在其现有380亿美元多年协议的基础上，再追加1000亿美元、为期8年的合作。",
+          "url": "https://flash.jin10.com/detail/20260227213212397800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：当前的融资提供了长期发展的保障。",
+          "url": "https://flash.jin10.com/detail/20260227215950428800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "OpenAI：以7300亿美元的估值完成创纪录的1100亿美元融资",
+          "url": "https://wallstreetcn.com/livenews/3060345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)：亚马逊将向OpenAI投资500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260227213129329800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：不认为美国应该对人工智能公司实施数据保护法案的威胁。",
+          "url": "https://flash.jin10.com/detail/20260227215941059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "OpenAI与亚马逊(AMZN.O)宣布达成合作。",
+          "url": "https://flash.jin10.com/detail/20260227213023951800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：希望与亚马逊(AMZN.O)建立长期、深入的合作关系。",
+          "url": "https://flash.jin10.com/detail/20260227215545958800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：专注于降低服务交付成本。",
+          "url": "https://flash.jin10.com/detail/20260227215455321800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "一条手链涨价超两万！周大福、老铺黄金等酝酿金饰提价",
@@ -2619,6 +3114,18 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时14分 ~ 11时53分]"
+        },
+        {
+          "title": "丈夫准备给诞下5胞胎老婆送黄金",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%87%86%E5%A4%87%E7%BB%99%E8%AF%9E%E4%B8%8B5%E8%83%9E%E8%83%8E%E8%80%81%E5%A9%86%E9%80%81%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时06分 ~ 22时38分]"
         },
         {
           "title": "3毫克黄金手机贴热销",
@@ -2649,18 +3156,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[15时27分 ~ 19时52分]"
-        },
-        {
-          "title": "丈夫准备给诞下5胞胎老婆送黄金",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%87%86%E5%A4%87%E7%BB%99%E8%AF%9E%E4%B8%8B5%E8%83%9E%E8%83%8E%E8%80%81%E5%A9%86%E9%80%81%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时06分 ~ 21时57分]"
         },
         {
           "title": "新婚夫妇服务区遗落数万现金与黄金",
@@ -2746,6 +3241,42 @@
           "time_info": "[15时27分 ~ 18时05分]"
         },
         {
+          "title": "炮龙一响 黄金万两",
+          "url": "https://www.douyin.com/hot/2413619",
+          "source": "抖音",
+          "ranks": [
+            21,
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 22时38分]"
+        },
+        {
+          "title": "男子杀鸭意外从肚子里掏出 10 克黄金，网友调侃「报恩鸭」，动物肚子里还发现过哪些稀奇古怪的东西？",
+          "url": "https://www.zhihu.com/question/2010664531555217708",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时38分]"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时38分]"
+        },
+        {
           "title": "A股黄金股持续走强，湖南黄金冲击涨停，晓程科技、西部黄金、中金黄金、湖南白银纷纷上扬。",
           "url": "https://wallstreetcn.com/livenews/3060023",
           "source": "华尔街见闻-快讯",
@@ -2757,6 +3288,18 @@
           "time_info": "14时11分"
         },
         {
+          "title": "美国1月PP数据公布后，美元指数短线拉升，现货黄金短线走低",
+          "url": "https://wallstreetcn.com/livenews/3060340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时38分]"
+        },
+        {
           "title": "西部黄金：全资子公司新疆美盛决定临时停产，停产时间预计不超过50天",
           "url": "https://wallstreetcn.com/livenews/3060103",
           "source": "华尔街见闻-快讯",
@@ -2766,17 +3309,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时03分"
-        },
-        {
-          "title": "美国1月PP数据公布后，美元指数短线拉升，现货黄金短线走低",
-          "url": "https://wallstreetcn.com/livenews/3060340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         },
         {
           "title": "景顺：黄金ETF对央行的吸引力日益增强",
@@ -2791,27 +3323,15 @@
           "time_info": "[03时41分 ~ 04时32分]"
         },
         {
-          "title": "炮龙一响 黄金万两",
-          "url": "https://www.douyin.com/hot/2413619",
-          "source": "抖音",
+          "title": "多地景区3月免门票：春节后错峰游迎“黄金窗口期”，免门票能否激活淡季市场？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660503",
+          "source": "澎湃新闻",
           "ranks": [
-            21,
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时45分 ~ 21时57分]"
-        },
-        {
-          "title": "男子杀鸭意外从肚子里掏出 10 克黄金，网友调侃「报恩鸭」，动物肚子里还发现过哪些稀奇古怪的东西？",
-          "url": "https://www.zhihu.com/question/2010664531555217708",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
+          "time_info": "[22时37分 ~ 22时38分]"
         },
         {
           "title": "现货黄金短线上扬30美元，报5174.51美元/盎司。",
@@ -2908,7 +3428,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -2919,7 +3439,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -2933,17 +3453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         },
         {
           "title": "现货黄金跌破5140美元/盎司，日内跌0.48%。",
@@ -2963,7 +3472,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -3014,8 +3523,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时52分 ~ 21时57分]"
+          "appearance_count": 19,
+          "time_info": "[07时52分 ~ 22时38分]"
         },
         {
           "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
@@ -3129,8 +3638,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时12分 ~ 21时57分]"
+          "appearance_count": 15,
+          "time_info": "[13时12分 ~ 22时38分]"
         },
         {
           "title": "超万亿市值蒸发！英伟达财报强劲股价却大跌 背后究竟有何原因？",
@@ -3330,304 +3839,6 @@
       ]
     },
     {
-      "keyword_group": "openai chatgpt",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "硅谷“最贵华人”被OpenAI挖走",
-          "url": "https://www.baidu.com/s?wd=%E7%A1%85%E8%B0%B7%E2%80%9C%E6%9C%80%E8%B4%B5%E5%8D%8E%E4%BA%BA%E2%80%9D%E8%A2%ABOpenAI%E6%8C%96%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            26,
-            25,
-            18,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时10分 ~ 19时05分]"
-        },
-        {
-          "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
-          "url": "https://flash.jin10.com/detail/20260227062334976800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时01分]"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：OpenAI将通过亚马逊云科技（AWS）基础设施使用2吉瓦的Trainium芯片计算能力。",
-          "url": "https://flash.jin10.com/detail/20260227213826999800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "亚马逊将向OpenAI投资500亿美元",
-          "url": "https://flash.jin10.com/detail/20260227213821410800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：能够定制OpenAI模型以应用于各类人工智能产品。",
-          "url": "https://flash.jin10.com/detail/20260227213746947800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "OpenAI获1100亿美元投资，投前估值达7300亿美元",
-          "url": "https://wallstreetcn.com/livenews/3060345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "亚马逊将向OpenAI投资500亿美元 建立多年战略伙伴关系",
-          "url": "https://wallstreetcn.com/livenews/3060341",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "微软(MSFT.O)与OpenAI将在研究和工程领域紧密合作。",
-          "url": "https://flash.jin10.com/detail/20260227213634084800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "OpenAI：承诺消耗约2吉瓦的训练算力。",
-          "url": "https://flash.jin10.com/detail/20260227213613966800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "OpenAI：ChatGPT每周活跃用户超过9亿。",
-          "url": "https://flash.jin10.com/detail/20260227213553114800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "OpenAI：Trinium4预计将于2027年开始交付。",
-          "url": "https://flash.jin10.com/detail/20260227213537292800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "微软(MSFT.O)：新融资不会改变与OpenAI的关系。",
-          "url": "https://flash.jin10.com/detail/20260227213527626800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "OpenAI：协议涵盖Tranium 3和下一代Tranium 4。",
-          "url": "https://flash.jin10.com/detail/20260227213513559800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI创始人Sam Altman的Tools for Humanity与Gap、Visa、Tinder合作，推广World ID人类验证产品（区分人类与机器人的身份验证技术）。",
-          "url": "https://flash.jin10.com/detail/20260227025809636800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时41分"
-        },
-        {
-          "title": "OpenAI扩大与英伟达(NVDA.O)的长期协议。",
-          "url": "https://flash.jin10.com/detail/20260227213459303800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "OpenAI基金会持有的OpenAI集团股份价值升至逾1800亿美元。",
-          "url": "https://flash.jin10.com/detail/20260227213444121800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "软银：交易完成后对OpenAI持股比例约为13%。",
-          "url": "https://flash.jin10.com/detail/20260227213434251800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
-          "url": "https://wallstreetcn.com/livenews/3059885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "软银对OpenAI的累计投资预计达646亿美元。",
-          "url": "https://flash.jin10.com/detail/20260227213400594800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "OpenAI的融资包括来自英伟达(NVDA.O)的300亿美元。",
-          "url": "https://flash.jin10.com/detail/20260227213347014800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "OpenAI与亚马逊(AMZN.O)将开发定制模型。",
-          "url": "https://flash.jin10.com/detail/20260227213324674800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "OpenAI的融资包括来自软银的300亿美元。",
-          "url": "https://flash.jin10.com/detail/20260227213310566800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "OpenAI宣布以7300亿美元的估值获得1100亿美元的新投资。",
-          "url": "https://flash.jin10.com/detail/20260227213252837800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：OpenAI与亚马逊云服务(AWS)正在其现有380亿美元多年协议的基础上，再追加1000亿美元、为期8年的合作。",
-          "url": "https://flash.jin10.com/detail/20260227213212397800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：亚马逊将向OpenAI投资500亿美元。",
-          "url": "https://flash.jin10.com/detail/20260227213129329800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
-          "title": "OpenAI与亚马逊(AMZN.O)宣布达成合作。",
-          "url": "https://flash.jin10.com/detail/20260227213023951800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 19,
       "titles": [
@@ -3692,6 +3903,18 @@
           "time_info": "07时52分"
         },
         {
+          "title": "亚马逊股价盘前下跌0.9%，此前该公司宣布计划投资OpenAI。 微软股价盘前下跌2.4%，谷歌A下跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3060342",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时38分]"
+        },
+        {
           "title": "知情人士称，Meta已与谷歌签署协议，将租赁其AI芯片以开发新的AI模型。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3059831",
           "source": "华尔街见闻-快讯",
@@ -3701,17 +3924,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "亚马逊股价盘前下跌0.9%，此前该公司宣布计划投资OpenAI。 微软股价盘前下跌2.4%，谷歌A下跌0.7%。",
-          "url": "https://wallstreetcn.com/livenews/3060342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         },
         {
           "title": "据The Information：谷歌已成立一家合资企业，旨在将其张量处理单元租赁给其他人工智能客户。",
@@ -3884,8 +4096,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时14分 ~ 21时57分]"
+          "appearance_count": 32,
+          "time_info": "[00时14分 ~ 22时38分]"
         },
         {
           "title": "IDC：内存短缺今年或将引发智能手机市场创纪录萎缩",
