@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T00:35:51.437594+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-28T01:31:40.744869+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "现货白银站上94美元/盎司，日内涨6.48%。",
@@ -30,6 +30,42 @@
           "time_info": "00时35分"
         },
         {
+          "title": "纽约银日内涨幅达7.0%，报93.72美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "现货白银日内涨幅达5.5%，报92.98美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "纽约银日内涨幅达6.5%，报93.31美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
           "title": "墨西哥国家石油公司：截至2025年底，对供应商的债务为241.8亿美元。",
           "url": "https://flash.jin10.com/detail/20260228000957082800",
           "source": "金十数据",
@@ -41,37 +77,15 @@
           "time_info": "00时35分"
         },
         {
-          "title": "纽约银日内涨幅达7.0%，报93.72美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3060402",
+          "title": "数字货币市场最近七天走低，比特币一度涨向7万美元整数位心理关口、但整体累跌约3.5%",
+          "url": "https://wallstreetcn.com/livenews/3060428",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "现货白银日内涨幅达5.5%，报92.98美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3060400",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "纽约银日内涨幅达6.5%，报93.31美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3060399",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "01时31分"
         },
         {
           "title": "现货白银日内暴涨6.00%，现报93.58美元/盎司。",
@@ -83,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "网飞拒绝涨价退出，如何评价派拉蒙每股 31 美元预计拿下华纳兄弟？过程中哪些信息值得关注？未来将有何影响？",
+          "url": "https://www.zhihu.com/question/2010686349234107758",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
         },
         {
           "title": "纽约期银突破94美元/盎司，日内涨7.33%。",
@@ -120,141 +145,8 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
-          "url": "https://wallstreetcn.com/articles/3766301",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "美国参议院民主党成员Kelly：（鉴于五角大楼与Anthropic的争端）国会山必须针对人工智能（AI）与保护美国民众采取行动。 Anthropic是“最具能力的供应商”。",
-          "url": "https://wallstreetcn.com/livenews/3060407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "椭圆变速版see you again",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "纽约银日内涨幅达8.0%，报94.6美元/盎司。 现货黄金5分钟内上涨7.26美元/盎司，报5256.09美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3060415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "现货黄金站上5250美元/盎司，日内涨1.26%，创1月30日以来新高。",
-          "url": "https://flash.jin10.com/detail/20260228001221569800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "现货黄金5分钟内上涨7.93美元/盎司，报5249.87美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3060412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "炮龙一响 黄金万两",
-          "url": "https://www.douyin.com/hot/2413619",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普在Truth Social上发布了一封关于政治行动的FTC信件，其中提到苹果(AAPL.O)。",
@@ -268,6 +160,28 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美国总统特朗普的政府在2月26日向（国会山）民主党发送关于国土安全部（DHS）拨款问题的最新建议。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3060437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
+          "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
+          "url": "https://flash.jin10.com/detail/20260228011403179800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
+        },
+        {
           "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
           "url": "https://flash.jin10.com/detail/20260228001656802800",
           "source": "金十数据",
@@ -279,6 +193,18 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
           "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
           "source": "凤凰网",
@@ -286,19 +212,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -308,14 +223,14 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "日本撞人族出没,女童惨遭肘击",
@@ -325,8 +240,30 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "逐帧解析男篮逆转日本",
+          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E7%94%B7%E7%AF%AE%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "日本去年仅出生70万人创百年新低",
+          "url": "https://www.toutiao.com/trending/7610073031049871401/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "01时31分"
         },
         {
           "title": "印度GDP数据修订意味着：超越日本需耗费更长时间",
@@ -351,17 +288,6 @@
           "time_info": "00时35分"
         },
         {
-          "title": "逐帧解析男篮逆转日本",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E7%94%B7%E7%AF%AE%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        },
-        {
           "title": "美国地质调查局（USGS）：日本平良市西北偏北61公里处发生5.0级地震。",
           "url": "https://flash.jin10.com/detail/20260227233805687800",
           "source": "金十数据",
@@ -371,6 +297,172 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
+          "url": "https://wallstreetcn.com/articles/3766301",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "美国参议院民主党成员Kelly：（鉴于五角大楼与Anthropic的争端）国会山必须针对人工智能（AI）与保护美国民众采取行动。 Anthropic是“最具能力的供应商”。",
+          "url": "https://wallstreetcn.com/livenews/3060407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "椭圆变速版see you again",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "纽约银日内涨幅达8.0%，报94.6美元/盎司。 现货黄金5分钟内上涨7.26美元/盎司，报5256.09美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "现货黄金5分钟内上涨7.93美元/盎司，报5249.87美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "现货黄金站上5250美元/盎司，日内涨1.26%，创1月30日以来新高。",
+          "url": "https://flash.jin10.com/detail/20260228001221569800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "炮龙一响 黄金万两",
+          "url": "https://www.douyin.com/hot/2413619",
+          "source": "抖音",
+          "ranks": [
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai chatgpt",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI获1100亿美元投资",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
+          "url": "https://www.cls.cn/detail/2297763",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时31分"
         }
       ]
     },
@@ -386,8 +478,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -397,8 +489,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
         }
       ]
     },
@@ -420,19 +512,19 @@
       ]
     },
     {
-      "keyword_group": "openai chatgpt",
+      "keyword_group": "股市",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI获1100亿美元投资",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%8E%B71100%E4%BA%BF%E7%BE%8E%E5%85%83%E6%8A%95%E8%B5%84",
-          "source": "百度热搜",
+          "title": "金十图示：2026年02月27日（周五）全球股市指数-欧洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260228004612668800",
+          "source": "金十数据",
           "ranks": [
-            25
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时35分"
+          "time_info": "01时31分"
         }
       ]
     },
@@ -448,8 +540,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
         }
       ]
     }
