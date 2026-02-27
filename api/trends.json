@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T02:04:15.868903+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2026-02-28T03:09:49.970133+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 45,
       "titles": [
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
         },
         {
           "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
@@ -27,8 +28,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
         },
         {
           "title": "释疑｜特朗普再出重拳，美国用了哪些杀招让古巴“窒息”？",
@@ -39,8 +40,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
         },
         {
           "title": "美国总统特朗普的政府在2月26日向（国会山）民主党发送关于国土安全部（DHS）拨款问题的最新建议。（Politico）",
@@ -66,6 +67,18 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美国总统特朗普谈及贷款利率，声称：下降速度非常快。",
+          "url": "https://wallstreetcn.com/livenews/3060452",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 03时09分]"
+        },
+        {
           "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
           "url": "https://flash.jin10.com/detail/20260228011403179800",
           "source": "金十数据",
@@ -83,7 +96,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -94,9 +107,33 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "特朗普重申伊朗不能拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3060451",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 03时09分]"
+        },
+        {
+          "title": "美国总统特朗普称，周五预计将举行更多伊朗相关谈判。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3060450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 03时09分]"
         },
         {
           "title": "市场消息：特朗普在最高法院败诉后，面临2000起关税诉讼。已有100多家公司提起新的诉讼。",
@@ -116,18 +153,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "美国总统特朗普谈及贷款利率，声称：下降速度非常快。",
-          "url": "https://wallstreetcn.com/livenews/3060452",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -138,51 +164,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "特朗普重申伊朗不能拥有核武器",
-          "url": "https://wallstreetcn.com/livenews/3060451",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "美国总统特朗普称，周五预计将举行更多伊朗相关谈判。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3060450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "美国总统特朗普：（谈抵押贷款利率）正在迅速下降。",
-          "url": "https://flash.jin10.com/detail/20260228014221618800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时04分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗没有说出那句“金句”，即“不会有核武器”。",
-          "url": "https://flash.jin10.com/detail/20260228014042817800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -191,9 +173,78 @@
           "url": "https://wallstreetcn.com/livenews/3060446",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 03时09分]"
+        },
+        {
+          "title": "美国总统特朗普：尚未就伊朗问题做决定。 对他们的谈判方式不满意。 他们正在与我们对话。 伊朗不能拥有核武器。 伊朗并没有说出那句关键的话——不发展核武器。",
+          "url": "https://wallstreetcn.com/livenews/3060445",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 03时09分]"
+        },
+        {
+          "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
+          "url": "https://wallstreetcn.com/livenews/3060471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "美国总统特朗普：或许我们会友好地接管古巴。",
+          "url": "https://wallstreetcn.com/livenews/3060444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时04分 ~ 03时09分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈抵押贷款利率）正在迅速下降。",
+          "url": "https://flash.jin10.com/detail/20260228014221618800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时04分"
+        },
+        {
+          "title": "市场消息：特朗普表示，他未考虑为2026年中期选举宣布进入国家紧急状态。",
+          "url": "https://flash.jin10.com/detail/20260228023319874800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗没有说出那句“金句”，即“不会有核武器”。",
+          "url": "https://flash.jin10.com/detail/20260228014042817800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -204,31 +255,42 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
         {
-          "title": "美国总统特朗普：尚未就伊朗问题做决定。 对他们的谈判方式不满意。 他们正在与我们对话。 伊朗不能拥有核武器。 伊朗并没有说出那句关键的话——不发展核武器。",
-          "url": "https://wallstreetcn.com/livenews/3060445",
+          "title": "美国总统特朗普：关税已对诺华产生影响，并促使其杰出的领导人、医学博士瓦桑特·纳拉辛汉建设7个以上的制造和研发设施，创造了数以千计的就业岗位。激进左派以及那些就关税提起诉讼的“狂人”对此拒而不谈，但数百家其他公司也正在发生同样的情况。",
+          "url": "https://flash.jin10.com/detail/20260228023117307800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "美国总统特朗普：我们看看伊朗局势将如何发展，一切都会有好的结果。",
+          "url": "https://wallstreetcn.com/livenews/3060466",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "03时09分"
         },
         {
-          "title": "美国总统特朗普：或许我们会友好地接管古巴。",
-          "url": "https://wallstreetcn.com/livenews/3060444",
+          "title": "美国总统特朗普：汽油价格正在大幅下降。",
+          "url": "https://wallstreetcn.com/livenews/3060465",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时04分"
+          "time_info": "03时09分"
         },
         {
           "title": "美国总统特朗普：（谈爱泼斯坦案）我已被完全洗清罪名。",
@@ -237,9 +299,31 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "美国总统特朗普：应称为“拯救美国法案”（Save America Act），而不是“Save Act”。共和党人必须开始使用“拯救美国法案”这一说法——更具力度，也更具描述性。",
+          "url": "https://flash.jin10.com/detail/20260228022930909800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "美国总统特朗普：我们希望与俄罗斯、乌克兰达成一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3060463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "美国总统特朗普：想与伊朗达成协议。",
@@ -248,7 +332,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -259,7 +343,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -270,9 +354,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "特朗普称可能“友好接管”古巴",
+          "url": "https://flash.jin10.com/detail/20260228022540020800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "美国总统特朗普：伊朗可能会发生政权更迭，也可能不会。",
@@ -281,7 +376,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -292,7 +387,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -303,9 +398,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "意大利总理不赞同特朗普对欧征关税，呼吁欧盟与美国建立自由贸易区",
+          "url": "https://wallstreetcn.com/livenews/3060457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "美国总统特朗普：也许我们会友好地接管古巴。",
@@ -314,9 +420,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "特朗普透露美伊将继续谈判，并警告“有时候不得不打”",
+          "url": "https://wallstreetcn.com/livenews/3060456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "美国总统特朗普：尚未就伊朗问题做出决定。",
@@ -325,7 +442,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -336,9 +453,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "特朗普喊话购房者：再等等就能获得非常低的利率",
+          "url": "https://wallstreetcn.com/livenews/3060453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "美国总统特朗普：伊朗不能拥有核武器。",
@@ -347,15 +475,48 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
+        },
+        {
+          "title": "美国总统特朗普：我们拭目以待伊朗局势的发展，一切都会好起来的。",
+          "url": "https://flash.jin10.com/detail/20260228020911978800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "美国总统特朗普：汽油价格正在大幅下降。",
+          "url": "https://flash.jin10.com/detail/20260228020904700800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "美国总统特朗普：我们在石油方面运气好极了。",
+          "url": "https://flash.jin10.com/detail/20260228020707510800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "网飞拒绝涨价退出，如何评价派拉蒙每股 31 美元预计拿下华纳兄弟？过程中哪些信息值得关注？未来将有何影响？",
@@ -379,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "周五（2月27日），韩元兑美元最终跌0.46%，报1439.97韩元，2月份累计上涨0.32%，交投于1475.26-1419.33韩元区间。",
+          "url": "https://wallstreetcn.com/livenews/3060473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "纽约期银日内暴涨8.00%，现报94.60美元/盎司。",
@@ -451,13 +623,24 @@
           "time_info": "00时35分"
         },
         {
+          "title": "周五（2月27日），美联储隔夜逆回购协议（RRP）使用规模为163.18亿美元（交易对手10家），上个交易日报37.96亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3060468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
           "title": "美、布两油短线下挫0.6美元，特朗普称希望与伊朗达成协议。",
           "url": "https://flash.jin10.com/detail/20260228013831716800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -468,7 +651,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -484,6 +667,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美国白宫：越来越多的公司在美国投资，总投资额已超过9.7万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228022333028800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
           "title": "纽约期银突破94美元/盎司，日内涨7.33%。",
           "url": "https://flash.jin10.com/detail/20260227234904566800",
           "source": "金十数据",
@@ -495,6 +689,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "LME期铜收涨39美元，报13344美元/吨。 LME期铝收跌18美元，报3140美元/吨。 LME期锌收跌62美元，报3317美元/吨。 LME期铅收跌22美元，报1962美元/吨。 LME期镍收涨150美元，报17844美元/吨。 LME期锡收涨3294美元，报57728美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3060455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
           "title": "纽约期银日内暴涨7.00%，现报93.72美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260227234615005800",
           "source": "金十数据",
@@ -504,6 +709,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了10个对手方的163.18亿美元。",
+          "url": "https://flash.jin10.com/detail/20260228021700656800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "现货白银向上触及93美元/盎司，日内涨5.35%。",
@@ -519,6 +735,171 @@
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
+        },
+        {
+          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
+          "url": "https://wallstreetcn.com/articles/3766301",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
+        },
+        {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
+        },
+        {
+          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
+        },
+        {
+          "title": "椭圆变速版see you again",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            19,
+            21,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
+        },
+        {
+          "title": "美国参议院民主党成员Kelly：（鉴于五角大楼与Anthropic的争端）国会山必须针对人工智能（AI）与保护美国民众采取行动。 Anthropic是“最具能力的供应商”。",
+          "url": "https://wallstreetcn.com/livenews/3060407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "美国参议院要求五角大楼与Anthropic解决（与人工智能/AI权限相关的）争端。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3060467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
+        },
+        {
+          "title": "炮龙一响 黄金万两",
+          "url": "https://www.douyin.com/hot/2413619",
+          "source": "抖音",
+          "ranks": [
+            21,
+            24,
+            23,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
+        },
+        {
+          "title": "纽约银日内涨幅达8.0%，报94.6美元/盎司。 现货黄金5分钟内上涨7.26美元/盎司，报5256.09美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060415",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "现货黄金5分钟内上涨7.93美元/盎司，报5249.87美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3060412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 01时31分]"
+        },
+        {
+          "title": "现货黄金站上5250美元/盎司，日内涨1.26%，创1月30日以来新高。",
+          "url": "https://flash.jin10.com/detail/20260228001221569800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时35分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 2月27日（周五）晚盘收盘上涨0.93%报1155.17元/克；<br/>上海黄金交易所白银T+D 2月27日（周五）晚盘收盘上涨5.38%报23231.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260228023017051800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        }
+      ]
+    },
+    {
       "keyword_group": "日本",
       "match_count": 6,
       "titles": [
@@ -530,19 +911,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
         },
         {
           "title": "逐帧解析男篮逆转日本",
           "url": "https://search.bilibili.com/all?keyword=%E9%80%90%E5%B8%A7%E8%A7%A3%E6%9E%90%E7%94%B7%E7%AF%AE%E9%80%86%E8%BD%AC%E6%97%A5%E6%9C%AC",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
         },
         {
           "title": "日本去年仅出生70万人创百年新低",
@@ -553,8 +935,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时09分]"
         },
         {
           "title": "印度GDP数据修订意味着：超越日本需耗费更长时间",
@@ -592,82 +974,6 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
-        },
-        {
-          "title": "Block裁员近半，飙升24%！CEO：AI提升效率，未来一年大多公司会做类似调整",
-          "url": "https://wallstreetcn.com/articles/3766301",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
-        },
-        {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
-        },
-        {
-          "title": "澎湃漫评｜警惕！别被“AI孙子”骗了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32666005",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
-        },
-        {
-          "title": "椭圆变速版see you again",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A4%AD%E5%9C%86%E5%8F%98%E9%80%9F%E7%89%88see%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
-        },
-        {
-          "title": "美国参议院民主党成员Kelly：（鉴于五角大楼与Anthropic的争端）国会山必须针对人工智能（AI）与保护美国民众采取行动。 Anthropic是“最具能力的供应商”。",
-          "url": "https://wallstreetcn.com/livenews/3060407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "openai chatgpt",
       "match_count": 5,
       "titles": [
@@ -679,8 +985,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
         },
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -690,8 +996,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时31分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[01时31分 ~ 03时09分]"
         },
         {
           "title": "（对于此前宣布的OpenAI已完成的融资轮）亚马逊对OpenAI的500亿美元投资为现金。 OpenAI料将在3月底之前融资大约100亿美元。（彭博）",
@@ -700,7 +1006,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -711,7 +1017,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         },
@@ -722,74 +1028,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
-        },
-        {
-          "title": "炮龙一响 黄金万两",
-          "url": "https://www.douyin.com/hot/2413619",
-          "source": "抖音",
-          "ranks": [
-            21,
-            24,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
-        },
-        {
-          "title": "纽约银日内涨幅达8.0%，报94.6美元/盎司。 现货黄金5分钟内上涨7.26美元/盎司，报5256.09美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3060415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
-        },
-        {
-          "title": "现货黄金5分钟内上涨7.93美元/盎司，报5249.87美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3060412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时31分]"
-        },
-        {
-          "title": "现货黄金站上5250美元/盎司，日内涨1.26%，创1月30日以来新高。",
-          "url": "https://flash.jin10.com/detail/20260228001221569800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
         }
       ]
     },
@@ -805,8 +1046,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
         },
         {
           "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
@@ -816,8 +1057,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
         },
         {
           "title": "英伟达(NVDA.O)跌幅达3%。",
@@ -826,7 +1067,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时04分"
         }
@@ -844,8 +1085,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时35分 ~ 02时04分]"
+          "appearance_count": 4,
+          "time_info": "[00时35分 ~ 03时09分]"
         }
       ]
     },
@@ -878,8 +1119,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时35分 ~ 02时04分]"
+          "appearance_count": 5,
+          "time_info": "[00时35分 ~ 03时09分]"
         }
       ]
     }
