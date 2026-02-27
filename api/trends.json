@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T18:05:31.287217+08:00",
-  "total_titles_processed": 1610,
+  "generated_at": "2026-02-27T19:05:35.353786+08:00",
+  "total_titles_processed": 1721,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "节后三天人民币兑美元汇率大涨600基点，部分企业结汇意愿有所强化，集中结汇并未出现",
@@ -596,7 +596,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -865,6 +865,17 @@
           "time_info": "00时15分"
         },
         {
+          "title": "WTI原油日内涨幅达2%，报66.53美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3060218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "FS KKR Capital Corp股价下跌17.6%，此前该公司将第四季度每股派息从第三季度的0.70美元下调至0.48美元。",
           "url": "https://flash.jin10.com/detail/20260227015531868800",
           "source": "金十数据",
@@ -912,7 +923,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "中国男篮客场逆转击败日本男篮",
@@ -951,6 +962,22 @@
           "time_info": "[00时14分 ~ 11时53分]"
         },
         {
+          "title": "男篮世预赛中国队逆转战胜日本队，FIBA 官方社媒称「中国男篮偷走胜利」引发舆论，如何看待这一说法？",
+          "url": "https://www.zhihu.com/question/2010656685698598178",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6,
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时12分 ~ 19时05分]"
+        },
+        {
           "title": "87比80客场战胜日本，中国男篮世预赛上演半场逆转好戏",
           "url": "https://m.thepaper.cn/newsDetail_forward_32659345",
           "source": "澎湃新闻",
@@ -962,8 +989,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时14分 ~ 18时05分]"
+          "appearance_count": 27,
+          "time_info": "[00时14分 ~ 19时05分]"
         },
         {
           "title": "FIBA竟称“中国男篮从日本偷走胜利”",
@@ -1033,23 +1060,6 @@
           "time_info": "[00时14分 ~ 07时52分]"
         },
         {
-          "title": "日本撞人族出没,女童惨遭肘击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351051&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%92%9E%E4%BA%BA%E6%97%8F%E5%87%BA%E6%B2%A1%2C%E5%A5%B3%E7%AB%A5%E6%83%A8%E9%81%AD%E8%82%98%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            3,
-            7,
-            8,
-            9,
-            11,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[01时35分 ~ 18时05分]"
-        },
-        {
           "title": "日本物价居然到这种程度了",
           "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E5%B1%85%E7%84%B6%E5%88%B0%E8%BF%99%E7%A7%8D%E7%A8%8B%E5%BA%A6%E4%BA%86&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1064,6 +1074,24 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时14分 ~ 07时52分]"
+        },
+        {
+          "title": "日本撞人族出没,女童惨遭肘击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351051&amp;topic_name=%E6%97%A5%E6%9C%AC%E6%92%9E%E4%BA%BA%E6%97%8F%E5%87%BA%E6%B2%A1%2C%E5%A5%B3%E7%AB%A5%E6%83%A8%E9%81%AD%E8%82%98%E5%87%BB",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            7,
+            8,
+            9,
+            11,
+            14,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[01时35分 ~ 19时05分]"
         },
         {
           "title": "中国男篮逆转日本获世预赛首胜",
@@ -1081,22 +1109,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时14分 ~ 07时01分]"
-        },
-        {
-          "title": "男篮世预赛中国队逆转战胜日本队，FIBA 官方社媒称「中国男篮偷走胜利」引发舆论，如何看待这一说法？",
-          "url": "https://www.zhihu.com/question/2010656685698598178",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时12分 ~ 18时05分]"
         },
         {
           "title": "日本队恶意伤人反吹中国犯规",
@@ -1264,6 +1276,18 @@
           "time_info": "[11时53分 ~ 13时13分]"
         },
         {
+          "title": "驻日使馆九问日本",
+          "url": "https://www.toutiao.com/trending/7611468597239709705/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 19时05分]"
+        },
+        {
           "title": "瑞穗计划利用人工智能（AI）技术，才未来十年裁员5000个行政岗位。（日本读卖新闻）",
           "url": "https://wallstreetcn.com/livenews/3059783",
           "source": "华尔街见闻-快讯",
@@ -1286,17 +1310,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 13时13分]"
-        },
-        {
-          "title": "驻日使馆九问日本",
-          "url": "https://www.toutiao.com/trending/7611468597239709705/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
         },
         {
           "title": "日本40年期国债收益率下跌5.5个基点，至3.55%。",
@@ -1398,6 +1411,17 @@
           "time_info": "11时53分"
         },
         {
+          "title": "日本财务省：2月当局未干预外汇市场",
+          "url": "https://wallstreetcn.com/livenews/3060213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "新西兰裁判被网友P上日本队球衣",
           "url": "https://www.toutiao.com/trending/7611168347740569619/",
           "source": "今日头条",
@@ -1412,7 +1436,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "AI编程迎来热潮！华为、阿里加码，未来人人可成为开发者",
@@ -1434,8 +1458,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时27分 ~ 18时05分]"
+          "appearance_count": 13,
+          "time_info": "[09时27分 ~ 19时05分]"
         },
         {
           "title": "美科技大厂因AI裁掉近半员工 奈飞退出华纳兄弟收购案 | 环球市场",
@@ -1461,8 +1485,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时52分 ~ 18时05分]"
+          "appearance_count": 14,
+          "time_info": "[07时52分 ~ 19时05分]"
         },
         {
           "title": "百度第四季度营收327.4亿元，AI算力订阅收入同比增143%｜财报见闻",
@@ -1493,8 +1517,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时14分 ~ 18时05分]"
+          "appearance_count": 27,
+          "time_info": "[00时14分 ~ 19时05分]"
         },
         {
           "title": "演员王劲松发文怒斥被AI盗用",
@@ -1526,6 +1550,17 @@
           "time_info": "[11时53分 ~ 16时03分]"
         },
         {
+          "title": "AI的未来，马克思已经预言了？",
+          "url": "https://wallstreetcn.com/articles/3766318",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时03分 ~ 19时05分]"
+        },
+        {
           "title": "不仅全员失业，资本主义也将终结？德银重磅推演AI发展两种终局",
           "url": "https://wallstreetcn.com/articles/3766318",
           "source": "华尔街见闻",
@@ -1538,15 +1573,17 @@
           "time_info": "[14时10分 ~ 15时28分]"
         },
         {
-          "title": "AI的未来，马克思已经预言了？",
-          "url": "https://wallstreetcn.com/articles/3766318",
-          "source": "华尔街见闻",
+          "title": "融资额大增130% AI制药能否照进现实",
+          "url": "https://www.cls.cn/detail/2296887",
+          "source": "财联社热门",
           "ranks": [
-            4
+            12,
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时03分 ~ 18时05分]"
+          "appearance_count": 4,
+          "time_info": "[16时03分 ~ 19时05分]"
         },
         {
           "title": "押注AI提升公司效率 Block拟裁员近半",
@@ -1571,19 +1608,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时28分 ~ 06时29分]"
-        },
-        {
-          "title": "融资额大增130% AI制药能否照进现实",
-          "url": "https://www.cls.cn/detail/2296887",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时03分 ~ 18时05分]"
         },
         {
           "title": "Meta持续投资AI，用于监测Cloaking。",
@@ -1754,7 +1778,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -1814,6 +1838,17 @@
           "time_info": "17时06分"
         },
         {
+          "title": "【澜起科技：2025年净利润同比增长58.35%】澜起科技公告，公司2025年实现营业收入54.56亿元，较上年度增长49.94%，毛利率为62.23%，较上年度提升4.10个百分点；实现归属于母公司所有者的净利润22.36亿元，较上年度增长58.35%；实现归属于母公司所有者的扣除非经常性损益的净利润20.22亿元，较上年度增长61.95%。受益于AI产业趋势，行业需求旺盛，公司互连类芯片出货量显著增加，推动公司2025年度经营业绩较上年同期实现大幅增长。公司持续加大研发投入，随着公司布局的新产品品类增加，2025年度公司研发费用约为9.15亿元，较上年度增长20%。",
+          "url": "https://wallstreetcn.com/livenews/3060228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "中国AI调用量首次超过美国",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E8%B0%83%E7%94%A8%E9%87%8F%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD",
           "source": "百度热搜",
@@ -1831,7 +1866,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时05分"
         },
@@ -1861,7 +1896,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
@@ -1919,8 +1954,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时52分 ~ 18时05分]"
+          "appearance_count": 14,
+          "time_info": "[07时52分 ~ 19时05分]"
         },
         {
           "title": "白宫：特朗普愿在无前提条件下与金正恩对话",
@@ -1960,6 +1995,19 @@
           "time_info": "[03时41分 ~ 05时56分]"
         },
         {
+          "title": "美军中东最高指挥官向特朗普汇报",
+          "url": "https://www.toutiao.com/trending/7611361368545280036/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时03分 ~ 19时05分]"
+        },
+        {
           "title": "特朗普旨在引导古巴加大对美依赖",
           "url": "https://wallstreetcn.com/livenews/3059719",
           "source": "华尔街见闻-快讯",
@@ -1986,16 +2034,16 @@
           "time_info": "[01时35分 ~ 03时41分]"
         },
         {
-          "title": "美军中东最高指挥官向特朗普汇报",
-          "url": "https://www.toutiao.com/trending/7611361368545280036/",
-          "source": "今日头条",
+          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
+          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            9
+            9,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时03分 ~ 18时05分]"
+          "time_info": "[17时06分 ~ 19时05分]"
         },
         {
           "title": "申请英国国籍的美国人数量在特朗普第二任期头一年创历史新高",
@@ -2089,17 +2137,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时13分 ~ 14时11分]"
-        },
-        {
-          "title": "爱泼斯坦案风波延烧，希拉里一句话把矛头指向特朗普",
-          "url": "https://news.ifeng.com/c/8r5SIs2UIPN",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时05分]"
         },
         {
           "title": "美媒披露：特朗普与美军方就对伊朗军事行动分歧明显",
@@ -2236,6 +2273,17 @@
           "time_info": "01时35分"
         },
         {
+          "title": "德国政府发言人：德国总理默茨与美国总统特朗普将于周二在华盛顿会晤，讨论双边关系以及安全和贸易问题。",
+          "url": "https://flash.jin10.com/detail/20260227183612374800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时05分"
+        },
+        {
           "title": "特朗普关于伊朗导弹的说法未获美国情报部门支持",
           "url": "https://flash.jin10.com/detail/20260227115235508800",
           "source": "金十数据",
@@ -2293,8 +2341,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时52分 ~ 18时05分]"
+          "appearance_count": 14,
+          "time_info": "[07时52分 ~ 19时05分]"
         },
         {
           "title": "超预期！英伟达Q4营收增73%，Q1指引“炸裂”创新高，黄仁勋上调5000亿收入预期 | 财报见闻",
@@ -2398,6 +2446,20 @@
           "time_info": "[00时14分 ~ 11时53分]"
         },
         {
+          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
+          "url": "https://wallstreetcn.com/articles/3766293",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时12分 ~ 19时05分]"
+        },
+        {
           "title": "超万亿市值蒸发！英伟达财报强劲股价却大跌 背后究竟有何原因？",
           "url": "https://www.cls.cn/detail/2296684",
           "source": "财联社热门",
@@ -2435,20 +2497,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时14分 ~ 09时28分]"
-        },
-        {
-          "title": "AI泡沫担忧升温！英伟达财报超预期股价却盘中重挫5.7%，创三个月最大盘中跌幅",
-          "url": "https://wallstreetcn.com/articles/3766293",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时12分 ~ 18时05分]"
         },
         {
           "title": "中长期美债收益率跌超3个基点，投资者关注英伟达财报和伊朗谈判",
@@ -2642,6 +2690,21 @@
           "time_info": "[09时27分 ~ 14时11分]"
         },
         {
+          "title": "男子回应杀鸭从鸭肚中剖出黄金",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%9D%80%E9%B8%AD%E4%BB%8E%E9%B8%AD%E8%82%9A%E4%B8%AD%E5%89%96%E5%87%BA%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            22,
+            8,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时27分 ~ 19时05分]"
+        },
+        {
           "title": "新婚夫妇服务区遗落数万现金与黄金",
           "url": "https://www.baidu.com/s?wd=%E6%96%B0%E5%A9%9A%E5%A4%AB%E5%A6%87%E6%9C%8D%E5%8A%A1%E5%8C%BA%E9%81%97%E8%90%BD%E6%95%B0%E4%B8%87%E7%8E%B0%E9%87%91%E4%B8%8E%E9%BB%84%E9%87%91",
           "source": "百度热搜",
@@ -2667,20 +2730,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时10分 ~ 16时03分]"
-        },
-        {
-          "title": "男子回应杀鸭从鸭肚中剖出黄金",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%9B%9E%E5%BA%94%E6%9D%80%E9%B8%AD%E4%BB%8E%E9%B8%AD%E8%82%9A%E4%B8%AD%E5%89%96%E5%87%BA%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            24,
-            22,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时27分 ~ 18时05分]"
         },
         {
           "title": "男子杀鸭从鸭肚中剖出黄金颗粒",
@@ -2715,11 +2764,24 @@
           "ranks": [
             6,
             12,
-            13
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时03分 ~ 19时05分]"
+        },
+        {
+          "title": "丈夫准备给诞下5胞胎老婆送黄金",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%87%86%E5%A4%87%E7%BB%99%E8%AF%9E%E4%B8%8B5%E8%83%9E%E8%83%8E%E8%80%81%E5%A9%86%E9%80%81%E9%BB%84%E9%87%91",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            22
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时03分 ~ 18时05分]"
+          "time_info": "[17时06分 ~ 19时05分]"
         },
         {
           "title": "A股黄金股持续走强，湖南黄金冲击涨停，晓程科技、西部黄金、中金黄金、湖南白银纷纷上扬。",
@@ -2744,18 +2806,6 @@
           "time_info": "16时03分"
         },
         {
-          "title": "丈夫准备给诞下5胞胎老婆送黄金",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%88%E5%A4%AB%E5%87%86%E5%A4%87%E7%BB%99%E8%AF%9E%E4%B8%8B5%E8%83%9E%E8%83%8E%E8%80%81%E5%A9%86%E9%80%81%E9%BB%84%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时06分 ~ 18时05分]"
-        },
-        {
           "title": "景顺：黄金ETF对央行的吸引力日益增强",
           "url": "https://wallstreetcn.com/livenews/3059727",
           "source": "华尔街见闻-快讯",
@@ -2766,6 +2816,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时41分 ~ 04时32分]"
+        },
+        {
+          "title": "意大利小偷把肾结石误认黄金偷走",
+          "url": "https://www.baidu.com/s?wd=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8F%E5%81%B7%E6%8A%8A%E8%82%BE%E7%BB%93%E7%9F%B3%E8%AF%AF%E8%AE%A4%E9%BB%84%E9%87%91%E5%81%B7%E8%B5%B0",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时05分 ~ 19时05分]"
         },
         {
           "title": "现货黄金短线上扬30美元，报5174.51美元/盎司。",
@@ -2876,17 +2938,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时41分"
-        },
-        {
-          "title": "意大利小偷把肾结石误认黄金偷走",
-          "url": "https://www.baidu.com/s?wd=%E6%84%8F%E5%A4%A7%E5%88%A9%E5%B0%8F%E5%81%B7%E6%8A%8A%E8%82%BE%E7%BB%93%E7%9F%B3%E8%AF%AF%E8%AE%A4%E9%BB%84%E9%87%91%E5%81%B7%E8%B5%B0",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时05分"
         },
         {
           "title": "现货黄金突破5200美元/盎司，日内涨0.30%。",
@@ -3124,11 +3175,12 @@
             26,
             25,
             18,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时10分 ~ 18时05分]"
+          "appearance_count": 8,
+          "time_info": "[14时10分 ~ 19时05分]"
         },
         {
           "title": "OpenAI：将与加拿大执法机构建立直接联系渠道，承诺与加拿大政府和专家合作，继续强化我们的强化执法转介标准。",
@@ -3201,8 +3253,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时14分 ~ 18时05分]"
+          "appearance_count": 27,
+          "time_info": "[00时14分 ~ 19时05分]"
         },
         {
           "title": "IDC：内存短缺今年或将引发智能手机市场创纪录萎缩",
