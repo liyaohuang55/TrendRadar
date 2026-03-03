@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T21:57:18.304136+08:00",
-  "total_titles_processed": 2093,
+  "generated_at": "2026-03-03T22:42:21.168266+08:00",
+  "total_titles_processed": 2176,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 79,
+      "match_count": 80,
       "titles": [
         {
           "title": "高盛评估“伊朗冲击”：油价上涨18美元/桶，相当于霍尔木兹海峡封闭6周",
@@ -28,8 +28,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时55分 ~ 21时57分]"
+          "appearance_count": 4,
+          "time_info": "[19时55分 ~ 22时42分]"
         },
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -42,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时29分 ~ 21时57分]"
+          "appearance_count": 5,
+          "time_info": "[19时29分 ~ 22时42分]"
         },
         {
           "title": "布伦特原油自2024年7月以来首次触及每桶85美元，日内涨9%。",
@@ -614,6 +614,17 @@
           "time_info": "19时29分"
         },
         {
+          "title": "墨西哥比索兑美元延续跌势，跌幅超过2%。",
+          "url": "https://flash.jin10.com/detail/20260303222452316800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "WTI原油日内暴涨6.00%，现报75.34美元/桶。",
           "url": "https://flash.jin10.com/detail/20260303172255661800",
           "source": "金十数据",
@@ -840,7 +851,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -914,7 +925,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 67,
+      "match_count": 68,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -947,8 +958,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时11分 ~ 21时57分]"
+          "appearance_count": 15,
+          "time_info": "[12时11分 ~ 22时42分]"
         },
         {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
@@ -972,8 +983,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时45分 ~ 21时57分]"
+          "appearance_count": 16,
+          "time_info": "[09时45分 ~ 22时42分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -1119,8 +1130,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时34分 ~ 21时57分]"
+          "appearance_count": 6,
+          "time_info": "[18时34分 ~ 22时42分]"
         },
         {
           "title": "特朗普：没有必要对伊朗采取地面军事行动",
@@ -1146,6 +1157,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时38分 ~ 01时40分]"
+        },
+        {
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时42分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -1193,18 +1216,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时11分 ~ 14时43分]"
-        },
-        {
-          "title": "斩首?老外通报特朗普坐标",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时57分]"
         },
         {
           "title": "周一（3月2日），降息赢家指数跌1.99%，报96.33点。 “特朗普关税输家”指数跌2.25%，报111.90点。 “特朗普金融指数”涨0.69%，报155.57点。 散户抱团概念股指数/迷因股（meme stock）指数跌2.40%，报12.94点。",
@@ -1426,6 +1437,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "欧洲信用风险指标创去年4月特朗普关税动荡以来最大增幅",
+          "url": "https://wallstreetcn.com/livenews/3062837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "美国总统特朗普将于美国东部时间周二上午11点（北京时间今夜零点）在白宫与德国总理默茨会晤。",
@@ -1706,7 +1728,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -1728,8 +1750,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时45分 ~ 21时57分]"
+          "appearance_count": 16,
+          "time_info": "[09时45分 ~ 22时42分]"
         },
         {
           "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
@@ -1810,6 +1832,18 @@
           "time_info": "[19时29分 ~ 19时55分]"
         },
         {
+          "title": "现货黄金跌破5100美元",
+          "url": "https://www.douyin.com/hot/2417992",
+          "source": "抖音",
+          "ranks": [
+            19,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时42分]"
+        },
+        {
           "title": "金十图示：2026年03月03日（周二）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260303115258472800",
           "source": "金十数据",
@@ -1886,6 +1920,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时21分 ~ 09时45分]"
+        },
+        {
+          "title": "黄金跌破5100美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B45100%E7%BE%8E%E5%85%83%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时42分]"
         },
         {
           "title": "现货黄金短线下挫近70美元，回落至5240美元/盎司下方，日内跌1.56%。",
@@ -1976,17 +2022,6 @@
           "time_info": "14时43分"
         },
         {
-          "title": "现货黄金跌破5100美元",
-          "url": "https://www.douyin.com/hot/2417992",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
           "title": "消息称新加坡联合多国银行，以期打造区域黄金枢纽",
           "url": "https://flash.jin10.com/detail/20260303112021982800",
           "source": "金十数据",
@@ -2007,17 +2042,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        },
-        {
-          "title": "黄金跌破5100美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B45100%E7%BE%8E%E5%85%83%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         },
         {
           "title": "金价上涨 但受强势美元限制",
@@ -2097,6 +2121,17 @@
           "time_info": "17时37分"
         },
         {
+          "title": "黄金白银跌不停",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E8%B7%8C%E4%B8%8D%E5%81%9C%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "现货黄金短线下挫近70美元，回落至5240美元/盎司下方，日内跌近1.7%。",
           "url": "https://wallstreetcn.com/livenews/3062658",
           "source": "华尔街见闻-快讯",
@@ -2133,7 +2168,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -2187,8 +2222,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时49分 ~ 21时57分]"
+          "appearance_count": 17,
+          "time_info": "[07时49分 ~ 22时42分]"
         },
         {
           "title": "衡水中学设置 AI 监控系统，200 多个智能感知节点捕捉学生行为，如何评价此举措？能有效管理学生吗？",
@@ -2480,6 +2515,17 @@
           "time_info": "[00时38分 ~ 00时39分]"
         },
         {
+          "title": "伊拉克开始在Rumaila（鲁迈拉）停产石油，因为储油设施已满。 将Qurna 2的石油减产45万桶/日。",
+          "url": "https://wallstreetcn.com/livenews/3062839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "AI推理芯片打开市场空间，市场人士：PCB产业链涨价或持续",
           "url": "https://wallstreetcn.com/livenews/3062191",
           "source": "华尔街见闻-快讯",
@@ -2511,6 +2557,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
+          "url": "https://wallstreetcn.com/livenews/3062834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "卡塔尔停产之后，印度对工业用户实施天然气配给供应。 GAIL、印度石油公司自周二起削减对本地用户的天然气供应。 印度最大进口商Petronet已通知GAIL及其他天然气公司，卡塔尔方面的液化天然气供应将减少。",
@@ -2859,7 +2916,7 @@
     },
     {
       "keyword_group": "openai chatgpt",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "OpenAI的“五角大楼时刻”？ChatGPT卸载量暴增近300% 一星评分飙升775%",
@@ -2872,8 +2929,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时34分 ~ 21时57分]"
+          "appearance_count": 10,
+          "time_info": "[16时34分 ~ 22时42分]"
         },
         {
           "title": "大批OpenAI用户转投Anthropic，后者登顶美国APP下载榜",
@@ -2925,6 +2982,28 @@
           "time_info": "09时45分"
         },
         {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI与美国国防部的新条款尚未正式签署。",
+          "url": "https://flash.jin10.com/detail/20260303222622632800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "OpenAI奥特曼：正与国防部合作，对合约进行一些补充。 新增内容将使“原则变得非常清晰”。 国防情报机构不会使用OpenAI的服务。 人工智能系统不应用于国内监控。",
           "url": "https://wallstreetcn.com/livenews/3062280",
           "source": "华尔街见闻-快讯",
@@ -2936,6 +3015,17 @@
           "time_info": "09时45分"
         },
         {
+          "title": "据AXIOS网站：OpenAI与美国国防部同意加强近期合同。",
+          "url": "https://flash.jin10.com/detail/20260303222545463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "大批OpenAI用户转投Anthropic 后者登顶美国APP下载榜",
           "url": "https://flash.jin10.com/detail/20260303044811624800",
           "source": "金十数据",
@@ -2945,6 +3035,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI、美国国防部在AI协议中加入监控保护措施。",
+          "url": "https://flash.jin10.com/detail/20260303222435130800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         },
         {
           "title": "标普将软银评级展望下调至“负面”，因其对OpenAI追加投资",
@@ -2964,7 +3065,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         },
@@ -2982,49 +3083,8 @@
       ]
     },
     {
-      "keyword_group": "股市",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "韩国股市暴跌触发熔断，日经 225 指数一度跌超 2.7%，伊朗局势对亚太股市的影响是否会持续？",
-          "url": "https://www.zhihu.com/question/2012136408408680393",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时34分 ~ 21时57分]"
-        },
-        {
-          "title": "金十图示：2026年03月02日（周一）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260303050826799800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时24分]"
-        },
-        {
-          "title": "金十图示：2026年03月03日（周二）亚太市场股市指数（收盘）",
-          "url": "https://flash.jin10.com/detail/20260303180101514800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "显卡 英伟达",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "吓哭了,英伟达Q4利润破千亿",
@@ -3055,6 +3115,28 @@
           "time_info": "[16时34分 ~ 16时35分]"
         },
         {
+          "title": "英伟达宣布：将于3月16-19日在美国加州举办2026年GTC。",
+          "url": "https://wallstreetcn.com/livenews/3062833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
+          "title": "韩国AI芯片初创公司Rebellions冲击今年上市 挑战英伟达市场地位",
+          "url": "https://flash.jin10.com/detail/20260303222048402800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时42分"
+        },
+        {
           "title": "Akamai将部署数千枚英伟达Blackwell GPU，以增强其全球分布式云基础设施。",
           "url": "https://wallstreetcn.com/livenews/3062765",
           "source": "华尔街见闻-快讯",
@@ -3064,6 +3146,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "韩国股市暴跌触发熔断，日经 225 指数一度跌超 2.7%，伊朗局势对亚太股市的影响是否会持续？",
+          "url": "https://www.zhihu.com/question/2012136408408680393",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[18时34分 ~ 22时42分]"
+        },
+        {
+          "title": "金十图示：2026年03月02日（周一）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260303050826799800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时24分]"
+        },
+        {
+          "title": "金十图示：2026年03月03日（周二）亚太市场股市指数（收盘）",
+          "url": "https://flash.jin10.com/detail/20260303180101514800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         }
       ]
     },
