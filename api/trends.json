@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T22:42:21.168266+08:00",
-  "total_titles_processed": 2176,
+  "generated_at": "2026-03-03T23:42:57.459349+08:00",
+  "total_titles_processed": 2255,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 80,
+      "match_count": 86,
       "titles": [
         {
           "title": "高盛评估“伊朗冲击”：油价上涨18美元/桶，相当于霍尔木兹海峡封闭6周",
@@ -21,17 +21,6 @@
           "time_info": "[00时38分 ~ 07时49分]"
         },
         {
-          "title": "特朗普放话“不惜一切” ，金银跳水、白银暴跌10%，布油飙升破85美元，美股期指扩大跌幅",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时55分 ~ 22时42分]"
-        },
-        {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
           "url": "https://www.cls.cn/detail/2301441",
           "source": "财联社热门",
@@ -42,8 +31,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时29分 ~ 22时42分]"
+          "appearance_count": 6,
+          "time_info": "[19时29分 ~ 23时42分]"
+        },
+        {
+          "title": "特朗普放话“不惜一切” ，金银跳水、白银暴跌10%，布油飙升破85美元，美股期指扩大跌幅",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时55分 ~ 22时42分]"
         },
         {
           "title": "布伦特原油自2024年7月以来首次触及每桶85美元，日内涨9%。",
@@ -344,6 +344,28 @@
           "time_info": "19时55分"
         },
         {
+          "title": "韩元兑美元汇率自2009年3月以来首次跌破1500大关。",
+          "url": "https://flash.jin10.com/detail/20260303232355794800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "商品货币澳元/美元日内跌幅达2.0%，创2025年4月份以来最大盘中跌幅，报0.6949。 美元/加元日内涨幅达0.5%，报1.3745。",
+          "url": "https://wallstreetcn.com/livenews/3062866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "周一（3月2日），美联储隔夜逆回购协议（RRP）使用规模为6.27亿美元（交易对手4家），上个交易日报163.18亿美元。",
           "url": "https://wallstreetcn.com/livenews/3062097",
           "source": "华尔街见闻-快讯",
@@ -526,6 +548,17 @@
           "time_info": "20时43分"
         },
         {
+          "title": "Prosus于2月23-27日按均价44.0525欧元回购股票205.8996万股，合计0.907亿欧元（折合将近1.070亿美元）。 Naspers同期按均价902.9577南非兰特回购79.4130万股，合计超7.170亿兰特（折合0.450亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3062860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "现货白银日内暴跌12.00%，跌破79美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260303193118725800",
           "source": "金十数据",
@@ -620,9 +653,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
+        },
+        {
+          "title": "美元涨超1% 非美货币普跌",
+          "url": "https://flash.jin10.com/detail/20260303231420288800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "WTI原油日内暴涨6.00%，现报75.34美元/桶。",
@@ -757,6 +801,17 @@
           "time_info": "19时55分"
         },
         {
+          "title": "纽元兑美元NZD/USD日内跌幅达1.50%，现报0.5852。",
+          "url": "https://flash.jin10.com/detail/20260303230913216800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "布伦特原油日内涨幅达4.0%，报80.86美元/桶； WTI原油日内涨幅达3.5%，报73.74美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3062553",
           "source": "华尔街见闻-快讯",
@@ -878,6 +933,17 @@
           "time_info": "14时43分"
         },
         {
+          "title": "巴西雷亚尔兑美元在即期交易中下跌逾3%。",
+          "url": "https://flash.jin10.com/detail/20260303230801778800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "报道：马斯克旗下X与xAI拟偿还175亿美元债务 SpaceX上市临近",
           "url": "https://wallstreetcn.com/livenews/3062123",
           "source": "华尔街见闻-快讯",
@@ -925,7 +991,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "“委内瑞拉模式”结局是选项之一？特朗普：同意与伊朗新领导层对话，伊朗：不谈",
@@ -958,8 +1024,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时11分 ~ 22时42分]"
+          "appearance_count": 16,
+          "time_info": "[12时11分 ~ 23时42分]"
         },
         {
           "title": "特朗普批民主党：如果不动手，他们又要叫唤",
@@ -983,8 +1049,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时45分 ~ 22时42分]"
+          "appearance_count": 17,
+          "time_info": "[09时45分 ~ 23时42分]"
         },
         {
           "title": "特朗普称不达目标不停战 伊朗称何时停战由伊方决定",
@@ -1130,8 +1196,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时34分 ~ 22时42分]"
+          "appearance_count": 7,
+          "time_info": "[18时34分 ~ 23时42分]"
+        },
+        {
+          "title": "斩首?老外通报特朗普坐标",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 23时42分]"
         },
         {
           "title": "特朗普：没有必要对伊朗采取地面军事行动",
@@ -1157,18 +1235,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时38分 ~ 01时40分]"
-        },
-        {
-          "title": "斩首?老外通报特朗普坐标",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351311&amp;topic_name=%E6%96%A9%E9%A6%96%3F%E8%80%81%E5%A4%96%E9%80%9A%E6%8A%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%9D%90%E6%A0%87",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时42分]"
         },
         {
           "title": "AI国防应用持续强化：特朗普“拉黑”Anthropic后 美军仍在美伊冲突中使用其产品",
@@ -1359,6 +1425,18 @@
           "time_info": "[02时40分 ~ 03时35分]"
         },
         {
+          "title": "欧洲信用风险指标创去年4月特朗普关税动荡以来最大增幅",
+          "url": "https://wallstreetcn.com/livenews/3062837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时42分]"
+        },
+        {
           "title": "美国总统特朗普：英美关系“已不如从前”。美国与法国、德国的关系是“所有国家中最牢固的”。（英国太阳报）",
           "url": "https://wallstreetcn.com/livenews/3062526",
           "source": "华尔街见闻-快讯",
@@ -1417,6 +1495,17 @@
           "time_info": "09时45分"
         },
         {
+          "title": "领袖遇刺后的伊朗：有人喊报复，有人跳特朗普舞",
+          "url": "https://news.ifeng.com/c/8rCTN6bsA7p",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "特朗普夫人联合国主持会议遭批",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E4%BA%BA%E8%81%94%E5%90%88%E5%9B%BD%E4%B8%BB%E6%8C%81%E4%BC%9A%E8%AE%AE%E9%81%AD%E6%89%B9%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -1437,17 +1526,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
-        },
-        {
-          "title": "欧洲信用风险指标创去年4月特朗普关税动荡以来最大增幅",
-          "url": "https://wallstreetcn.com/livenews/3062837",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
         },
         {
           "title": "美国总统特朗普将于美国东部时间周二上午11点（北京时间今夜零点）在白宫与德国总理默茨会晤。",
@@ -1728,7 +1806,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗危机冲击，美股指低开，纳指跌超1.5%，布油涨8%，黄金突破5400",
@@ -1750,8 +1828,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时45分 ~ 22时42分]"
+          "appearance_count": 17,
+          "time_info": "[09时45分 ~ 23时42分]"
         },
         {
           "title": "避险情绪席卷市场 美股期指大幅下挫 原油黄金齐涨 | 今夜看点",
@@ -1821,6 +1899,18 @@
           "time_info": "[15时39分 ~ 16时35分]"
         },
         {
+          "title": "现货黄金跌破5100美元",
+          "url": "https://www.douyin.com/hot/2417992",
+          "source": "抖音",
+          "ranks": [
+            19,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时42分]"
+        },
+        {
           "title": "现货白银日内大跌10%，失守80美元/盎司。 现货黄金跌破5200美元/盎司，报5196.61美元/盎司，日内跌近3%。",
           "url": "https://wallstreetcn.com/livenews/3062755",
           "source": "华尔街见闻-快讯",
@@ -1832,16 +1922,28 @@
           "time_info": "[19时29分 ~ 19时55分]"
         },
         {
-          "title": "现货黄金跌破5100美元",
-          "url": "https://www.douyin.com/hot/2417992",
-          "source": "抖音",
+          "title": "黄金跌破5100美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B45100%E7%BE%8E%E5%85%83%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
           "ranks": [
-            19,
-            1
+            21,
+            25,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 22时42分]"
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 23时42分]"
+        },
+        {
+          "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "金十图示：2026年03月03日（周二）黄金ETF持仓报告",
@@ -1853,6 +1955,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
+        },
+        {
+          "title": "现货黄金跌破5000美元/盎司关口，日内跌幅超过6.0%。",
+          "url": "https://wallstreetcn.com/livenews/3062867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "惠誉旗下研究机构：若中东局势持续，金价本周或创历史新高",
@@ -1922,16 +2035,16 @@
           "time_info": "[07时21分 ~ 09时45分]"
         },
         {
-          "title": "黄金跌破5100美元",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B45100%E7%BE%8E%E5%85%83%23&t=31&band_rank=21&Refer=top",
+          "title": "黄金白银跌不停",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E8%B7%8C%E4%B8%8D%E5%81%9C%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            21,
-            25
+            27,
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时57分 ~ 22时42分]"
+          "time_info": "[22时42分 ~ 23时42分]"
         },
         {
           "title": "现货黄金短线下挫近70美元，回落至5240美元/盎司下方，日内跌1.56%。",
@@ -1978,6 +2091,17 @@
           "time_info": "19时55分"
         },
         {
+          "title": "现货黄金失守5000美元关口",
+          "url": "https://flash.jin10.com/detail/20260303231746885800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "现货黄金短线下挫约40美元，跌破5280美元/盎司，日内转跌，现跌0.03%。",
           "url": "https://flash.jin10.com/detail/20260303000219353800",
           "source": "金十数据",
@@ -2000,6 +2124,17 @@
           "time_info": "19时29分"
         },
         {
+          "title": "石油计价机制助推美元走强 压制黄金涨势",
+          "url": "https://flash.jin10.com/detail/20260303231739323800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
           "title": "现货黄金日内涨50美元，站上5370美元/盎司，日内涨0.91%。",
           "url": "https://flash.jin10.com/detail/20260303090754171800",
           "source": "金十数据",
@@ -2009,6 +2144,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "韩元创2009年以来最弱，兰特跌3%，黄金跌5%，美国三大股指跌超2%",
+          "url": "https://wallstreetcn.com/livenews/3062850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "避险情绪难抵通胀预期 金价四连涨后深陷抛售泥潭",
+          "url": "https://flash.jin10.com/detail/20260303231034018800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "现货黄金回落至5300美元/盎司下方，日内跌0.45%。 现货白银日内大跌4%，现报85.61美元/盎司。",
@@ -2121,17 +2278,6 @@
           "time_info": "17时37分"
         },
         {
-          "title": "黄金白银跌不停",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E8%B7%8C%E4%B8%8D%E5%81%9C%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
           "title": "现货黄金短线下挫近70美元，回落至5240美元/盎司下方，日内跌近1.7%。",
           "url": "https://wallstreetcn.com/livenews/3062658",
           "source": "华尔街见闻-快讯",
@@ -2141,6 +2287,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "金价银价断崖式跳水",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "美银：黄金和南非兰特走强，看好南非股市",
@@ -2168,7 +2325,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "汇丰中国财富洞察：对话PIMCO全球首席投资官：K型经济与AI浪潮下，如何把握投资机遇？| 财富交想“汇”",
@@ -2470,6 +2627,29 @@
           "time_info": "07时49分"
         },
         {
+          "title": "美联储Schmid：通胀仍然太高，我们不能掉以轻心。 数据似乎大体表明，劳动力市场处于平衡状态。 不认为人工智能（AI）会造成结构性失业。",
+          "url": "https://wallstreetcn.com/livenews/3062863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
+        },
+        {
+          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
+          "url": "https://wallstreetcn.com/livenews/3062834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时42分]"
+        },
+        {
           "title": "从哈梅内伊遇袭看AI如何卷入真实战争｜907编辑部",
           "url": "https://m.thepaper.cn/newsDetail_forward_32684579",
           "source": "澎湃新闻",
@@ -2521,7 +2701,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -2557,17 +2737,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
-        },
-        {
-          "title": "苹果推出升级版MacBook Pro、Air、以及新款Studio显示器",
-          "url": "https://wallstreetcn.com/livenews/3062834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
         },
         {
           "title": "卡塔尔停产之后，印度对工业用户实施天然气配给供应。 GAIL、印度石油公司自周二起削减对本地用户的天然气供应。 印度最大进口商Petronet已通知GAIL及其他天然气公司，卡塔尔方面的液化天然气供应将减少。",
@@ -2612,6 +2781,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时45分"
+        },
+        {
+          "title": "美联储威廉姆斯：不认为AI会造成结构性失业；新技术创造的岗位多于其摧毁的岗位。",
+          "url": "https://flash.jin10.com/detail/20260303230927875800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时42分"
         },
         {
           "title": "爱立信CEO Borje Ekholm：欧洲是科技领域的“博物馆”。 如果不加速开发自己的网络，将在人工智能（AI）领域落后。",
@@ -2960,6 +3140,18 @@
           "time_info": "[05时57分 ~ 06时54分]"
         },
         {
+          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062845",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时42分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：国防部还确认，我们的服务不会被军方情报机构使用。",
           "url": "https://flash.jin10.com/detail/20260303091907467800",
           "source": "金十数据",
@@ -2982,24 +3174,13 @@
           "time_info": "09时45分"
         },
         {
-          "title": "OpenAI与美国五角大楼在AI协议中新增监控保护条款。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3062845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
           "title": "据AXIOS网站：OpenAI与美国国防部的新条款尚未正式签署。",
           "url": "https://flash.jin10.com/detail/20260303222622632800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -3021,7 +3202,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -3043,7 +3224,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
@@ -3104,6 +3285,18 @@
           "time_info": "[00时38分 ~ 20时43分]"
         },
         {
+          "title": "英伟达宣布：将于3月16-19日在美国加州举办2026年GTC。",
+          "url": "https://wallstreetcn.com/livenews/3062833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时42分 ~ 23时42分]"
+        },
+        {
           "title": "英伟达联合电信巨头共建6G基建，黄仁勋：电信行业是下一个重点",
           "url": "https://m.thepaper.cn/newsDetail_forward_32683281",
           "source": "澎湃新闻",
@@ -3115,24 +3308,13 @@
           "time_info": "[16时34分 ~ 16时35分]"
         },
         {
-          "title": "英伟达宣布：将于3月16-19日在美国加州举办2026年GTC。",
-          "url": "https://wallstreetcn.com/livenews/3062833",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
           "title": "韩国AI芯片初创公司Rebellions冲击今年上市 挑战英伟达市场地位",
           "url": "https://flash.jin10.com/detail/20260303222048402800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时42分"
         },
