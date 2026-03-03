@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T07:23:11.202264+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2026-03-04T07:50:27.508226+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 65,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 07时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 07时50分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 07时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 07时50分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 07时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 07时50分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时40分 ~ 07时23分]"
+          "appearance_count": 14,
+          "time_info": "[01时40分 ~ 07时50分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -87,6 +87,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "美国总统特朗普：《天才法案》正受到银行的威胁和破坏，这是不可接受的。",
+          "url": "https://flash.jin10.com/detail/20260304060328619800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时53分 ~ 07时50分]"
         },
         {
           "title": "美国总统特朗普的商务部长卢特尼克自愿就自己与爱泼斯坦的关系出席听证会。（Axios）",
@@ -195,18 +208,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 00时41分]"
-        },
-        {
-          "title": "美国总统特朗普：《天才法案》正受到银行的威胁和破坏，这是不可接受的。",
-          "url": "https://flash.jin10.com/detail/20260304060328619800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时23分]"
         },
         {
           "title": "特朗普：可容忍油价短期内上涨 优先消除伊朗威胁",
@@ -325,6 +326,29 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普表示：不会让银行“破坏”加密货币议程",
+          "url": "https://wallstreetcn.com/livenews/3063034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时50分]"
+        },
+        {
+          "title": "西班牙回应特朗普称将切断贸易往来",
+          "url": "https://www.toutiao.com/trending/7612678791206387775/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "美国总统特朗普：英国必须解决非法移民和能源问题。",
@@ -490,17 +514,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
-        },
-        {
-          "title": "特朗普表示：不会让银行“破坏”加密货币议程",
-          "url": "https://wallstreetcn.com/livenews/3063034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
         },
         {
           "title": "美国总统特朗普：每个国家都想敲定他们已经达成的协议；将提高对某些国家的关税协议。",
@@ -737,7 +750,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -748,8 +761,33 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 07时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 07时50分]"
+        },
+        {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 07时50分]"
+        },
+        {
+          "title": "周二（3月3日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报6.9194元，较周一纽约尾盘跌184点，日内整体交投于6.8751-6.9437元区间。",
+          "url": "https://wallstreetcn.com/livenews/3063037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时50分]"
         },
         {
           "title": "周二（3月3日）纽约尾盘，美元兑日元涨0.08%，报157.52日元，日内交投区间为157.15-157.97日元。 欧元兑日元跌0.49%，英镑兑日元跌0.23%。",
@@ -763,30 +801,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 05时32分]"
-        },
-        {
-          "title": "周二（3月3日）纽约尾盘（周三北京时间05:59），离岸人民币（CNH）兑美元报6.9194元，较周一纽约尾盘跌184点，日内整体交投于6.8751-6.9437元区间。",
-          "url": "https://wallstreetcn.com/livenews/3063037",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
@@ -891,6 +905,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "现货白银日内涨幅达1.00%，现报82.85美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260304074232831800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         },
         {
           "title": "WTI 4月原油期货收报74.56美元/桶。 NYMEX 3月天然气期货收报3.0540美元/百万英热单位。 NYMEX 3月汽油期货收报2.4574美元/加仑，NYMEX 3月取暖油期货收报3.1869美元/加仑。",
@@ -1010,6 +1035,17 @@
           "time_info": "[06时53分 ~ 07时23分]"
         },
         {
+          "title": "深陷与五角大楼纠纷之际，Anthropic年度营收运行率（Revenue Run Rate，即年化营收）接近200亿美元，这一数字较去年底的运行率增长了一倍多。",
+          "url": "https://wallstreetcn.com/livenews/3063063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
           "title": "德意志银行：如果石油和天然气价格继续飙涨，进而冲击到欧洲经济，欧元兑美元恐怕会跌至1.13创2025年5月份以来最低。",
           "url": "https://wallstreetcn.com/livenews/3062884",
           "source": "华尔街见闻-快讯",
@@ -1123,7 +1159,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普放话“不惜一切” ，美三大股指均跌超2%，黄金跌超5%，白银暴跌11%，布油涨近8%，美元指数涨1%",
@@ -1153,11 +1189,12 @@
           "source": "微博",
           "ranks": [
             5,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 07时23分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 07时50分]"
         },
         {
           "title": "现货黄金大跌",
@@ -1178,11 +1215,12 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时36分 ~ 07时23分]"
+          "appearance_count": 12,
+          "time_info": "[03时36分 ~ 07时50分]"
         },
         {
           "title": "大妈攒金34年戴百克黄金逛珠宝城",
@@ -1213,6 +1251,18 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
+          "url": "https://www.cls.cn/detail/2301803",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 07时50分]"
+        },
+        {
           "title": "拟变卖救父的黄金丢失 多方帮找回",
           "url": "https://www.toutiao.com/trending/7612527476064911369/",
           "source": "今日头条",
@@ -1222,17 +1272,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时40分 ~ 00时41分]"
-        },
-        {
-          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
-          "url": "https://www.cls.cn/detail/2301803",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "黄金跌破5100美元",
@@ -1258,6 +1297,17 @@
           "time_info": "[00时40分 ~ 00时41分]"
         },
         {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2.29吨，当前持仓量为1099.05吨。",
+          "url": "https://flash.jin10.com/detail/20260304072754129800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
           "title": "现货黄金跌破5000美元/盎司关口，日内跌幅超过6.0%。",
           "url": "https://wallstreetcn.com/livenews/3062867",
           "source": "华尔街见闻-快讯",
@@ -1281,11 +1331,12 @@
           "ranks": [
             12,
             11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时40分 ~ 07时23分]"
+          "appearance_count": 14,
+          "time_info": "[01时40分 ~ 07时50分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -1298,8 +1349,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时40分 ~ 07时23分]"
+          "appearance_count": 13,
+          "time_info": "[01时40分 ~ 07时50分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -1310,8 +1361,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时57分 ~ 07时23分]"
+          "appearance_count": 8,
+          "time_info": "[04时57分 ~ 07时50分]"
+        },
+        {
+          "title": "19岁天才少年做AI应用年入2亿",
+          "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%81%9AAI%E5%BA%94%E7%94%A8%E5%B9%B4%E5%85%A52%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 07时50分]"
         },
         {
           "title": "高通CEO：AI智能体将取代手机成为数字中心",
@@ -1362,17 +1425,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时23分]"
-        },
-        {
-          "title": "19岁天才少年做AI应用年入2亿",
-          "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%81%9AAI%E5%BA%94%E7%94%A8%E5%B9%B4%E5%85%A52%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
@@ -1432,22 +1484,36 @@
           "url": "https://wallstreetcn.com/livenews/3063046",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时50分]"
         },
         {
           "title": "OpenAI正开发GitHub的替代品。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3063042",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时50分]"
+        },
+        {
+          "title": "据The Information：OpenAI正在开发微软GitHub的替代品。",
+          "url": "https://flash.jin10.com/detail/20260304064514298800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 07时50分]"
         },
         {
           "title": "OpenAI：GPT‑5.2 即时版将在旧版模型板块的模型选择器中向付费用户开放3个月，将于6月3日下线。",
@@ -1472,17 +1538,6 @@
           "time_info": "02时41分"
         },
         {
-          "title": "据The Information：OpenAI正在开发微软GitHub的替代品。",
-          "url": "https://flash.jin10.com/detail/20260304064514298800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "OpenAI：推出 GPT‑5.3 即时网站。",
           "url": "https://flash.jin10.com/detail/20260304020800832800",
           "source": "金十数据",
@@ -1492,6 +1547,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "显卡 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达财报超预期的背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%B6%85%E9%A2%84%E6%9C%9F%E7%9A%84%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时53分 ~ 07时50分]"
+        },
+        {
+          "title": "英伟达和亚马逊暂时关闭迪拜办事处。 英伟达的迪拜员工远程办公。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3063052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
         }
       ]
     },
@@ -1545,24 +1630,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时32分 ~ 06时53分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "显卡 英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英伟达财报超预期的背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5%E8%B6%85%E9%A2%84%E6%9C%9F%E7%9A%84%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时53分 ~ 07时23分]"
         }
       ]
     }
