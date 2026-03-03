@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T04:28:04.712339+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-03-04T04:57:52.260602+08:00",
+  "total_titles_processed": 638,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 60,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 04时57分]"
         },
         {
           "title": "斩首?老外通报特朗普坐标",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 04时57分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 04时57分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -48,8 +48,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 04时57分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -68,11 +68,38 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时28分]"
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 04时57分]"
+        },
+        {
+          "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
+          "url": "https://wallstreetcn.com/livenews/3062968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            23,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 04时57分]"
+        },
+        {
+          "title": "特朗普否认被以色列“拖入战争”",
+          "url": "https://wallstreetcn.com/livenews/3062965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 04时57分]"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -131,6 +158,17 @@
           "time_info": "02时41分"
         },
         {
+          "title": "德国总理默茨：已告知特朗普，乌克兰不可能再割让更多领土。",
+          "url": "https://flash.jin10.com/detail/20260304044618511800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "报道：特朗普今日将评估控制能源价格的方案",
           "url": "https://wallstreetcn.com/livenews/3062950",
           "source": "华尔街见闻-快讯",
@@ -153,6 +191,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时41分]"
+        },
+        {
+          "title": "美国总统特朗普的商务部长卢特尼克自愿就自己与爱泼斯坦的关系出席听证会。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3062988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 04时57分]"
         },
         {
           "title": "美国总统特朗普：等一切都结束后，油价将会下跌。 （美国和以色列对伊朗挑起的）战争结束后，油价可能会低于战前的水平。",
@@ -178,30 +228,6 @@
           "time_info": "01时40分"
         },
         {
-          "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
-          "url": "https://wallstreetcn.com/livenews/3062968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时28分]"
-        },
-        {
-          "title": "特朗普否认被以色列“拖入战争”",
-          "url": "https://wallstreetcn.com/livenews/3062965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时28分]"
-        },
-        {
           "title": "美国总统特朗普：英国必须解决非法移民和能源问题。",
           "url": "https://flash.jin10.com/detail/20260304012318778800",
           "source": "金十数据",
@@ -224,15 +250,26 @@
           "time_info": "02时41分"
         },
         {
-          "title": "美国总统特朗普的商务部长卢特尼克自愿就自己与爱泼斯坦的关系出席听证会。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3062988",
-          "source": "华尔街见闻-快讯",
+          "title": "德国总理默茨：已告知特朗普，德国参与军事冲突须经议会批准。",
+          "url": "https://flash.jin10.com/detail/20260304044529427800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "德国总理默茨：已告知特朗普，需达成美欧贸易协议以消除不确定性。",
+          "url": "https://flash.jin10.com/detail/20260304044457073800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "04时57分"
         },
         {
           "title": "外媒白宫事务记者：特朗普今天多次声称15%的替代关税已经生效，但白宫尚未实施该关税，目前仍为10%。",
@@ -246,6 +283,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "德国总理默茨：告诉特朗普，对英国首相斯塔默的批评毫无道理，斯塔默正努力结束乌克兰冲突。",
+          "url": "https://flash.jin10.com/detail/20260304044343287800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "美国总统特朗普：英国“非常、非常不合作”。",
           "url": "https://flash.jin10.com/detail/20260304012112730800",
           "source": "金十数据",
@@ -257,6 +305,28 @@
           "time_info": "01时40分"
         },
         {
+          "title": "德国总理默茨：已告知特朗普，西班牙是欧盟成员国，任何贸易协议都必须包括西班牙。要么与西班牙达成贸易协议，要么就根本不谈。",
+          "url": "https://flash.jin10.com/detail/20260304044326974800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "德国总理默茨：将在G7峰会、北约峰会上再次会见特朗普。",
+          "url": "https://flash.jin10.com/detail/20260304044102237800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "沃什未上任已挑战重重，同僚质疑与油价飙升恐令其难圆特朗普的降息梦",
           "url": "https://wallstreetcn.com/livenews/3062944",
           "source": "华尔街见闻-快讯",
@@ -266,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "德国总理默茨：俄乌冲突必须结束，要让特朗普知道，人们严重怀疑普京是否真的想要和平。敦促特朗普加大对俄罗斯的压力。",
+          "url": "https://flash.jin10.com/detail/20260304044030119800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "【特朗普：将切断美国和西班牙之间的贸易往来】3月3日，美国总统特朗普在白宫会见德国总理默茨期间抨击西班牙在袭击伊朗行动中“缺乏合作”，并宣布将切断美国和西班牙之间的一切贸易往来，因为西班牙是“一个糟糕的盟友”。 特朗普表示：“西班牙的表现很糟糕。”他还称，已指示财政部长贝森特“切断与西班牙的所有往来”。 特朗普补充说：“我们将切断与西班牙的所有贸易。我们不想与西班牙有任何往来。”（央视）",
@@ -288,6 +369,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "德国总理默茨：已与美国总统特朗普讨论俄乌冲突，已有超过一百万人丧生。",
+          "url": "https://flash.jin10.com/detail/20260304043940041800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "美国总统特朗普：对西班牙和英国都不满意。 英国在查戈斯群岛问题上一直不配合美方（军事袭击伊朗的）要求。 英国在能源和移民方面做的一切都糟糕透了。",
@@ -345,6 +437,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "德国总理默茨：已告知美国总统特朗普，欧盟应签署并实施与美国的贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260304043713498800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
           "title": "美国总统特朗普：每个国家都想敲定他们已经达成的协议；将提高对某些国家的关税协议。",
           "url": "https://flash.jin10.com/detail/20260304011422905800",
           "source": "金十数据",
@@ -362,9 +465,42 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "德国总理默茨：美国总统特朗普向我保证，美国将坚守驻德承诺。",
+          "url": "https://flash.jin10.com/detail/20260304043615979800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "德国总理默茨：已就北约安卡拉峰会与美国总统特朗普进行了交谈。",
+          "url": "https://flash.jin10.com/detail/20260304043555127800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "德国总理默茨：美国总统特朗普承认德国在增加国防开支方面的作用。",
+          "url": "https://flash.jin10.com/detail/20260304043548268800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "美国总统特朗普告诉到访的德国总理默茨：我们将商谈贸易协议。",
@@ -428,7 +564,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -461,7 +597,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -483,7 +619,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -505,7 +641,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -519,6 +655,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "德国总理默茨：与美国总统特朗普的会谈聚焦伊朗问题。",
+          "url": "https://flash.jin10.com/detail/20260304043104463800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
         },
         {
           "title": "美国总统特朗普：我们在世界各国储存了大量弹药，有无限的中高口径弹药。",
@@ -535,7 +682,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -546,8 +693,58 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 04时57分]"
+        },
+        {
+          "title": "周二（3月3日）纽约尾盘，美元兑日元涨0.08%，报157.52日元，日内交投区间为157.15-157.97日元。 欧元兑日元跌0.49%，英镑兑日元跌0.23%。",
+          "url": "https://wallstreetcn.com/livenews/3062994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 04时57分]"
+        },
+        {
+          "title": "防务科技初创公司Anduril Industries Inc.按估值翻倍至大约600亿美元融资大约40亿美元。 由风投公司Andreessen Horowitz与库什纳（Josh Kushner）旗下Thrive Capital领投。",
+          "url": "https://wallstreetcn.com/livenews/3062977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 04时57分]"
+        },
+        {
+          "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
+          "url": "https://wallstreetcn.com/livenews/3062993",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 04时57分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9193元，较周一夜盘收盘跌135点。成交量644.91亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3062970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 04时57分]"
         },
         {
           "title": "WTI 4月原油期货收报74.56美元/桶。 NYMEX 3月天然气期货收报3.0540美元/百万英热单位。 NYMEX 3月汽油期货收报2.4574美元/加仑，NYMEX 3月取暖油期货收报3.1869美元/加仑。",
@@ -559,17 +756,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时37分"
-        },
-        {
-          "title": "周二（3月3日）纽约尾盘，美元兑日元涨0.08%，报157.52日元，日内交投区间为157.15-157.97日元。 欧元兑日元跌0.49%，英镑兑日元跌0.23%。",
-          "url": "https://wallstreetcn.com/livenews/3062994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
         },
         {
           "title": "周二（3月3日），韩元兑美元最终跌1.14%，报1485.32韩元，北京时间23:21曾跌至1507.55韩元——逼近2009年3月11日底部1508.95韩元、当年3月6日底部1597.45韩元，最近四个交易日累计下跌4.07%。",
@@ -596,27 +782,15 @@
           "time_info": "[02时41分 ~ 03时37分]"
         },
         {
-          "title": "美元指数涨约0.7%，美股早盘曾创逾三个月新高",
-          "url": "https://wallstreetcn.com/livenews/3062993",
+          "title": "据知情人士透露，小米联合创始人Lin Bin（林斌）达成一份协议，将按125亿美元估值对Miami Dolphins持股1%。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3062995",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "防务科技初创公司Anduril Industries Inc.按估值翻倍至大约600亿美元融资大约40亿美元。 由风投公司Andreessen Horowitz与库什纳（Josh Kushner）旗下Thrive Capital领投。",
-          "url": "https://wallstreetcn.com/livenews/3062977",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时28分]"
+          "time_info": "04时57分"
         },
         {
           "title": "国际货币基金组织副总裁卡茨：仍非常明确地认为美元是国际货币体系的核心。",
@@ -641,16 +815,27 @@
           "time_info": "02时41分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.9193元，较周一夜盘收盘跌135点。成交量644.91亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3062970",
+          "title": "花旗：若冲突持续 短期铜价或跌至1.2万美元下方",
+          "url": "https://flash.jin10.com/detail/20260304044612332800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时57分"
+        },
+        {
+          "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
+          "url": "https://wallstreetcn.com/livenews/3062985",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10,
-            21
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时28分]"
+          "time_info": "[04时28分 ~ 04时57分]"
         },
         {
           "title": "德意志银行：如果石油和天然气价格继续飙涨，进而冲击到欧洲经济，欧元兑美元恐怕会跌至1.13创2025年5月份以来最低。",
@@ -673,17 +858,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        },
-        {
-          "title": "美国原油期货短线跳水超2美元，特朗普将为途经海湾地区的贸易提供保险",
-          "url": "https://wallstreetcn.com/livenews/3062985",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
         },
         {
           "title": "白宫顾问哈塞特：预计今年（美国民众）实际薪资将增加2500-3000美元。",
@@ -725,7 +899,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
         },
@@ -765,8 +939,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 04时57分]"
         },
         {
           "title": "能源和科技股力撑，美股指走V收复失地，原油暴涨重创美债，美元大涨，黄金冲高回落",
@@ -776,8 +950,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 04时57分]"
         },
         {
           "title": "金价银价断崖式跳水",
@@ -788,19 +962,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 04时57分]"
         },
         {
           "title": "现货黄金大跌",
           "url": "https://www.douyin.com/hot/2417992",
           "source": "抖音",
           "ranks": [
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时28分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 04时57分]"
         },
         {
           "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
@@ -808,11 +983,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时36分 ~ 04时28分]"
+          "appearance_count": 5,
+          "time_info": "[03时36分 ~ 04时57分]"
         },
         {
           "title": "大妈攒金34年戴百克黄金逛珠宝城",
@@ -876,7 +1052,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马云，新年现身！谈了AI",
@@ -888,8 +1064,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时40分 ~ 04时28分]"
+          "appearance_count": 7,
+          "time_info": "[01时40分 ~ 04时57分]"
         },
         {
           "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
@@ -900,30 +1076,43 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时40分 ~ 04时28分]"
+          "appearance_count": 6,
+          "time_info": "[01时40分 ~ 04时57分]"
         },
         {
           "title": "高通CEO：AI智能体将取代手机成为数字中心",
           "url": "https://wallstreetcn.com/livenews/3062991",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 04时57分]"
+        },
+        {
+          "title": "19岁天才少年做AI应用年入2亿",
+          "url": "https://www.toutiao.com/trending/7612983983969668662/",
+          "source": "今日头条",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "04时57分"
         },
         {
           "title": "Meta将开辟新的AI应用工程组织，Meta Applied AI工程组织将隶属于Reality Labs部门。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3062986",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 04时57分]"
         },
         {
           "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
@@ -954,6 +1143,19 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "OpenAI：ChatGPT 5.4到来的时间将比你们想象的更快。",
+          "url": "https://wallstreetcn.com/livenews/3062972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时37分 ~ 04时57分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.3 Instant模型。 这是该公司最常用的ChatGPT模型的升级版，可降低（对用户请求的）“不必要的拒绝”。 最新模型可以提供更加明确的回应结果。",
           "url": "https://wallstreetcn.com/livenews/3062952",
           "source": "华尔街见闻-快讯",
@@ -964,18 +1166,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时37分]"
-        },
-        {
-          "title": "OpenAI：ChatGPT 5.4到来的时间将比你们想象的更快。",
-          "url": "https://wallstreetcn.com/livenews/3062972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时37分 ~ 04时28分]"
         },
         {
           "title": "OpenAI：GPT‑5.2 即时版将在旧版模型板块的模型选择器中向付费用户开放3个月，将于6月3日下线。",
