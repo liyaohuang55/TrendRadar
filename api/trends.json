@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T04:57:32.621957+08:00",
-  "total_titles_processed": 561,
+  "generated_at": "2026-03-05T05:32:13.635234+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
@@ -38,8 +38,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "特朗普夫人，“翻车”了",
@@ -49,8 +49,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
@@ -62,8 +62,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "美称打死试图暗杀特朗普的伊朗高官",
@@ -72,22 +72,12 @@
           "ranks": [
             12,
             21,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时57分]"
-        },
-        {
-          "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
-          "url": "https://wallstreetcn.com/livenews/3063848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "特朗普政府在文件中确认，如果被命令支付进口商关税退款，美国将支付利息。",
@@ -95,11 +85,59 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            9
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 05时32分]"
+        },
+        {
+          "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
+          "url": "https://wallstreetcn.com/articles/3766690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
+          "title": "美国参议院Ron Wyden就特朗普政府在国内实施监控（国内间谍）的政策施压多家人工智能（AI）公司。",
+          "url": "https://wallstreetcn.com/livenews/3063848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时28分 ~ 04时57分]"
+          "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗问题）如果我们不先动手，他们就会对以色列下手。",
+          "url": "https://flash.jin10.com/detail/20260305042503367800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
+          "title": "美国总统特朗普：我们将继续前进。",
+          "url": "https://flash.jin10.com/detail/20260305042107536800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
         },
         {
           "title": "特朗普正式提名凯文·沃什担任美联储主席，以接替杰罗姆·鲍威尔",
@@ -114,15 +152,27 @@
           "time_info": "[01时35分 ~ 02时41分]"
         },
         {
-          "title": "美国总统特朗普：（谈伊朗问题）如果我们不先动手，他们就会对以色列下手。",
-          "url": "https://flash.jin10.com/detail/20260305042503367800",
-          "source": "金十数据",
+          "title": "据知情人士透露，美国白宫计划在3月底之前递交关于下一个财年的预算申请。 特朗普政府尤其希望在3月31日当天披露预算报告。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3063861",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗的导弹和发射器正在被消灭。",
+          "url": "https://flash.jin10.com/detail/20260305042038924800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
         },
         {
           "title": "消息人士：特朗普周三晚上联系了法国总统马克龙，告知他美国在伊朗的军事行动情况。",
@@ -137,15 +187,64 @@
           "time_info": "[04时28分 ~ 04时57分]"
         },
         {
-          "title": "美国总统特朗普：我们将继续前进。",
-          "url": "https://flash.jin10.com/detail/20260305042107536800",
+          "title": "美国总统特朗普：（谈伊朗战争前线）1-10分打分的话，我给15分。",
+          "url": "https://flash.jin10.com/detail/20260305042035461800",
           "source": "金十数据",
           "ranks": [
-            7
+            9,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
+          "title": "美国总统特朗普：想当伊朗领导人的人，最后都死了。",
+          "url": "https://flash.jin10.com/detail/20260305042026139800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
+          "title": "美国总统特朗普：我们在伊朗问题上处于非常有利的地位。",
+          "url": "https://flash.jin10.com/detail/20260305041920558800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
+          "title": "美国总统特朗普：委内瑞拉总统德尔西·罗德里格斯工作做得非常出色。",
+          "url": "https://flash.jin10.com/detail/20260305041250924800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
+          "title": "美国总统特朗普：石油正开始从委内瑞拉流出。",
+          "url": "https://flash.jin10.com/detail/20260305041104184800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
         },
         {
           "title": "白宫新闻秘书莱维特：美国总统特朗普将出席在伊朗袭击中丧生的美军官兵的隆重葬礼。",
@@ -159,70 +258,15 @@
           "time_info": "02时41分"
         },
         {
-          "title": "美国总统特朗普：伊朗的导弹和发射器正在被消灭。",
-          "url": "https://flash.jin10.com/detail/20260305042038924800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗战争前线）1-10分打分的话，我给15分。",
-          "url": "https://flash.jin10.com/detail/20260305042035461800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
-          "url": "https://wallstreetcn.com/articles/3766690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美国总统特朗普：想当伊朗领导人的人，最后都死了。",
-          "url": "https://flash.jin10.com/detail/20260305042026139800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美国总统特朗普：我们在伊朗问题上处于非常有利的地位。",
-          "url": "https://flash.jin10.com/detail/20260305041920558800",
-          "source": "金十数据",
+          "title": "白宫：向伊朗派美军地面部队目前还“不在计划内”，但不会排除特朗普的任何军事选项",
+          "url": "https://wallstreetcn.com/livenews/3063850",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "美国总统特朗普：委内瑞拉总统德尔西·罗德里格斯工作做得非常出色。",
-          "url": "https://flash.jin10.com/detail/20260305041250924800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "05时32分"
         },
         {
           "title": "据《大西洋》：特朗普预计将在得州选举中支持科宁。",
@@ -234,17 +278,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
-        },
-        {
-          "title": "美国总统特朗普：石油正开始从委内瑞拉流出。",
-          "url": "https://flash.jin10.com/detail/20260305041104184800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
         },
         {
           "title": "伊朗高级教士贾瓦迪·阿莫利：当今虔诚的什叶派穆斯林所应做的，就是血洗以色列人和美国总统特朗普。",
@@ -316,7 +349,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -326,8 +359,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "霍尔木兹海峡“实际断航”、中东能源设施遭袭，为何油价还没涨到100美元呢？",
@@ -337,8 +370,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "周三（3月4日），美联储隔夜逆回购协议（RRP）使用规模为8.77亿美元（交易对手8家），上个交易日报12.03亿美元。",
@@ -355,6 +388,32 @@
           "time_info": "[02时41分 ~ 04时57分]"
         },
         {
+          "title": "据Crane Data：美国货币基金资产管理规模达到8.27万亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3063835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 05时32分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8951元，较周二夜盘收盘涨242点。成交量714.34亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 05时32分]"
+        },
+        {
           "title": "LME期铜收涨102美元，报13058美元/吨。 LME期铝收涨92美元，报3342美元/吨。 LME期锌收涨56美元，报3326美元/吨。 LME期铅收涨26美元，报1962美元/吨。 LME期镍收涨371美元，报17491美元/吨。 LME期锡收涨2176美元，报51019美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3063805",
           "source": "华尔街见闻-快讯",
@@ -368,6 +427,41 @@
           "time_info": "[02时41分 ~ 04时28分]"
         },
         {
+          "title": "韩国2月外汇储备 4276.2亿美元，前值4259.1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260305050002239800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "周三（3月4日）纽约尾盘，美元兑日元跌0.42%，报157.07日元，日内交投区间为157.86-156.86日元。 欧元兑日元跌0.19%，英镑兑日元跌0.26%。",
+          "url": "https://wallstreetcn.com/livenews/3063846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
+          "title": "周三（3月4日）纽约尾盘，ICE美元指数跌0.30%，报98.756点，日内交投区间为99.329-98.700点。 彭博美元指数跌0.29%，报1199.95点，日内交投区间为1206.74-1199.25点。",
+          "url": "https://wallstreetcn.com/livenews/3063844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
           "title": "WTI 4月原油期货收报74.66美元/桶。 NYMEX 4月天然气期货收报2.9170美元/百万英热单位。 NYMEX 4月汽油期货收报2.5149美元/加仑，NYMEX 4月取暖油期货收报3.2938美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3063841",
           "source": "华尔街见闻-快讯",
@@ -379,26 +473,16 @@
           "time_info": "04时28分"
         },
         {
-          "title": "周三（3月4日）纽约尾盘，美元兑日元跌0.42%，报157.07日元，日内交投区间为157.86-156.86日元。 欧元兑日元跌0.19%，英镑兑日元跌0.26%。",
-          "url": "https://wallstreetcn.com/livenews/3063846",
+          "title": "WTI 4月原油期货收报74.66美元/桶。 布伦特5月原油期货收报81.40美元/桶。 NYMEX 4月天然气期货收报2.9170美元/百万英热单位。 NYMEX 4月汽油期货收报2.5149美元/加仑，NYMEX 4月取暖油期货收报3.2938美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3063841",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            7,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
-        },
-        {
-          "title": "周三（3月4日）纽约尾盘，ICE美元指数跌0.30%，报98.756点，日内交投区间为99.329-98.700点。 彭博美元指数跌0.29%，报1199.95点，日内交投区间为1206.74-1199.25点。",
-          "url": "https://wallstreetcn.com/livenews/3063844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
         },
         {
           "title": "Crane Data数据显示，美国货币基金资产激增至创纪录的8.27万亿美元。",
@@ -411,30 +495,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时35分 ~ 04时28分]"
-        },
-        {
-          "title": "据Crane Data：美国货币基金资产管理规模达到8.27万亿美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3063835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 04时57分]"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8951元，较周二夜盘收盘涨242点。成交量714.34亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3063831",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 04时57分]"
         },
         {
           "title": "美国-亚洲航线超级油轮租用成本升至2900万美元，创纪录新高。",
@@ -472,15 +532,15 @@
           "time_info": "02时41分"
         },
         {
-          "title": "WTI 4月原油期货收报74.66美元/桶。 布伦特5月原油期货收报81.40美元/桶。 NYMEX 4月天然气期货收报2.9170美元/百万英热单位。 NYMEX 4月汽油期货收报2.5149美元/加仑，NYMEX 4月取暖油期货收报3.2938美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3063841",
-          "source": "华尔街见闻-快讯",
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20260305043255463800",
+          "source": "金十数据",
           "ranks": [
-            7
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时57分"
+          "time_info": "05时32分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的8.77亿美元。",
@@ -507,8 +567,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "我使馆提醒近期避免前往日本",
@@ -520,8 +580,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "中使馆提醒防范日本“撞人族”",
@@ -531,11 +591,12 @@
             6,
             2,
             1,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "霍尔木兹告急,日本:与我无瓜",
@@ -546,8 +607,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "中国游客在日本目睹老太被壮汉撞飞",
@@ -558,8 +619,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "驻日大使馆提醒防范日本「撞人族」，这些人为什么要有意地肘击、撞倒陌生人？他们的出现和哪些因素有关？",
@@ -588,6 +649,19 @@
           "time_info": "[02时41分 ~ 04时57分]"
         },
         {
+          "title": "驻日使馆再次提醒公民避免前往日本",
+          "url": "https://www.toutiao.com/trending/7613343881500917803/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 05时32分]"
+        },
+        {
           "title": "本田拟将中国产电动汽车卖回日本",
           "url": "https://www.toutiao.com/trending/7612296534020882468/",
           "source": "今日头条",
@@ -597,24 +671,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
-        },
-        {
-          "title": "驻日使馆再次提醒公民避免前往日本",
-          "url": "https://www.toutiao.com/trending/7613343881500917803/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 03时35分]"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
@@ -623,11 +685,12 @@
           "ranks": [
             9,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
@@ -637,8 +700,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "AI真人微短剧爆火 演员会被替代吗",
@@ -648,8 +711,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -661,8 +724,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -676,8 +739,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
@@ -707,15 +770,27 @@
           "time_info": "[01时35分 ~ 03时35分]"
         },
         {
+          "title": "代表：所有的工种都不会被AI取代",
+          "url": "https://www.toutiao.com/trending/7613364759950131236/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 05时32分]"
+        },
+        {
           "title": "Meta Platforms(META.O)计划开发硅芯片以训练人工智能模型，旨在提升AI能力。",
           "url": "https://flash.jin10.com/detail/20260305042235977800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
         }
       ]
     },
@@ -734,6 +809,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时41分 ~ 03时35分]"
+        },
+        {
+          "title": "据CNBC：OpenAI创始人奥尔特曼预计将于周四在摩根士丹利会议上发言。",
+          "url": "https://flash.jin10.com/detail/20260305041842177800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
         },
         {
           "title": "黄仁勋排除英伟达向OpenAI投资1000亿美元的可能性",
@@ -757,17 +844,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        },
-        {
-          "title": "据CNBC：OpenAI创始人奥尔特曼预计将于周四在摩根士丹利会议上发言。",
-          "url": "https://flash.jin10.com/detail/20260305041842177800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
         },
         {
           "title": "据华尔街日报：知情人士称，前OpenAI首席研究官正为一家人工智能初创公司筹集7000万美元资金，该初创公司正开发一款软件，以帮助工厂实现自主运行。",
@@ -804,22 +880,24 @@
           "url": "https://wallstreetcn.com/livenews/3063847",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
         },
         {
           "title": "美国总统特朗普：谷歌是一家好公司。",
           "url": "https://flash.jin10.com/detail/20260305042824208800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
         },
         {
           "title": "市场消息：谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
@@ -847,8 +925,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 05时32分]"
         },
         {
           "title": "年少的出发比黄金珍贵",
@@ -859,8 +937,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时41分 ~ 04时57分]"
+          "appearance_count": 6,
+          "time_info": "[02时41分 ~ 05时32分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月4日（周三）晚盘收盘下跌0.66%报1143.42元/克；<br/>上海黄金交易所白银T+D 3月4日（周三）晚盘收盘下跌0.2%报21172.0元/千克。",
@@ -877,7 +955,7 @@
     },
     {
       "keyword_group": "CPU 英特尔",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "英特尔一度涨超5.5%，该公司CFO谈及芯片供应短缺等问题。",
@@ -890,6 +968,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时41分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.8%，可选消费板块涨2.2%，科技板块涨1.3%，能源板块跌0.8%。 纳斯达克100指数初步收涨1.5%，成分股中，AppLovin涨10.4%，Strategy涨10.3%，罗斯百货涨8%，英特尔涨5.9%，Datadog涨5.9%，Axon跌1.5%，Atlassian跌2%，微芯科技跌2.2%，KDP跌2.3%，贝克休斯跌2.8%。",
+          "url": "https://wallstreetcn.com/livenews/3063857",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "英特尔CFO：服务器CPU市场将在2026年大幅增长。 （大范围的）服务器需求强劲。 到2027年，供应都将是一个更大的挑战。 芯片行业全面遭遇供应短缺问题。 预计存储芯片供应短缺这个问题将持续至2027年。 我们的工厂超负荷运转。",
@@ -916,8 +1005,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时37分 ~ 04时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时37分 ~ 05时32分]"
         }
       ]
     },
