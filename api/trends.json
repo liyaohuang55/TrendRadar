@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T15:57:43.016455+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2026-03-04T16:36:48.862521+08:00",
+  "total_titles_processed": 1634,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -38,11 +38,12 @@
             4,
             15,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时40分 ~ 15时57分]"
+          "appearance_count": 25,
+          "time_info": "[00时40分 ~ 16时36分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -56,6 +57,19 @@
           "time_info": "[01时40分 ~ 07时50分]"
         },
         {
+          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3766660",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时36分]"
+        },
+        {
           "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
           "url": "https://www.cls.cn/detail/2301855",
           "source": "财联社热门",
@@ -67,19 +81,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时28分 ~ 15时57分]"
-        },
-        {
-          "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3766660",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时57分]"
         },
         {
           "title": "西班牙回应特朗普称将切断贸易往来",
@@ -101,11 +102,12 @@
           "ranks": [
             13,
             12,
-            10
+            10,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 15时57分]"
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 16时36分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -117,6 +119,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 01时40分]"
+        },
+        {
+          "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
+          "url": "https://wallstreetcn.com/articles/3766668",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 16时36分]"
         },
         {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
@@ -171,6 +184,17 @@
           "time_info": "[04时28分 ~ 05时32分]"
         },
         {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 16时36分]"
+        },
+        {
           "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
           "url": "https://wallstreetcn.com/livenews/3062968",
           "source": "华尔街见闻-快讯",
@@ -219,17 +243,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时32分]"
-        },
-        {
-          "title": "特朗普“护航”未能平息局势！亚洲市场继续暴跌、韩股创有史以来最大跌幅，泰股停牌，油价再涨3%",
-          "url": "https://wallstreetcn.com/articles/3766668",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
         },
         {
           "title": "美国总统特朗普：乌克兰在我优先事项清单上排得很靠前。",
@@ -348,15 +361,16 @@
           "time_info": "[04时57分 ~ 05时32分]"
         },
         {
-          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
-          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
-          "source": "凤凰网",
+          "title": "特朗普因西班牙不配合打击伊朗对其发出威胁，外交部：贸易不应被武器化",
+          "url": "https://wallstreetcn.com/livenews/3063455",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            8,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时57分]"
+          "time_info": "[15时57分 ~ 16时36分]"
         },
         {
           "title": "德国总理默茨：已告知特朗普，西班牙是欧盟成员国，任何贸易协议都必须包括西班牙。要么与西班牙达成贸易协议，要么就根本不谈。",
@@ -451,17 +465,6 @@
           "time_info": "01时40分"
         },
         {
-          "title": "特朗普因西班牙不配合打击伊朗对其发出威胁，外交部：贸易不应被武器化",
-          "url": "https://wallstreetcn.com/livenews/3063455",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
-        },
-        {
           "title": "美国总统特朗普：英国“非常、非常不合作”。",
           "url": "https://flash.jin10.com/detail/20260304012112730800",
           "source": "金十数据",
@@ -471,6 +474,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "美伊战火引爆油市？特朗普：敌对行动结束后 油价将回落！",
+          "url": "https://www.cls.cn/detail/2301958",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "特朗普妻子被怒斥你丈夫下令轰炸小学",
@@ -677,7 +691,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -905,7 +919,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 61,
+      "match_count": 65,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -927,8 +941,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时28分 ~ 15时57分]"
+          "appearance_count": 9,
+          "time_info": "[09时28分 ~ 16时36分]"
         },
         {
           "title": "光速突破3.1美元！美国汽油价格创四年最大涨幅 未来数周预计涨势难歇",
@@ -937,11 +951,12 @@
           "ranks": [
             6,
             4,
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时57分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时36分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -1073,6 +1088,18 @@
           "time_info": "[06时24分 ~ 07时23分]"
         },
         {
+          "title": "摩根大通称「主要产油国政权更迭，油价或涨超 70%」，120 美元一桶的原油对我们的生活会有哪些影响？",
+          "url": "https://www.zhihu.com/question/2012469665222324485",
+          "source": "知乎",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时11分 ~ 16时36分]"
+        },
+        {
           "title": "塔吉特发布战略计划，考虑2026年投资20亿美元。",
           "url": "https://wallstreetcn.com/livenews/3063022",
           "source": "华尔街见闻-快讯",
@@ -1184,7 +1211,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -1246,18 +1273,6 @@
           "time_info": "[06时24分 ~ 06时53分]"
         },
         {
-          "title": "摩根大通称「主要产油国政权更迭，油价或涨超 70%」，120 美元一桶的原油对我们的生活会有哪些影响？",
-          "url": "https://www.zhihu.com/question/2012469665222324485",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时57分]"
-        },
-        {
           "title": "莫德纳将在与Roivant、Arbutus的和解中支付高达22.5亿美元",
           "url": "https://wallstreetcn.com/livenews/3063018",
           "source": "华尔街见闻-快讯",
@@ -1268,6 +1283,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时53分 ~ 07时23分]"
+        },
+        {
+          "title": "消息人士称，日本与美国正推动将核电项目纳入日本5500亿美元投资计划的第二轮协议中。铜冶炼与精炼设施项目也纳入了拟议的第二批合作协议。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3063490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "现货白银日内涨幅达2.00%，现报83.67美元/盎司。",
@@ -1386,7 +1412,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -1430,9 +1456,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
+        },
+        {
+          "title": "消息称日美拟将核电项目纳入5500亿美元投资计划 强化能源安全",
+          "url": "https://flash.jin10.com/detail/20260304161913480800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "新台币兑美元贬至31.710，触及2025年5月以来盘中最低。",
@@ -1444,6 +1481,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时28分"
+        },
+        {
+          "title": "据消息人士透露，日本和美国正致力于将核电项目纳入日本5500亿美元投资计划下的第二轮协议中。",
+          "url": "https://flash.jin10.com/detail/20260304161708534800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         },
         {
           "title": "莫德纳将支付至多22.5亿美元，与Roivant、Arbutus和解。",
@@ -1490,13 +1538,24 @@
           "time_info": "11时42分"
         },
         {
+          "title": "现货钯金上涨3%至每盎司1,697.16美元。",
+          "url": "https://wallstreetcn.com/livenews/3063464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "高盛：若霍尔木兹海峡供应中断持续五周，布油将升至100美元",
           "url": "https://flash.jin10.com/detail/20260304152509374800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -1625,11 +1684,12 @@
             7,
             16,
             12,
-            13
+            13,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时57分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时36分]"
         },
         {
           "title": "驻日大使馆提醒防范日本「撞人族」，这些人为什么要有意地肘击、撞倒陌生人？他们的出现和哪些因素有关？",
@@ -1641,8 +1701,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时57分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时36分]"
         },
         {
           "title": "霍尔木兹告急,日本:与我无瓜",
@@ -1651,11 +1711,12 @@
           "ranks": [
             3,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 15时57分]"
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 16时36分]"
         },
         {
           "title": "日本“撞人族”事件多发，中使馆提醒在日中国公民防范",
@@ -1666,8 +1727,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 15时57分]"
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 16时36分]"
         },
         {
           "title": "日本撞人族事件多发",
@@ -1680,6 +1741,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时41分 ~ 13时07分]"
+        },
+        {
+          "title": "日本央行行长植田和男：工资上涨有望保持稳定。",
+          "url": "https://wallstreetcn.com/livenews/3063463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时57分 ~ 16时36分]"
         },
         {
           "title": "日本财务大臣片山皋月：当前关于具体货币工具由日本央行决定的原则不变。",
@@ -1702,17 +1775,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时11分"
-        },
-        {
-          "title": "日本央行行长植田和男：工资上涨有望保持稳定。",
-          "url": "https://wallstreetcn.com/livenews/3063463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时57分"
         },
         {
           "title": "30年期日本国债收益率上升2.5个基点，至3.355%。",
@@ -1945,7 +2007,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -2217,7 +2279,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -2261,8 +2323,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[01时40分 ~ 15时57分]"
+          "appearance_count": 22,
+          "time_info": "[01时40分 ~ 16时36分]"
         },
         {
           "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
@@ -2273,8 +2335,23 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时57分]"
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时36分]"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            13,
+            12,
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时36分]"
         },
         {
           "title": "19岁天才少年做AI应用年入2亿",
@@ -2291,18 +2368,17 @@
           "time_info": "[07时22分 ~ 13时07分]"
         },
         {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            13,
-            12,
-            8
+            10,
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时57分]"
+          "appearance_count": 5,
+          "time_info": "[14时04分 ~ 16时36分]"
         },
         {
           "title": "代表建议为AI内容添加不可去除水印",
@@ -2316,19 +2392,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时07分 ~ 15时11分]"
-        },
-        {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时04分 ~ 15时57分]"
         },
         {
           "title": "高通CEO：AI智能体将取代手机成为数字中心",
@@ -2429,6 +2492,17 @@
           "time_info": "[15时11分 ~ 15时57分]"
         },
         {
+          "title": "突发！马云刚发声谈AI 阿里千问核心负责人林俊旸辞职",
+          "url": "https://www.cls.cn/detail/2302236",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
+        },
+        {
           "title": "Claude崩了，全球AI因何“熔断”？",
           "url": "https://wallstreetcn.com/articles/3766631",
           "source": "华尔街见闻",
@@ -2457,7 +2531,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -2603,6 +2677,20 @@
           "time_info": "[01时40分 ~ 07时23分]"
         },
         {
+          "title": "罕见！全球股市、债市、黄金齐齐大跌 究竟发生了什么？",
+          "url": "https://www.cls.cn/detail/2301997",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            5,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时41分 ~ 16时36分]"
+        },
+        {
           "title": "年少的出发比黄金珍贵",
           "url": "https://www.douyin.com/hot/2418170",
           "source": "抖音",
@@ -2615,19 +2703,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时28分 ~ 15时57分]"
-        },
-        {
-          "title": "罕见！全球股市、债市、黄金齐齐大跌 究竟发生了什么？",
-          "url": "https://www.cls.cn/detail/2301997",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时41分 ~ 15时57分]"
         },
         {
           "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
@@ -2716,7 +2791,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时57分"
         },
@@ -2879,7 +2954,7 @@
     },
     {
       "keyword_group": "股市",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "印尼股市基准指数下跌5%，至7545.91点。",
@@ -2925,6 +3000,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
+        },
+        {
+          "title": "金十图示：2026年03月04日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260304161301883800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时36分"
         }
       ]
     },
