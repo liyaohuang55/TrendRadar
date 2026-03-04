@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-04T14:05:17.669023+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-03-04T15:11:44.789758+08:00",
+  "total_titles_processed": 1465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 73,
+      "match_count": 75,
       "titles": [
         {
           "title": "冲突升级！美伊双方都“不惜代价”，特朗普吹嘘“无限”弹药，并将很快回应大使馆遇袭",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时40分 ~ 14时05分]"
+          "appearance_count": 23,
+          "time_info": "[00时40分 ~ 15时11分]"
         },
         {
           "title": "动武后才通知国会！特朗普向国会提交《战争权力法案》通知",
@@ -36,11 +36,12 @@
           "ranks": [
             2,
             4,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时40分 ~ 14时05分]"
+          "appearance_count": 23,
+          "time_info": "[00时40分 ~ 15时11分]"
         },
         {
           "title": "胡锡进：伊朗希望用新的“中东泥潭”吓退特朗普",
@@ -59,11 +60,12 @@
           "source": "今日头条",
           "ranks": [
             6,
-            10
+            10,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时50分 ~ 14时05分]"
+          "appearance_count": 7,
+          "time_info": "[07时50分 ~ 15时11分]"
         },
         {
           "title": "特朗普威胁：将切断美国和西班牙之间的贸易往来",
@@ -71,11 +73,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 14时05分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 15时11分]"
         },
         {
           "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
@@ -86,8 +89,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时05分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 15时11分]"
         },
         {
           "title": "美国要“打入”伊朗？特朗普不排除“必要时”派遣地面部队，北约称不参与军事行动",
@@ -99,6 +102,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时40分 ~ 01时40分]"
+        },
+        {
+          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
+          "url": "https://www.cls.cn/detail/2301976",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 15时11分]"
         },
         {
           "title": "特朗普称将切断贸易往来，西班牙回应：美国须尊重双边协定",
@@ -151,18 +166,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 05时32分]"
-        },
-        {
-          "title": "美伊战火引发能源危机？特朗普出手：将为“霍尔木兹油轮”护航，并提供保险！",
-          "url": "https://www.cls.cn/detail/2301976",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时07分 ~ 14时05分]"
         },
         {
           "title": "美国参议院民主党领导人Schumer：参议院将于周三表决（总统特朗普）对伊朗发动战争的权力。",
@@ -421,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        },
+        {
+          "title": "“我心中的人选大部分也死了”，特朗普被曝接触地方武装组织",
+          "url": "https://news.ifeng.com/c/8rDb9UBLUA1",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "美国总统特朗普：英国“非常、非常不合作”。",
@@ -808,6 +822,17 @@
           "time_info": "01时40分"
         },
         {
+          "title": "特朗普“军舰为油轮护航”言论引发质疑",
+          "url": "https://wallstreetcn.com/livenews/3063396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "德国总理默茨：与美国总统特朗普的会谈聚焦伊朗问题。",
           "url": "https://flash.jin10.com/detail/20260304043104463800",
           "source": "金十数据",
@@ -844,7 +869,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "AI加剧“电荒” 美国电网将迎史诗级扩建 750亿美元聚焦“超高压”输电",
@@ -866,8 +891,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 14时05分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 15时11分]"
         },
         {
           "title": "光速突破3.1美元！美国汽油价格创四年最大涨幅 未来数周预计涨势难歇",
@@ -878,8 +903,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时05分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 15时11分]"
         },
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，纳指仍跌超1%，原油冲高回落涨5%，美元强势二连涨，金银重挫",
@@ -1076,7 +1101,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1257,7 +1282,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1268,9 +1293,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
+        },
+        {
+          "title": "摩根大通称「主要产油国政权更迭，油价或涨超 70%」，120 美元一桶的原油对我们的生活会有哪些影响？",
+          "url": "https://www.zhihu.com/question/2012469665222324485",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "WTI原油站上76美元/桶，日内涨1.46%。",
@@ -1279,7 +1315,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1312,7 +1348,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1323,7 +1359,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1394,6 +1430,17 @@
           "time_info": "09时28分"
         },
         {
+          "title": "高盛将第四季度布伦特和WTI原油的平均价格预期分别上调6美元",
+          "url": "https://wallstreetcn.com/livenews/3063403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "美、布两油短线跳水近2美元，特朗普宣布保障原油海上运输的措施。",
           "url": "https://flash.jin10.com/detail/20260304034033102800",
           "source": "金十数据",
@@ -1427,15 +1474,37 @@
           "time_info": "00时41分"
         },
         {
+          "title": "高盛表示，若霍尔木兹海峡关闭的情况再持续五周，布伦特原油价格可能达到100美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260304142811170800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "澳新银行上调一季度末预测，布伦特原油上看90美元/桶，液化天然气上看17美元/百万英热。",
           "url": "https://flash.jin10.com/detail/20260304130719463800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
+        },
+        {
+          "title": "布伦特原油日内涨幅扩大至2.00%，现报82.71美元/桶；WTI原油涨2.2%。",
+          "url": "https://flash.jin10.com/detail/20260304142630114800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "Prosus于2月23-27日按均价44.0525欧元回购股票205.8996万股，合计0.907亿欧元（折合将近1.070亿美元）。 Naspers同期按均价902.9577南非兰特回购79.4130万股，合计超7.170亿兰特（折合0.450亿美元）。",
@@ -1463,7 +1532,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 42,
+      "match_count": 51,
       "titles": [
         {
           "title": "驻日大使馆提醒：防范日本“撞人族”",
@@ -1472,11 +1541,12 @@
           "ranks": [
             1,
             7,
-            16
+            16,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时05分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 15时11分]"
         },
         {
           "title": "驻日大使馆提醒防范日本「撞人族」，这些人为什么要有意地肘击、撞倒陌生人？他们的出现和哪些因素有关？",
@@ -1488,19 +1558,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时05分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 15时11分]"
         },
         {
           "title": "霍尔木兹告急,日本:与我无瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351327&amp;topic_name=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%91%8A%E6%80%A5%2C%E6%97%A5%E6%9C%AC%3A%E4%B8%8E%E6%88%91%E6%97%A0%E7%93%9C",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时07分 ~ 14时05分]"
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 15时11分]"
         },
         {
           "title": "日本“撞人族”事件多发，中使馆提醒在日中国公民防范",
@@ -1510,8 +1581,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时07分 ~ 14时05分]"
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 15时11分]"
         },
         {
           "title": "日本撞人族事件多发",
@@ -1537,6 +1608,17 @@
           "time_info": "13时07分"
         },
         {
+          "title": "日本央行行长植田和男：适度上调短期利率将有助于长期收益率的稳定形成。",
+          "url": "https://flash.jin10.com/detail/20260304145856040800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "30年期日本国债收益率上升2.5个基点，至3.355%。",
           "url": "https://flash.jin10.com/detail/20260304125046416800",
           "source": "金十数据",
@@ -1546,6 +1628,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "日本央行行长植田和男：清晰的经济和货币政策信息是维持长期利率稳定的关键。",
+          "url": "https://flash.jin10.com/detail/20260304145824497800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "日本2月家庭消费者信心指数 40，预期 38.2，前值 37.9。",
@@ -1594,13 +1687,24 @@
           "time_info": "13时07分"
         },
         {
+          "title": "日本央行行长植田和男：将与市场充分沟通，以支持收益率的稳定。",
+          "url": "https://flash.jin10.com/detail/20260304145555692800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "日本商业航天公司第三次发射火箭未果",
           "url": "https://wallstreetcn.com/livenews/3063364",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1627,6 +1731,17 @@
           "time_info": "13时07分"
         },
         {
+          "title": "日本央行行长植田和男：若市场认为短期利率不会以适当步伐调整，并可能导致通胀超调，则长期利率存在超调风险。",
+          "url": "https://flash.jin10.com/detail/20260304145457405800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "日本第二大银行因英国MFS风险敞口股价大跌",
           "url": "https://flash.jin10.com/detail/20260304124807785800",
           "source": "金十数据",
@@ -1636,6 +1751,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        },
+        {
+          "title": "日本央行行长植田和男：若日本央行因实现物价目标的可能性增大而上调短期利率，长期利率很可能会反映这一预期而保持稳定。",
+          "url": "https://flash.jin10.com/detail/20260304145333970800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "日本央行行长植田和男：日本央行将与市场沟通，以维持长期利率稳定。 将逐次会议做出恰当的政策决定。",
+          "url": "https://wallstreetcn.com/livenews/3063421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "日本央行行长植田和男警告伊朗冲突可能对经济造成重大冲击",
+          "url": "https://wallstreetcn.com/livenews/3063420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
         },
         {
           "title": "本田将把中国制造的电动汽车进口至日本市场销售。（日经新闻）",
@@ -1677,7 +1825,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1754,7 +1902,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1765,7 +1913,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1781,13 +1929,24 @@
           "time_info": "13时07分"
         },
         {
+          "title": "日经225指数收跌3.6%，报54245.54点。 日本东证指数收跌3.7%，报3633.67点。 韩国首尔综指收跌12.1%，报5090.79点，创纪录最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3063406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "日本财务大臣片山皋月：汇率是由多种因素决定的。 以极高紧迫感关注市场趋势。",
           "url": "https://wallstreetcn.com/livenews/3063337",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1809,7 +1968,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1820,7 +1979,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1842,7 +2001,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1880,6 +2039,17 @@
           "time_info": "13时07分"
         },
         {
+          "title": "日本30年期国债收益率上行3.5个基点至3.365%。",
+          "url": "https://wallstreetcn.com/livenews/3063397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
           "title": "日本财务大臣透露干预信号",
           "url": "https://flash.jin10.com/detail/20260304122121892800",
           "source": "金十数据",
@@ -1897,7 +2067,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时05分"
         },
@@ -1933,6 +2103,283 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "19岁天才少年做AI应用年入2亿",
+          "url": "https://www.toutiao.com/trending/7612983983969668662/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[04时57分 ~ 09时28分]"
+        },
+        {
+          "title": "马云，新年现身！谈了AI",
+          "url": "https://www.cls.cn/detail/2301784",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[01时40分 ~ 15时11分]"
+        },
+        {
+          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18,
+            17,
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[01时40分 ~ 15时11分]"
+        },
+        {
+          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 15时11分]"
+        },
+        {
+          "title": "19岁天才少年做AI应用年入2亿",
+          "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%81%9AAI%E5%BA%94%E7%94%A8%E5%B9%B4%E5%85%A52%E4%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            4,
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时22分 ~ 13时07分]"
+        },
+        {
+          "title": "AI猫咪的复工vlog",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 15时11分]"
+        },
+        {
+          "title": "代表建议为AI内容添加不可去除水印",
+          "url": "https://www.toutiao.com/trending/7613178493744087103/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            4,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时07分 ~ 15时11分]"
+        },
+        {
+          "title": "高通CEO：AI智能体将取代手机成为数字中心",
+          "url": "https://wallstreetcn.com/livenews/3062991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 05时32分]"
+        },
+        {
+          "title": "建议为AI生成内容添加不可去除水印",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%BAAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E4%B8%8D%E5%8F%AF%E5%8E%BB%E9%99%A4%E6%B0%B4%E5%8D%B0",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 11时42分]"
+        },
+        {
+          "title": "Meta将开辟新的AI应用工程组织，Meta Applied AI工程组织将隶属于Reality Labs部门。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3062986",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 05时32分]"
+        },
+        {
+          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时04分 ~ 15时11分]"
+        },
+        {
+          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
+          "url": "https://www.zhihu.com/question/2012296941925581663",
+          "source": "知乎",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时07分 ~ 14时05分]"
+        },
+        {
+          "title": "澳大利亚2月AIG建筑业表现指数 -8.2，前值由5.2修正为4.6。",
+          "url": "https://flash.jin10.com/detail/20260304060002434800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时23分]"
+        },
+        {
+          "title": "澳大利亚2月AIG/PWC制造业表现指数 -15.6，前值由-19.4修正为-19。",
+          "url": "https://flash.jin10.com/detail/20260304060002223800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时23分]"
+        },
+        {
+          "title": "Claude崩了，全球AI因何“熔断”？",
+          "url": "https://wallstreetcn.com/articles/3766631",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时28分"
+        },
+        {
+          "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3062945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "松下机电宣布投资75亿日元，在中国新建Megtron电路板材料生产线，以应对日益增长的AI服务器需求。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3063418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "岳雨婷缺席balmain看秀",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B2%B3%E9%9B%A8%E5%A9%B7%E7%BC%BA%E5%B8%ADbalmain%E7%9C%8B%E7%A7%80%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "Anthropic 高薪聘请哲学家参与 AI 开发，AI 企业为何要引入哲学家？",
+          "url": "https://www.zhihu.com/question/2010739342163859155",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时07分"
+        },
+        {
+          "title": "6个AI合伙开发搞玩具",
+          "url": "https://search.bilibili.com/all?keyword=6%E4%B8%AAAI%E5%90%88%E4%BC%99%E5%BC%80%E5%8F%91%E6%90%9E%E7%8E%A9%E5%85%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "AI的奥本海默时刻已经到来",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9A%84%E5%A5%A5%E6%9C%AC%E6%B5%B7%E9%BB%98%E6%97%B6%E5%88%BB%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
+        {
+          "title": "美联储Schmid：通胀仍然太高，我们不能掉以轻心。 数据似乎大体表明，劳动力市场处于平衡状态。 不认为人工智能（AI）会造成结构性失业。",
+          "url": "https://wallstreetcn.com/livenews/3062863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
         }
       ]
     },
@@ -1974,6 +2421,20 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时40分 ~ 07时50分]"
+        },
+        {
+          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
+          "url": "https://www.cls.cn/detail/2301803",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时22分 ~ 15时11分]"
         },
         {
           "title": "美元走强压倒避险需求 黄金日内跌超4% 白银一度暴跌近13%",
@@ -2018,30 +2479,18 @@
           "time_info": "[01时40分 ~ 07时23分]"
         },
         {
-          "title": "冲突升级恐慌蔓延！现货黄金失守5000美元关口 道指跌逾1200点",
-          "url": "https://www.cls.cn/detail/2301803",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 14时05分]"
-        },
-        {
           "title": "年少的出发比黄金珍贵",
           "url": "https://www.douyin.com/hot/2418170",
           "source": "抖音",
           "ranks": [
             15,
             17,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时28分 ~ 14时05分]"
+          "appearance_count": 7,
+          "time_info": "[09时28分 ~ 15时11分]"
         },
         {
           "title": "罕见！全球股市、债市、黄金齐齐大跌 究竟发生了什么？",
@@ -2049,11 +2498,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时05分]"
+          "appearance_count": 6,
+          "time_info": "[11时41分 ~ 15时11分]"
         },
         {
           "title": "现货黄金跌4.4%，美股早盘曾跌穿5000美元整数位心理关口，现货白银跌约8.2%，铂金跌超9.4%",
@@ -2182,247 +2632,6 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 19,
-      "titles": [
-        {
-          "title": "19岁天才少年做AI应用年入2亿",
-          "url": "https://www.toutiao.com/trending/7612983983969668662/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时57分 ~ 09时28分]"
-        },
-        {
-          "title": "马云，新年现身！谈了AI",
-          "url": "https://www.cls.cn/detail/2301784",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时40分 ~ 14时05分]"
-        },
-        {
-          "title": "美团首款AI浏览器陷“抄袭代码”风波？多方回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32691228",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18,
-            17,
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时40分 ~ 14时05分]"
-        },
-        {
-          "title": "19岁天才少年做AI应用年入2亿",
-          "url": "https://www.baidu.com/s?wd=19%E5%B2%81%E5%A4%A9%E6%89%8D%E5%B0%91%E5%B9%B4%E5%81%9AAI%E5%BA%94%E7%94%A8%E5%B9%B4%E5%85%A52%E4%BA%BF",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            4,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时22分 ~ 13时07分]"
-        },
-        {
-          "title": "如何释放服务消费潜力？AI发展会冲击就业岗位？委员这样看",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32692366",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时05分]"
-        },
-        {
-          "title": "AI猫咪的复工vlog",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%8C%AB%E5%92%AA%E7%9A%84%E5%A4%8D%E5%B7%A5vlog",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时41分 ~ 14时05分]"
-        },
-        {
-          "title": "代表建议为AI内容添加不可去除水印",
-          "url": "https://www.toutiao.com/trending/7613178493744087103/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时07分 ~ 14时05分]"
-        },
-        {
-          "title": "高通CEO：AI智能体将取代手机成为数字中心",
-          "url": "https://wallstreetcn.com/livenews/3062991",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时32分]"
-        },
-        {
-          "title": "建议为AI生成内容添加不可去除水印",
-          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%BAAI%E7%94%9F%E6%88%90%E5%86%85%E5%AE%B9%E6%B7%BB%E5%8A%A0%E4%B8%8D%E5%8F%AF%E5%8E%BB%E9%99%A4%E6%B0%B4%E5%8D%B0",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时28分 ~ 11时42分]"
-        },
-        {
-          "title": "Meta将开辟新的AI应用工程组织，Meta Applied AI工程组织将隶属于Reality Labs部门。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3062986",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时32分]"
-        },
-        {
-          "title": "如何评价 Apple 在 3 月 3 日更新的 Macbook Air M5，有哪些细节值得关注？",
-          "url": "https://www.zhihu.com/question/2012296941925581663",
-          "source": "知乎",
-          "ranks": [
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时07分 ~ 14时05分]"
-        },
-        {
-          "title": "澳大利亚2月AIG建筑业表现指数 -8.2，前值由5.2修正为4.6。",
-          "url": "https://flash.jin10.com/detail/20260304060002434800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时23分]"
-        },
-        {
-          "title": "澳大利亚2月AIG/PWC制造业表现指数 -15.6，前值由-19.4修正为-19。",
-          "url": "https://flash.jin10.com/detail/20260304060002223800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时23分]"
-        },
-        {
-          "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32693730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时04分 ~ 14时05分]"
-        },
-        {
-          "title": "Claude崩了，全球AI因何“熔断”？",
-          "url": "https://wallstreetcn.com/articles/3766631",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "两位消息人士证实，美国在上周末对伊朗发动袭击期间使用了Anthropic的Claude AI模型，并且目前仍在继续使用。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3062945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "岳雨婷缺席balmain看秀",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B2%B3%E9%9B%A8%E5%A9%B7%E7%BC%BA%E5%B8%ADbalmain%E7%9C%8B%E7%A7%80%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "Anthropic 高薪聘请哲学家参与 AI 开发，AI 企业为何要引入哲学家？",
-          "url": "https://www.zhihu.com/question/2010739342163859155",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时07分"
-        },
-        {
-          "title": "美联储Schmid：通胀仍然太高，我们不能掉以轻心。 数据似乎大体表明，劳动力市场处于平衡状态。 不认为人工智能（AI）会造成结构性失业。",
-          "url": "https://wallstreetcn.com/livenews/3062863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "openai chatgpt",
       "match_count": 9,
       "titles": [
@@ -2535,8 +2744,19 @@
     },
     {
       "keyword_group": "股市",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "印尼股市基准指数下跌5%，至7545.91点。",
+          "url": "https://wallstreetcn.com/livenews/3063435",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时11分"
+        },
         {
           "title": "亚太股市颓势依旧，日经指数跌3%，韩国股市暴跌触发熔断，三星电子跌超7%，欧美股指期货企稳",
           "url": "https://wallstreetcn.com/articles/3766668",
