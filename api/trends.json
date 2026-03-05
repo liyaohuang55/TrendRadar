@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T07:54:06.734104+08:00",
-  "total_titles_processed": 742,
+  "generated_at": "2026-03-05T09:31:26.805138+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             3,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 07时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
         },
         {
           "title": "特朗普下令两手保海湾地区航运，伊朗警告船只勿经霍尔木兹海峡",
@@ -30,6 +31,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时37分 ~ 06时58分]"
+        },
+        {
+          "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
+          "url": "https://wallstreetcn.com/articles/3766690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时57分 ~ 09时31分]"
         },
         {
           "title": "特朗普会见默茨“敲打”欧洲，威胁西班牙切断贸易，否认被以拖入战争，预计油价大跌",
@@ -47,11 +62,12 @@
           "url": "https://news.ifeng.com/c/8rDt5OSzLi7",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 07时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
         },
         {
           "title": "美称打死试图暗杀特朗普的伊朗高官",
@@ -62,11 +78,12 @@
             21,
             27,
             28,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时29分]"
+          "appearance_count": 12,
+          "time_info": "[00时37分 ~ 09时31分]"
         },
         {
           "title": "民调显示 43% 美民众反对打击伊朗，怕重蹈伊拉克覆辙，特朗普为何执意升级打击？为何能越过国会授权开战？",
@@ -79,21 +96,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 07时54分]"
-        },
-        {
-          "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
-          "url": "https://wallstreetcn.com/articles/3766690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时57分 ~ 07时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
         },
         {
           "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
@@ -148,6 +152,17 @@
           "time_info": "[04时57分 ~ 05时32分]"
         },
         {
+          "title": "美以伊战争最新动态｜参议院末能阻止特朗普继续动武",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "美国总统特朗普：（谈伊朗问题）如果我们不先动手，他们就会对以色列下手。",
           "url": "https://flash.jin10.com/detail/20260305042503367800",
           "source": "金十数据",
@@ -182,6 +197,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时35分 ~ 02时41分]"
+        },
+        {
+          "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
+          "url": "https://www.cls.cn/detail/2303132",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "美国总统特朗普：伊朗的导弹和发射器正在被消灭。",
@@ -297,7 +323,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -313,15 +339,48 @@
           "time_info": "02时41分"
         },
         {
+          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/articles/3766752",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "高盛CEO苏德巍：不认为美国贸易政策是那样的不确定。 特朗普在关税和贸易问题上有其他的解决办法。",
           "url": "https://wallstreetcn.com/livenews/3063903",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
+          "url": "https://www.cls.cn/detail/2303036",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "西班牙首相回击特朗普",
+          "url": "https://www.douyin.com/hot/2419161",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "据《大西洋》：特朗普预计将在得州选举中支持科宁。",
@@ -415,7 +474,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -582,6 +641,28 @@
           "time_info": "[04时57分 ~ 05时32分]"
         },
         {
+          "title": "WTI原油日内涨超1.00%，现报76.93美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260305091849090800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.9007，上调117点；上一交易日中间价6.9124，上一交易日官方收盘价6.9120，上日夜盘报收6.8951。",
+          "url": "https://wallstreetcn.com/livenews/3063992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "Crane Data数据显示，美国货币基金资产激增至创纪录的8.27万亿美元。",
           "url": "https://flash.jin10.com/detail/20260305031501639800",
           "source": "金十数据",
@@ -629,6 +710,39 @@
           "time_info": "02时41分"
         },
         {
+          "title": "分析师：中东局势升级推动油价走高 100美元油价成为可能",
+          "url": "https://flash.jin10.com/detail/20260305091325169800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "现货白银日内涨超2.00%，现报85.15美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260305091240823800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "现货铂金上涨逾3%，至2218.33美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260305091127451800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
           "title": "美元指数4日下跌",
           "url": "https://flash.jin10.com/detail/20260305043255463800",
           "source": "金十数据",
@@ -654,7 +768,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
@@ -668,8 +782,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 07时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
         },
         {
           "title": "AI真人微短剧爆火 演员会被替代吗",
@@ -677,11 +791,12 @@
           "source": "百度热搜",
           "ranks": [
             8,
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 07时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
         },
         {
           "title": "阿里核心管理层齐聚聊AI，马云：AI拥有芯片，而人类拥有的是心",
@@ -690,19 +805,6 @@
           "ranks": [
             7,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 07时54分]"
-        },
-        {
-          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
-          "url": "https://www.cls.cn/detail/2302628",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
           ],
           "is_new": false,
           "appearance_count": 16,
@@ -719,7 +821,21 @@
             14,
             16,
             11,
-            18
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
+        },
+        {
+          "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
+          "url": "https://www.cls.cn/detail/2302628",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 16,
@@ -790,6 +906,18 @@
           "time_info": "[06时27分 ~ 07时29分]"
         },
         {
+          "title": "委员张凯丽：短剧、AI都是我关注的",
+          "url": "https://www.toutiao.com/trending/7612728904813592630/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 09时31分]"
+        },
+        {
           "title": "高盛CEO苏德巍：在人工智能（AI）前景方面，我们“看到杯子装了一半”。",
           "url": "https://wallstreetcn.com/livenews/3063902",
           "source": "华尔街见闻-快讯",
@@ -825,32 +953,33 @@
           "time_info": "07时29分"
         },
         {
-          "title": "委员张凯丽：短剧、AI都是我关注的",
-          "url": "https://www.toutiao.com/trending/7612728904813592630/",
-          "source": "今日头条",
+          "title": "AI参战对伊空袭",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8F%82%E6%88%98%E5%AF%B9%E4%BC%8A%E7%A9%BA%E8%A2%AD",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            23
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本“撞人族”事件多发，中使馆提醒在日中国公民防范",
           "url": "https://m.thepaper.cn/newsDetail_forward_32696490",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 07时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
         },
         {
           "title": "我使馆提醒近期避免前往日本",
@@ -862,8 +991,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 07时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
         },
         {
           "title": "中使馆提醒防范日本“撞人族”",
@@ -897,6 +1026,19 @@
           "time_info": "[00时37分 ~ 07时54分]"
         },
         {
+          "title": "中国游客在日本目睹老太被壮汉撞飞",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%9B%AE%E7%9D%B9%E8%80%81%E5%A4%AA%E8%A2%AB%E5%A3%AE%E6%B1%89%E6%92%9E%E9%A3%9E%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
+        },
+        {
           "title": "霍尔木兹告急,日本:与我无瓜",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351327&amp;topic_name=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%91%8A%E6%80%A5%2C%E6%97%A5%E6%9C%AC%3A%E4%B8%8E%E6%88%91%E6%97%A0%E7%93%9C",
           "source": "贴吧",
@@ -905,20 +1047,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 07时54分]"
-        },
-        {
-          "title": "中国游客在日本目睹老太被壮汉撞飞",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%9B%AE%E7%9D%B9%E8%80%81%E5%A4%AA%E8%A2%AB%E5%A3%AE%E6%B1%89%E6%92%9E%E9%A3%9E%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 07时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
         },
         {
           "title": "驻日使馆再次提醒公民避免前往日本",
@@ -958,6 +1088,153 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时35分"
+        },
+        {
+          "title": "多名中国公民遭日本右翼分子滋扰，中使馆再次提醒近期避免前往",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699363",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "10年期日本国债收益率上行3.5个基点，报2.145%。",
+          "url": "https://flash.jin10.com/detail/20260305090623966800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日本20年期国债收益率上行4个基点，至3%。",
+          "url": "https://wallstreetcn.com/livenews/3063962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日本10年期国债收益率上行3.5个基点，至2.145%。",
+          "url": "https://wallstreetcn.com/livenews/3063959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "老人攒金34年戴百克黄金逛珠宝城",
+          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%94%92%E9%87%9134%E5%B9%B4%E6%88%B4%E7%99%BE%E5%85%8B%E9%BB%84%E9%87%91%E9%80%9B%E7%8F%A0%E5%AE%9D%E5%9F%8E",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27,
+            24,
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 07时54分]"
+        },
+        {
+          "title": "年少的出发比黄金珍贵",
+          "url": "https://www.douyin.com/hot/2418170",
+          "source": "抖音",
+          "ranks": [
+            27,
+            29,
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时41分 ~ 07时29分]"
+        },
+        {
+          "title": "现货黄金涨超0.8%，白银涨超1.4%，纽约铜涨1.2%，铂金涨超3.3%",
+          "url": "https://wallstreetcn.com/livenews/3063875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            17,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 07时29分]"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月4日（周三）晚盘收盘下跌0.66%报1143.42元/克；<br/>上海黄金交易所白银T+D 3月4日（周三）晚盘收盘下跌0.2%报21172.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260305023051762800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "全球最大黄金ETF持仓单日大幅减少18吨",
+          "url": "https://flash.jin10.com/detail/20260305072302987800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时54分"
+        },
+        {
+          "title": "现货黄金涨近1%，至5,185.39美元/盎司。 现货铂金涨逾3%，至2,218.33美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3063988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "现货黄金向上触及5180美元/盎司，日内涨0.76%。",
+          "url": "https://flash.jin10.com/detail/20260305090644325800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 3月5日（周四）早盘盘初下跌0.0%报1151.04元/克；<br/>上海黄金交易所白银T+D 3月5日（周四）早盘盘初上涨0.9%报21405.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260305090148058800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     },
@@ -1035,76 +1312,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "老人攒金34年戴百克黄金逛珠宝城",
-          "url": "https://www.baidu.com/s?wd=%E8%80%81%E4%BA%BA%E6%94%92%E9%87%9134%E5%B9%B4%E6%88%B4%E7%99%BE%E5%85%8B%E9%BB%84%E9%87%91%E9%80%9B%E7%8F%A0%E5%AE%9D%E5%9F%8E",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27,
-            24,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 07时54分]"
-        },
-        {
-          "title": "年少的出发比黄金珍贵",
-          "url": "https://www.douyin.com/hot/2418170",
-          "source": "抖音",
-          "ranks": [
-            27,
-            29,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时41分 ~ 07时29分]"
-        },
-        {
-          "title": "现货黄金涨超0.8%，白银涨超1.4%，纽约铜涨1.2%，铂金涨超3.3%",
-          "url": "https://wallstreetcn.com/livenews/3063875",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时27分 ~ 07时29分]"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 3月4日（周三）晚盘收盘下跌0.66%报1143.42元/克；<br/>上海黄金交易所白银T+D 3月4日（周三）晚盘收盘下跌0.2%报21172.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260305023051762800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "全球最大黄金ETF持仓单日大幅减少18吨",
-          "url": "https://flash.jin10.com/detail/20260305072302987800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         }
       ]
     },
@@ -1245,8 +1452,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时37分 ~ 07时54分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
         }
       ]
     }
