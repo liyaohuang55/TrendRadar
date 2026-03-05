@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T20:57:25.294072+08:00",
-  "total_titles_processed": 1974,
+  "generated_at": "2026-03-05T22:02:07.131932+08:00",
+  "total_titles_processed": 2085,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -43,6 +43,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[14时07分 ~ 18时34分]"
+        },
+        {
+          "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
+          "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时30分 ~ 22时02分]"
         },
         {
           "title": "博通：预计二季度AI芯片收入107亿美元。",
@@ -85,17 +96,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时41分 ~ 04时57分]"
-        },
-        {
-          "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
-          "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时30分 ~ 20时57分]"
         },
         {
           "title": "据Crane Data：美国货币基金资产管理规模达到8.27万亿美元，创历史新高。",
@@ -293,7 +293,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -343,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "道明证券：除非明天非农显著疲软 否则美元将依旧强势",
+          "url": "https://flash.jin10.com/detail/20260305214430844800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "WTI原油站上78美元/桶，日内涨2.42%。 布伦特原油期货涨幅扩大至4%，报84.73美元/桶。",
@@ -472,7 +483,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时57分"
         },
@@ -552,6 +563,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时15分"
+        },
+        {
+          "title": "德意志银行：美国股市的AI风险正在削弱美元的避险地位。",
+          "url": "https://flash.jin10.com/detail/20260305213725706800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "IDC预测：2026年全球智能机器人硬件市场将近300亿美元 中国有望引领增长",
@@ -707,8 +729,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时31分 ~ 20时57分]"
+          "appearance_count": 17,
+          "time_info": "[09时31分 ~ 22时02分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -791,18 +813,6 @@
           "time_info": "[09时31分 ~ 19时57分]"
         },
         {
-          "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
-          "url": "https://www.cls.cn/detail/2303132",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时31分 ~ 15时15分]"
-        },
-        {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
           "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
           "source": "凤凰网",
@@ -810,8 +820,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时34分 ~ 20时57分]"
+          "appearance_count": 7,
+          "time_info": "[18时34分 ~ 22时02分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -822,8 +832,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时34分 ~ 20时57分]"
+          "appearance_count": 7,
+          "time_info": "[18时34分 ~ 22时02分]"
+        },
+        {
+          "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
+          "url": "https://www.cls.cn/detail/2303132",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 15时15分]"
         },
         {
           "title": "伊朗高官让特朗普想想美以谁优先",
@@ -1258,7 +1280,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "日本“撞人族”事件多发，中使馆提醒在日中国公民防范",
@@ -1319,8 +1341,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时56分 ~ 20时57分]"
+          "appearance_count": 16,
+          "time_info": "[11时56分 ~ 22时02分]"
         },
         {
           "title": "多名中国公民遭日本右翼分子滋扰，中使馆再次提醒近期避免前往",
@@ -1359,8 +1381,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时56分 ~ 20时57分]"
+          "appearance_count": 16,
+          "time_info": "[11时56分 ~ 22时02分]"
         },
         {
           "title": "中国游客在日本目睹老太被壮汉撞飞",
@@ -1464,6 +1486,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "比亚迪今年2月在日本销量466辆",
+          "url": "https://www.toutiao.com/trending/7612951848903213097/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时00分 ~ 22时02分]"
         },
         {
           "title": "日本最大的工会组织RENGO：要求2026年加薪5.94%，相比2025年为6.09%。 今年小型工会要求加薪6.64%。",
@@ -1794,8 +1827,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时37分 ~ 20时57分]"
+          "appearance_count": 30,
+          "time_info": "[00时37分 ~ 22时02分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -1818,8 +1851,22 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时34分 ~ 20时57分]"
+          "appearance_count": 7,
+          "time_info": "[18时34分 ~ 22时02分]"
+        },
+        {
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时30分 ~ 22时02分]"
         },
         {
           "title": "比Deepfake更严重的AI出现了",
@@ -1833,19 +1880,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[18时34分 ~ 20时57分]"
-        },
-        {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时30分 ~ 20时57分]"
         },
         {
           "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
@@ -2141,7 +2175,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "老人攒金34年戴百克黄金逛珠宝城",
@@ -2241,6 +2275,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "报道：波兰央行欲出售黄金储备 以资助国防计划",
+          "url": "https://wallstreetcn.com/livenews/3064535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "委贱卖黄金，特朗普补亏空计划浮现丨Hi，今天怎么看？",
           "url": "https://flash.jin10.com/detail/20260305193519023800",
           "source": "金十数据",
@@ -2294,6 +2339,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "现货黄金日内跌幅达1%，报5088.85美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3064519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
+          "title": "现货黄金短线走低约40美元，现报5115.04美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3064518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月5日（周四）早盘盘初下跌0.0%报1151.04元/克；<br/>上海黄金交易所白银T+D 3月5日（周四）早盘盘初上涨0.9%报21405.0元/千克。",
@@ -2442,7 +2509,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
@@ -2492,6 +2559,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
+          "title": "阿里挖角谷歌DeepMind技术大牛",
+          "url": "https://www.toutiao.com/trending/7613743881837874697/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时00分 ~ 22时02分]"
         },
         {
           "title": "市场消息：谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
