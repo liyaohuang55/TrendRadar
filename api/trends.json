@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T16:53:21.675407+08:00",
-  "total_titles_processed": 1568,
+  "generated_at": "2026-03-05T17:37:59.093306+08:00",
+  "total_titles_processed": 1640,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 48,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -40,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时07分 ~ 16时53分]"
+          "appearance_count": 7,
+          "time_info": "[14时07分 ~ 17时37分]"
         },
         {
           "title": "博通：预计二季度AI芯片收入107亿美元。",
@@ -141,11 +141,12 @@
           "url": "https://wallstreetcn.com/livenews/3064378",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时37分]"
         },
         {
           "title": "周三（3月4日）纽约尾盘，美元兑日元跌0.42%，报157.07日元，日内交投区间为157.86-156.86日元。 欧元兑日元跌0.19%，英镑兑日元跌0.26%。",
@@ -172,6 +173,18 @@
           "time_info": "[04时57分 ~ 05时32分]"
         },
         {
+          "title": "在岸人民币兑美元北京时间16:30官方收报6.9003，较上一交易日官方收盘价涨117点，较上日夜盘收盘跌52点。",
+          "url": "https://wallstreetcn.com/livenews/3064373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时37分]"
+        },
+        {
           "title": "WTI 4月原油期货收报74.66美元/桶。 NYMEX 4月天然气期货收报2.9170美元/百万英热单位。 NYMEX 4月汽油期货收报2.5149美元/加仑，NYMEX 4月取暖油期货收报3.2938美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3063841",
           "source": "华尔街见闻-快讯",
@@ -192,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "美股三大股指期货集体拉升，纳指期货涨0.16%，标普500指数期货涨0.10%； 美元指数日内转跌，印度卢比兑美元涨0.8%； 美、布两油短线走低，现分别报75.6美元/桶和82.07美元/桶； 欧洲斯托克600指数转涨，现涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3064397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "WTI 4月原油期货收报74.66美元/桶。 布伦特5月原油期货收报81.40美元/桶。 NYMEX 4月天然气期货收报2.9170美元/百万英热单位。 NYMEX 4月汽油期货收报2.5149美元/加仑，NYMEX 4月取暖油期货收报3.2938美元/加仑。",
@@ -228,6 +252,17 @@
           "time_info": "14时08分"
         },
         {
+          "title": "摩根大通：若有关中东供应即将出现严重中断的新闻报道不断增多，我们预计铝价有望迅速涨至每吨4000美元。",
+          "url": "https://flash.jin10.com/detail/20260305173150831800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "人民币兑美元中间价报6.9007，上调117点；上一交易日中间价6.9124，上一交易日官方收盘价6.9120，上日夜盘报收6.8951。",
           "url": "https://wallstreetcn.com/livenews/3063992",
           "source": "华尔街见闻-快讯",
@@ -237,17 +272,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "在岸人民币兑美元北京时间16:30官方收报6.9003，较上一交易日官方收盘价涨117点，较上日夜盘收盘跌52点。",
-          "url": "https://wallstreetcn.com/livenews/3064373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "Crane Data数据显示，美国货币基金资产激增至创纪录的8.27万亿美元。",
@@ -512,7 +536,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -523,7 +547,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -539,6 +563,17 @@
           "time_info": "15时15分"
         },
         {
+          "title": "美、布两油短线走低约1.8美元，日内均跌超1%，现分别报75.3美元/桶和80.4美元/桶。消息面上，伊朗副外长表示准备放弃其核计划，前提是美国提出令人满意的替代方案。",
+          "url": "https://flash.jin10.com/detail/20260305171124921800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "普氏能源：新加坡航空燃料价格周三因全球供应担忧升至每桶231.42美元的历史高位。西北欧航空燃料价格升至每吨1259.75美元，为俄乌冲突爆发以来的最高水平。",
           "url": "https://flash.jin10.com/detail/20260305132749011800",
           "source": "金十数据",
@@ -548,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "博通(AVGO.O)股价盘前上涨6%，此前该公司预计人工智能芯片业务收入明年将超过1000亿美元，并宣布启动新的股票回购计划。",
+          "url": "https://flash.jin10.com/detail/20260305170820646800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "现货白银日内大涨2美元，现报85.50美元/盎司，涨幅2.42%。",
@@ -564,7 +610,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
@@ -590,6 +636,21 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时37分 ~ 06时58分]"
+        },
+        {
+          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
+          "url": "https://wallstreetcn.com/articles/3766752",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 17时37分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -659,21 +720,6 @@
           "time_info": "[00时37分 ~ 09时31分]"
         },
         {
-          "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
-          "url": "https://wallstreetcn.com/articles/3766752",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 16时53分]"
-        },
-        {
           "title": "西班牙首相回击特朗普",
           "url": "https://www.douyin.com/hot/2419161",
           "source": "抖音",
@@ -683,8 +729,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 16时53分]"
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 17时37分]"
         },
         {
           "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
@@ -712,6 +758,18 @@
           "time_info": "[09时31分 ~ 14时08分]"
         },
         {
+          "title": "伊朗高官让特朗普想想美以谁优先",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E6%83%B3%E7%BE%8E%E4%BB%A5%E8%B0%81%E4%BC%98%E5%85%88%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 17时37分]"
+        },
+        {
           "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
           "url": "https://flash.jin10.com/detail/20260305055643565800",
           "source": "金十数据",
@@ -724,18 +782,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时27分 ~ 07时54分]"
-        },
-        {
-          "title": "伊朗高官让特朗普想想美以谁优先",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E6%83%B3%E7%BE%8E%E4%BB%A5%E8%B0%81%E4%BC%98%E5%85%88%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 16时53分]"
         },
         {
           "title": "据知情人士透露，美国白宫计划在3月底之前递交关于下一个财年的预算申请。 特朗普政府尤其希望在3月31日当天披露预算报告。（彭博）",
@@ -963,6 +1009,17 @@
           "time_info": "07时54分"
         },
         {
+          "title": "特朗普何时会在对伊战争上收手？华尔街策略师：美股至少得跌10%",
+          "url": "https://www.cls.cn/detail/2303241",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "据《大西洋》：特朗普预计将在得州选举中支持科宁。",
           "url": "https://flash.jin10.com/detail/20260305022021671800",
           "source": "金十数据",
@@ -1065,7 +1122,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "日本“撞人族”事件多发，中使馆提醒在日中国公民防范",
@@ -1108,6 +1165,19 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时37分 ~ 07时54分]"
+        },
+        {
+          "title": "多名中国公民遭日本右翼分子滋扰，中使馆再次提醒近期避免前往",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699363",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时31分 ~ 17时37分]"
         },
         {
           "title": "驻日大使馆提醒防范日本「撞人族」，这些人为什么要有意地肘击、撞倒陌生人？他们的出现和哪些因素有关？",
@@ -1153,19 +1223,6 @@
           "time_info": "[00时37分 ~ 15时15分]"
         },
         {
-          "title": "多名中国公民遭日本右翼分子滋扰，中使馆再次提醒近期避免前往",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699363",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时31分 ~ 16时53分]"
-        },
-        {
           "title": "能源见底,日本斩杀线已到",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351391&amp;topic_name=%E8%83%BD%E6%BA%90%E8%A7%81%E5%BA%95%2C%E6%97%A5%E6%9C%AC%E6%96%A9%E6%9D%80%E7%BA%BF%E5%B7%B2%E5%88%B0",
           "source": "贴吧",
@@ -1174,11 +1231,12 @@
             3,
             4,
             5,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时56分 ~ 16时53分]"
+          "appearance_count": 9,
+          "time_info": "[11时56分 ~ 17时37分]"
         },
         {
           "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
@@ -1190,8 +1248,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时56分 ~ 16时53分]"
+          "appearance_count": 9,
+          "time_info": "[11时56分 ~ 17时37分]"
         },
         {
           "title": "驻日使馆再次提醒公民避免前往日本",
@@ -1208,6 +1266,17 @@
           "time_info": "[02时41分 ~ 07时29分]"
         },
         {
+          "title": "“大哥”说打就打，日本经济或遭重创，高市早苗呼吁“谈判”",
+          "url": "https://news.ifeng.com/c/8rFIErPuMkA",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时01分 ~ 17时37分]"
+        },
+        {
           "title": "日本对美国的下一批投资可能会包括核电厂和铜冶炼。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3063815",
           "source": "华尔街见闻-快讯",
@@ -1220,17 +1289,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时41分 ~ 04时57分]"
-        },
-        {
-          "title": "“大哥”说打就打，日本经济或遭重创，高市早苗呼吁“谈判”",
-          "url": "https://news.ifeng.com/c/8rFIErPuMkA",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时01分 ~ 16时53分]"
         },
         {
           "title": "日本30年期国债标售投标倍数为3.66，前次为3.64。",
@@ -1286,6 +1344,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时56分"
+        },
+        {
+          "title": "日本贸易大臣将启程访美 力求维持贸易协议不变",
+          "url": "https://wallstreetcn.com/livenews/3064359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时37分]"
+        },
+        {
+          "title": "日本正紧张研判是否支援美军",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%A3%E7%B4%A7%E5%BC%A0%E7%A0%94%E5%88%A4%E6%98%AF%E5%90%A6%E6%94%AF%E6%8F%B4%E7%BE%8E%E5%86%9B%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时37分]"
         },
         {
           "title": "日本最大工会日本劳动组合总联合会（Rengo）表示，其下属工会正力争在2026年实现平均5.94%的加薪。",
@@ -1354,17 +1436,6 @@
           "time_info": "13时11分"
         },
         {
-          "title": "日本贸易大臣将启程访美 力求维持贸易协议不变",
-          "url": "https://wallstreetcn.com/livenews/3064359",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
-        },
-        {
           "title": "知情人士称，日本央行并未排除4月加息的可能。",
           "url": "https://flash.jin10.com/detail/20260305152018326800",
           "source": "金十数据",
@@ -1420,6 +1491,17 @@
           "time_info": "09时31分"
         },
         {
+          "title": "据日经新闻：日本正与北约洽谈使用其防御技术加速器。",
+          "url": "https://flash.jin10.com/detail/20260305171621342800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "日本20年期国债收益率上行4个基点，至3%。",
           "url": "https://wallstreetcn.com/livenews/3063962",
           "source": "华尔街见闻-快讯",
@@ -1429,17 +1511,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
-        },
-        {
-          "title": "日本正紧张研判是否支援美军",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%A3%E7%B4%A7%E5%BC%A0%E7%A0%94%E5%88%A4%E6%98%AF%E5%90%A6%E6%94%AF%E6%8F%B4%E7%BE%8E%E5%86%9B%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
         },
         {
           "title": "日本10年期国债收益率上行3.5个基点，至2.145%。",
@@ -1547,11 +1618,12 @@
             10,
             25,
             24,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时37分 ~ 16时53分]"
+          "appearance_count": 23,
+          "time_info": "[00时37分 ~ 17时37分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -1576,8 +1648,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时56分 ~ 16时53分]"
+          "appearance_count": 9,
+          "time_info": "[11时56分 ~ 17时37分]"
         },
         {
           "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
@@ -1589,8 +1661,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 16时53分]"
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 17时37分]"
         },
         {
           "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
@@ -1743,11 +1815,12 @@
           "url": "https://wallstreetcn.com/livenews/3064358",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 17时37分]"
         },
         {
           "title": "千问AI眼镜MWC全球重磅首发",
@@ -1789,7 +1862,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
         },
@@ -2229,6 +2302,47 @@
       ]
     },
     {
+      "keyword_group": "股市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "非洲股市收盘播报｜周三（3月4日），南非富时/JSE非洲领先40可交易指数收涨1.06%，至11.3万点上方。",
+          "url": "https://wallstreetcn.com/livenews/3063771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时35分]"
+        },
+        {
+          "title": "金十图示：2026年03月04日（周三）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260305050550122800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 06时58分]"
+        },
+        {
+          "title": "欧洲股市走势逆转，欧洲斯托克600指数上涨0.5%，此前一度下跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260305171634112800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        }
+      ]
+    },
+    {
       "keyword_group": "CPU 英特尔",
       "match_count": 3,
       "titles": [
@@ -2269,36 +2383,6 @@
       ]
     },
     {
-      "keyword_group": "股市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "非洲股市收盘播报｜周三（3月4日），南非富时/JSE非洲领先40可交易指数收涨1.06%，至11.3万点上方。",
-          "url": "https://wallstreetcn.com/livenews/3063771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时35分]"
-        },
-        {
-          "title": "金十图示：2026年03月04日（周三）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260305050550122800",
-          "source": "金十数据",
-          "ranks": [
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时27分 ~ 06时58分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "内存 存储颗粒",
       "match_count": 2,
       "titles": [
@@ -2309,11 +2393,12 @@
           "ranks": [
             25,
             16,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时15分 ~ 16时53分]"
+          "appearance_count": 5,
+          "time_info": "[15时15分 ~ 17时37分]"
         },
         {
           "title": "雷军再谈内存价格暴涨，称手机业务面临很大压力",
