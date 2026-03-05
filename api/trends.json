@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-05T19:31:35.218979+08:00",
-  "total_titles_processed": 1829,
+  "generated_at": "2026-03-05T19:57:51.611778+08:00",
+  "total_titles_processed": 1885,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 54,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
@@ -111,6 +111,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 05时32分]"
+        },
+        {
+          "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
+          "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时30分 ~ 19时57分]"
         },
         {
           "title": "LME期铜收涨102美元，报13058美元/吨。 LME期铝收涨92美元，报3342美元/吨。 LME期锌收涨56美元，报3326美元/吨。 LME期铅收涨26美元，报1962美元/吨。 LME期镍收涨371美元，报17491美元/吨。 LME期锡收涨2176美元，报51019美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -288,17 +299,6 @@
           "time_info": "[03时35分 ~ 04时28分]"
         },
         {
-          "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
-          "url": "https://finance.ifeng.com/c/8rFWaLygvoN",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时30分 ~ 19时31分]"
-        },
-        {
           "title": "美国-亚洲航线超级油轮租用成本升至2900万美元，创纪录新高。",
           "url": "https://wallstreetcn.com/livenews/3063767",
           "source": "华尔街见闻-快讯",
@@ -450,7 +450,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -565,6 +565,17 @@
           "time_info": "16时53分"
         },
         {
+          "title": "AI芯片指引超预期 杰富瑞看好博通迈向2000亿美元营收大关",
+          "url": "https://flash.jin10.com/detail/20260305192019716800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "中国台湾2月外汇存底 6054.87亿美元，前值6044.6亿美元。",
           "url": "https://flash.jin10.com/detail/20260305162002141800",
           "source": "金十数据",
@@ -674,8 +685,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时31分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时31分 ~ 19时57分]"
         },
         {
           "title": "美国弹药库存告急！特朗普本周将召集军工巨头赴白宫，讨论加快武器生产",
@@ -754,8 +765,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时31分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[09时31分 ~ 19时57分]"
         },
         {
           "title": "特朗普正式提名凯文·沃什出任美联储主席 参议院确认战将启",
@@ -782,6 +793,17 @@
           "time_info": "[15时15分 ~ 18时34分]"
         },
         {
+          "title": "特朗普：若满分10分，我给美对伊行动打15分",
+          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 19时57分]"
+        },
+        {
           "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
           "url": "https://www.cls.cn/detail/2303036",
           "source": "财联社热门",
@@ -795,15 +817,16 @@
           "time_info": "[09时31分 ~ 14时08分]"
         },
         {
-          "title": "特朗普：若满分10分，我给美对伊行动打15分",
-          "url": "https://news.ifeng.com/c/8rFQi0S5RcE",
+          "title": "特朗普“大发战争财”，借打伊朗搞募款",
+          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
           "source": "凤凰网",
           "ranks": [
-            2
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 19时57分]"
         },
         {
           "title": "美国参议院未通过叫停特朗普打击伊朗的投票",
@@ -818,18 +841,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时27分 ~ 07时54分]"
-        },
-        {
-          "title": "特朗普“大发战争财”，借打伊朗搞募款",
-          "url": "https://news.ifeng.com/c/8rFJaJq0Rej",
-          "source": "凤凰网",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时31分]"
         },
         {
           "title": "据知情人士透露，美国白宫计划在3月底之前递交关于下一个财年的预算申请。 特朗普政府尤其希望在3月31日当天披露预算报告。（彭博）",
@@ -959,7 +970,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1030,7 +1041,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1140,7 +1151,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1253,24 +1264,6 @@
           "time_info": "[00时37分 ~ 09时31分]"
         },
         {
-          "title": "能源见底,日本斩杀线已到",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351391&amp;topic_name=%E8%83%BD%E6%BA%90%E8%A7%81%E5%BA%95%2C%E6%97%A5%E6%9C%AC%E6%96%A9%E6%9D%80%E7%BA%BF%E5%B7%B2%E5%88%B0",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4,
-            5,
-            9,
-            11,
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时56分 ~ 19时31分]"
-        },
-        {
           "title": "中使馆提醒防范日本“撞人族”",
           "url": "https://www.douyin.com/hot/2418523",
           "source": "抖音",
@@ -1286,6 +1279,25 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时37分 ~ 07时54分]"
+        },
+        {
+          "title": "能源见底,日本斩杀线已到",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351391&amp;topic_name=%E8%83%BD%E6%BA%90%E8%A7%81%E5%BA%95%2C%E6%97%A5%E6%9C%AC%E6%96%A9%E6%9D%80%E7%BA%BF%E5%B7%B2%E5%88%B0",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3,
+            4,
+            5,
+            9,
+            11,
+            15,
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[11时56分 ~ 19时57分]"
         },
         {
           "title": "多名中国公民遭日本右翼分子滋扰，中使馆再次提醒近期避免前往",
@@ -1324,8 +1336,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时56分 ~ 19时31分]"
+          "appearance_count": 13,
+          "time_info": "[11时56分 ~ 19时57分]"
         },
         {
           "title": "中国游客在日本目睹老太被壮汉撞飞",
@@ -1371,6 +1383,18 @@
           "time_info": "[02时41分 ~ 07时29分]"
         },
         {
+          "title": "日本正紧张研判是否支援美军",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%A3%E7%B4%A7%E5%BC%A0%E7%A0%94%E5%88%A4%E6%98%AF%E5%90%A6%E6%94%AF%E6%8F%B4%E7%BE%8E%E5%86%9B%23&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时53分 ~ 19时57分]"
+        },
+        {
           "title": "“大哥”说打就打，日本经济或遭重创，高市早苗呼吁“谈判”",
           "url": "https://news.ifeng.com/c/8rFIErPuMkA",
           "source": "凤凰网",
@@ -1380,18 +1404,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时01分 ~ 17时37分]"
-        },
-        {
-          "title": "日本正紧张研判是否支援美军",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%AD%A3%E7%B4%A7%E5%BC%A0%E7%A0%94%E5%88%A4%E6%98%AF%E5%90%A6%E6%94%AF%E6%8F%B4%E7%BE%8E%E5%86%9B%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时31分]"
         },
         {
           "title": "日本对美国的下一批投资可能会包括核电厂和铜冶炼。（日经新闻）",
@@ -1719,8 +1731,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时56分 ~ 19时31分]"
+          "appearance_count": 13,
+          "time_info": "[11时56分 ~ 19时57分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -1743,8 +1755,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时37分 ~ 19时31分]"
+          "appearance_count": 27,
+          "time_info": "[00时37分 ~ 19时57分]"
         },
         {
           "title": "重磅揭晓！“2025 中国 AI + 应用 Top50” 优秀案例来了",
@@ -1766,11 +1778,23 @@
           "ranks": [
             13,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时15分 ~ 19时31分]"
+          "appearance_count": 9,
+          "time_info": "[15时15分 ~ 19时57分]"
+        },
+        {
+          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
+          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 19时57分]"
         },
         {
           "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
@@ -1787,15 +1811,16 @@
           "time_info": "[02时41分 ~ 04时57分]"
         },
         {
-          "title": "美国用AI斩首了哈梅内伊？神话都不敢这么编",
-          "url": "https://news.ifeng.com/c/8rFVnkGcxJ5",
-          "source": "凤凰网",
+          "title": "比Deepfake更严重的AI出现了",
+          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            7
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时31分]"
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 19时57分]"
         },
         {
           "title": "Meta计划研发自研芯片，来训练自家的AI模型",
@@ -1835,16 +1860,16 @@
           "time_info": "[05时31分 ~ 05时32分]"
         },
         {
-          "title": "比Deepfake更严重的AI出现了",
-          "url": "https://s.weibo.com/weibo?q=%E6%AF%94Deepfake%E6%9B%B4%E4%B8%A5%E9%87%8D%E7%9A%84AI%E5%87%BA%E7%8E%B0%E4%BA%86&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
+          "url": "https://www.cls.cn/detail/2303891",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            13
+            12,
+            10
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时31分]"
+          "time_info": "[19时30分 ~ 19时57分]"
         },
         {
           "title": "博通营收预测令部分投资者失望，凸显AI担忧",
@@ -1940,17 +1965,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时02分 ~ 16时53分]"
-        },
-        {
-          "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
-          "url": "https://www.cls.cn/detail/2303891",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时30分 ~ 19时31分]"
         },
         {
           "title": "恒生指数收盘涨0.3%，能源、AI板块领涨，南向资金净卖出277.35亿港元",
@@ -2100,7 +2114,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "老人攒金34年戴百克黄金逛珠宝城",
@@ -2198,6 +2212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "委贱卖黄金，特朗普补亏空计划浮现丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260305193519023800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "中东冲突扩大，避险需求推动黄金上涨",
@@ -2548,11 +2573,12 @@
             16,
             23,
             21,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时15分 ~ 19时31分]"
+          "appearance_count": 9,
+          "time_info": "[15时15分 ~ 19时57分]"
         },
         {
           "title": "雷军再谈内存价格暴涨，称手机业务面临很大压力",
