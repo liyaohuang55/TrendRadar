@@ -1,11 +1,525 @@
 {
-  "generated_at": "2026-03-05T14:08:01.472106+08:00",
-  "total_titles_processed": 1257,
+  "generated_at": "2026-03-05T15:15:22.099353+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美元",
+      "match_count": 44,
+      "titles": [
+        {
+          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
+          "url": "https://wallstreetcn.com/articles/3766590",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时37分 ~ 07时29分]"
+        },
+        {
+          "title": "霍尔木兹海峡“实际断航”、中东能源设施遭袭，为何油价还没涨到100美元呢？",
+          "url": "https://wallstreetcn.com/articles/3766663",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 07时54分]"
+        },
+        {
+          "title": "博通：预计二季度AI芯片收入107亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时27分 ~ 07时54分]"
+        },
+        {
+          "title": "周三（3月4日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.8951元，较周二纽约尾盘涨243点，日内整体交投于6.9351-6.8886元区间。",
+          "url": "https://wallstreetcn.com/livenews/3063884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            9,
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时27分 ~ 07时54分]"
+        },
+        {
+          "title": "周三（3月4日），美联储隔夜逆回购协议（RRP）使用规模为8.77亿美元（交易对手8家），上个交易日报12.03亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            14,
+            23,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时41分 ~ 04时57分]"
+        },
+        {
+          "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
+          "url": "https://news.ifeng.com/c/8rFCPechKEM",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时07分 ~ 15时15分]"
+        },
+        {
+          "title": "据Crane Data：美国货币基金资产管理规模达到8.27万亿美元，创历史新高。",
+          "url": "https://wallstreetcn.com/livenews/3063835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 05时32分]"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8951元，较周二夜盘收盘涨242点。成交量714.34亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3063831",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时28分 ~ 05时32分]"
+        },
+        {
+          "title": "LME期铜收涨102美元，报13058美元/吨。 LME期铝收涨92美元，报3342美元/吨。 LME期锌收涨56美元，报3326美元/吨。 LME期铅收涨26美元，报1962美元/吨。 LME期镍收涨371美元，报17491美元/吨。 LME期锡收涨2176美元，报51019美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3063805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时41分 ~ 04时28分]"
+        },
+        {
+          "title": "韩国2月外汇储备 4276.2亿美元，前值4259.1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260305050002239800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时27分]"
+        },
+        {
+          "title": "周三（3月4日）纽约尾盘，美元兑日元跌0.42%，报157.07日元，日内交投区间为157.86-156.86日元。 欧元兑日元跌0.19%，英镑兑日元跌0.26%。",
+          "url": "https://wallstreetcn.com/livenews/3063846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
+          "title": "周三（3月4日）纽约尾盘，ICE美元指数跌0.30%，报98.756点，日内交投区间为99.329-98.700点。 彭博美元指数跌0.29%，报1199.95点，日内交投区间为1206.74-1199.25点。",
+          "url": "https://wallstreetcn.com/livenews/3063844",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
+          "title": "WTI 4月原油期货收报74.66美元/桶。 NYMEX 4月天然气期货收报2.9170美元/百万英热单位。 NYMEX 4月汽油期货收报2.5149美元/加仑，NYMEX 4月取暖油期货收报3.2938美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3063841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "现货白银短线走低，日内跌超1%，现报82.50美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3064248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "WTI 4月原油期货收报74.66美元/桶。 布伦特5月原油期货收报81.40美元/桶。 NYMEX 4月天然气期货收报2.9170美元/百万英热单位。 NYMEX 4月汽油期货收报2.5149美元/加仑，NYMEX 4月取暖油期货收报3.2938美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3063841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时57分 ~ 05时32分]"
+        },
+        {
+          "title": "WTI原油日内涨超1.00%，现报76.93美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260305091849090800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "WTI原油站上78美元/桶，日内涨2.42%。",
+          "url": "https://flash.jin10.com/detail/20260305135555575800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.9007，上调117点；上一交易日中间价6.9124，上一交易日官方收盘价6.9120，上日夜盘报收6.8951。",
+          "url": "https://wallstreetcn.com/livenews/3063992",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "Crane Data数据显示，美国货币基金资产激增至创纪录的8.27万亿美元。",
+          "url": "https://flash.jin10.com/detail/20260305031501639800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时35分 ~ 04时28分]"
+        },
+        {
+          "title": "美国-亚洲航线超级油轮租用成本升至2900万美元，创纪录新高。",
+          "url": "https://wallstreetcn.com/livenews/3063767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时38分 ~ 01时35分]"
+        },
+        {
+          "title": "周三（3月4日），韩元兑美元最终涨1.49%，报1463.18韩元，全天处于上涨状态，整体持续走高。",
+          "url": "https://wallstreetcn.com/livenews/3063801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时41分 ~ 03时35分]"
+        },
+        {
+          "title": "地中海航运：欧洲至南部非洲航线紧急燃油附加费为每标准箱60美元，每冷藏箱90美元。",
+          "url": "https://flash.jin10.com/detail/20260305022940153800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "WTI原油站上78美元/桶，日内涨2.42%。 布伦特原油期货涨幅扩大至4%，报84.73美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3064244",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "伦锡日内跌幅达2.00%，现报50070.00美元/吨。",
+          "url": "https://flash.jin10.com/detail/20260305135159691800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "分析师：中东局势升级推动油价走高 100美元油价成为可能",
+          "url": "https://flash.jin10.com/detail/20260305091325169800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "欧元兑美元EUR/USD失守1.16，日内跌幅0.28%。",
+          "url": "https://flash.jin10.com/detail/20260305135158649800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "现货白银日内涨超2.00%，现报85.15美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260305091240823800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "上期所原油主力合约直线下挫，现打开涨停板，涨幅收窄至5.74%，报659.8元/桶。 集运指数欧线短线大幅波动，盘中一度转跌，此前涨超18%。 美、布两油短线走低逾1美元。",
+          "url": "https://wallstreetcn.com/livenews/3064287",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "现货铂金上涨逾3%，至2218.33美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260305091127451800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "欧洲央行管委兼法国央行行长Villeroy：正密切关注能源价格及市场走势。 美元走强重返避险地位。 伊朗冲突持续时间将影响价格走势。 金融稳定没有受到威胁。 没有加息的必要。",
+          "url": "https://wallstreetcn.com/livenews/3064283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20260305043255463800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "欧洲央行管委维勒鲁瓦：美元已走强，回归避险地位。",
+          "url": "https://flash.jin10.com/detail/20260305145611366800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的8.77亿美元。",
+          "url": "https://flash.jin10.com/detail/20260305021754964800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "交易员称，印度央行很可能在当地即期外汇市场开盘前大幅抛售美元。",
+          "url": "https://flash.jin10.com/detail/20260305112512974800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "美、布两油短线走低逾1美元，伊朗军方高官称未封锁霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260305145359141800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "布伦特原油日内涨超2.00%，现报83.12美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260305133642705800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "上期所原油主力合约触及涨停，达成四连板，报711.3元/桶，现涨幅为13.99%。 WTI原油期货涨幅扩大至4%，报77.643美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3064225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "WTI原油日内涨幅达2%，现报77.69美元/桶。布伦特原油现涨1.7%，报82.92美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260305121822742800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "杰富瑞将Lumentum目标价从680美元上调至800美元。",
+          "url": "https://wallstreetcn.com/livenews/3064271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "IDC预测：2026年全球智能机器人硬件市场将近300亿美元 中国有望引领增长",
+          "url": "https://wallstreetcn.com/livenews/3064174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "澳元兑美元下跌0.6%，至0.7033。",
+          "url": "https://wallstreetcn.com/livenews/3064267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "英镑兑美元下跌约0.5%，至1.3309。",
+          "url": "https://wallstreetcn.com/livenews/3064265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "普氏能源：新加坡航空燃料价格周三因全球供应担忧升至每桶231.42美元的历史高位。西北欧航空燃料价格升至每吨1259.75美元，为俄乌冲突爆发以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260305132749011800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "现货白银日内大涨2美元，现报85.50美元/盎司，涨幅2.42%。",
+          "url": "https://flash.jin10.com/detail/20260305110154310800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "霍尔木兹遭封锁 特朗普抛出保险与护航方案 航运业态度谨慎",
@@ -66,8 +580,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时37分 ~ 14时08分]"
+          "appearance_count": 22,
+          "time_info": "[00时37分 ~ 15时15分]"
         },
         {
           "title": "美称打死试图暗杀特朗普的伊朗高官",
@@ -108,8 +622,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时08分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 15时15分]"
         },
         {
           "title": "特朗普打伊朗，美国国会管不了？参议院未通过叫停特朗普打击伊朗的投票",
@@ -122,21 +636,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时08分]"
-        },
-        {
-          "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
-          "url": "https://www.cls.cn/detail/2303036",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时08分]"
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 15时15分]"
         },
         {
           "title": "西班牙首相回击特朗普",
@@ -146,6 +647,19 @@
             15,
             16,
             17
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 15时15分]"
+        },
+        {
+          "title": "“拒绝战争！”西班牙首相回击特朗普：不会因报复威胁妥协",
+          "url": "https://www.cls.cn/detail/2303036",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -457,6 +971,17 @@
           "time_info": "03时35分"
         },
         {
+          "title": "伊朗高官让特朗普想想美以谁优先",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%AE%98%E8%AE%A9%E7%89%B9%E6%9C%97%E6%99%AE%E6%83%B3%E6%83%B3%E7%BE%8E%E4%BB%A5%E8%B0%81%E4%BC%98%E5%85%88%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "美国联邦贸易法官下令特朗普政府：停止对进口商计算IEEPA关税",
           "url": "https://wallstreetcn.com/livenews/3063856",
           "source": "华尔街见闻-快讯",
@@ -492,445 +1017,363 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 37,
+      "keyword_group": "日本",
+      "match_count": 29,
       "titles": [
         {
-          "title": "特朗普承诺“护航”，美股指跌幅收窄，美债企稳，美元强势二连涨，原油冲高回落涨5%，金银重挫",
-          "url": "https://wallstreetcn.com/articles/3766590",
-          "source": "华尔街见闻",
+          "title": "日本“撞人族”事件多发，中使馆提醒在日中国公民防范",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32696490",
+          "source": "澎湃新闻",
           "ranks": [
+            4,
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 07时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
         },
         {
-          "title": "霍尔木兹海峡“实际断航”、中东能源设施遭袭，为何油价还没涨到100美元呢？",
-          "url": "https://wallstreetcn.com/articles/3766663",
-          "source": "华尔街见闻",
+          "title": "我使馆提醒近期避免前往日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            7,
-            5
+            10,
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 16,
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
+        },
+        {
+          "title": "中使馆提醒防范日本“撞人族”",
+          "url": "https://www.douyin.com/hot/2418523",
+          "source": "抖音",
+          "ranks": [
+            6,
+            2,
+            1,
+            17,
+            16,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 15,
           "time_info": "[00时37分 ~ 07时54分]"
         },
         {
-          "title": "博通：预计二季度AI芯片收入107亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3063885",
-          "source": "华尔街见闻-快讯",
+          "title": "驻日大使馆提醒防范日本「撞人族」，这些人为什么要有意地肘击、撞倒陌生人？他们的出现和哪些因素有关？",
+          "url": "https://www.zhihu.com/question/2011071773634949612",
+          "source": "知乎",
+          "ranks": [
+            8,
+            18,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 07时54分]"
+        },
+        {
+          "title": "中国游客在日本目睹老太被壮汉撞飞",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%9B%AE%E7%9D%B9%E8%80%81%E5%A4%AA%E8%A2%AB%E5%A3%AE%E6%B1%89%E6%92%9E%E9%A3%9E%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            25,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[00时37分 ~ 09时31分]"
+        },
+        {
+          "title": "霍尔木兹告急,日本:与我无瓜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351327&amp;topic_name=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%91%8A%E6%80%A5%2C%E6%97%A5%E6%9C%AC%3A%E4%B8%8E%E6%88%91%E6%97%A0%E7%93%9C",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            17,
+            23,
+            26,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时37分 ~ 15时15分]"
+        },
+        {
+          "title": "驻日使馆再次提醒公民避免前往日本",
+          "url": "https://www.toutiao.com/trending/7613343881500917803/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            28,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时41分 ~ 07时29分]"
+        },
+        {
+          "title": "能源见底,日本斩杀线已到",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351391&amp;topic_name=%E8%83%BD%E6%BA%90%E8%A7%81%E5%BA%95%2C%E6%97%A5%E6%9C%AC%E6%96%A9%E6%9D%80%E7%BA%BF%E5%B7%B2%E5%88%B0",
+          "source": "贴吧",
           "ranks": [
             2,
-            8,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时27分 ~ 07时54分]"
-        },
-        {
-          "title": "周三（3月4日）纽约尾盘（周四北京时间05:59），离岸人民币（CNH）兑美元报6.8951元，较周二纽约尾盘涨243点，日内整体交投于6.9351-6.8886元区间。",
-          "url": "https://wallstreetcn.com/livenews/3063884",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             3,
-            9,
-            18,
-            26
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时27分 ~ 07时54分]"
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 15时15分]"
         },
         {
-          "title": "周三（3月4日），美联储隔夜逆回购协议（RRP）使用规模为8.77亿美元（交易对手8家），上个交易日报12.03亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3063816",
+          "title": "多名中国公民遭日本右翼分子滋扰，中使馆再次提醒近期避免前往",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32699363",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时31分 ~ 15时15分]"
+        },
+        {
+          "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
+          "url": "https://www.zhihu.com/question/2011868258307941835",
+          "source": "知乎",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 15时15分]"
+        },
+        {
+          "title": "日本对美国的下一批投资可能会包括核电厂和铜冶炼。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3063815",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            14,
-            23,
-            28
+            7,
+            15,
+            24,
+            29
           ],
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时41分 ~ 04时57分]"
         },
         {
-          "title": "据Crane Data：美国货币基金资产管理规模达到8.27万亿美元，创历史新高。",
-          "url": "https://wallstreetcn.com/livenews/3063835",
-          "source": "华尔街见闻-快讯",
+          "title": "日本30年期国债标售投标倍数为3.66，前次为3.64。",
+          "url": "https://flash.jin10.com/detail/20260305113521869800",
+          "source": "金十数据",
           "ranks": [
-            8,
-            13,
-            27
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时32分]"
+          "appearance_count": 1,
+          "time_info": "11时56分"
         },
         {
-          "title": "弹药告急！特朗普将召见军工大佬，筹划掏500亿美元补充军火",
-          "url": "https://news.ifeng.com/c/8rFCPechKEM",
-          "source": "凤凰网",
+          "title": "日本最大的工会组织RENGO：要求2026年加薪5.94%，相比2025年为6.09%。 今年小型工会要求加薪6.64%。",
+          "url": "https://wallstreetcn.com/livenews/3064297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "本田拟将中国产电动汽车卖回日本",
+          "url": "https://www.toutiao.com/trending/7612296534020882468/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时07分 ~ 14时08分]"
+          "appearance_count": 1,
+          "time_info": "03时35分"
         },
         {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8951元，较周二夜盘收盘涨242点。成交量714.34亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3063831",
+          "title": "日本工会制定更高的薪资目标",
+          "url": "https://wallstreetcn.com/livenews/3064159",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时28分 ~ 05时32分]"
-        },
-        {
-          "title": "LME期铜收涨102美元，报13058美元/吨。 LME期铝收涨92美元，报3342美元/吨。 LME期锌收涨56美元，报3326美元/吨。 LME期铅收涨26美元，报1962美元/吨。 LME期镍收涨371美元，报17491美元/吨。 LME期锡收涨2176美元，报51019美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3063805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时41分 ~ 04时28分]"
-        },
-        {
-          "title": "韩国2月外汇储备 4276.2亿美元，前值4259.1亿美元。",
-          "url": "https://flash.jin10.com/detail/20260305050002239800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时27分]"
-        },
-        {
-          "title": "周三（3月4日）纽约尾盘，美元兑日元跌0.42%，报157.07日元，日内交投区间为157.86-156.86日元。 欧元兑日元跌0.19%，英镑兑日元跌0.26%。",
-          "url": "https://wallstreetcn.com/livenews/3063846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时32分]"
-        },
-        {
-          "title": "周三（3月4日）纽约尾盘，ICE美元指数跌0.30%，报98.756点，日内交投区间为99.329-98.700点。 彭博美元指数跌0.29%，报1199.95点，日内交投区间为1206.74-1199.25点。",
-          "url": "https://wallstreetcn.com/livenews/3063844",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时32分]"
-        },
-        {
-          "title": "WTI 4月原油期货收报74.66美元/桶。 NYMEX 4月天然气期货收报2.9170美元/百万英热单位。 NYMEX 4月汽油期货收报2.5149美元/加仑，NYMEX 4月取暖油期货收报3.2938美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3063841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时28分"
+          "time_info": "11时56分"
         },
         {
-          "title": "现货白银短线走低，日内跌超1%，现报82.50美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3064248",
-          "source": "华尔街见闻-快讯",
+          "title": "日本最大工会日本劳动组合总联合会（Rengo）表示，其下属工会正力争在2026年实现平均5.94%的加薪。",
+          "url": "https://flash.jin10.com/detail/20260305150110536800",
+          "source": "金十数据",
           "ranks": [
-            3
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "15时15分"
         },
         {
-          "title": "WTI 4月原油期货收报74.66美元/桶。 布伦特5月原油期货收报81.40美元/桶。 NYMEX 4月天然气期货收报2.9170美元/百万英热单位。 NYMEX 4月汽油期货收报2.5149美元/加仑，NYMEX 4月取暖油期货收报3.2938美元/加仑。",
-          "url": "https://wallstreetcn.com/livenews/3063841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时57分 ~ 05时32分]"
-        },
-        {
-          "title": "WTI原油日内涨超1.00%，现报76.93美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260305091849090800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "WTI原油站上78美元/桶，日内涨2.42%。",
-          "url": "https://flash.jin10.com/detail/20260305135555575800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.9007，上调117点；上一交易日中间价6.9124，上一交易日官方收盘价6.9120，上日夜盘报收6.8951。",
-          "url": "https://wallstreetcn.com/livenews/3063992",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "Crane Data数据显示，美国货币基金资产激增至创纪录的8.27万亿美元。",
-          "url": "https://flash.jin10.com/detail/20260305031501639800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时35分 ~ 04时28分]"
-        },
-        {
-          "title": "美国-亚洲航线超级油轮租用成本升至2900万美元，创纪录新高。",
-          "url": "https://wallstreetcn.com/livenews/3063767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时38分 ~ 01时35分]"
-        },
-        {
-          "title": "周三（3月4日），韩元兑美元最终涨1.49%，报1463.18韩元，全天处于上涨状态，整体持续走高。",
-          "url": "https://wallstreetcn.com/livenews/3063801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时41分 ~ 03时35分]"
-        },
-        {
-          "title": "地中海航运：欧洲至南部非洲航线紧急燃油附加费为每标准箱60美元，每冷藏箱90美元。",
-          "url": "https://flash.jin10.com/detail/20260305022940153800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "WTI原油站上78美元/桶，日内涨2.42%。 布伦特原油期货涨幅扩大至4%，报84.73美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3064244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "伦锡日内跌幅达2.00%，现报50070.00美元/吨。",
-          "url": "https://flash.jin10.com/detail/20260305135159691800",
+          "title": "日本投资者上月抛售了自2024年以来最大规模的海外债券",
+          "url": "https://flash.jin10.com/detail/20260305125202333800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "13时11分"
         },
         {
-          "title": "分析师：中东局势升级推动油价走高 100美元油价成为可能",
-          "url": "https://flash.jin10.com/detail/20260305091325169800",
-          "source": "金十数据",
+          "title": "日本30年期国债拍卖投标倍数为3.66，过去12个月均值3.34。",
+          "url": "https://wallstreetcn.com/livenews/3064156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时56分"
+        },
+        {
+          "title": "日本炼油企业请求政府动用战略储备",
+          "url": "https://wallstreetcn.com/livenews/3064239",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "欧元兑美元EUR/USD失守1.16，日内跌幅0.28%。",
-          "url": "https://flash.jin10.com/detail/20260305135158649800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
           "time_info": "14时08分"
         },
         {
-          "title": "现货白银日内涨超2.00%，现报85.15美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260305091240823800",
-          "source": "金十数据",
+          "title": "日本商业航天公司小型火箭“凯洛斯”3号发射失败",
+          "url": "https://wallstreetcn.com/livenews/3064154",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "现货铂金上涨逾3%，至2218.33美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260305091127451800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "美元指数4日下跌",
-          "url": "https://flash.jin10.com/detail/20260305043255463800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的8.77亿美元。",
-          "url": "https://flash.jin10.com/detail/20260305021754964800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时41分"
-        },
-        {
-          "title": "交易员称，印度央行很可能在当地即期外汇市场开盘前大幅抛售美元。",
-          "url": "https://flash.jin10.com/detail/20260305112512974800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
           "time_info": "11时56分"
         },
         {
-          "title": "布伦特原油日内涨超2.00%，现报83.12美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260305133642705800",
+          "title": "市场消息：日本投资者上个月抛售了自2024年以来最大规模的海外债券，市场观察人士正密切关注资金流向，以寻找日债收益率上升是否正在引发资金回流的迹象。",
+          "url": "https://flash.jin10.com/detail/20260305124849130800",
           "source": "金十数据",
           "ranks": [
-            20
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时08分"
+          "time_info": "13时11分"
         },
         {
-          "title": "上期所原油主力合约触及涨停，达成四连板，报711.3元/桶，现涨幅为13.99%。 WTI原油期货涨幅扩大至4%，报77.643美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3064225",
+          "title": "日本5年期国债收益率上行3.5个基点，至1.610%。",
+          "url": "https://wallstreetcn.com/livenews/3064231",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
         {
-          "title": "WTI原油日内涨幅达2%，现报77.69美元/桶。布伦特原油现涨1.7%，报82.92美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260305121822742800",
+          "title": "日经225指数收涨1.9%，报55278.06点。 日本东证指数收涨1.9%，报3702.67点。 韩国首尔综合指数收涨9.6%，报5584.23点。",
+          "url": "https://wallstreetcn.com/livenews/3064273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "10年期日本国债收益率上行3.5个基点，报2.145%。",
+          "url": "https://flash.jin10.com/detail/20260305090623966800",
           "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "日本20年期国债收益率上行4个基点，至3%。",
+          "url": "https://wallstreetcn.com/livenews/3063962",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "09时31分"
         },
         {
-          "title": "IDC预测：2026年全球智能机器人硬件市场将近300亿美元 中国有望引领增长",
-          "url": "https://wallstreetcn.com/livenews/3064174",
+          "title": "日本10年期国债收益率上行3.5个基点，至2.145%。",
+          "url": "https://wallstreetcn.com/livenews/3063959",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "09时31分"
         },
         {
-          "title": "普氏能源：新加坡航空燃料价格周三因全球供应担忧升至每桶231.42美元的历史高位。西北欧航空燃料价格升至每吨1259.75美元，为俄乌冲突爆发以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260305132749011800",
-          "source": "金十数据",
+          "title": "日本10年期国债收益率上升5个基点至2.160%。",
+          "url": "https://wallstreetcn.com/livenews/3064221",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
         {
-          "title": "现货白银日内大涨2美元，现报85.50美元/盎司，涨幅2.42%。",
-          "url": "https://flash.jin10.com/detail/20260305110154310800",
+          "title": "日本炼油商呼吁政府释放战略石油储备",
+          "url": "https://flash.jin10.com/detail/20260305144556435800",
           "source": "金十数据",
           "ranks": [
-            30
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "日本10年期国债收益率上升5个基点至2.160%。",
+          "url": "https://flash.jin10.com/detail/20260305132706259800",
+          "source": "金十数据",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时56分"
+          "time_info": "14时08分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "网友想用 AI 生成男女同样身高的合照，结果得到女矮男高的照片，问题出在哪？该如何修正？",
@@ -1008,6 +1451,18 @@
           "time_info": "[00时37分 ~ 07时54分]"
         },
         {
+          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
+          "url": "https://www.zhihu.com/question/2007415716228330401",
+          "source": "知乎",
+          "ranks": [
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时56分 ~ 15时15分]"
+        },
+        {
           "title": "Mosaic股价下跌3.7%，CF Industries跌3.5%。",
           "url": "https://wallstreetcn.com/livenews/3063819",
           "source": "华尔街见闻-快讯",
@@ -1020,17 +1475,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时41分 ~ 04时57分]"
-        },
-        {
-          "title": "如何评价贾樟柯用 Seedance2.0 生成的短片《贾科长 Dance》？未来 AI 与影视将如何共存？",
-          "url": "https://www.zhihu.com/question/2007415716228330401",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 14时08分]"
         },
         {
           "title": "Meta计划研发自研芯片，来训练自家的AI模型",
@@ -1153,6 +1597,17 @@
           "time_info": "11时56分"
         },
         {
+          "title": "十张AI电报带你看2026年国民经济和社会发展计划的主要任务",
+          "url": "https://www.cls.cn/detail/2303258",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "千问AI眼镜MWC全球重磅首发",
           "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AEAI%E7%9C%BC%E9%95%9CMWC%E5%85%A8%E7%90%83%E9%87%8D%E7%A3%85%E9%A6%96%E5%8F%91%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -1181,7 +1636,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -1192,7 +1647,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
         },
@@ -1265,316 +1720,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 25,
-      "titles": [
-        {
-          "title": "日本“撞人族”事件多发，中使馆提醒在日中国公民防范",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32696490",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 09时31分]"
-        },
-        {
-          "title": "我使馆提醒近期避免前往日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%88%91%E4%BD%BF%E9%A6%86%E6%8F%90%E9%86%92%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 09时31分]"
-        },
-        {
-          "title": "中使馆提醒防范日本“撞人族”",
-          "url": "https://www.douyin.com/hot/2418523",
-          "source": "抖音",
-          "ranks": [
-            6,
-            2,
-            1,
-            17,
-            16,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时37分 ~ 07时54分]"
-        },
-        {
-          "title": "驻日大使馆提醒防范日本「撞人族」，这些人为什么要有意地肘击、撞倒陌生人？他们的出现和哪些因素有关？",
-          "url": "https://www.zhihu.com/question/2011071773634949612",
-          "source": "知乎",
-          "ranks": [
-            8,
-            18,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时37分 ~ 07时54分]"
-        },
-        {
-          "title": "中国游客在日本目睹老太被壮汉撞飞",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%97%A5%E6%9C%AC%E7%9B%AE%E7%9D%B9%E8%80%81%E5%A4%AA%E8%A2%AB%E5%A3%AE%E6%B1%89%E6%92%9E%E9%A3%9E%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            25,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 09时31分]"
-        },
-        {
-          "title": "霍尔木兹告急,日本:与我无瓜",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351327&amp;topic_name=%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E5%91%8A%E6%80%A5%2C%E6%97%A5%E6%9C%AC%3A%E4%B8%8E%E6%88%91%E6%97%A0%E7%93%9C",
-          "source": "贴吧",
-          "ranks": [
-            16,
-            17,
-            23,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时37分 ~ 14时08分]"
-        },
-        {
-          "title": "驻日使馆再次提醒公民避免前往日本",
-          "url": "https://www.toutiao.com/trending/7613343881500917803/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            28,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时41分 ~ 07时29分]"
-        },
-        {
-          "title": "能源见底,日本斩杀线已到",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351391&amp;topic_name=%E8%83%BD%E6%BA%90%E8%A7%81%E5%BA%95%2C%E6%97%A5%E6%9C%AC%E6%96%A9%E6%9D%80%E7%BA%BF%E5%B7%B2%E5%88%B0",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 14时08分]"
-        },
-        {
-          "title": "多名中国公民遭日本右翼分子滋扰，中使馆再次提醒近期避免前往",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32699363",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时31分 ~ 14时08分]"
-        },
-        {
-          "title": "日本对美国的下一批投资可能会包括核电厂和铜冶炼。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3063815",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时41分 ~ 04时57分]"
-        },
-        {
-          "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
-          "url": "https://www.zhihu.com/question/2011868258307941835",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时56分 ~ 14时08分]"
-        },
-        {
-          "title": "日本30年期国债标售投标倍数为3.66，前次为3.64。",
-          "url": "https://flash.jin10.com/detail/20260305113521869800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "本田拟将中国产电动汽车卖回日本",
-          "url": "https://www.toutiao.com/trending/7612296534020882468/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "日本工会制定更高的薪资目标",
-          "url": "https://wallstreetcn.com/livenews/3064159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "日本投资者上月抛售了自2024年以来最大规模的海外债券",
-          "url": "https://flash.jin10.com/detail/20260305125202333800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "日本30年期国债拍卖投标倍数为3.66，过去12个月均值3.34。",
-          "url": "https://wallstreetcn.com/livenews/3064156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "日本炼油企业请求政府动用战略储备",
-          "url": "https://wallstreetcn.com/livenews/3064239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "日本商业航天公司小型火箭“凯洛斯”3号发射失败",
-          "url": "https://wallstreetcn.com/livenews/3064154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时56分"
-        },
-        {
-          "title": "市场消息：日本投资者上个月抛售了自2024年以来最大规模的海外债券，市场观察人士正密切关注资金流向，以寻找日债收益率上升是否正在引发资金回流的迹象。",
-          "url": "https://flash.jin10.com/detail/20260305124849130800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "日本5年期国债收益率上行3.5个基点，至1.610%。",
-          "url": "https://wallstreetcn.com/livenews/3064231",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "10年期日本国债收益率上行3.5个基点，报2.145%。",
-          "url": "https://flash.jin10.com/detail/20260305090623966800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "日本20年期国债收益率上行4个基点，至3%。",
-          "url": "https://wallstreetcn.com/livenews/3063962",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "日本10年期国债收益率上行3.5个基点，至2.145%。",
-          "url": "https://wallstreetcn.com/livenews/3063959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "日本10年期国债收益率上升5个基点至2.160%。",
-          "url": "https://wallstreetcn.com/livenews/3064221",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "日本10年期国债收益率上升5个基点至2.160%。",
-          "url": "https://flash.jin10.com/detail/20260305132706259800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "老人攒金34年戴百克黄金逛珠宝城",
@@ -1628,6 +1775,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时41分"
+        },
+        {
+          "title": "金十图示：2026年03月05日（周四）上海金午盘价为1148.76元/克，较国际金价(1145.37元/克)，高3.39元/克。",
+          "url": "https://flash.jin10.com/detail/20260305150154306800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "全球最大黄金ETF持仓单日大幅减少18吨",
@@ -1694,6 +1852,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        },
+        {
+          "title": "现货黄金回落至5130美元/盎司下方，日内跌0.24%。",
+          "url": "https://wallstreetcn.com/livenews/3064264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "分析师：美元走强或继续压制金价走势",
+          "url": "https://flash.jin10.com/detail/20260305143637743800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         }
       ]
     },
@@ -1809,7 +1989,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌公司与Epic达成和解协议之后，将在全区范围内下调APP开发者费用。",
@@ -1823,6 +2003,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时41分 ~ 04时28分]"
+        },
+        {
+          "title": "谷歌DeepMind向千问团队抛橄榄枝",
+          "url": "https://wallstreetcn.com/livenews/3064303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "美国总统特朗普：谷歌是一家好公司。",
@@ -1932,6 +2123,34 @@
       ]
     },
     {
+      "keyword_group": "内存 存储颗粒",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "雷军再谈内存价格暴涨，称手机业务面临很大压力",
+          "url": "https://wallstreetcn.com/livenews/3064197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "雷军回应手机内存芯片价格上涨",
+          "url": "https://www.douyin.com/hot/2419523",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -1946,23 +2165,6 @@
           "is_new": false,
           "appearance_count": 17,
           "time_info": "[00时37分 ~ 09时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "内存 存储颗粒",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "雷军再谈内存价格暴涨，称手机业务面临很大压力",
-          "url": "https://wallstreetcn.com/livenews/3064197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
         }
       ]
     },
