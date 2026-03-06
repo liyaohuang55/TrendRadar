@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T12:05:45.560689+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-03-06T13:31:36.338428+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 53,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：若满分10分，我给美对伊行动打15分",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时01分 ~ 12时05分]"
+          "appearance_count": 13,
+          "time_info": "[02时01分 ~ 13时31分]"
         },
         {
           "title": "特朗普“大发战争财”，借打伊朗搞募款",
@@ -51,6 +51,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[02时01分 ~ 06时27分]"
+        },
+        {
+          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
+          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时31分]"
         },
         {
           "title": "美国总统特朗普：马克韦恩·穆林（Markwayne Mullin）将于2026年3月31日起担任美国国土安全部部长。",
@@ -95,15 +106,27 @@
           "time_info": "[03时19分 ~ 05时43分]"
         },
         {
-          "title": "特朗普妄称“必须亲自参与”选定伊朗新领导人",
-          "url": "https://news.ifeng.com/c/8rGUp5Pquod",
-          "source": "凤凰网",
+          "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
+          "url": "https://www.cls.cn/detail/2304524",
+          "source": "财联社热门",
           "ranks": [
-            2
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普要求立即赦免以色列总理",
+          "url": "https://news.ifeng.com/c/8rGUp5Pqv3s",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时31分]"
         },
         {
           "title": "特朗普倾向于解除诺姆的国土安全部长职务（彭博社）",
@@ -119,27 +142,38 @@
           "time_info": "[03时19分 ~ 05时01分]"
         },
         {
-          "title": "美国内政部长透露：特朗普政府正考虑“所有方案”来控制油价！",
-          "url": "https://www.cls.cn/detail/2304524",
+          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
+          "url": "https://www.cls.cn/detail/2304459",
           "source": "财联社热门",
           "ranks": [
-            6,
-            4
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时31分]"
         },
         {
-          "title": "特朗普要求立即赦免以色列总理",
-          "url": "https://news.ifeng.com/c/8rGUp5Pqv3s",
+          "title": "美国24州联合起诉特朗普政府新关税政策",
+          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
           "source": "凤凰网",
           "ranks": [
-            5
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时05分]"
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时31分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜牧师围着特朗普为他和美军祈祷",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "特朗普政府正在权衡降低油价的所有选项",
@@ -223,18 +257,6 @@
           "time_info": "02时01分"
         },
         {
-          "title": "美国24州宣布提起诉讼，阻止特朗普最新全球关税政策",
-          "url": "https://www.cls.cn/detail/2304459",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时05分]"
-        },
-        {
           "title": "特朗普要求立即赦免以色列总理",
           "url": "https://wallstreetcn.com/livenews/3064674",
           "source": "华尔街见闻-快讯",
@@ -245,17 +267,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时36分]"
-        },
-        {
-          "title": "美国24州联合起诉特朗普政府新关税政策",
-          "url": "https://news.ifeng.com/c/8rGDBDdQi38",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时05分]"
         },
         {
           "title": "美国总统特朗普：马奎恩·马林将于2026年3月31日起担任美国国土安全部部长。",
@@ -294,6 +305,17 @@
           "time_info": "[06时27分 ~ 07时36分]"
         },
         {
+          "title": "美国24州联合起诉特朗普政府",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD24%E5%B7%9E%E8%81%94%E5%90%88%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时31分]"
+        },
+        {
           "title": "美国总统特朗普：（被问及泽连斯基提出协助抵御伊朗无人机的提议）我会接受任何国家的任何援助。",
           "url": "https://flash.jin10.com/detail/20260306014749134800",
           "source": "金十数据",
@@ -311,7 +333,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -322,7 +344,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -388,18 +410,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "美国24州联合起诉特朗普政府",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD24%E5%B7%9E%E8%81%94%E5%90%88%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -413,6 +424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
+        },
+        {
+          "title": "伊朗外长喊话特朗普：美军“速战速决A计划已失败”",
+          "url": "https://wallstreetcn.com/livenews/3064866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "美国众议院未能通过阻止特朗普对伊朗动武的决议",
@@ -443,9 +465,31 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "特朗普威胁下一个就是古巴",
+          "url": "https://wallstreetcn.com/livenews/3064864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "美国24州联合起诉特朗普政府",
+          "url": "https://www.toutiao.com/trending/7613919843846897683/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "美国总统特朗普：美国拥有海量军火，国防工业正加大生产。无需启动《国防生产法》。",
@@ -476,7 +520,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -531,7 +575,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -564,7 +608,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -616,7 +660,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 43,
       "titles": [
         {
           "title": "2026胡润全球富豪榜发布：中国10亿美元企业家达1110位",
@@ -637,8 +681,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 13时31分]"
         },
         {
           "title": "地缘局势助推“美元荒”逻辑，美元指数涨0.50%",
@@ -853,7 +897,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -918,6 +962,17 @@
           "time_info": "[05时01分 ~ 05时43分]"
         },
         {
+          "title": "TD Cowen ：将甲骨文(ORCL.N)目标价从350美元下调至250美元。",
+          "url": "https://flash.jin10.com/detail/20260306130711003800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "地中海航运：自3月16日起至另行通知，从波罗的海斯堪的纳维亚地区到东非的货物紧急燃油附加费（EFS）为干货每20英尺标准集装箱（TEU）75美元，冷藏箱每20英尺标准集装箱120美元。",
           "url": "https://flash.jin10.com/detail/20260306023451949800",
           "source": "金十数据",
@@ -979,7 +1034,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -990,7 +1045,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -1004,6 +1059,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "摩根大通：将好市多(COST.O)目标价从1050美元上调至1060美元。",
+          "url": "https://flash.jin10.com/detail/20260306121547743800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "消息人士：交易商目前以较布伦特原油每桶高4至5美元的溢价向印度市场出售俄罗斯乌拉尔原油，较伊朗冲突爆发前的大幅折扣已有明显回升。",
@@ -1045,7 +1111,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -1061,6 +1127,17 @@
           "time_info": "03时19分"
         },
         {
+          "title": "美智库：美对伊朗军事行动前四天花费约37亿美元",
+          "url": "https://wallstreetcn.com/livenews/3064862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "美、布两油短线持续走高，WTI原油日内暴涨6.00%，现报80.73美元/桶。布伦特原油现涨3.31%，报84.1美元/桶。",
           "url": "https://flash.jin10.com/detail/20260306022731186800",
           "source": "金十数据",
@@ -1070,12 +1147,175 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时19分"
+        },
+        {
+          "title": "现货钯金日内涨幅达2.00%，现报1664.91美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260306120424074800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
+          "url": "https://www.zhihu.com/question/2011868258307941835",
+          "source": "知乎",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时01分 ~ 07时36分]"
+        },
+        {
+          "title": "能源见底,日本斩杀线已到",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351391&amp;topic_name=%E8%83%BD%E6%BA%90%E8%A7%81%E5%BA%95%2C%E6%97%A5%E6%9C%AC%E6%96%A9%E6%9D%80%E7%BA%BF%E5%B7%B2%E5%88%B0",
+          "source": "贴吧",
+          "ranks": [
+            19,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[02时01分 ~ 13时31分]"
+        },
+        {
+          "title": "美以伊战争最新动态｜日本：准备向中东派遣自卫队",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "机构：中东冲突或令日本面临更大的挑战",
+          "url": "https://flash.jin10.com/detail/20260306131632793800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "日本东芝重组其债务，计划2028年重新上市。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3064889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "日本20年期国债收益率上行1个基点，至2.990%。",
+          "url": "https://wallstreetcn.com/livenews/3064737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "日本再次向海洋排放核污染水",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%8D%E6%AC%A1%E5%90%91%E6%B5%B7%E6%B4%8B%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时05分"
+        },
+        {
+          "title": "北京一寿司郎曝寄生虫卵风波，日本母公司股价一度大跌14%",
+          "url": "https://wallstreetcn.com/livenews/3064871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "五年期日本国债收益率下跌0.5个基点，至1.245%。",
+          "url": "https://flash.jin10.com/detail/20260306091330400800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "2年期日本国债收益率下跌1.0个基点，至1.240%。",
+          "url": "https://flash.jin10.com/detail/20260306122111673800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "日本经济再生担当大臣木内康弘：正在密切关注原油和金融市场。",
+          "url": "https://wallstreetcn.com/livenews/3064723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "五年期日本国债收益率下跌0.5个基点，至1.615%。",
+          "url": "https://flash.jin10.com/detail/20260306121035880800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "日本10年期国债收益率下行0.5个基点，至2.15%。",
+          "url": "https://wallstreetcn.com/livenews/3064717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "两会日报 | 李强作政府工作报告 首场“部长通道”回应AI、芯片等热点问题",
@@ -1110,8 +1350,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时01分 ~ 12时05分]"
+          "appearance_count": 13,
+          "time_info": "[02时01分 ~ 13时31分]"
         },
         {
           "title": "AI猫咪的复工vlog",
@@ -1153,13 +1393,24 @@
           "time_info": "05时43分"
         },
         {
+          "title": "英国将推迟作出关于AI版权规则的决定。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3064881",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "3月6日投资避雷针：美国拟将AI芯片出口管制扩展至全球",
           "url": "https://www.cls.cn/detail/2304544",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -1192,7 +1443,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -1221,6 +1472,139 @@
       ]
     },
     {
+      "keyword_group": "openai chatgpt",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
+          "url": "https://wallstreetcn.com/articles/3766836",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时44分 ~ 13时31分]"
+        },
+        {
+          "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
+          "url": "https://flash.jin10.com/detail/20260306025523028800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时05分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
+          "url": "https://wallstreetcn.com/livenews/3064630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时05分]"
+        },
+        {
+          "title": "OpenAI：正式推出GPT‑5.4，将在ChatGPT和API中发布GPT‑5.4 Pro。",
+          "url": "https://wallstreetcn.com/livenews/3064629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时19分 ~ 04时05分]"
+        },
+        {
+          "title": "详解OpenAI新模型GPT-5.4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时05分 ~ 13时31分]"
+        },
+        {
+          "title": "OpenAI发布GPT-5.4 为首个具备原生计算机操作能力的模型",
+          "url": "https://flash.jin10.com/detail/20260306024056758800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时19分"
+        },
+        {
+          "title": "软银寻求创纪录的400亿美元贷款投资OpenAI",
+          "url": "https://flash.jin10.com/detail/20260306122409333800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "号称最强模型 OpenAI GPT-5.4发布",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%B7%E7%A7%B0%E6%9C%80%E5%BC%BA%E6%A8%A1%E5%9E%8B+OpenAI+GPT-5.4%E5%8F%91%E5%B8%83",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "OpenAI将把从英伟达(NVDA.O)和亚马逊(AMZN.O)循环融资获得的资金借给软银。",
+          "url": "https://flash.jin10.com/detail/20260306120949776800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "软银寻求高达400亿美元的创纪录贷款，用于收购OpenAI股份。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3064859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
+          "title": "软银集团正寻求一笔至高达400亿美元的创纪录贷款，用于收购OpenAI的股权。",
+          "url": "https://flash.jin10.com/detail/20260306120926767800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 10,
       "titles": [
@@ -1233,8 +1617,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时35分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[07时35分 ~ 13时31分]"
         },
         {
           "title": "“全球最大黄金买家”提议动用储备筹资 支持国防扩张计划",
@@ -1246,8 +1630,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时26分 ~ 12时05分]"
+          "appearance_count": 5,
+          "time_info": "[06时26分 ~ 13时31分]"
         },
         {
           "title": "芝加哥商品交易所（CME）：将其COMEX 100黄金期货的初始保证金由9%下调至7%。COMEX 5000白银期货的初始保证金由18%下调至14%。",
@@ -1267,7 +1651,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -1289,7 +1673,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -1336,189 +1720,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美以袭击伊朗或令日本经济增长停滞，东京股市显著下跌，为何战争让日本先撑不住了？",
-          "url": "https://www.zhihu.com/question/2011868258307941835",
-          "source": "知乎",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时01分 ~ 07时36分]"
-        },
-        {
-          "title": "能源见底,日本斩杀线已到",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351391&amp;topic_name=%E8%83%BD%E6%BA%90%E8%A7%81%E5%BA%95%2C%E6%97%A5%E6%9C%AC%E6%96%A9%E6%9D%80%E7%BA%BF%E5%B7%B2%E5%88%B0",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时01分 ~ 12时05分]"
-        },
-        {
-          "title": "美以伊战争最新动态｜日本：准备向中东派遣自卫队",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "日本20年期国债收益率上行1个基点，至2.990%。",
-          "url": "https://wallstreetcn.com/livenews/3064737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "日本再次向海洋排放核污染水",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%86%8D%E6%AC%A1%E5%90%91%E6%B5%B7%E6%B4%8B%E6%8E%92%E6%94%BE%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
-        },
-        {
-          "title": "五年期日本国债收益率下跌0.5个基点，至1.245%。",
-          "url": "https://flash.jin10.com/detail/20260306091330400800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "日本经济再生担当大臣木内康弘：正在密切关注原油和金融市场。",
-          "url": "https://wallstreetcn.com/livenews/3064723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "日本10年期国债收益率下行0.5个基点，至2.15%。",
-          "url": "https://wallstreetcn.com/livenews/3064717",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai chatgpt",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenAI发布最强专业模型GPT-5.4，自动操作电脑，插件支持AI玩转Excel和金融分析",
-          "url": "https://wallstreetcn.com/articles/3766836",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时44分 ~ 12时05分]"
-        },
-        {
-          "title": "OpenAI发布旗舰模型GPT-5.4 助力专业金融工作流程",
-          "url": "https://flash.jin10.com/detail/20260306025523028800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时05分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.4及GPT-5.4 Pro模型，支持高达100万token的上下文窗口",
-          "url": "https://wallstreetcn.com/livenews/3064630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时05分]"
-        },
-        {
-          "title": "OpenAI：正式推出GPT‑5.4，将在ChatGPT和API中发布GPT‑5.4 Pro。",
-          "url": "https://wallstreetcn.com/livenews/3064629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时05分]"
-        },
-        {
-          "title": "OpenAI发布GPT-5.4 为首个具备原生计算机操作能力的模型",
-          "url": "https://flash.jin10.com/detail/20260306024056758800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "号称最强模型 OpenAI GPT-5.4发布",
-          "url": "https://www.baidu.com/s?wd=%E5%8F%B7%E7%A7%B0%E6%9C%80%E5%BC%BA%E6%A8%A1%E5%9E%8B+OpenAI+GPT-5.4%E5%8F%91%E5%B8%83",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "详解OpenAI新模型GPT-5.4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3OpenAI%E6%96%B0%E6%A8%A1%E5%9E%8BGPT-5.4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时05分"
         }
       ]
     },
