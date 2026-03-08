@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-09T06:19:18.541568+08:00",
-  "total_titles_processed": 523,
+  "generated_at": "2026-03-09T06:48:34.883011+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "美以伊战争｜伊朗新任最高领袖将揭晓，特朗普威胁",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
         },
         {
           "title": "伊朗：今天或选出最高领袖！特朗普再度妄称：希望参与伊朗下一任领导人选择",
@@ -51,8 +51,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
         },
         {
           "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
@@ -78,8 +78,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
         },
         {
           "title": "特朗普要求赦免以色列总理 以总统：战争期间“不讨论”",
@@ -92,6 +92,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时22分 ~ 04时20分]"
+        },
+        {
+          "title": "特朗普威胁称伊朗新领导人“难长久”",
+          "url": "https://wallstreetcn.com/livenews/3065911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            7,
+            9,
+            12,
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时20分 ~ 06时48分]"
         },
         {
           "title": "市场消息：特朗普在战争期间仍然坚持打高尔夫。",
@@ -109,19 +125,19 @@
           "time_info": "[04时20分 ~ 06时19分]"
         },
         {
-          "title": "特朗普威胁称伊朗新领导人“难长久”",
-          "url": "https://wallstreetcn.com/livenews/3065911",
+          "title": "伊朗外长致信联合国安理会，称特朗普近日相关表态构成战争罪和危害人类罪",
+          "url": "https://wallstreetcn.com/livenews/3065914",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            7,
-            9,
-            12,
-            16
+            8,
+            10,
+            13,
+            17,
+            26
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[04时20分 ~ 06时19分]"
+          "time_info": "[04时49分 ~ 06时48分]"
         },
         {
           "title": "法国总统马克龙：我们还讨论了加沙和西岸的情况。伊朗和中东的局势发展不应减缓我们实施特朗普总统提出的和平计划第二阶段的努力。我们特别呼吁全面重新开放拉法口岸，因为这对人道主义援助至关重要。在地区局势紧张之际，我们决心为降低紧张局势、恢复中东和平而努力。",
@@ -208,20 +224,6 @@
           "time_info": "[01时19分 ~ 02时58分]"
         },
         {
-          "title": "伊朗外长致信联合国安理会，称特朗普近日相关表态构成战争罪和危害人类罪",
-          "url": "https://wallstreetcn.com/livenews/3065914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时49分 ~ 06时19分]"
-        },
-        {
           "title": "特朗普以“拒签法案”为要挟 敦促参议院强推选举改革法",
           "url": "https://flash.jin10.com/detail/20260309001709983800",
           "source": "金十数据",
@@ -274,6 +276,17 @@
           "time_info": "[03时44分 ~ 04时49分]"
         },
         {
+          "title": "伊朗高官说特朗普不懂伊朗",
+          "url": "https://wallstreetcn.com/livenews/3065934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
           "title": "特朗普：未经我批准 伊朗新任最高领袖不会在位太久",
           "url": "https://flash.jin10.com/detail/20260308231657473800",
           "source": "金十数据",
@@ -311,6 +324,341 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "卡塔尔警告油价或升至每桶 150 美元，国内油价或迎四年来最大涨幅，后续还会涨吗？对经济有多大影响？",
+          "url": "https://www.zhihu.com/question/2013564376783799020",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
+        },
+        {
+          "title": "埃及镑兑美元在当地银行业走弱至52埃及镑下方。",
+          "url": "https://wallstreetcn.com/livenews/3065868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 03时44分]"
+        },
+        {
+          "title": "美元在悉尼盘初走高，投资者关注油价上涨",
+          "url": "https://wallstreetcn.com/livenews/3065912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            4,
+            7,
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时49分 ~ 06时48分]"
+        },
+        {
+          "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
+          "url": "https://flash.jin10.com/detail/20260309005041818800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            17,
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时19分 ~ 02时58分]"
+        },
+        {
+          "title": "美元指数DXY突破99，日内涨0.45%。",
+          "url": "https://flash.jin10.com/detail/20260309051918705800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 06时48分]"
+        },
+        {
+          "title": "汇市盘初，欧元兑美元EUR/USD下跌0.6%，报1.1546；美元兑日元USD/JPY涨0.15%，报158.02。",
+          "url": "https://flash.jin10.com/detail/20260309043317862800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 06时19分]"
+        },
+        {
+          "title": "WTI原油站上101美元/桶，日内涨10.74%。",
+          "url": "https://flash.jin10.com/detail/20260309060059618800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时48分]"
+        },
+        {
+          "title": "WTI原油期货涨破100美元关口，为2002年7月来首次。",
+          "url": "https://wallstreetcn.com/livenews/3065929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时19分"
+        },
+        {
+          "title": "多个主要产油国产量削减 美、布两油双双冲上100美元",
+          "url": "https://flash.jin10.com/detail/20260309062254877800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "WTI原油暴涨21%，突破110美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260309060953162800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "WTI原油期货大涨逾20%，突破110美元关口，最高报111.24美元。",
+          "url": "https://wallstreetcn.com/livenews/3065933",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "WTI原油期货日内暴涨19.00%，现报108.22美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260309060922359800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "WTI原油突破107美元/桶，日内涨17.16%。",
+          "url": "https://flash.jin10.com/detail/20260309060837985800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "美、布两油均突破100美元/桶",
+          "url": "https://flash.jin10.com/detail/20260309060659552800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "WTI原油期货涨破100美元关口，为2002年7月来首次，日内涨超10%。 布伦特原油期货亚市盘初也突破100美元关口，报102.20美元/盎司，日内涨幅10%。",
+          "url": "https://wallstreetcn.com/livenews/3065929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "美、布两油开盘暴涨，WTI原油涨幅扩大至14%，报104美元/桶；布伦特原油大涨近10%。",
+          "url": "https://flash.jin10.com/detail/20260309060212166800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
+          "url": "https://www.cls.cn/detail/2306367",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
+        },
+        {
+          "title": "AI养“龙虾”警惕安全风险",
+          "url": "https://www.cls.cn/detail/2306306",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
+        },
+        {
+          "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726184",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
+        },
+        {
+          "title": "深圳龙岗拟首发“AI龙虾十条”",
+          "url": "https://wallstreetcn.com/articles/3766977",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
+        },
+        {
+          "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
+          "url": "https://www.cls.cn/detail/2306295",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
+        },
+        {
+          "title": "AI对老师的影响",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%AF%B9%E8%80%81%E5%B8%88%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            10,
+            26,
+            20,
+            17,
+            14,
+            13,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[00时22分 ~ 06时48分]"
+        },
+        {
+          "title": "3000元成本AI短剧5亿播放？导演澄清",
+          "url": "https://www.toutiao.com/trending/7614214812960034340/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
+        },
+        {
+          "title": "AI “养龙虾”火了！上市公司扎堆回应",
+          "url": "https://wallstreetcn.com/livenews/3065866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时22分 ~ 03时44分]"
+        },
+        {
+          "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
+          "url": "https://flash.jin10.com/detail/20260309033901550800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            9,
+            17,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时20分 ~ 05时45分]"
+        },
+        {
+          "title": "TES主教练谈naiyou事件",
+          "url": "https://search.bilibili.com/all?keyword=TES%E4%B8%BB%E6%95%99%E7%BB%83%E8%B0%88naiyou%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "王一博Mai合影",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9AMai%E5%90%88%E5%BD%B1%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "日本",
       "match_count": 10,
       "titles": [
@@ -323,8 +671,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时19分 ~ 06时19分]"
+          "appearance_count": 16,
+          "time_info": "[01时19分 ~ 06时48分]"
         },
         {
           "title": "王毅表示中日关系取决于日方选择，日本没资格插手台湾事务，如何解读?",
@@ -335,8 +683,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
         },
         {
           "title": "木柜子痴硬闯日本,晒照挑衅",
@@ -346,19 +694,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时51分 ~ 06时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时51分 ~ 06时48分]"
         },
         {
           "title": "两会外长会｜就涉台议题，王毅四问日本：有什么资格插手？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32726646",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
         },
         {
           "title": "日本品牌正被中国大规模收购",
@@ -371,11 +720,12 @@
             18,
             19,
             21,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
         },
         {
           "title": "王毅：台湾事务日本有什么资格插手",
@@ -436,249 +786,18 @@
           "source": "金十数据",
           "ranks": [
             8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
-          "url": "https://www.cls.cn/detail/2306367",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
-        },
-        {
-          "title": "AI养“龙虾”警惕安全风险",
-          "url": "https://www.cls.cn/detail/2306306",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
-        },
-        {
-          "title": "张文宏委员谈AI问诊：仅靠AI有风险，应坚持“医生主导、AI辅助”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726184",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
-        },
-        {
-          "title": "深圳龙岗拟首发“AI龙虾十条”",
-          "url": "https://wallstreetcn.com/articles/3766977",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
-        },
-        {
-          "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
-          "url": "https://www.cls.cn/detail/2306295",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
-        },
-        {
-          "title": "AI对老师的影响",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%AF%B9%E8%80%81%E5%B8%88%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            10,
-            26,
-            20,
-            17,
-            14,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 06时19分]"
-        },
-        {
-          "title": "3000元成本AI短剧5亿播放？导演澄清",
-          "url": "https://www.toutiao.com/trending/7614214812960034340/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
-        },
-        {
-          "title": "AI “养龙虾”火了！上市公司扎堆回应",
-          "url": "https://wallstreetcn.com/livenews/3065866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 03时44分]"
-        },
-        {
-          "title": "市场消息：苹果(AAPL.O)即将推出更高端的AirPods、MacBook和iPhone系列。",
-          "url": "https://flash.jin10.com/detail/20260309033901550800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            9,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时20分 ~ 05时45分]"
-        },
-        {
-          "title": "王一博Mai合影",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9AMai%E5%90%88%E5%BD%B1%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "卡塔尔警告油价或升至每桶 150 美元，国内油价或迎四年来最大涨幅，后续还会涨吗？对经济有多大影响？",
-          "url": "https://www.zhihu.com/question/2013564376783799020",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
-        },
-        {
-          "title": "埃及镑兑美元在当地银行业走弱至52埃及镑下方。",
-          "url": "https://wallstreetcn.com/livenews/3065868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 03时44分]"
-        },
-        {
-          "title": "美元在悉尼盘初走高，投资者关注油价上涨",
-          "url": "https://wallstreetcn.com/livenews/3065912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            4,
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时49分 ~ 06时19分]"
-        },
-        {
-          "title": "市场消息：美国和以色列伊朗的战争已危及海湾国家3000亿美元的人工智能支出。",
-          "url": "https://flash.jin10.com/detail/20260309005041818800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            17,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时19分 ~ 02时58分]"
-        },
-        {
-          "title": "汇市盘初，欧元兑美元EUR/USD下跌0.6%，报1.1546；美元兑日元USD/JPY涨0.15%，报158.02。",
-          "url": "https://flash.jin10.com/detail/20260309043317862800",
-          "source": "金十数据",
-          "ranks": [
-            7,
             15,
-            22
+            27
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[05时19分 ~ 06时19分]"
-        },
-        {
-          "title": "美元指数DXY突破99，日内涨0.45%。",
-          "url": "https://flash.jin10.com/detail/20260309051918705800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时45分 ~ 06时19分]"
-        },
-        {
-          "title": "WTI原油站上101美元/桶，日内涨10.74%。",
-          "url": "https://flash.jin10.com/detail/20260309060059618800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
-          "title": "WTI原油期货涨破100美元关口，为2002年7月来首次。",
-          "url": "https://wallstreetcn.com/livenews/3065929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "time_info": "[05时45分 ~ 06时48分]"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "多家黄金品牌宣布调价",
@@ -689,8 +808,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
         },
         {
           "title": "美国内政部长伯格姆：周五有1亿美元的黄金从委内瑞拉运到了美国。委内瑞拉人民将为特朗普树立一座伟大解放者的雕像。",
@@ -717,6 +836,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 01时19分]"
+        },
+        {
+          "title": "现货黄金亚市盘初冲高回落，在触及5192.04美元/盎司后快速走低，最低触及5120.98美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3065932",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
+        },
+        {
+          "title": "现货黄金周一高开，最高至5197.85美元/盎司，现回落至5120美元/盎司附近；现货白银小幅高开，最高逼近85美元/盎司，现回落近2美元，跌破83美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260309060829060800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时48分"
         }
       ]
     },
@@ -735,8 +876,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时22分 ~ 06时19分]"
+          "appearance_count": 18,
+          "time_info": "[00时22分 ~ 06时48分]"
         }
       ]
     }
