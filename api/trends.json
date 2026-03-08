@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-08T20:37:06.293397+08:00",
-  "total_titles_processed": 1373,
+  "generated_at": "2026-03-08T21:37:33.514400+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普：目前无计划在伊朗部署地面部队",
@@ -88,11 +88,25 @@
             10,
             9,
             8,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时54分 ~ 21时37分]"
+        },
+        {
+          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
+          "url": "https://wallstreetcn.com/articles/3766970",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 10,
-          "time_info": "[16时54分 ~ 20时37分]"
+          "time_info": "[17时25分 ~ 21时37分]"
         },
         {
           "title": "委内瑞拉代总统致函特朗普",
@@ -106,11 +120,12 @@
             18,
             15,
             20,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时42分 ~ 19时43分]"
+          "appearance_count": 19,
+          "time_info": "[09时42分 ~ 21时37分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -119,24 +134,12 @@
           "ranks": [
             19,
             20,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时54分 ~ 20时37分]"
-        },
-        {
-          "title": "特朗普：已排除库尔德武装参战可能，部署地面部队需要“非常好的理由”",
-          "url": "https://wallstreetcn.com/articles/3766970",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时25分 ~ 20时37分]"
+          "appearance_count": 11,
+          "time_info": "[16时54分 ~ 21时37分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书拉里贾尼：特朗普说他必须干预伊朗未来领导人的选择，这说明他是个极其落后的人。",
@@ -374,11 +377,12 @@
           "url": "https://wallstreetcn.com/livenews/3065878",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时37分 ~ 21时37分]"
         },
         {
           "title": "据福克斯新闻：特朗普已从佛罗里达出发，前往特拉华州的多佛空军基地，以向在伊朗冲突中阵亡的美国军人致敬。",
@@ -391,6 +395,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时17分 ~ 01时45分]"
+        },
+        {
+          "title": "据德黑兰时报：一位政治消息人士透露，伊朗总统昨天的讲话是一个试探美国反应的陷阱。结果很有趣：特朗普欣喜若狂，并热情洋溢地谈论伊朗的投降。",
+          "url": "https://flash.jin10.com/detail/20260308210942502800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国总统特朗普：我们士兵在这场战争中的牺牲是为了整个世界，而不仅仅是中东。",
@@ -438,6 +453,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 01时17分]"
+        },
+        {
+          "title": "王毅谈特朗普访华",
+          "url": "https://www.douyin.com/hot/2423029",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "美国总统特朗普：美国参议院应该专注于，必要时完全专注于《拯救美国法案》，这是大家都想要的！",
@@ -529,12 +555,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时43分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：（谈特朗普干预伊朗领导人选举）这不关任何人的事。",
+          "url": "https://flash.jin10.com/detail/20260308204022720800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "美国总统特朗普：《拯救美国法案》比任何事情都重要。必须放在首位。作为总统，在此法案通过之前，我不会签署其他法案，而且绝不能是妥协的弱化版本。",
+          "url": "https://flash.jin10.com/detail/20260308202401078800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "申观两会｜当AI按下加速键，人与行业将走向何方？",
@@ -560,8 +608,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时49分 ~ 20时37分]"
+          "appearance_count": 14,
+          "time_info": "[15时49分 ~ 21时37分]"
         },
         {
           "title": "破5亿播放AI短剧成本仅3000元",
@@ -756,11 +804,39 @@
           "ranks": [
             11,
             8,
-            5
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时52分 ~ 21时37分]"
+        },
+        {
+          "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
+          "url": "https://www.cls.cn/detail/2306367",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            4,
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[17时52分 ~ 20时37分]"
+          "time_info": "[18时20分 ~ 21时37分]"
+        },
+        {
+          "title": "AI龙虾爆火工信部发布高危风险预警",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E5%8D%B1%E9%A3%8E%E9%99%A9%E9%A2%84%E8%AD%A6%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时20分 ~ 21时37分]"
         },
         {
           "title": "AI 短剧与 AI 漫剧正以低成本、高效率迅速崛起，这会颠覆传统短剧行业吗？此新兴行业未来前景如何？",
@@ -772,32 +848,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时21分 ~ 02时56分]"
-        },
-        {
-          "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
-          "url": "https://www.cls.cn/detail/2306367",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 20时37分]"
-        },
-        {
-          "title": "AI龙虾爆火工信部发布高危风险预警",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%8F%91%E5%B8%83%E9%AB%98%E5%8D%B1%E9%A3%8E%E9%99%A9%E9%A2%84%E8%AD%A6%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时20分 ~ 20时37分]"
         },
         {
           "title": "假如AI取代了UP主",
@@ -877,6 +927,20 @@
           "time_info": "[12时07分 ~ 15时06分]"
         },
         {
+          "title": "AI “养龙虾”火了！上市公司扎堆回应",
+          "url": "https://wallstreetcn.com/livenews/3065866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 21时37分]"
+        },
+        {
           "title": "“龙虾”狂欢①4个月25万星标！开源智能体“龙虾”为何能席卷AI圈",
           "url": "https://m.thepaper.cn/newsDetail_forward_32723518",
           "source": "澎湃新闻",
@@ -928,19 +992,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时42分 ~ 12时07分]"
-        },
-        {
-          "title": "AI “养龙虾”火了！上市公司扎堆回应",
-          "url": "https://wallstreetcn.com/livenews/3065866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 20时37分]"
         },
         {
           "title": "破 5 亿播放 AI 短剧成本仅 3000，这是新的风口吗？给影视行业带来哪些影响？",
@@ -998,6 +1049,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时49分 ~ 15时50分]"
+        },
+        {
+          "title": "深圳龙岗拟首发“AI龙虾十条”",
+          "url": "https://wallstreetcn.com/articles/3766977",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "3000元成本AI短剧5亿播放？导演澄清",
+          "url": "https://www.toutiao.com/trending/7614214812960034340/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
+          "url": "https://www.cls.cn/detail/2306295",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "AI龙虾到底能干什么",
@@ -1090,8 +1174,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时07分 ~ 20时37分]"
+          "appearance_count": 19,
+          "time_info": "[12时07分 ~ 21时37分]"
         },
         {
           "title": "两会外长会｜就涉台议题，王毅四问日本：有什么资格插手？",
@@ -1105,8 +1189,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时54分 ~ 20时37分]"
+          "appearance_count": 11,
+          "time_info": "[16时54分 ~ 21时37分]"
         },
         {
           "title": "日本频现“撞人族” 中国游客发声",
@@ -1157,6 +1241,17 @@
           "time_info": "[12时07分 ~ 16时25分]"
         },
         {
+          "title": "王毅表示中日关系取决于日方选择，日本没资格插手台湾事务，如何解读?",
+          "url": "https://www.zhihu.com/question/2013934915129974854",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时17分 ~ 21时37分]"
+        },
+        {
           "title": "霍尔木兹海峡关闭阻碍从中东进口原材料，日本可能面临乙烯生产中断",
           "url": "https://wallstreetcn.com/livenews/3065709",
           "source": "华尔街见闻-快讯",
@@ -1167,17 +1262,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 03时19分]"
-        },
-        {
-          "title": "王毅表示中日关系取决于日方选择，日本没资格插手台湾事务，如何解读?",
-          "url": "https://www.zhihu.com/question/2013934915129974854",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时17分 ~ 20时37分]"
         },
         {
           "title": "日本没资格插手台湾事务",
@@ -1226,8 +1310,37 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时07分 ~ 20时37分]"
+          "appearance_count": 19,
+          "time_info": "[12时07分 ~ 21时37分]"
+        },
+        {
+          "title": "据知情人士透露，私募KKR寻求按至多30亿美元出售冷却公司CoolIT Systems。 该公司正与顾问们研究这个计划。 该公司的液冷系统应用于人工智能（AI）基础设施领域。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3065853",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8,
+            11,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时50分 ~ 21时37分]"
+        },
+        {
+          "title": "埃及镑兑美元在当地银行业走弱至52埃及镑下方。",
+          "url": "https://wallstreetcn.com/livenews/3065868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            4,
+            7,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 21时37分]"
         },
         {
           "title": "据英国金融时报：KKR拟以数十亿美元出售数据中心冷却公司。",
@@ -1242,33 +1355,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[18时20分 ~ 19时43分]"
-        },
-        {
-          "title": "据知情人士透露，私募KKR寻求按至多30亿美元出售冷却公司CoolIT Systems。 该公司正与顾问们研究这个计划。 该公司的液冷系统应用于人工智能（AI）基础设施领域。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3065853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时50分 ~ 20时37分]"
-        },
-        {
-          "title": "埃及镑兑美元在当地银行业走弱至52埃及镑下方。",
-          "url": "https://wallstreetcn.com/livenews/3065868",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 20时37分]"
         },
         {
           "title": "以色列央行：2月份外汇储备为2345.53亿美元，1月份为2330.42亿美元。",
@@ -1318,11 +1404,12 @@
           "ranks": [
             13,
             10,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时42分 ~ 20时37分]"
+          "appearance_count": 21,
+          "time_info": "[09时42分 ~ 21时37分]"
         },
         {
           "title": "隋坡教你做黄金蛋炒饭",
@@ -1576,8 +1663,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[13时28分 ~ 20时37分]"
+          "appearance_count": 18,
+          "time_info": "[13时28分 ~ 21时37分]"
         }
       ]
     }
