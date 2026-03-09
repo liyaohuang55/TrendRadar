@@ -1,11 +1,701 @@
 {
-  "generated_at": "2026-03-09T18:40:55.843419+08:00",
-  "total_titles_processed": 1550,
+  "generated_at": "2026-03-09T19:32:29.199131+08:00",
+  "total_titles_processed": 1639,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "日本",
+      "match_count": 59,
+      "titles": [
+        {
+          "title": "王毅向日本发出灵魂4问",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E7%81%B5%E9%AD%824%E9%97%AE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[01时19分 ~ 09时44分]"
+        },
+        {
+          "title": "王毅表示中日关系取决于日方选择，日本没资格插手台湾事务，如何解读?",
+          "url": "https://www.zhihu.com/question/2013934915129974854",
+          "source": "知乎",
+          "ranks": [
+            5,
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 21,
+          "time_info": "[00时22分 ~ 07时46分]"
+        },
+        {
+          "title": "木柜子痴硬闯日本,晒照挑衅",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351507&amp;topic_name=%E6%9C%A8%E6%9F%9C%E5%AD%90%E7%97%B4%E7%A1%AC%E9%97%AF%E6%97%A5%E6%9C%AC%2C%E6%99%92%E7%85%A7%E6%8C%91%E8%A1%85",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 31,
+          "time_info": "[00时51分 ~ 19时32分]"
+        },
+        {
+          "title": "日本品牌正被中国大规模收购",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E6%AD%A3%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%94%B6%E8%B4%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            16,
+            14,
+            18,
+            19,
+            21,
+            17,
+            20,
+            22,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 32,
+          "time_info": "[00时22分 ~ 19时32分]"
+        },
+        {
+          "title": "两会外长会｜就涉台议题，王毅四问日本：有什么资格插手？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32726646",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 22,
+          "time_info": "[00时22分 ~ 09时44分]"
+        },
+        {
+          "title": "日本学者 Cell 子刊发文，首次证实「人可以经肛门呼吸」，相关研究有哪些应用场景和实际意义？",
+          "url": "https://www.zhihu.com/question/2012579639827063482",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时12分 ~ 19时32分]"
+        },
+        {
+          "title": "王毅：台湾事务日本有什么资格插手",
+          "url": "https://www.toutiao.com/trending/7614053753309842963/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            27,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时27分 ~ 06时19分]"
+        },
+        {
+          "title": "全球第三大战略原油储备！日本即将“放油”？",
+          "url": "https://wallstreetcn.com/articles/3766995",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 19时32分]"
+        },
+        {
+          "title": "日本部署射程1000公里左右远程导弹",
+          "url": "https://www.toutiao.com/trending/7614379386679738431/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时38分 ~ 19时32分]"
+        },
+        {
+          "title": "据日经新闻：预计维斯塔斯需投资数百亿日元，维斯塔斯还希望，能获得日本经济、贸易和工业省的补贴。",
+          "url": "https://flash.jin10.com/detail/20260309043828672800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 06时19分]"
+        },
+        {
+          "title": "据日经新闻：维斯塔斯计划于2029财年前在日本设立工厂，以把握不断增长的需求，并进一步拓展亚洲其他地区的业务。",
+          "url": "https://flash.jin10.com/detail/20260309043629742800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 06时19分]"
+        },
+        {
+          "title": "据日经新闻：日本经济产业省与丹麦风力发电公司维斯塔斯将于周一签署谅解备忘录，维斯塔斯将在日本建造风力涡轮机。",
+          "url": "https://flash.jin10.com/detail/20260309043609694800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时19分 ~ 06时19分]"
+        },
+        {
+          "title": "日本外务省：当地时间8日晚上，208名日本公民从卡塔尔首都多哈通过陆路出境，安全抵达沙特首都利雅得。政府将继续密切关注局势变化，确保日本公民的安全。",
+          "url": "https://flash.jin10.com/detail/20260309045514664800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时45分 ~ 06时48分]"
+        },
+        {
+          "title": "台湾当局官员窜访日本谋“独”，外交部：鬼鬼祟祟，令人不齿",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32732853",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 19时32分]"
+        },
+        {
+          "title": "日本部署远程导弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 19时32分]"
+        },
+        {
+          "title": "日本1月劳工现金收入同比 3%，预期 2.8%，前值 2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3065956",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "日本1月劳动现金收入年率 3%，前值2.40%。",
+          "url": "https://flash.jin10.com/detail/20260309073002337800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "日本1月加班工资年率 3.3%，前值0.9%。",
+          "url": "https://flash.jin10.com/detail/20260309073002334800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "交易商：沙特阿美在罕见的招标中向一家日本炼油商出售200万桶阿拉伯超轻原油。",
+          "url": "https://flash.jin10.com/detail/20260309144110551800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "日本着手准备释放石油储备，以应对中东局势",
+          "url": "https://flash.jin10.com/detail/20260309143946873800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "日本首次部署远程导弹，可攻击邻国沿海区域",
+          "url": "https://news.ifeng.com/c/8rMCypUDBZ8",
+          "source": "凤凰网",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时32分]"
+        },
+        {
+          "title": "卓荣泰与日本勾连的政治算盘是什么",
+          "url": "https://www.toutiao.com/trending/7614487813475762230/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时32分]"
+        },
+        {
+          "title": "据时事通讯社报道：日本外相茂木敏充已向伊朗同僚呼吁尽快释放被扣押的日本国民。",
+          "url": "https://flash.jin10.com/detail/20260309191158013800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "日本30年期国债收益率上行11.5个基点至3.5%。 日本40年期国债收益率上行11个基点至3.705%。",
+          "url": "https://wallstreetcn.com/livenews/3066213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日经225指数收跌5.2%，报52,728.72点。 日经225指数进入技术性回调，较2月份峰值下跌10%。 日本东证指数收跌3.8%，报3,575.84点。 韩国首尔综指收跌6%，报5,251.87点。",
+          "url": "https://wallstreetcn.com/livenews/3066252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "日本已通知石油储备机构准备释放石油储备。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3066248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "据日本时事通讯社：日本外相茂木敏充与伊朗外长通电话，对伊朗行动表示谴责。",
+          "url": "https://flash.jin10.com/detail/20260309191008237800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
+        },
+        {
+          "title": "日本首相高市早苗：政府正考虑动用储备，以确保汽油价格不会涨至家庭难以承受的水平。",
+          "url": "https://flash.jin10.com/detail/20260309132130935800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本东证指数跌5.1%，至3526.02点。",
+          "url": "https://wallstreetcn.com/livenews/3066165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "日本首相高市早苗：目前很难说中东冲突将如何影响日本经济。 许多国民对汽油价格上涨感到担忧，将考虑采取措施限制汽油价格。 政府为减轻冲突冲击而采取的任何措施，可能都不会涉及对2026财年预算的修改。",
+          "url": "https://wallstreetcn.com/livenews/3066208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "40年期日本国债收益率上升11.0个基点，至3.705%。",
+          "url": "https://flash.jin10.com/detail/20260309132055533800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本首相高市早苗：与伊朗就霍尔木兹海峡安全问题会谈。",
+          "url": "https://wallstreetcn.com/livenews/3066245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "30年期日本国债收益率上升11.5个基点，至3.500%。",
+          "url": "https://flash.jin10.com/detail/20260309132047159800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "据日经新闻：日本已要求石油储备机构准备释放石油储备。",
+          "url": "https://flash.jin10.com/detail/20260309142343506800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "日本首相高市早苗：政府为缓解冲突影响所采取的任何措施，都不太可能涉及修改2026财年预算。",
+          "url": "https://flash.jin10.com/detail/20260309131304739800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：日元走弱是物价上涨的因素之一。 日常的货币政策操作由日本央行自行决定。",
+          "url": "https://wallstreetcn.com/livenews/3066204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本保险公司将卡塔尔海域纳入更高保费范围。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3066353",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "日本首相高市早苗：许多民众担忧汽油价格上涨，政府正研究可采取的措施。",
+          "url": "https://flash.jin10.com/detail/20260309131224786800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本首相高市早苗：目前难以断言中东冲突将如何影响日本经济。",
+          "url": "https://flash.jin10.com/detail/20260309131148972800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本1月领先指标初值 112.4，预期 113，前值 111。",
+          "url": "https://wallstreetcn.com/livenews/3066202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：日常货币操作由日本央行决定。",
+          "url": "https://flash.jin10.com/detail/20260309130923055800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "据日经新闻：日本保险公司将把卡塔尔海域纳入提高保费的范围。",
+          "url": "https://flash.jin10.com/detail/20260309160951639800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
+          "title": "日本1月同步指标初值 116.8，预期 116.9，前值 114.3。",
+          "url": "https://wallstreetcn.com/livenews/3066201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本2月经济观察家现况指数 48.9，预期 48，前值 47.6。",
+          "url": "https://wallstreetcn.com/livenews/3066237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "凯投宏观：工资上涨支持日本央行加息，但伊朗冲突成最大变数",
+          "url": "https://flash.jin10.com/detail/20260309111618513800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        },
+        {
+          "title": "日本2月经济观察家前景指数 50，预期 50.6，前值 50.1。",
+          "url": "https://wallstreetcn.com/livenews/3066236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：日元走弱是物价上涨的因素之一。",
+          "url": "https://flash.jin10.com/detail/20260309130659686800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "国台办评卓荣泰窜访日本：鸡鸣狗盗，令人不齿",
+          "url": "https://wallstreetcn.com/livenews/3066387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时43分"
+        },
+        {
+          "title": "日本1月同步指标初值 116.8，预期116.9，前值114.3。",
+          "url": "https://flash.jin10.com/detail/20260309130039283800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本2月经济观察家前景指数 50，预期50.6，前值50.1。",
+          "url": "https://flash.jin10.com/detail/20260309140026210800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "日本1月领先指标初值 112.4，预期113，前值111。",
+          "url": "https://flash.jin10.com/detail/20260309130033617800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本2月经济观察家现况指数 48.9，预期48，前值47.6。",
+          "url": "https://flash.jin10.com/detail/20260309140015200800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "日本1月领先指标月率初值 2.1%，前值1.1%。",
+          "url": "https://flash.jin10.com/detail/20260309130010694800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本20年期国债收益率上行8.5个基点，至3.085%。",
+          "url": "https://wallstreetcn.com/livenews/3066035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时44分"
+        },
+        {
+          "title": "日本1月同步指标月率初值 2.5%，前值-0.6%。",
+          "url": "https://flash.jin10.com/detail/20260309130010673800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本外汇事务负责人三村淳：不断上升的偿债成本限制了日本的财政空间。",
+          "url": "https://wallstreetcn.com/livenews/3066183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日本首相高市早苗：将采取措施扩大原油采购来源。 政府正考虑动用预备资金，以确保汽油价格不至于涨到家庭无法承受的水平。 目前不考虑采取额外的预算措施，因为2025和2026财年预算中仍有预备资金可供调用。 日本尚未收到美国关于将国防预算占GDP比例进一步提高的任何提议。",
+          "url": "https://wallstreetcn.com/livenews/3066226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "日本首相高市早苗：日本未收到美国提出的提高国防预算占GDP比例的提议。",
+          "url": "https://flash.jin10.com/detail/20260309135106639800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时56分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：金融市场出现显著波动。 密切关注市场动向。",
+          "url": "https://wallstreetcn.com/livenews/3066292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "国际油价突破每桶 100 美元，为 2022 年来首次，会长期维持在高位吗？对我们的生活影响有多大？",
@@ -16,8 +706,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时44分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 19时32分]"
         },
         {
           "title": "卡塔尔警告油价或升至每桶 150 美元，国内油价或迎四年来最大涨幅，后续还会涨吗？对经济有多大影响？",
@@ -108,6 +798,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时19分 ~ 02时58分]"
+        },
+        {
+          "title": "G7拟协调释放石油储备！美油回落至100美元下方，全球股债双杀、芯片股普遍下跌，金银跌幅收窄",
+          "url": "https://wallstreetcn.com/articles/3766990",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时32分]"
         },
         {
           "title": "国际油价突破每桶100美元",
@@ -236,17 +937,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时43分 ~ 18时40分]"
-        },
-        {
-          "title": "G7拟协调释放石油储备！美油回落至100美元下方，全球股债双杀、芯片股普遍下跌，金银跌幅收窄",
-          "url": "https://wallstreetcn.com/articles/3766990",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "美国天然气期货日内上涨6.00%，现报3.379美元/百万英热。",
@@ -395,6 +1085,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时48分 ~ 07时19分]"
+        },
+        {
+          "title": "长和就巴拿马港口被接管索赔20亿美元",
+          "url": "https://www.toutiao.com/trending/7614466986240442387/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "韩国兑美元以1,495.5收盘，创下自2009年3月以来的最低收盘水平。",
@@ -612,7 +1313,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -674,672 +1375,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 57,
-      "titles": [
-        {
-          "title": "王毅向日本发出灵魂4问",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AF%85%E5%90%91%E6%97%A5%E6%9C%AC%E5%8F%91%E5%87%BA%E7%81%B5%E9%AD%824%E9%97%AE%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时19分 ~ 09时44分]"
-        },
-        {
-          "title": "王毅表示中日关系取决于日方选择，日本没资格插手台湾事务，如何解读?",
-          "url": "https://www.zhihu.com/question/2013934915129974854",
-          "source": "知乎",
-          "ranks": [
-            5,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时22分 ~ 07时46分]"
-        },
-        {
-          "title": "木柜子痴硬闯日本,晒照挑衅",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351507&amp;topic_name=%E6%9C%A8%E6%9F%9C%E5%AD%90%E7%97%B4%E7%A1%AC%E9%97%AF%E6%97%A5%E6%9C%AC%2C%E6%99%92%E7%85%A7%E6%8C%91%E8%A1%85",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时51分 ~ 18时40分]"
-        },
-        {
-          "title": "日本品牌正被中国大规模收购",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%93%81%E7%89%8C%E6%AD%A3%E8%A2%AB%E4%B8%AD%E5%9B%BD%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%94%B6%E8%B4%AD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            16,
-            14,
-            18,
-            19,
-            21,
-            17,
-            20,
-            22,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时22分 ~ 18时40分]"
-        },
-        {
-          "title": "两会外长会｜就涉台议题，王毅四问日本：有什么资格插手？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32726646",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时22分 ~ 09时44分]"
-        },
-        {
-          "title": "日本学者 Cell 子刊发文，首次证实「人可以经肛门呼吸」，相关研究有哪些应用场景和实际意义？",
-          "url": "https://www.zhihu.com/question/2012579639827063482",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时12分 ~ 18时40分]"
-        },
-        {
-          "title": "王毅：台湾事务日本有什么资格插手",
-          "url": "https://www.toutiao.com/trending/7614053753309842963/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            27,
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时27分 ~ 06时19分]"
-        },
-        {
-          "title": "据日经新闻：预计维斯塔斯需投资数百亿日元，维斯塔斯还希望，能获得日本经济、贸易和工业省的补贴。",
-          "url": "https://flash.jin10.com/detail/20260309043828672800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 06时19分]"
-        },
-        {
-          "title": "据日经新闻：维斯塔斯计划于2029财年前在日本设立工厂，以把握不断增长的需求，并进一步拓展亚洲其他地区的业务。",
-          "url": "https://flash.jin10.com/detail/20260309043629742800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 06时19分]"
-        },
-        {
-          "title": "据日经新闻：日本经济产业省与丹麦风力发电公司维斯塔斯将于周一签署谅解备忘录，维斯塔斯将在日本建造风力涡轮机。",
-          "url": "https://flash.jin10.com/detail/20260309043609694800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时19分 ~ 06时19分]"
-        },
-        {
-          "title": "全球第三大战略原油储备！日本即将“放油”？",
-          "url": "https://wallstreetcn.com/articles/3766995",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时40分]"
-        },
-        {
-          "title": "日本外务省：当地时间8日晚上，208名日本公民从卡塔尔首都多哈通过陆路出境，安全抵达沙特首都利雅得。政府将继续密切关注局势变化，确保日本公民的安全。",
-          "url": "https://flash.jin10.com/detail/20260309045514664800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时45分 ~ 06时48分]"
-        },
-        {
-          "title": "日本部署射程1000公里左右远程导弹",
-          "url": "https://www.toutiao.com/trending/7614379386679738431/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时38分 ~ 18时40分]"
-        },
-        {
-          "title": "日本1月劳工现金收入同比 3%，预期 2.8%，前值 2.4%。",
-          "url": "https://wallstreetcn.com/livenews/3065956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "日本1月劳动现金收入年率 3%，前值2.40%。",
-          "url": "https://flash.jin10.com/detail/20260309073002337800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "日本1月加班工资年率 3.3%，前值0.9%。",
-          "url": "https://flash.jin10.com/detail/20260309073002334800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "交易商：沙特阿美在罕见的招标中向一家日本炼油商出售200万桶阿拉伯超轻原油。",
-          "url": "https://flash.jin10.com/detail/20260309144110551800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "日本着手准备释放石油储备，以应对中东局势",
-          "url": "https://flash.jin10.com/detail/20260309143946873800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "台湾当局官员窜访日本谋“独”，外交部：鬼鬼祟祟，令人不齿",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32732853",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时40分]"
-        },
-        {
-          "title": "日本部署远程导弹",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时40分]"
-        },
-        {
-          "title": "日本30年期国债收益率上行11.5个基点至3.5%。 日本40年期国债收益率上行11个基点至3.705%。",
-          "url": "https://wallstreetcn.com/livenews/3066213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日经225指数收跌5.2%，报52,728.72点。 日经225指数进入技术性回调，较2月份峰值下跌10%。 日本东证指数收跌3.8%，报3,575.84点。 韩国首尔综指收跌6%，报5,251.87点。",
-          "url": "https://wallstreetcn.com/livenews/3066252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "日本已通知石油储备机构准备释放石油储备。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3066248",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "日本首相高市早苗：政府正考虑动用储备，以确保汽油价格不会涨至家庭难以承受的水平。",
-          "url": "https://flash.jin10.com/detail/20260309132130935800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本东证指数跌5.1%，至3526.02点。",
-          "url": "https://wallstreetcn.com/livenews/3066165",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "日本首相高市早苗：目前很难说中东冲突将如何影响日本经济。 许多国民对汽油价格上涨感到担忧，将考虑采取措施限制汽油价格。 政府为减轻冲突冲击而采取的任何措施，可能都不会涉及对2026财年预算的修改。",
-          "url": "https://wallstreetcn.com/livenews/3066208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本首次部署远程导弹，可攻击邻国沿海区域",
-          "url": "https://news.ifeng.com/c/8rMCypUDBZ8",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "40年期日本国债收益率上升11.0个基点，至3.705%。",
-          "url": "https://flash.jin10.com/detail/20260309132055533800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本首相高市早苗：与伊朗就霍尔木兹海峡安全问题会谈。",
-          "url": "https://wallstreetcn.com/livenews/3066245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "30年期日本国债收益率上升11.5个基点，至3.500%。",
-          "url": "https://flash.jin10.com/detail/20260309132047159800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "据日经新闻：日本已要求石油储备机构准备释放石油储备。",
-          "url": "https://flash.jin10.com/detail/20260309142343506800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "日本首相高市早苗：政府为缓解冲突影响所采取的任何措施，都不太可能涉及修改2026财年预算。",
-          "url": "https://flash.jin10.com/detail/20260309131304739800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：日元走弱是物价上涨的因素之一。 日常的货币政策操作由日本央行自行决定。",
-          "url": "https://wallstreetcn.com/livenews/3066204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本保险公司将卡塔尔海域纳入更高保费范围。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3066353",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "日本首相高市早苗：许多民众担忧汽油价格上涨，政府正研究可采取的措施。",
-          "url": "https://flash.jin10.com/detail/20260309131224786800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本首相高市早苗：目前难以断言中东冲突将如何影响日本经济。",
-          "url": "https://flash.jin10.com/detail/20260309131148972800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本1月领先指标初值 112.4，预期 113，前值 111。",
-          "url": "https://wallstreetcn.com/livenews/3066202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：日常货币操作由日本央行决定。",
-          "url": "https://flash.jin10.com/detail/20260309130923055800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "据日经新闻：日本保险公司将把卡塔尔海域纳入提高保费的范围。",
-          "url": "https://flash.jin10.com/detail/20260309160951639800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时38分"
-        },
-        {
-          "title": "日本1月同步指标初值 116.8，预期 116.9，前值 114.3。",
-          "url": "https://wallstreetcn.com/livenews/3066201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本2月经济观察家现况指数 48.9，预期 48，前值 47.6。",
-          "url": "https://wallstreetcn.com/livenews/3066237",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "凯投宏观：工资上涨支持日本央行加息，但伊朗冲突成最大变数",
-          "url": "https://flash.jin10.com/detail/20260309111618513800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时13分"
-        },
-        {
-          "title": "日本2月经济观察家前景指数 50，预期 50.6，前值 50.1。",
-          "url": "https://wallstreetcn.com/livenews/3066236",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "卓荣泰与日本勾连的政治算盘是什么",
-          "url": "https://www.toutiao.com/trending/7614487813475762230/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：日元走弱是物价上涨的因素之一。",
-          "url": "https://flash.jin10.com/detail/20260309130659686800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "国台办评卓荣泰窜访日本：鸡鸣狗盗，令人不齿",
-          "url": "https://wallstreetcn.com/livenews/3066387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
-          "title": "日本1月同步指标初值 116.8，预期116.9，前值114.3。",
-          "url": "https://flash.jin10.com/detail/20260309130039283800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本2月经济观察家前景指数 50，预期50.6，前值50.1。",
-          "url": "https://flash.jin10.com/detail/20260309140026210800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "日本1月领先指标初值 112.4，预期113，前值111。",
-          "url": "https://flash.jin10.com/detail/20260309130033617800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本2月经济观察家现况指数 48.9，预期48，前值47.6。",
-          "url": "https://flash.jin10.com/detail/20260309140015200800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "日本1月领先指标月率初值 2.1%，前值1.1%。",
-          "url": "https://flash.jin10.com/detail/20260309130010694800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本20年期国债收益率上行8.5个基点，至3.085%。",
-          "url": "https://wallstreetcn.com/livenews/3066035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时44分"
-        },
-        {
-          "title": "日本1月同步指标月率初值 2.5%，前值-0.6%。",
-          "url": "https://flash.jin10.com/detail/20260309130010673800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本外汇事务负责人三村淳：不断上升的偿债成本限制了日本的财政空间。",
-          "url": "https://wallstreetcn.com/livenews/3066183",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时38分"
-        },
-        {
-          "title": "日本首相高市早苗：将采取措施扩大原油采购来源。 政府正考虑动用预备资金，以确保汽油价格不至于涨到家庭无法承受的水平。 目前不考虑采取额外的预算措施，因为2025和2026财年预算中仍有预备资金可供调用。 日本尚未收到美国关于将国防预算占GDP比例进一步提高的任何提议。",
-          "url": "https://wallstreetcn.com/livenews/3066226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "日本首相高市早苗：日本未收到美国提出的提高国防预算占GDP比例的提议。",
-          "url": "https://flash.jin10.com/detail/20260309135106639800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
-          "title": "日本内阁官房长官木原稔：金融市场出现显著波动。 密切关注市场动向。",
-          "url": "https://wallstreetcn.com/livenews/3066292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "美以伊战争｜伊朗新任最高领袖将揭晓，特朗普威胁",
@@ -1377,8 +1414,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时44分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[09时44分 ~ 19时32分]"
         },
         {
           "title": "两会外长会｜王毅谈特朗普访华：今年是中美关系“大年”",
@@ -1649,6 +1686,18 @@
           "time_info": "[13时38分 ~ 14时56分]"
         },
         {
+          "title": "特朗普：将与以总理共同作出停战决定",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 19时32分]"
+        },
+        {
           "title": "伊朗高官说特朗普不懂伊朗",
           "url": "https://wallstreetcn.com/livenews/3065934",
           "source": "华尔街见闻-快讯",
@@ -1673,6 +1722,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时48分 ~ 17时43分]"
+        },
+        {
+          "title": "特朗普回应拉里贾尼威胁",
+          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时32分]"
         },
         {
           "title": "特朗普以“拒签法案”为要挟 敦促参议院强推选举改革法",
@@ -1724,6 +1784,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时22分 ~ 01时19分]"
+        },
+        {
+          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
+          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 19时32分]"
         },
         {
           "title": "知情人士：特朗普政府拟与古巴达成经济协议",
@@ -1785,39 +1856,6 @@
           "time_info": "09时44分"
         },
         {
-          "title": "特朗普：将与以总理共同作出停战决定",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw2a",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时40分]"
-        },
-        {
-          "title": "特朗普回应拉里贾尼威胁",
-          "url": "https://news.ifeng.com/c/8rM7NkGzfDg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "胡锡进：伊朗成心气特朗普，把一口带血的痰吐他脸上",
-          "url": "https://news.ifeng.com/c/8rM8XXIvw5H",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时40分]"
-        },
-        {
           "title": "特朗普：未经我批准 伊朗新任最高领袖不会在位太久",
           "url": "https://flash.jin10.com/detail/20260308231657473800",
           "source": "金十数据",
@@ -1859,7 +1897,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1903,7 +1941,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1914,7 +1952,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1925,9 +1963,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "美国总统特使威特科夫、特朗普女婿库什纳访以行程推迟。（AXIOS）",
+          "url": "https://wallstreetcn.com/livenews/3066456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时32分"
         },
         {
           "title": "美国参议员汤姆·蒂利斯要求特朗普立即解雇国土安全顾问斯蒂芬·米勒。",
@@ -1944,7 +1993,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "周末要闻汇总：证监会发布短线交易监管规定；AI“养龙虾”火了",
@@ -1998,6 +2047,20 @@
           "time_info": "[00时22分 ~ 14时56分]"
         },
         {
+          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
+          "url": "https://wallstreetcn.com/articles/3766992",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时12分 ~ 19时32分]"
+        },
+        {
           "title": "券商分析师集体分享养“龙虾”教程，现象级AI智能体OpenClaw如何卷动投研圈？",
           "url": "https://www.cls.cn/detail/2306295",
           "source": "财联社热门",
@@ -2043,6 +2106,17 @@
           "time_info": "[00时22分 ~ 07时46分]"
         },
         {
+          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2013945403444257055",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时12分 ~ 19时32分]"
+        },
+        {
           "title": "【早报】深圳出手，“AI龙虾”支持政策来了；事关短线交易，证监会发新规",
           "url": "https://www.cls.cn/detail/2306525",
           "source": "财联社热门",
@@ -2053,31 +2127,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[09时44分 ~ 16时38分]"
-        },
-        {
-          "title": "首个龙虾大模型排行榜来了！两个国产 AI 杀进全球前三，养虾前必看",
-          "url": "https://wallstreetcn.com/articles/3766992",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时12分 ~ 18时40分]"
-        },
-        {
-          "title": "有写手用 AI 48 小时生成 500 万字长篇小说月入过万，AI 批量生产会对网文行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2013945403444257055",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时12分 ~ 18时40分]"
         },
         {
           "title": "TES主教练谈naiyou事件",
@@ -2159,18 +2208,6 @@
           "time_info": "[04时20分 ~ 05时45分]"
         },
         {
-          "title": "AI龙虾爆火,市民排长龙抢装",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351552&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%B8%82%E6%B0%91%E6%8E%92%E9%95%BF%E9%BE%99%E6%8A%A2%E8%A3%85",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时40分]"
-        },
-        {
           "title": "AI焦虑症",
           "url": "https://s.weibo.com/weibo?q=AI%E7%84%A6%E8%99%91%E7%97%87&t=31&band_rank=8&Refer=top",
           "source": "微博",
@@ -2178,19 +2215,33 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时43分 ~ 18时40分]"
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 19时32分]"
+        },
+        {
+          "title": "AI龙虾爆火,市民排长龙抢装",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351552&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%B8%82%E6%B0%91%E6%8E%92%E9%95%BF%E9%BE%99%E6%8A%A2%E8%A3%85",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时43分 ~ 19时32分]"
         },
         {
           "title": "小片片解读AI神作牌子",
           "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E7%89%87%E7%89%87%E8%A7%A3%E8%AF%BBAI%E7%A5%9E%E4%BD%9C%E7%89%8C%E5%AD%90",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时32分]"
         },
         {
           "title": "如何评价知乎创始人周源 2026 年的提案《AI 漫剧侵权速度远超维权，应建立快速处置绿色通道》？",
@@ -2199,9 +2250,20 @@
           "ranks": [
             16
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时32分]"
+        },
+        {
+          "title": "微博AI发文称，微博接入KimiClaw，用户关注@微博龙虾助手并发送私信，即可远程连接与控制AI智能体。",
+          "url": "https://wallstreetcn.com/livenews/3066474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "19时32分"
         },
         {
           "title": "机构：2025年全球AI眼镜出货量达870万台 同比大幅增长322%",
@@ -2305,8 +2367,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时48分 ~ 18时40分]"
+          "appearance_count": 5,
+          "time_info": "[15时48分 ~ 19时32分]"
         },
         {
           "title": "金十图示：2026年03月09日（周一）黄金ETF持仓报告",
@@ -2397,6 +2459,18 @@
           "time_info": "07时46分"
         },
         {
+          "title": "男子结婚17年逢年过节就买黄金宠妻",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A17%E5%B9%B4%E9%80%A2%E5%B9%B4%E8%BF%87%E8%8A%82%E5%B0%B1%E4%B9%B0%E9%BB%84%E9%87%91%E5%AE%A0%E5%A6%BB",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时43分 ~ 19时32分]"
+        },
+        {
           "title": "现货黄金跌破5100美元/盎司，日内跌1.45%。",
           "url": "https://flash.jin10.com/detail/20260309071119906800",
           "source": "金十数据",
@@ -2441,17 +2515,6 @@
           "time_info": "16时38分"
         },
         {
-          "title": "男子结婚17年逢年过节就买黄金宠妻",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E7%BB%93%E5%A9%9A17%E5%B9%B4%E9%80%A2%E5%B9%B4%E8%BF%87%E8%8A%82%E5%B0%B1%E4%B9%B0%E9%BB%84%E9%87%91%E5%AE%A0%E5%A6%BB",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时43分"
-        },
-        {
           "title": "黄金市场谁在赚谁在亏",
           "url": "https://www.toutiao.com/trending/7615140479604100644/",
           "source": "今日头条",
@@ -2480,11 +2543,12 @@
             14,
             13,
             16,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[00时22分 ~ 18时40分]"
+          "appearance_count": 32,
+          "time_info": "[00时22分 ~ 19时32分]"
         },
         {
           "title": "国际油价飙升正推倒“多米诺骨牌”：亚马逊、英伟达等将遭遇连锁冲击",
@@ -2544,7 +2608,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
