@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T19:31:58.531961+08:00",
-  "total_titles_processed": 1813,
+  "generated_at": "2026-03-11T19:57:10.477361+08:00",
+  "total_titles_processed": 1879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 110,
+      "match_count": 113,
       "titles": [
         {
           "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
@@ -16,8 +16,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时26分 ~ 19时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时26分 ~ 19时57分]"
         },
         {
           "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
@@ -77,8 +77,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时02分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[16时02分 ~ 19时57分]"
         },
         {
           "title": "周二（3月10日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8790元，较周一纽约尾盘涨85点，日内整体交投于6.8967-6.8605元区间。",
@@ -370,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "美国天然气期货日内涨幅扩大至3.00%，现报3.111美元/百万英热。",
+          "url": "https://flash.jin10.com/detail/20260311195231191800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "华平投资支持的PDG将发行债券，为数据中心融资50亿美元。",
@@ -733,6 +744,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "现货白银跌破一度86美元/盎司，日内跌2.66%。",
+          "url": "https://flash.jin10.com/detail/20260311194920899800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "WTI原油期货回落至81美元/桶下方，日内跌14.54%。",
           "url": "https://flash.jin10.com/detail/20260311010541609800",
           "source": "金十数据",
@@ -819,6 +841,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时08分"
+        },
+        {
+          "title": "伊朗哈塔姆·安比亚中央司令部发言人：美国无法用“人为措施”控制油价，做好油价涨到每桶200美元的准备。",
+          "url": "https://flash.jin10.com/detail/20260311194555060800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "曝美军方花900万美元买帝王蟹龙虾",
@@ -1058,7 +1091,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1069,7 +1102,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -1297,7 +1330,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 107,
+      "match_count": 110,
       "titles": [
         {
           "title": "美国希望停火？伊朗的条件是什么？伊朗发言人答凤凰问",
@@ -1359,11 +1392,12 @@
             12,
             11,
             13,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时53分 ~ 19时31分]"
+          "appearance_count": 31,
+          "time_info": "[00时53分 ~ 19时57分]"
         },
         {
           "title": "黎巴嫩政府找美国想同以色列和谈，美大使“爆粗口”",
@@ -1430,6 +1464,17 @@
           "time_info": "[04时28分 ~ 06时24分]"
         },
         {
+          "title": "美参议员：以色列逼我们打伊朗，美国显得太软弱了",
+          "url": "https://news.ifeng.com/c/8rPOHY9z0as",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 19时57分]"
+        },
+        {
           "title": "美国打伊朗 欧洲为啥“不跟”",
           "url": "https://www.toutiao.com/trending/7615276983672602667/",
           "source": "今日头条",
@@ -1482,6 +1527,29 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时07分 ~ 06时24分]"
+        },
+        {
+          "title": "佩斯科夫：普京暂无前往美国参加G20峰会的计划",
+          "url": "https://news.ifeng.com/c/8rPQuWjUwk5",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 19时57分]"
+        },
+        {
+          "title": "西班牙猛批德国：你表现得像是美国附庸",
+          "url": "https://news.ifeng.com/c/8rPOIjVIxPv",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 19时57分]"
         },
         {
           "title": "美以伊战争｜美国不想打了？可能酝酿一个更危险计划",
@@ -1638,17 +1706,6 @@
           "time_info": "[06时54分 ~ 07时56分]"
         },
         {
-          "title": "美参议员：以色列逼我们打伊朗，美国显得太软弱了",
-          "url": "https://news.ifeng.com/c/8rPOHY9z0as",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时31分]"
-        },
-        {
           "title": "业内消息人士称，美国石油巨头雪佛龙(CVX.N)和英国壳牌(SHEL.N)正接近与委内瑞拉达成自美国抓取马杜罗以来的首批大型石油生产协议。",
           "url": "https://flash.jin10.com/detail/20260311043647449800",
           "source": "金十数据",
@@ -1697,6 +1754,17 @@
           "time_info": "17时38分"
         },
         {
+          "title": "【伊朗武装部队发言人：“对等反击”已结束 将实施“连环打击”】记者获悉，当地时间3月11日，伊朗武装部队哈塔姆·安比亚中央司令部发言人在讲话中表示，伊朗以往的“对等反击”已经结束，从现在起，伊朗将实施“连环打击”（打击接踵而至）策略，不再维持一对一的报复节奏。发言人称，任何属于美国、以色列及其“伙伴”的船只，或其运载的石油货物，均被视为伊朗武装力量的“合法打击目标”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3068068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "美国称正在升级对伊朗的战争，削弱了双方谈判的可能性",
           "url": "https://flash.jin10.com/detail/20260311004423730800",
           "source": "金十数据",
@@ -1741,6 +1809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美媒爆料：美国称给予印度购买俄油临时豁免后，印度炼油商已购入约3000万桶俄油",
+          "url": "https://wallstreetcn.com/livenews/3068065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "报道：美国关键的参议员Tillis同意启动沃什的美联储主席提名程序",
@@ -1812,16 +1891,16 @@
           "time_info": "[16时53分 ~ 17时38分]"
         },
         {
-          "title": "佩斯科夫：普京暂无前往美国参加G20峰会的计划",
-          "url": "https://news.ifeng.com/c/8rPQuWjUwk5",
-          "source": "凤凰网",
+          "title": "美国3月6日当周MBA抵押贷款申请活动指数周环比 3.2%，前值 11%。",
+          "url": "https://wallstreetcn.com/livenews/3068040",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            12
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时31分]"
+          "time_info": "[19时31分 ~ 19时57分]"
         },
         {
           "title": "美国白宫：伊朗海军“不具备作战能力”",
@@ -1844,17 +1923,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时56分"
-        },
-        {
-          "title": "西班牙猛批德国：你表现得像是美国附庸",
-          "url": "https://news.ifeng.com/c/8rPOIjVIxPv",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时31分]"
         },
         {
           "title": "美联储主席提名人沃什拜会美国关键的共和党参议员蒂利斯，但没能劝退这位“拦路虎”",
@@ -1934,17 +2002,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
-        },
-        {
-          "title": "美国3月6日当周MBA抵押贷款申请活动指数周环比 3.2%，前值 11%。",
-          "url": "https://wallstreetcn.com/livenews/3068040",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         },
         {
           "title": "美国关键的共和党参议员蒂利斯会面后赞赏沃什，但仍拒绝解除对美联储的人事封锁",
@@ -2310,6 +2367,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "罗马尼亚总统：美国在对伊朗采取军事行动期间，其空中加油机、侦察监视设备及卫星通信系统将依托罗马尼亚的军事基地运作。",
+          "url": "https://flash.jin10.com/detail/20260311193927943800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
           "title": "美国驻加拿大多伦多领事馆遭枪击，无人伤亡",
           "url": "https://wallstreetcn.com/livenews/3067471",
           "source": "华尔街见闻-快讯",
@@ -2459,7 +2527,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -2481,7 +2549,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -2536,7 +2604,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         }
@@ -2544,7 +2612,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -2614,8 +2682,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时39分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[11时39分 ~ 19时57分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
@@ -2627,8 +2695,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时26分 ~ 19时31分]"
+          "appearance_count": 15,
+          "time_info": "[09时26分 ~ 19时57分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -2639,8 +2707,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时39分 ~ 19时31分]"
+          "appearance_count": 14,
+          "time_info": "[11时39分 ~ 19时57分]"
         },
         {
           "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
@@ -2665,8 +2733,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时55分 ~ 19时31分]"
+          "appearance_count": 16,
+          "time_info": "[07时55分 ~ 19时57分]"
         },
         {
           "title": "特朗普搅局前，中国狂囤石油，“太明智了”",
@@ -2705,6 +2773,17 @@
           "time_info": "[04时28分 ~ 06时54分]"
         },
         {
+          "title": "美以伊战争｜美媒：特朗普在美以伊战争中的致命误判",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时34分 ~ 19时57分]"
+        },
+        {
           "title": "美国总统特朗普：“美国优先炼油厂”在得州启动新的炼油厂。 感谢印度和Reliance在得克萨斯州炼油领域的投资。",
           "url": "https://wallstreetcn.com/livenews/3067576",
           "source": "华尔街见闻-快讯",
@@ -2730,17 +2809,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时32分 ~ 06时54分]"
-        },
-        {
-          "title": "美以伊战争｜美媒：特朗普在美以伊战争中的致命误判",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时34分 ~ 19时31分]"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -2800,6 +2868,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "市场消息：两名以色列官员称，以色列评估认为，美国总统特朗普尚未接近下令结束战争。",
+          "url": "https://flash.jin10.com/detail/20260311195046381800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         },
         {
           "title": "美国总统特朗普：我自豪地宣布，“美国优先炼油公司”（America First Refining）正在得克萨斯州布朗斯维尔市建设美国50年来首家新炼油厂。",
@@ -3019,7 +3098,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
         {
           "title": "“被中国封喉，日本比美国动作慢多了”",
@@ -3042,8 +3121,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时02分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[16时02分 ~ 19时57分]"
         },
         {
           "title": "国防部回应日本部署远程导弹",
@@ -3055,8 +3134,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时02分 ~ 19时31分]"
+          "appearance_count": 8,
+          "time_info": "[16时02分 ~ 19时57分]"
         },
         {
           "title": "国防部回应日本部署远程导弹",
@@ -3065,11 +3144,12 @@
           "ranks": [
             2,
             1,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 19时31分]"
+          "appearance_count": 7,
+          "time_info": "[16时53分 ~ 19时57分]"
         },
         {
           "title": "据朝日新闻：日本防卫大臣小泉进次郎考虑5月访问东南亚。",
@@ -3195,9 +3275,31 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
+        },
+        {
+          "title": "日本一地下管道冲出地面18米",
+          "url": "https://www.toutiao.com/trending/7615854342016876586/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
+          "title": "中方回应人权理事会呼吁日本正式道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BA%BA%E6%9D%83%E7%90%86%E4%BA%8B%E4%BC%9A%E5%91%BC%E5%90%81%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%BC%8F%E9%81%93%E6%AD%89%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "日本一艘停留在波斯湾的船只受损",
@@ -3328,7 +3430,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -3416,7 +3518,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时31分"
         },
@@ -3435,7 +3537,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 35,
       "titles": [
         {
           "title": "建议不允许青少年用AI做作业",
@@ -3449,6 +3551,19 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[04时28分 ~ 09时26分]"
+        },
+        {
+          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时26分 ~ 19时57分]"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -3473,11 +3588,12 @@
             14,
             19,
             23,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时53分 ~ 19时31分]"
+          "appearance_count": 31,
+          "time_info": "[00时53分 ~ 19时57分]"
         },
         {
           "title": "建议AI应用设计多考虑残疾人",
@@ -3489,11 +3605,12 @@
             10,
             12,
             23,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时09分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[13时09分 ~ 19时57分]"
         },
         {
           "title": "豆包限制AI成毅",
@@ -3512,17 +3629,18 @@
           "time_info": "[05时32分 ~ 11时40分]"
         },
         {
-          "title": "全国人大代表陈众议：建议避免青少年过早使用AI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32740580",
-          "source": "澎湃新闻",
+          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
+          "url": "https://www.cls.cn/detail/2309524",
+          "source": "财联社热门",
           "ranks": [
+            11,
             8,
-            7,
+            5,
             6
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[15时26分 ~ 19时31分]"
+          "time_info": "[16时02分 ~ 19时57分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -3550,18 +3668,16 @@
           "time_info": "[15时26分 ~ 18时34分]"
         },
         {
-          "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
-          "url": "https://www.cls.cn/detail/2309524",
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8,
-            5,
-            6
+            7,
+            4
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时02分 ~ 19时31分]"
+          "time_info": "[17时37分 ~ 19时57分]"
         },
         {
           "title": "AI短剧侵权肖战最高可判10年",
@@ -3577,29 +3693,18 @@
           "time_info": "[06时53分 ~ 09时26分]"
         },
         {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时31分]"
-        },
-        {
           "title": "付费卸载“龙虾”：AI狂热的荒诞反转",
           "url": "https://www.toutiao.com/trending/7615866634636365339/",
           "source": "今日头条",
           "ranks": [
             25,
             20,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时37分 ~ 19时31分]"
+          "appearance_count": 6,
+          "time_info": "[17时37分 ~ 19时57分]"
         },
         {
           "title": "AI龙虾卸载潮,299元上门收尸",
@@ -3626,6 +3731,17 @@
           "time_info": "[03时36分 ~ 05时07分]"
         },
         {
+          "title": "AI龙虾爆火,大神在线答疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351702&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%A4%A7%E7%A5%9E%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
           "title": "据知情人士透露，Raizen SA接近与其主要的债权人（们）达成一份协议，从而启动一个庭外债务重组。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3067582",
           "source": "华尔街见闻-快讯",
@@ -3637,6 +3753,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 07时23分]"
+        },
+        {
+          "title": "引入AI不是开除员工的挡箭牌",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%95%E5%85%A5AI%E4%B8%8D%E6%98%AF%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5%E7%9A%84%E6%8C%A1%E7%AE%AD%E7%89%8C%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 19时57分]"
         },
         {
           "title": "新加坡普林斯顿数字集团（PDG）联合创始人兼首席执行官兰古·萨尔加梅（Rangu Salgame）：我们正处于 AI 投资的‘超级周期’之中。 对人工智能（AI）的长期需求以及即将到来的创新，正在驱动对数据中心容量的需求。 我们与超大规模云厂商（Hyperscalers）拥有极其稳固的合同，平均租期为10-12年。 （对于怀疑论者质疑AI类协议是否在人为地夸大对AI芯片的需求）这些担忧并未影响公司获得融资的能力。",
@@ -3662,6 +3789,40 @@
           "time_info": "[07时23分 ~ 07时56分]"
         },
         {
+          "title": "Meta：宣布在先进AI领域的新投资，推出帮助用户识别和避开诈骗者的工具。 将在Facebook、Messenger和WhatsApp推出新工具，以帮助防范诈骗。",
+          "url": "https://wallstreetcn.com/livenews/3068045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时57分]"
+        },
+        {
+          "title": "抖音再战社交，“小火人”打头阵：上线世界广场，内测AI精灵聊天",
+          "url": "https://wallstreetcn.com/livenews/3068063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
+        },
+        {
+          "title": "要尽快建立AI的准则和伦理道德",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%A6%81%E5%B0%BD%E5%BF%AB%E5%BB%BA%E7%AB%8BAI%E7%9A%84%E5%87%86%E5%88%99%E5%92%8C%E4%BC%A6%E7%90%86%E9%81%93%E5%BE%B7%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
           "title": "亚马逊在网站和APP推出健康AI智能体。",
           "url": "https://wallstreetcn.com/livenews/3067481",
           "source": "华尔街见闻-快讯",
@@ -3672,6 +3833,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 02时40分]"
+        },
+        {
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
         },
         {
           "title": "AI回答AI时代如何定义人",
@@ -3708,17 +3880,6 @@
           "time_info": "[11时39分 ~ 11时40分]"
         },
         {
-          "title": "Meta：宣布在先进AI领域的新投资，推出帮助用户识别和避开诈骗者的工具。 将在Facebook、Messenger和WhatsApp推出新工具，以帮助防范诈骗。",
-          "url": "https://wallstreetcn.com/livenews/3068045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
           "title": "黄仁勋定义“AI五层蛋糕”架构，预示万亿级基建浪潮",
           "url": "https://wallstreetcn.com/livenews/3067764",
           "source": "华尔街见闻-快讯",
@@ -3750,17 +3911,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "引入AI不是开除员工的挡箭牌",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%95%E5%85%A5AI%E4%B8%8D%E6%98%AF%E5%BC%80%E9%99%A4%E5%91%98%E5%B7%A5%E7%9A%84%E6%8C%A1%E7%AE%AD%E7%89%8C%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         },
         {
           "title": "亚马逊：今日起向客户推出健康AI助手，未来几周将继续扩大服务覆盖范围。",
@@ -3821,7 +3971,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -3847,6 +3997,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时54分 ~ 07时56分]"
+        },
+        {
+          "title": "妈妈听儿子话囤3年黄金赚40万",
+          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%90%AC%E5%84%BF%E5%AD%90%E8%AF%9D%E5%9B%A43%E5%B9%B4%E9%BB%84%E9%87%91%E8%B5%9A40%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时31分 ~ 19时57分]"
         },
         {
           "title": "上海黄金交易所公告，经审议，同意吸收澳大利亚和新西兰银行（中国）有限公司成为上海黄金交易所国际会员。同时，同意上海锦瑭联金属有限公司退会。",
@@ -3919,6 +4081,17 @@
           "time_info": "[13时09分 ~ 14时08分]"
         },
         {
+          "title": "金价杀疯了山东直接去地下2700米挖",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9D%80%E7%96%AF%E4%BA%86%E5%B1%B1%E4%B8%9C%E7%9B%B4%E6%8E%A5%E5%8E%BB%E5%9C%B0%E4%B8%8B2700%E7%B1%B3%E6%8C%96%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
           "title": "金十图示：2026年03月11日（周三）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260311115101158800",
           "source": "金十数据",
@@ -3939,17 +4112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
-        },
-        {
-          "title": "妈妈听儿子话囤3年黄金赚40万",
-          "url": "https://www.baidu.com/s?wd=%E5%A6%88%E5%A6%88%E5%90%AC%E5%84%BF%E5%AD%90%E8%AF%9D%E5%9B%A43%E5%B9%B4%E9%BB%84%E9%87%91%E8%B5%9A40%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
         },
         {
           "title": "金十图示：2026年03月11日（周三）上海金午盘价为1149.92元/克，较国际金价(1146.83元/克)，高3.09元/克",
@@ -4261,6 +4423,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "OpenClaw",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "工信部发布关于防范OpenClaw（“龙虾”）开源智能体安全风险的“六要六不要”建议",
+          "url": "https://wallstreetcn.com/livenews/3068061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时57分"
         }
       ]
     },
