@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T09:26:49.600139+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-03-11T11:40:16.790289+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 82,
+      "match_count": 86,
       "titles": [
         {
           "title": "美国希望停火？伊朗的条件是什么？伊朗发言人答凤凰问",
@@ -63,11 +63,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 09时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 11时40分]"
         },
         {
           "title": "黎巴嫩政府找美国想同以色列和谈，美大使“爆粗口”",
@@ -303,6 +304,18 @@
           "time_info": "[05时07分 ~ 05时53分]"
         },
         {
+          "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
+          "url": "https://www.cls.cn/detail/2309074",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时40分]"
+        },
+        {
           "title": "美国中央司令部：美军在霍尔木兹海峡附近击沉16艘伊朗布雷舰艇。",
           "url": "https://flash.jin10.com/detail/20260311055631731800",
           "source": "金十数据",
@@ -493,6 +506,17 @@
           "time_info": "[05时07分 ~ 05时32分]"
         },
         {
+          "title": "美国要求以色列勿袭伊朗能源设施",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A6%81%E6%B1%82%E4%BB%A5%E8%89%B2%E5%88%97%E5%8B%BF%E8%A2%AD%E4%BC%8A%E6%9C%97%E8%83%BD%E6%BA%90%E8%AE%BE%E6%96%BD%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
           "title": "卡塔尔的美国基地发生爆炸。",
           "url": "https://flash.jin10.com/detail/20260311024956457800",
           "source": "金十数据",
@@ -526,24 +550,13 @@
           "time_info": "06时54分"
         },
         {
-          "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
-          "url": "https://www.cls.cn/detail/2309074",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
           "title": "美国被曝考虑派兵夺取伊朗哈尔克岛",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%80%83%E8%99%91%E6%B4%BE%E5%85%B5%E5%A4%BA%E5%8F%96%E4%BC%8A%E6%9C%97%E5%93%88%E5%B0%94%E5%85%8B%E5%B2%9B%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -592,13 +605,35 @@
           "time_info": "03时36分"
         },
         {
+          "title": "市场消息：沙特外交大臣与美国国务卿通话，讨论伊朗的地区侵略行为。",
+          "url": "https://flash.jin10.com/detail/20260311111053915800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "美国在伊拉克的外交设施遭无人机袭击",
+          "url": "https://wallstreetcn.com/livenews/3067742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "美国多家科技巨头承诺为数据中心自行供电并提供资金，背后动因是什么？将带来哪些影响？",
           "url": "https://www.zhihu.com/question/2013408348217836162",
           "source": "知乎",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -680,6 +715,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "美国CPI公布在即，华尔街却盯着中东油井丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260311110743732800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "美国农业部（USDA）月报：预计美国期末小麦总库存9.31亿蒲式耳，分析师预期9.2583亿蒲式耳，USDA之前预计9.31亿蒲式耳。",
           "url": "https://wallstreetcn.com/livenews/3067442",
           "source": "华尔街见闻-快讯",
@@ -741,7 +787,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -969,7 +1015,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 81,
+      "match_count": 85,
       "titles": [
         {
           "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
@@ -984,8 +1030,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时43分 ~ 09时26分]"
+          "appearance_count": 17,
+          "time_info": "[01时43分 ~ 11时40分]"
         },
         {
           "title": "美对伊军事打击首周花费 60 亿美元，属于什么水平？美国的军费还能支撑多久？",
@@ -1068,6 +1114,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 05时53分]"
+        },
+        {
+          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
+          "url": "https://wallstreetcn.com/articles/3767160",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时40分]"
         },
         {
           "title": "微软(MSFT.O)宣布每股季度派息0.91美元。",
@@ -1288,7 +1346,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -1416,7 +1474,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -1586,17 +1644,6 @@
           "time_info": "[05时32分 ~ 05时53分]"
         },
         {
-          "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
-          "url": "https://wallstreetcn.com/articles/3767160",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
           "title": "WTI原油跌破80美元/桶，日内跌6.10%，完全抹去本周初的涨幅。",
           "url": "https://flash.jin10.com/detail/20260311010644996800",
           "source": "金十数据",
@@ -1658,7 +1705,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -1683,6 +1730,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "派杰投资：将甲骨文(ORCL.N)目标价从240美元下调至210美元。",
+          "url": "https://flash.jin10.com/detail/20260311110838709800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "Salesforce计划发行至多250亿美元债券，用于支持股票回购。",
@@ -1718,6 +1776,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "Piper Sandler将甲骨文目标价从240美元下调至210美元。",
+          "url": "https://wallstreetcn.com/livenews/3067739",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "EIA短期能源展望报告：将2026年柴油零售价格预测上调至每加仑4.12美元，比此前估计高20.1%。",
           "url": "https://flash.jin10.com/detail/20260311001619988800",
           "source": "金十数据",
@@ -1735,7 +1804,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -1757,9 +1826,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "澳元兑美元上涨0.75%至0.7174，创2022年年中以来最高水平。",
+          "url": "https://wallstreetcn.com/livenews/3067733",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "WTI原油回落至82美元/桶下方，日内跌5.20%。",
@@ -1768,7 +1848,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -1801,9 +1881,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "澳元兑美元AUD/USD上涨0.75%至0.7174，创2022年年中以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260311105614955800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
         },
         {
           "title": "船舶追踪数据显示，一艘载着200万桶伊朗原油的超级油轮正穿越霍尔木兹海峡。这是自2月28日冲突以来，记录到的至少第6艘油轮通过该海峡。 目前，WTI原油日内跌幅达18.5%，报77.2美元/桶。 布伦特原油日内跌幅达17.5%，报81.63美元/桶。",
@@ -1823,7 +1914,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -1867,7 +1958,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -1900,7 +1991,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -1930,7 +2021,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -2029,6 +2120,18 @@
           "time_info": "[05时32分 ~ 07时23分]"
         },
         {
+          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
+          "url": "https://wallstreetcn.com/articles/3767165",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时55分 ~ 11时40分]"
+        },
+        {
           "title": "微软：美国法院应该临时性地阻止总统特朗普的五角大楼封杀Anthropic。",
           "url": "https://wallstreetcn.com/livenews/3067571",
           "source": "华尔街见闻-快讯",
@@ -2040,6 +2143,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时32分 ~ 06时54分]"
+        },
+        {
+          "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
+          "url": "https://www.cls.cn/detail/2309121",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时40分]"
+        },
+        {
+          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
+          "url": "https://wallstreetcn.com/articles/3767174",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时26分 ~ 11时40分]"
         },
         {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
@@ -2068,17 +2195,6 @@
           "time_info": "[06时54分 ~ 07时56分]"
         },
         {
-          "title": "特朗普：有可能有条件同伊朗谈判！美防长称发起“最高强度”打击！伊议长：绝不寻求停火",
-          "url": "https://wallstreetcn.com/articles/3767165",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 09时26分]"
-        },
-        {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
           "url": "https://flash.jin10.com/detail/20260311011404351800",
           "source": "金十数据",
@@ -2088,6 +2204,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "特朗普政府成“波动之源”，油价又坐一次“过山车”",
+          "url": "https://wallstreetcn.com/articles/3767194",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
+          "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
+          "url": "https://wallstreetcn.com/articles/3767189",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "美国总统特朗普：我自豪地宣布，“美国优先炼油公司”（America First Refining）正在得克萨斯州布朗斯维尔市建设美国50年来首家新炼油厂。",
@@ -2159,28 +2297,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
-        },
-        {
-          "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
-          "url": "https://wallstreetcn.com/articles/3767174",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
-          "url": "https://www.cls.cn/detail/2309121",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时26分"
         },
         {
           "title": "如何应对特朗普？收下这本“懂王交易手册”",
@@ -2293,6 +2409,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "特朗普松口或“有条件谈判”，伊朗排除谈判可能性。今晚美国CPI有望基本持稳，但中东冲突为前景再添不确定性。当前美油多头持续占优，现货金银多头占比超80%，后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260311104343048800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
           "title": "美国白宫：一旦美国总统特朗普认定目标已达成，相关行动就会结束，届时伊朗将无条件投降。",
           "url": "https://flash.jin10.com/detail/20260311023003523800",
           "source": "金十数据",
@@ -2307,19 +2434,8 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
-        {
-          "title": "高校出手,AI龙虾被禁",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351656&amp;topic_name=%E9%AB%98%E6%A0%A1%E5%87%BA%E6%89%8B%2CAI%E9%BE%99%E8%99%BE%E8%A2%AB%E7%A6%81",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 09时26分]"
-        },
         {
           "title": "建议不允许青少年用AI做作业",
           "url": "https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A%23&t=31&band_rank=10&Refer=top",
@@ -2334,6 +2450,18 @@
           "time_info": "[04时28分 ~ 09时26分]"
         },
         {
+          "title": "高校出手,AI龙虾被禁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351656&amp;topic_name=%E9%AB%98%E6%A0%A1%E5%87%BA%E6%89%8B%2CAI%E9%BE%99%E8%99%BE%E8%A2%AB%E7%A6%81",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 11时40分]"
+        },
+        {
           "title": "两会现场 我问了AI这样一个问题",
           "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E4%BC%9A%E7%8E%B0%E5%9C%BA+%E6%88%91%E9%97%AE%E4%BA%86AI%E8%BF%99%E6%A0%B7%E4%B8%80%E4%B8%AA%E9%97%AE%E9%A2%98",
           "source": "百度热搜",
@@ -2341,8 +2469,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 09时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 11时40分]"
         },
         {
           "title": "豆包限制AI成毅",
@@ -2353,11 +2481,12 @@
             13,
             14,
             26,
-            12
+            12,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时32分 ~ 09时26分]"
+          "appearance_count": 11,
+          "time_info": "[05时32分 ~ 11时40分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -2385,6 +2514,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[06时53分 ~ 09时26分]"
+        },
+        {
+          "title": "AI龙虾卸载潮,299元上门收尸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351662&amp;topic_name=AI%E9%BE%99%E8%99%BE%E5%8D%B8%E8%BD%BD%E6%BD%AE%2C299%E5%85%83%E4%B8%8A%E9%97%A8%E6%94%B6%E5%B0%B8",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
         },
         {
           "title": "马斯克旗下xAI获准在美国密西西比修建发电站。 但目前，该公司的排污问题让人感到忧心忡忡。",
@@ -2471,6 +2611,17 @@
           "time_info": "[04时28分 ~ 05时07分]"
         },
         {
+          "title": "建议不允许青少年用AI做作业",
+          "url": "https://www.baidu.com/s?wd=%E5%BB%BA%E8%AE%AE%E4%B8%8D%E5%85%81%E8%AE%B8%E9%9D%92%E5%B0%91%E5%B9%B4%E7%94%A8AI%E5%81%9A%E4%BD%9C%E4%B8%9A",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
           "title": "外媒：腾讯秘密开发微信AI智能体 年内或对全用户开放",
           "url": "https://flash.jin10.com/detail/20260311035704540800",
           "source": "金十数据",
@@ -2510,7 +2661,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -2521,7 +2672,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
@@ -2529,7 +2680,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "据朝日新闻：日本防卫大臣小泉进次郎考虑5月访问东南亚。",
@@ -2558,13 +2709,46 @@
           "time_info": "[07时55分 ~ 09时26分]"
         },
         {
+          "title": "日本政府不排除自行释放石油储备的可能性",
+          "url": "https://flash.jin10.com/detail/20260311112048734800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "日本5年期国债投标倍数为3.69，高于过去12个月均值3.44。",
+          "url": "https://wallstreetcn.com/livenews/3067758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "“被中国封喉，日本比美国动作慢多了”",
+          "url": "https://news.ifeng.com/c/8rOx4mwOWcD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时39分 ~ 11时40分]"
+        },
+        {
           "title": "消息人士：软银支持的日本支付应用PayPay的IPO定价可能处于发行区间的低端。",
           "url": "https://flash.jin10.com/detail/20260311085324067800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -2586,7 +2770,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -2608,7 +2792,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
@@ -2703,7 +2887,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -2769,11 +2953,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            12
+            12,
+            19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 09时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 11时40分]"
         },
         {
           "title": "安大略省教师退休基金（OTPP）公共与私人投资首席投资官Gillian Brown：由于人工智能（AI）的不确定性，我们对软件类资产进行了调整。 而在医疗保健领域，我们认为该行业在特定时期内存在过度购买，从而产生了‘投资年份风险’（vintage risk），因此也进行了估值下修。 除此之外，其他调整更多是属于公司特有的风险。（彭博）",
@@ -2793,7 +2978,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
@@ -2856,11 +3041,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            19
+            19,
+            26
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时53分 ~ 09时26分]"
+          "appearance_count": 19,
+          "time_info": "[00时53分 ~ 11时40分]"
         },
         {
           "title": "标普500指数初步收跌0.3%，能源板块跌1.3%，科技板块大致持平，电信板块涨0.1%。 纳斯达克100指数初步收跌0.1%，成分股中，AppLovin初步收跌7.8%，汤森路透跌6.9%，Axon跌5.1%，阿斯麦ADR、思科涨超1%，拼多多涨2.1%，英特尔涨2.4%，希捷科技涨2.5%，美光涨3.2%，VRTX涨8.2%。 波音初步收跌3.2%，领跌道指成分股，Salesforce跌2.1%，雪佛龙跌1.6%，微软跌0.9%。",
