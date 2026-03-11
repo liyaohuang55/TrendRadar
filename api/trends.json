@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-11T22:04:01.904842+08:00",
-  "total_titles_processed": 2093,
+  "generated_at": "2026-03-11T23:12:15.144655+08:00",
+  "total_titles_processed": 2195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 136,
+      "match_count": 168,
       "titles": [
         {
           "title": "美国希望停火？伊朗的条件是什么？伊朗发言人答凤凰问",
@@ -56,6 +56,17 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时53分 ~ 07时56分]"
+        },
+        {
+          "title": "美参议员：以色列逼我们打伊朗，美国显得太软弱了",
+          "url": "https://news.ifeng.com/c/8rPOHY9z0as",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时34分 ~ 23时12分]"
         },
         {
           "title": "美国将如何退还1750亿关税",
@@ -112,15 +123,27 @@
           "time_info": "[01时43分 ~ 07时56分]"
         },
         {
-          "title": "美参议员：以色列逼我们打伊朗，美国显得太软弱了",
-          "url": "https://news.ifeng.com/c/8rPOHY9z0as",
+          "title": "佩斯科夫：普京暂无前往美国参加G20峰会的计划",
+          "url": "https://news.ifeng.com/c/8rPQuWjUwk5",
           "source": "凤凰网",
           "ranks": [
-            5
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时34分 ~ 22时04分]"
+          "appearance_count": 9,
+          "time_info": "[18时34分 ~ 23时12分]"
+        },
+        {
+          "title": "西班牙猛批德国：你表现得像是美国附庸",
+          "url": "https://news.ifeng.com/c/8rPOIjVIxPv",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时34分 ~ 23时12分]"
         },
         {
           "title": "美国据悉约束以军对伊军事行动 乌克兰向海湾地区派出军事人员 | 环球市场",
@@ -134,29 +157,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时26分 ~ 15时27分]"
-        },
-        {
-          "title": "佩斯科夫：普京暂无前往美国参加G20峰会的计划",
-          "url": "https://news.ifeng.com/c/8rPQuWjUwk5",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时34分 ~ 22时04分]"
-        },
-        {
-          "title": "西班牙猛批德国：你表现得像是美国附庸",
-          "url": "https://news.ifeng.com/c/8rPOIjVIxPv",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时34分 ~ 22时04分]"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
@@ -429,6 +429,17 @@
           "time_info": "17时38分"
         },
         {
+          "title": "美国能源信息署：上周美国中西部地区原油库存升至2025年2月以来最高水平。",
+          "url": "https://flash.jin10.com/detail/20260311224220838800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "【伊朗武装部队发言人：“对等反击”已结束 将实施“连环打击”】记者获悉，当地时间3月11日，伊朗武装部队哈塔姆·安比亚中央司令部发言人在讲话中表示，伊朗以往的“对等反击”已经结束，从现在起，伊朗将实施“连环打击”（打击接踵而至）策略，不再维持一对一的报复节奏。发言人称，任何属于美国、以色列及其“伙伴”的船只，或其运载的石油货物，均被视为伊朗武装力量的“合法打击目标”。（央视）",
           "url": "https://wallstreetcn.com/livenews/3068068",
           "source": "华尔街见闻-快讯",
@@ -446,7 +457,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -472,6 +483,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "美国能源信息署报告汽油和精炼油库存降幅大于预期后，美国RBOB汽油和低硫柴油期货维持涨势。",
+          "url": "https://flash.jin10.com/detail/20260311224209874800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国2月CPI环比 0.3%，预期 0.3%，前值 0.2%。",
@@ -679,6 +701,17 @@
           "time_info": "[22时03分 ~ 22时04分]"
         },
         {
+          "title": "3名美国富豪强奸性侵60名女性",
+          "url": "https://s.weibo.com/weibo?q=%233%E5%90%8D%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%E5%BC%BA%E5%A5%B8%E6%80%A7%E4%BE%B560%E5%90%8D%E5%A5%B3%E6%80%A7%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
+        },
+        {
           "title": "美国至3月6日当周API原油库存将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260311042000001800",
           "source": "金十数据",
@@ -708,7 +741,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -757,6 +790,17 @@
           "time_info": "20时53分"
         },
         {
+          "title": "美国汽油均价升至21个多月以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3068183",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美国驻加拿大多伦多领事馆遭枪击 无人伤亡",
           "url": "https://flash.jin10.com/detail/20260311003044215800",
           "source": "金十数据",
@@ -777,6 +821,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时27分"
+        },
+        {
+          "title": "美国汽油均价升至21个多月以来最高水平",
+          "url": "https://flash.jin10.com/detail/20260311223535274800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国关键的共和党参议员蒂利斯会面后赞赏沃什，但仍拒绝解除对美联储的人事封锁",
@@ -818,7 +873,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -843,6 +898,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "美媒称至少17处美国设施在伊朗袭击中受损",
+          "url": "https://wallstreetcn.com/livenews/3068179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国至3月10日3年期国债竞拍-得标利率 3.579%，前值3.52%。",
@@ -900,6 +966,17 @@
           "time_info": "20时53分"
         },
         {
+          "title": "金十数据整理：美国当周EIA数据最值一览",
+          "url": "https://flash.jin10.com/detail/20260311223251059800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美国在伊拉克的外交设施遭无人机袭击",
           "url": "https://wallstreetcn.com/livenews/3067742",
           "source": "华尔街见闻-快讯",
@@ -920,6 +997,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时53分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国上周EIA原油库存增加382万桶，彭博用户预计增加170万桶、分析师预期增加173.4万桶，之前一周增加347.5万桶。",
+          "url": "https://wallstreetcn.com/livenews/3068178",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国多家科技巨头承诺为数据中心自行供电并提供资金，背后动因是什么？将带来哪些影响？",
@@ -966,15 +1054,37 @@
           "time_info": "16时53分"
         },
         {
+          "title": "美国3月6日当周EIA精炼油库存变动 -134.9万桶，预期 -94.7万桶，前值 42.9万桶。",
+          "url": "https://wallstreetcn.com/livenews/3068177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "经济学家：美国通胀数据暂未加速，但将受战争影响",
           "url": "https://flash.jin10.com/detail/20260311212228532800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
+        },
+        {
+          "title": "美国至3月6日当周EIA蒸馏燃油产量引伸需求数据 531.57万桶/日，前值492.47万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311223048125800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "币安称有关美国司法部调查的报道“不实”。",
@@ -988,6 +1098,17 @@
           "time_info": "20时53分"
         },
         {
+          "title": "美国3月6日当周EIA精炼厂设备利用率变化 1.6%，预期 -0.5%，前值 0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3068176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "消息人士：美国海军尚未护送油轮通过霍尔木兹海峡。此前美国能源部长曾发布消息称，美国海军力量已护送一艘油轮通过了这条水道，随后又删除了该消息。",
           "url": "https://flash.jin10.com/detail/20260311015607537800",
           "source": "金十数据",
@@ -997,6 +1118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时40分"
+        },
+        {
+          "title": "美国至3月6日当周EIA车用汽油总产量引伸需求数据 1012.04万桶/日，前值935.86万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311223040350800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国政府再次上调今年油价预期",
@@ -1021,6 +1153,28 @@
           "time_info": "01时43分"
         },
         {
+          "title": "美国3月6日当周EIA汽油库存变动 -365.4万桶，预期 -200万桶，前值 -170.4万桶。",
+          "url": "https://wallstreetcn.com/livenews/3068174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "金十数据整理：美国当周EIA库存数据六大看点一览",
+          "url": "https://flash.jin10.com/detail/20260311223022227800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美国农业部（USDA）月报：预计美国期末棉花库存440万捆，分析师预期436万捆，USDA之前预计440万捆。",
           "url": "https://wallstreetcn.com/livenews/3067443",
           "source": "华尔街见闻-快讯",
@@ -1038,9 +1192,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
+        },
+        {
+          "title": "美国3月6日当周EIA原油库存变动 382.4万桶，预期 250万桶，前值 347.5万桶。",
+          "url": "https://wallstreetcn.com/livenews/3068175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国民主党议员将提出法案，明确禁止与战争、死亡相关的事件交易合约。",
@@ -1076,6 +1241,17 @@
           "time_info": "14时08分"
         },
         {
+          "title": "美国至3月6日当周EIA原油产量引伸需求数据 1955.4万桶/日，前值1952.4万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311223021729800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美国农业部（USDA）月报：预计美国期末小麦总库存9.31亿蒲式耳，分析师预期9.2583亿蒲式耳，USDA之前预计9.31亿蒲式耳。",
           "url": "https://wallstreetcn.com/livenews/3067442",
           "source": "华尔街见闻-快讯",
@@ -1085,6 +1261,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "美国3月6日当周EIA库欣地区原油库存变动 11.7万桶，前值 156.4万桶。",
+          "url": "https://wallstreetcn.com/livenews/3068173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "伊朗革命卫队发言人：美国舰队及其盟友的任何行动都将在我们的导弹和无人机射程内被阻止。在战争期间，没有一艘美国舰船敢于接近阿曼海、波斯湾和霍尔木兹海峡。",
@@ -1098,6 +1285,17 @@
           "time_info": "02时40分"
         },
         {
+          "title": "美国至3月6日当周EIA精炼厂设备利用率 90.8%，预期89.5%，前值89.2%。",
+          "url": "https://flash.jin10.com/detail/20260311223006889800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美国农业部（USDA）月报：预计美国期末玉米库存21.27亿蒲式耳，分析师预期21.3080亿蒲式耳，USDA之前预计21.27亿蒲式耳。",
           "url": "https://wallstreetcn.com/livenews/3067441",
           "source": "华尔街见闻-快讯",
@@ -1107,6 +1305,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "美国参议院Moreno：必须立即确认凯文·沃什为美联储主席。",
+          "url": "https://wallstreetcn.com/livenews/3068172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "三架美国B-1轰炸机抵达英国皇家空军费尔福德基地。",
@@ -1140,6 +1349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "美国至3月6日当周EIA战略石油储备库存 0.1万桶，前值0万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223006098800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国农业部（USDA）月报：预计美国期末大豆库存3.50亿蒲式耳，分析师预期3.46亿蒲式耳，USDA之前预计3.50亿蒲式耳。",
@@ -1184,6 +1404,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "美国至3月6日当周EIA成品油进口 29.1万桶/日，前值-60.5万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311223004077800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国3月EIA当年天然气产量预期 1095亿立方英尺/日，前值1099.7亿立方英尺/日。",
@@ -1241,6 +1472,17 @@
           "time_info": "20时53分"
         },
         {
+          "title": "美国至3月6日当周EIA原油进口 66.1万桶，前值-1.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003832800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美国驻加拿大多伦多领事馆遭枪击，无人伤亡",
           "url": "https://wallstreetcn.com/livenews/3067471",
           "source": "华尔街见闻-快讯",
@@ -1261,6 +1503,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时02分"
+        },
+        {
+          "title": "美国至3月6日当周EIA取暖油库存 22.8万桶，前值35.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003736800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（3月10日，美国CPI通胀数据发布前一天）担保隔夜融资利率（SOFR）报3.64%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3068168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国海军周二告知航运业：目前无法提供在霍尔木兹海峡护航服务",
@@ -1285,15 +1549,37 @@
           "time_info": "20时53分"
         },
         {
+          "title": "美国至3月6日当周EIA精炼油库存 -134.9万桶，预期-69.2万桶，前值42.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003709800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "“美国制造”清晰可见！伊朗公布袭击小学的导弹残片画面",
           "url": "https://wallstreetcn.com/livenews/3068117",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3068167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国3月EIA次年短期前景美国原油产量预期 1383万桶/日，前值1332万桶/日。",
@@ -1351,13 +1637,24 @@
           "time_info": "20时53分"
         },
         {
+          "title": "美国至3月6日当周EIA俄克拉荷马州库欣原油库存 11.7万桶，前值156.4万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003668800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "美国30年期国债收益率升至4.83%，创2月10日以来新高。",
           "url": "https://wallstreetcn.com/livenews/3068116",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -1406,6 +1703,17 @@
           "time_info": "20时53分"
         },
         {
+          "title": "美国至3月6日当周EIA新配方汽油库存 -0.5万桶，前值-1.2万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003667800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "朝鲜外务省谴责美国以色列",
           "url": "https://www.baidu.com/s?wd=%E6%9C%9D%E9%B2%9C%E5%A4%96%E5%8A%A1%E7%9C%81%E8%B0%B4%E8%B4%A3%E7%BE%8E%E5%9B%BD%E4%BB%A5%E8%89%B2%E5%88%97",
           "source": "百度热搜",
@@ -1426,6 +1734,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时36分"
+        },
+        {
+          "title": "美国至3月6日当周EIA精炼油产量 13.2万桶/日，前值6.1万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311223003642800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "美国B-1轰炸机已从英国皇家空军费尔福德基地起飞执行任务。",
@@ -1459,6 +1778,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "美国至3月6日当周EIA汽油库存 -365.4万桶，预期-264.9万桶，前值-170.4万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003613800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "加拿大警方：多伦多美国领事馆枪击事件已被列为“国家安全事件”展开调查。 多伦多与渥太华已加强使领馆周边的安保力度。目前判断该事件是否与中东局势有关联还为时过早。",
@@ -1500,9 +1830,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
+        },
+        {
+          "title": "美国至3月6日当周EIA汽油产量 55.4万桶/日，前值11.9万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260311223003586800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "乌克兰总统泽连斯基：美国已将乌克兰与俄罗斯的谈判推迟至下周。",
@@ -1569,12 +1910,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
+        },
+        {
+          "title": "美国至3月6日当周EIA原油库存 382.4万桶，预期105.5万桶，前值347.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260311223003561800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 124,
+      "match_count": 127,
       "titles": [
         {
           "title": "三星、SK集团将注销超140亿美元库存股，为韩国历史上最大股票注销规模之一",
@@ -1598,11 +1950,12 @@
             9,
             7,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时02分 ~ 22时04分]"
+          "appearance_count": 13,
+          "time_info": "[16时02分 ~ 23时12分]"
         },
         {
           "title": "为何生化里的暴君 1.2 亿美元这么贵一只但仍扛不过军队常规武器狂轰滥炸，BOW 研发在实战中到底有何意义？",
@@ -1690,6 +2043,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时07分 ~ 06时24分]"
+        },
+        {
+          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2310036",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时03分 ~ 23时12分]"
         },
         {
           "title": "周二（3月10日）纽约尾盘，欧元兑美元跌0.22%，英镑兑美元跌0.14%，美元兑瑞郎涨0.12%。 商品货币对中，澳元兑美元涨0.61%，纽元兑美元跌0.09%，美元兑加元跌0.07%。 瑞典克朗兑美元跌0.51%，挪威克朗兑美元跌0.43%，丹麦克朗兑美元跌0.24%。 波兰兹罗提兑美元跌0.56%，匈牙利福林兑美元跌0.09%。",
@@ -2103,17 +2468,6 @@
           "time_info": "[22时03分 ~ 22时04分]"
         },
         {
-          "title": "布油重回90美元上方 美股期指延续弱势表现 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2310036",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时03分 ~ 22时04分]"
-        },
-        {
           "title": "巴克莱：将甲骨文(ORCL.N)目标股价从230美元上调至240美元。",
           "url": "https://flash.jin10.com/detail/20260311122756911800",
           "source": "金十数据",
@@ -2365,7 +2719,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         },
@@ -2489,6 +2843,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时57分"
+        },
+        {
+          "title": "软银投资的PayPay据悉计划以每股16美元的价格在美国上市。",
+          "url": "https://flash.jin10.com/detail/20260311223418992800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
+          "title": "据知情人士透露，日本软银集团支持的PayPay计划将美国IPO股票的发行价定在每股16美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3068180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "曝美军方花900万美元买帝王蟹龙虾",
@@ -2970,9 +3346,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
+        },
+        {
+          "title": "WTI原油期货涨幅一度收窄至不足2.5%，逼近81.40美元。",
+          "url": "https://wallstreetcn.com/livenews/3068163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "马斯克身价达8390亿美元",
@@ -3021,516 +3408,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 44,
-      "titles": [
-        {
-          "title": "国防部回应日本部署远程导弹",
-          "url": "https://www.toutiao.com/trending/7615891707490533402/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时02分 ~ 22时04分]"
-        },
-        {
-          "title": "国防部回应日本部署远程导弹",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            1,
-            8,
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时53分 ~ 22时04分]"
-        },
-        {
-          "title": "“被中国封喉，日本比美国动作慢多了”",
-          "url": "https://news.ifeng.com/c/8rOx4mwOWcD",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时39分 ~ 17时38分]"
-        },
-        {
-          "title": "国防部回应日本部署远程导弹",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时02分 ~ 20时53分]"
-        },
-        {
-          "title": "据朝日新闻：日本防卫大臣小泉进次郎考虑5月访问东南亚。",
-          "url": "https://flash.jin10.com/detail/20260311060721826800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            12,
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时24分 ~ 07时56分]"
-        },
-        {
-          "title": "日本一地下管道冲出地面18米",
-          "url": "https://www.toutiao.com/trending/7615854342016876586/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时56分 ~ 20时53分]"
-        },
-        {
-          "title": "日本是一个老龄化很严重的国家",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%98%AF%E4%B8%80%E4%B8%AA%E8%80%81%E9%BE%84%E5%8C%96%E5%BE%88%E4%B8%A5%E9%87%8D%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时55分 ~ 09时26分]"
-        },
-        {
-          "title": "联合国16位专家呼吁日本道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD16%E4%BD%8D%E4%B8%93%E5%AE%B6%E5%91%BC%E5%90%81%E6%97%A5%E6%9C%AC%E9%81%93%E6%AD%89%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            24,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 17时38分]"
-        },
-        {
-          "title": "不怕断油,日本开吹石油储备",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351703&amp;topic_name=%E4%B8%8D%E6%80%95%E6%96%AD%E6%B2%B9%2C%E6%97%A5%E6%9C%AC%E5%BC%80%E5%90%B9%E7%9F%B3%E6%B2%B9%E5%82%A8%E5%A4%87",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "日本政府不排除自行释放石油储备的可能性",
-          "url": "https://flash.jin10.com/detail/20260311112048734800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "日本首相高市早苗：日本甚至将会在国际能源署正式作出决定之前就释放石油储备。",
-          "url": "https://flash.jin10.com/detail/20260311183015949800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "日本5年期国债投标倍数为3.69，高于过去12个月均值3.44。",
-          "url": "https://wallstreetcn.com/livenews/3067758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
-          "title": "日本10年期国债收益率下行2.5个基点，报2.155%。",
-          "url": "https://wallstreetcn.com/livenews/3067818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "日本5年期国债收益率下行1.5个基点至1.610%。",
-          "url": "https://wallstreetcn.com/livenews/3067787",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时09分 ~ 14时08分]"
-        },
-        {
-          "title": "日本首相高市早苗：日本最快将于3月16日开始释放部分石油储备。",
-          "url": "https://flash.jin10.com/detail/20260311182949597800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "日本首相高市早苗：已指示产业大臣出台紧急措施以抑制汽油价格。",
-          "url": "https://flash.jin10.com/detail/20260311182807754800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时34分"
-        },
-        {
-          "title": "德国经济部长：美国和日本将成为国际能源署释放战略石油储备的最大贡献国。",
-          "url": "https://flash.jin10.com/detail/20260311191746406800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "中方回应人权理事会呼吁日本正式道歉",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BA%BA%E6%9D%83%E7%90%86%E4%BA%8B%E4%BC%9A%E5%91%BC%E5%90%81%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%BC%8F%E9%81%93%E6%AD%89%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时56分 ~ 19时57分]"
-        },
-        {
-          "title": "日本一艘停留在波斯湾的船只受损",
-          "url": "https://wallstreetcn.com/livenews/3067959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时38分 ~ 18时34分]"
-        },
-        {
-          "title": "路透调查：受访的58%的经济学家认为，两名鸽派学者加入日本央行不会使加息更加困难。",
-          "url": "https://flash.jin10.com/detail/20260311120618830800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "路透调查：预测中值显示，日本央行将于2027年第一季度加息至1.25%，2028年第一季度加息至1.50%。",
-          "url": "https://flash.jin10.com/detail/20260311120603547800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "10年期日本国债收益率下跌2.0个基点，至2.160%。",
-          "url": "https://flash.jin10.com/detail/20260311133845121800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "日本经济产业省：决定单方面释放石油储备，旨在迅速应对因霍尔木兹海峡阻塞对日本造成的影响。 计划中的石油储备释放将使私营和国家储备合计减少一个半月的库存，目前储备量相当于八个月的供应。 计划于三月下旬左右开始从国家储备中释放原油。",
-          "url": "https://wallstreetcn.com/livenews/3068140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "消息人士：软银支持的日本支付应用PayPay的IPO定价可能处于发行区间的低端。",
-          "url": "https://flash.jin10.com/detail/20260311085324067800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "路透调查：64位经济学家均表示，日本央行将于3月19日将基准利率维持在0.75%。",
-          "url": "https://flash.jin10.com/detail/20260311120547264800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "路透调查：受访的60%的经济学家预计日本央行将在6月底前将基准利率上调至1.00%（2月调查为58%）。",
-          "url": "https://flash.jin10.com/detail/20260311120535170800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "日本汽油零售均价三个月来首次突破160日元",
-          "url": "https://flash.jin10.com/detail/20260311154510003800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时02分"
-        },
-        {
-          "title": "日本人假扮熊猫 目击者说有点搞笑",
-          "url": "https://www.toutiao.com/trending/7615519836307177513/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时24分"
-        },
-        {
-          "title": "日本民众集会反对高市政府危险政策",
-          "url": "https://www.toutiao.com/trending/7615288957862232070/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "日本五年期国债拍卖需求强于12个月平均水平",
-          "url": "https://flash.jin10.com/detail/20260311120333848800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "日本、德国将释放战略石油储备",
-          "url": "https://flash.jin10.com/detail/20260311191044189800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "日本防卫省：3月11日，日本、美国和澳大利亚达成协议，开始合作研究用于飞机的复合材料。这标志着三国之间首次此类合作，将有助于确保技术优势。",
-          "url": "https://flash.jin10.com/detail/20260311150733384800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "日本工业省：日本将从私营和国家储备中释放的原油总量约为8000万桶。",
-          "url": "https://flash.jin10.com/detail/20260311203743655800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "日本工业省：计划于3月下旬左右从国家石油储备中释放石油。",
-          "url": "https://flash.jin10.com/detail/20260311212554403800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "消息人士称，软银支持的日本支付应用PayPay的IPO定价料将位于推介区间的下限。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3067649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "日本：将对超过170日元/升的汽油价格进行补贴。",
-          "url": "https://wallstreetcn.com/livenews/3068081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        },
-        {
-          "title": "日本东证指数涨幅扩大至2%。",
-          "url": "https://wallstreetcn.com/livenews/3067763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "日本东证指数涨2%。",
-          "url": "https://flash.jin10.com/detail/20260311114432680800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "日本外务大臣：截至今日，已有388名人士乘坐政府包机返回日本。",
-          "url": "https://flash.jin10.com/detail/20260311014534458800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时40分"
-        },
-        {
-          "title": "日本5年期国债拍卖投标倍数为3.69，高于过去12个月均值3.44。",
-          "url": "https://wallstreetcn.com/livenews/3067758",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时09分"
-        },
-        {
-          "title": "学者：警惕日本南太军事布局野心",
-          "url": "https://www.toutiao.com/trending/7615760524634701865/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        },
-        {
-          "title": "日本首相高市早苗：日本最快将于3月16日开始释放部分石油储备。 日本将在国际能源署正式作出决定之前就释放石油储备。",
-          "url": "https://wallstreetcn.com/livenews/3068017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "五年期日本国债收益率下跌1.5个基点，至1.610%。",
-          "url": "https://flash.jin10.com/detail/20260311125107910800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时08分"
-        },
-        {
-          "title": "日本大阪一马路长出15米高巨型水管",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA%E4%B8%80%E9%A9%AC%E8%B7%AF%E9%95%BF%E5%87%BA15%E7%B1%B3%E9%AB%98%E5%B7%A8%E5%9E%8B%E6%B0%B4%E7%AE%A1%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "TACO！特朗普称“战争很快结束”，美国股债深V反转，原油一度较日高跳水30%",
@@ -3600,8 +3479,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时39分 ~ 22时04分]"
+          "appearance_count": 19,
+          "time_info": "[11时39分 ~ 23时12分]"
         },
         {
           "title": "伊朗称不会相信美国的任何承诺、“军事行动进入全新阶段”，美放风护航，特朗普警告伊勿布雷",
@@ -3613,8 +3492,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时26分 ~ 22时04分]"
+          "appearance_count": 20,
+          "time_info": "[09时26分 ~ 23时12分]"
         },
         {
           "title": "摧毁十余艘伊朗布雷舰艇，特朗普威胁：伊朗不得在霍尔木兹海峡布雷",
@@ -3626,8 +3505,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时39分 ~ 22时04分]"
+          "appearance_count": 19,
+          "time_info": "[11时39分 ~ 23时12分]"
         },
         {
           "title": "霍尔木兹危机升级！特朗普再度警告伊朗：若布雷，将遭空前打击",
@@ -3731,6 +3610,17 @@
           "time_info": "[05时32分 ~ 06时54分]"
         },
         {
+          "title": "美以伊战争｜特朗普：与伊朗的战争很快就会结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
+        },
+        {
           "title": "特朗普预计将于本周晚些时候发布行政令，正式切断与Anthropic的业务往来。（CBS）",
           "url": "https://wallstreetcn.com/livenews/3067492",
           "source": "华尔街见闻-快讯",
@@ -3779,6 +3669,17 @@
           "time_info": "14时08分"
         },
         {
+          "title": "特朗普称对伊朗军事行动即将结束",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
+        },
+        {
           "title": "美国能源部长：特朗普总统在对伊朗的军事行动中维持全球能源稳定。美国海军成功护送一艘油轮通过霍尔木兹海峡，以确保石油持续流入全球市场。",
           "url": "https://flash.jin10.com/detail/20260311011404351800",
           "source": "金十数据",
@@ -3813,6 +3714,17 @@
           "time_info": "[05时53分 ~ 06时24分]"
         },
         {
+          "title": "特朗普称对伊朗军事行动即将结束",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8%E5%8D%B3%E5%B0%86%E7%BB%93%E6%9D%9F",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
+        },
+        {
           "title": "美媒：特朗普关于伊朗的言论前后矛盾，毫无一致性",
           "url": "https://flash.jin10.com/detail/20260311051553431800",
           "source": "金十数据",
@@ -3823,6 +3735,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时53分 ~ 06时24分]"
+        },
+        {
+          "title": "特朗普称对伊行动即将结束",
+          "url": "https://www.douyin.com/hot/2427456",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
         },
         {
           "title": "美国总统特朗普：我很高兴地报告，在过去几个小时内，我们已经击中并完全摧毁了10艘闲置的布雷船舰和/或船只，后续还会有更多。",
@@ -3982,6 +3905,17 @@
           "time_info": "04时28分"
         },
         {
+          "title": "特朗普称对伊朗军事行动“即将结束”",
+          "url": "https://wallstreetcn.com/livenews/3068165",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "特朗普：如果出于任何原因伊朗确实布设了水雷，而没有立即清除，伊朗将面临前所未有的军事后果。",
           "url": "https://flash.jin10.com/detail/20260311034134092800",
           "source": "金十数据",
@@ -4017,9 +3951,542 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 38,
+      "keyword_group": "日本",
+      "match_count": 45,
       "titles": [
+        {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://www.toutiao.com/trending/7615891707490533402/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[16时02分 ~ 23时12分]"
+        },
+        {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            1,
+            8,
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[16时53分 ~ 23时12分]"
+        },
+        {
+          "title": "“被中国封喉，日本比美国动作慢多了”",
+          "url": "https://news.ifeng.com/c/8rOx4mwOWcD",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时39分 ~ 17时38分]"
+        },
+        {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9C%E7%A8%8B%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时02分 ~ 20时53分]"
+        },
+        {
+          "title": "据朝日新闻：日本防卫大臣小泉进次郎考虑5月访问东南亚。",
+          "url": "https://flash.jin10.com/detail/20260311060721826800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时24分 ~ 07时56分]"
+        },
+        {
+          "title": "日本一地下管道冲出地面18米",
+          "url": "https://www.toutiao.com/trending/7615854342016876586/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时56分 ~ 20时53分]"
+        },
+        {
+          "title": "日本是一个老龄化很严重的国家",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%98%AF%E4%B8%80%E4%B8%AA%E8%80%81%E9%BE%84%E5%8C%96%E5%BE%88%E4%B8%A5%E9%87%8D%E7%9A%84%E5%9B%BD%E5%AE%B6%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时55分 ~ 09时26分]"
+        },
+        {
+          "title": "联合国16位专家呼吁日本道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD16%E4%BD%8D%E4%B8%93%E5%AE%B6%E5%91%BC%E5%90%81%E6%97%A5%E6%9C%AC%E9%81%93%E6%AD%89%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            24,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时53分 ~ 17时38分]"
+        },
+        {
+          "title": "不怕断油,日本开吹石油储备",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351703&amp;topic_name=%E4%B8%8D%E6%80%95%E6%96%AD%E6%B2%B9%2C%E6%97%A5%E6%9C%AC%E5%BC%80%E5%90%B9%E7%9F%B3%E6%B2%B9%E5%82%A8%E5%A4%87",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "日本政府不排除自行释放石油储备的可能性",
+          "url": "https://flash.jin10.com/detail/20260311112048734800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "日本首相高市早苗：日本甚至将会在国际能源署正式作出决定之前就释放石油储备。",
+          "url": "https://flash.jin10.com/detail/20260311183015949800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "日本5年期国债投标倍数为3.69，高于过去12个月均值3.44。",
+          "url": "https://wallstreetcn.com/livenews/3067758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时40分"
+        },
+        {
+          "title": "日本10年期国债收益率下行2.5个基点，报2.155%。",
+          "url": "https://wallstreetcn.com/livenews/3067818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "日本5年期国债收益率下行1.5个基点至1.610%。",
+          "url": "https://wallstreetcn.com/livenews/3067787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时09分 ~ 14时08分]"
+        },
+        {
+          "title": "日本部署射程约 1000 公里远程导弹，国防部正告日方「敢侵犯必迎头痛击」，如何解读日方意图？",
+          "url": "https://www.zhihu.com/question/2015161588936565933",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时11分 ~ 23时12分]"
+        },
+        {
+          "title": "日本首相高市早苗：日本最快将于3月16日开始释放部分石油储备。",
+          "url": "https://flash.jin10.com/detail/20260311182949597800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "日本首相高市早苗：已指示产业大臣出台紧急措施以抑制汽油价格。",
+          "url": "https://flash.jin10.com/detail/20260311182807754800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "德国经济部长：美国和日本将成为国际能源署释放战略石油储备的最大贡献国。",
+          "url": "https://flash.jin10.com/detail/20260311191746406800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "中方回应人权理事会呼吁日本正式道歉",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E4%BA%BA%E6%9D%83%E7%90%86%E4%BA%8B%E4%BC%9A%E5%91%BC%E5%90%81%E6%97%A5%E6%9C%AC%E6%AD%A3%E5%BC%8F%E9%81%93%E6%AD%89%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时56分 ~ 19时57分]"
+        },
+        {
+          "title": "日本一艘停留在波斯湾的船只受损",
+          "url": "https://wallstreetcn.com/livenews/3067959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 18时34分]"
+        },
+        {
+          "title": "路透调查：受访的58%的经济学家认为，两名鸽派学者加入日本央行不会使加息更加困难。",
+          "url": "https://flash.jin10.com/detail/20260311120618830800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "路透调查：预测中值显示，日本央行将于2027年第一季度加息至1.25%，2028年第一季度加息至1.50%。",
+          "url": "https://flash.jin10.com/detail/20260311120603547800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "10年期日本国债收益率下跌2.0个基点，至2.160%。",
+          "url": "https://flash.jin10.com/detail/20260311133845121800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "日本经济产业省：决定单方面释放石油储备，旨在迅速应对因霍尔木兹海峡阻塞对日本造成的影响。 计划中的石油储备释放将使私营和国家储备合计减少一个半月的库存，目前储备量相当于八个月的供应。 计划于三月下旬左右开始从国家储备中释放原油。",
+          "url": "https://wallstreetcn.com/livenews/3068140",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "消息人士：软银支持的日本支付应用PayPay的IPO定价可能处于发行区间的低端。",
+          "url": "https://flash.jin10.com/detail/20260311085324067800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "路透调查：64位经济学家均表示，日本央行将于3月19日将基准利率维持在0.75%。",
+          "url": "https://flash.jin10.com/detail/20260311120547264800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "路透调查：受访的60%的经济学家预计日本央行将在6月底前将基准利率上调至1.00%（2月调查为58%）。",
+          "url": "https://flash.jin10.com/detail/20260311120535170800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "日本汽油零售均价三个月来首次突破160日元",
+          "url": "https://flash.jin10.com/detail/20260311154510003800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "日本人假扮熊猫 目击者说有点搞笑",
+          "url": "https://www.toutiao.com/trending/7615519836307177513/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时24分"
+        },
+        {
+          "title": "日本民众集会反对高市政府危险政策",
+          "url": "https://www.toutiao.com/trending/7615288957862232070/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "日本五年期国债拍卖需求强于12个月平均水平",
+          "url": "https://flash.jin10.com/detail/20260311120333848800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "日本、德国将释放战略石油储备",
+          "url": "https://flash.jin10.com/detail/20260311191044189800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "日本防卫省：3月11日，日本、美国和澳大利亚达成协议，开始合作研究用于飞机的复合材料。这标志着三国之间首次此类合作，将有助于确保技术优势。",
+          "url": "https://flash.jin10.com/detail/20260311150733384800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时27分"
+        },
+        {
+          "title": "日本工业省：日本将从私营和国家储备中释放的原油总量约为8000万桶。",
+          "url": "https://flash.jin10.com/detail/20260311203743655800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "日本工业省：计划于3月下旬左右从国家石油储备中释放石油。",
+          "url": "https://flash.jin10.com/detail/20260311212554403800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时04分"
+        },
+        {
+          "title": "消息人士称，软银支持的日本支付应用PayPay的IPO定价料将位于推介区间的下限。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3067649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "日本：将对超过170日元/升的汽油价格进行补贴。",
+          "url": "https://wallstreetcn.com/livenews/3068081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        },
+        {
+          "title": "日本东证指数涨幅扩大至2%。",
+          "url": "https://wallstreetcn.com/livenews/3067763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "日本东证指数涨2%。",
+          "url": "https://flash.jin10.com/detail/20260311114432680800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "日本外务大臣：截至今日，已有388名人士乘坐政府包机返回日本。",
+          "url": "https://flash.jin10.com/detail/20260311014534458800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时40分"
+        },
+        {
+          "title": "日本5年期国债拍卖投标倍数为3.69，高于过去12个月均值3.44。",
+          "url": "https://wallstreetcn.com/livenews/3067758",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时09分"
+        },
+        {
+          "title": "学者：警惕日本南太军事布局野心",
+          "url": "https://www.toutiao.com/trending/7615760524634701865/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
+        },
+        {
+          "title": "日本首相高市早苗：日本最快将于3月16日开始释放部分石油储备。 日本将在国际能源署正式作出决定之前就释放石油储备。",
+          "url": "https://wallstreetcn.com/livenews/3068017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时31分"
+        },
+        {
+          "title": "五年期日本国债收益率下跌1.5个基点，至1.610%。",
+          "url": "https://flash.jin10.com/detail/20260311125107910800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "日本大阪一马路长出15米高巨型水管",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%A7%E9%98%AA%E4%B8%80%E9%A9%AC%E8%B7%AF%E9%95%BF%E5%87%BA15%E7%B1%B3%E9%AB%98%E5%B7%A8%E5%9E%8B%E6%B0%B4%E7%AE%A1%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 39,
+      "titles": [
+        {
+          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
+          "url": "https://www.cls.cn/detail/2309633",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[17时37分 ~ 23时12分]"
+        },
         {
           "title": "涨幅高达400%！腾讯云官宣AI模型调价 “龙虾”爆火或强化Token通胀",
           "url": "https://www.cls.cn/detail/2309524",
@@ -4032,8 +4499,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时02分 ~ 22时04分]"
+          "appearance_count": 13,
+          "time_info": "[16时02分 ~ 23时12分]"
         },
         {
           "title": "建议不允许青少年用AI做作业",
@@ -4077,8 +4544,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时09分 ~ 22时04分]"
+          "appearance_count": 17,
+          "time_info": "[13时09分 ~ 23时12分]"
         },
         {
           "title": "剑指阿里字节！报道：腾讯秘密布局微信AI智能体，年内或向全用户开放",
@@ -4090,8 +4557,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时26分 ~ 22时04分]"
+          "appearance_count": 12,
+          "time_info": "[15时26分 ~ 23时12分]"
         },
         {
           "title": "两会现场 我问了AI这样一个问题",
@@ -4121,21 +4588,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[00时53分 ~ 22时04分]"
-        },
-        {
-          "title": "腾讯“All in”AI入口战：马化腾官宣全系“龙虾”矩阵 微信“绝密级”AI智能体或今年上线",
-          "url": "https://www.cls.cn/detail/2309633",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时37分 ~ 22时04分]"
+          "appearance_count": 36,
+          "time_info": "[00时53分 ~ 23时12分]"
         },
         {
           "title": "豆包限制AI成毅",
@@ -4152,6 +4606,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[05时32分 ~ 11时40分]"
+        },
+        {
+          "title": "AI龙虾爆火,大神在线答疑",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351702&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%A4%A7%E7%A5%9E%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[19时56分 ~ 23时12分]"
         },
         {
           "title": "工信部提醒AI养虾安全风险",
@@ -4183,15 +4648,18 @@
           "time_info": "[17时37分 ~ 22时04分]"
         },
         {
-          "title": "AI龙虾爆火,大神在线答疑",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351702&amp;topic_name=AI%E9%BE%99%E8%99%BE%E7%88%86%E7%81%AB%2C%E5%A4%A7%E7%A5%9E%E5%9C%A8%E7%BA%BF%E7%AD%94%E7%96%91",
-          "source": "贴吧",
+          "title": "沉迷AI的领导belike",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            15,
+            25,
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时56分 ~ 22时04分]"
+          "appearance_count": 7,
+          "time_info": "[19时56分 ~ 23时12分]"
         },
         {
           "title": "AI短剧侵权肖战最高可判10年",
@@ -4207,17 +4675,27 @@
           "time_info": "[06时53分 ~ 09时26分]"
         },
         {
-          "title": "沉迷AI的领导belike",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B2%89%E8%BF%B7AI%E7%9A%84%E9%A2%86%E5%AF%BCbelike",
+          "title": "一只龙虾如何搅动整个AI圈",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%AA%E9%BE%99%E8%99%BE%E5%A6%82%E4%BD%95%E6%90%85%E5%8A%A8%E6%95%B4%E4%B8%AAAI%E5%9C%88",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            25,
-            20
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时56分 ~ 22时04分]"
+          "appearance_count": 4,
+          "time_info": "[22时03分 ~ 23时12分]"
+        },
+        {
+          "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时03分 ~ 23时12分]"
         },
         {
           "title": "AI龙虾卸载潮,299元上门收尸",
@@ -4255,17 +4733,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时24分 ~ 07时23分]"
-        },
-        {
-          "title": "一只龙虾如何搅动整个AI圈",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%AA%E9%BE%99%E8%99%BE%E5%A6%82%E4%BD%95%E6%90%85%E5%8A%A8%E6%95%B4%E4%B8%AAAI%E5%9C%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时03分 ~ 22时04分]"
         },
         {
           "title": "黄仁勋罕见发文：AI是这个重塑世界的重要力量，是电力、互联网一样的基础设施",
@@ -4360,15 +4827,15 @@
           "time_info": "[01时43分 ~ 02时40分]"
         },
         {
-          "title": "会见企业家丨齐向东：不应忽视“龙虾”热潮背后的三大AI安全风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32733403",
+          "title": "马上评｜“AI时代的文科”由人类创造，而非AI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32746490",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[22时03分 ~ 22时04分]"
+          "time_info": "[23时11分 ~ 23时12分]"
         },
         {
           "title": "AI回答AI时代如何定义人",
@@ -4496,7 +4963,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普释放停战对话信号，美股开盘涨跌互现，美元持续下跌，现货黄金日内涨幅达1%，油价跳水",
@@ -4518,8 +4985,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时53分 ~ 22时04分]"
+          "appearance_count": 5,
+          "time_info": "[20时53分 ~ 23时12分]"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加2.858吨，当前持仓量为1073.565吨。",
@@ -4628,6 +5095,17 @@
           "time_info": "[19时56分 ~ 19时57分]"
         },
         {
+          "title": "波兰央行行长格拉平斯基：波兰未实现黄金收益达1970亿波兰兹罗提。",
+          "url": "https://flash.jin10.com/detail/20260311223238738800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        },
+        {
           "title": "金十图示：2026年03月11日（周三）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260311115101158800",
           "source": "金十数据",
@@ -4637,6 +5115,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时09分"
+        },
+        {
+          "title": "哈莫尼黄金（HMY）一度跌超13.98%，报16.30美元，创2025年10月28日以来盘中新低，该公司上半财年营收逊色于市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3068171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "金十图示：2026年03月11日（周三）上海黄金交易所市场行情",
@@ -4753,7 +5242,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         }
@@ -4778,8 +5267,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时53分 ~ 22时04分]"
+          "appearance_count": 32,
+          "time_info": "[00时53分 ~ 23时12分]"
         },
         {
           "title": "内存价格会呈现渐进式下降还是突然暴跌？",
@@ -4787,11 +5276,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            9
+            9,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时08分 ~ 22时04分]"
+          "appearance_count": 5,
+          "time_info": "[14时08分 ~ 23时12分]"
         },
         {
           "title": "蔚来李斌：内存等原材料涨价对高端车型或带来近万元影响 公司暂无调价计划",
@@ -4978,7 +5468,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时04分"
         }
