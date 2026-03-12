@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-13T02:58:06.383501+08:00",
-  "total_titles_processed": 419,
+  "generated_at": "2026-03-13T03:39:49.674460+08:00",
+  "total_titles_processed": 460,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 39,
+      "match_count": 45,
       "titles": [
         {
           "title": "美国防部被曝龙虾门",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "美国贸易代表：将对16个贸易伙伴发起301调查",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "专访｜达巍：中国不会也无意填补美国留下的“真空”",
@@ -38,8 +38,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "美国防部被曝龙虾门",
@@ -47,11 +47,12 @@
           "source": "微博",
           "ranks": [
             6,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队称袭击美国油轮",
@@ -61,8 +62,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "美能源部长：美国暂未准备好在霍尔木兹海峡为油轮护航",
@@ -72,8 +73,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "伊朗袭击美国油轮 火光冲天",
@@ -83,8 +84,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "袭击伊朗小学的导弹为美国制造",
@@ -102,11 +103,24 @@
           "url": "https://flash.jin10.com/detail/20260313024338719800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
+        },
+        {
+          "title": "美国一犹太会堂发生枪击 嫌疑人已死亡",
+          "url": "https://flash.jin10.com/detail/20260313024315566800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
         },
         {
           "title": "美国各大交易所的CEO们呼吁审查预测市场“简易上市”制度",
@@ -132,15 +146,38 @@
           "time_info": "01时47分"
         },
         {
-          "title": "美国一犹太会堂发生枪击 嫌疑人已死亡",
-          "url": "https://flash.jin10.com/detail/20260313024315566800",
+          "title": "美国财长贝森特：一旦我们控制了空域，就有望实现。",
+          "url": "https://flash.jin10.com/detail/20260313030531329800",
           "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时39分"
+        },
+        {
+          "title": "美国贸易办公室：美国贸易代表格里尔将于3月15日至16日与美国财长贝森特一同前往法国巴黎。",
+          "url": "https://flash.jin10.com/detail/20260313024110311800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
+        },
+        {
+          "title": "美国财长贝森特：我相信，一旦军事条件允许，我们将立即护送船只通过霍尔木兹海峡。",
+          "url": "https://flash.jin10.com/detail/20260313030446271800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "美国汽油价创21个月新高，零工群体在加油站感受切肤之痛",
@@ -155,15 +192,39 @@
           "time_info": "[01时47分 ~ 02时58分]"
         },
         {
-          "title": "美国贸易办公室：美国贸易代表格里尔将于3月15日至16日与美国财长贝森特一同前往法国巴黎。",
-          "url": "https://flash.jin10.com/detail/20260313024110311800",
+          "title": "美国财长贝森特：美国海军或国际联盟为油轮护航始终在我们的计划之内。",
+          "url": "https://flash.jin10.com/detail/20260313030355733800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时39分"
+        },
+        {
+          "title": "美国密歇根州地方执法部门：密歇根州犹太教堂枪击事件中，无儿童或工作人员受伤。",
+          "url": "https://flash.jin10.com/detail/20260313023609962800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
+        },
+        {
+          "title": "美国财长贝森特将于3月15-16日前往法国。",
+          "url": "https://wallstreetcn.com/livenews/3069097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
         },
         {
           "title": "美国纽约市长马姆达尼面临城市财政问题的新警报",
@@ -176,6 +237,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时06分 ~ 01时47分]"
+        },
+        {
+          "title": "分析：美国战略石油储备最早5月中旬才能抵达亚洲紧缺地区",
+          "url": "https://wallstreetcn.com/livenews/3069088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
+        },
+        {
+          "title": "美国参议院再次在试探性投票中否决了国土安全部的拨款法案。投票结果为51比46。但该法案需要60票才能通过。",
+          "url": "https://flash.jin10.com/detail/20260313023117991800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
         },
         {
           "title": "美国参议院批准跨党派提出的住房经适性立法草案，按89-10票支持扩大全美住房供应。 草案中包含限制华尔街染指住房市场的条款。",
@@ -226,6 +311,17 @@
           "time_info": "[01时06分 ~ 01时47分]"
         },
         {
+          "title": "美国最近一周商业票据市场规模录得增长",
+          "url": "https://flash.jin10.com/detail/20260313030217491800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
           "title": "伊朗革命卫队公共关系部：海军对位于米纳萨勒曼港的美国第五舰队恐怖分子总部发动毁灭性打击。",
           "url": "https://flash.jin10.com/detail/20260313004303367800",
           "source": "金十数据",
@@ -237,26 +333,26 @@
           "time_info": "01时06分"
         },
         {
-          "title": "美国密歇根州地方执法部门：密歇根州犹太教堂枪击事件中，无儿童或工作人员受伤。",
-          "url": "https://flash.jin10.com/detail/20260313023609962800",
+          "title": "美国财长贝森特：国际联盟可能保护霍尔木兹海峡的船只。",
+          "url": "https://flash.jin10.com/detail/20260313030120544800",
           "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时39分"
         },
         {
-          "title": "美国财长贝森特将于3月15-16日前往法国。",
-          "url": "https://wallstreetcn.com/livenews/3069097",
+          "title": "美国一犹太会堂发生枪击，嫌疑人已死亡",
+          "url": "https://wallstreetcn.com/livenews/3069112",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时39分"
         },
         {
           "title": "市场消息：美国参议员凯恩预计，有关伊朗女子学校遇袭事件的初步报告“很快”就会出炉，但不会是今天。",
@@ -268,28 +364,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时06分"
-        },
-        {
-          "title": "分析：美国战略石油储备最早5月中旬才能抵达亚洲紧缺地区",
-          "url": "https://wallstreetcn.com/livenews/3069088",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "美国参议院再次在试探性投票中否决了国土安全部的拨款法案。投票结果为51比46。但该法案需要60票才能通过。",
-          "url": "https://flash.jin10.com/detail/20260313023117991800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
         },
         {
           "title": "市场消息：美国参议院否决民主党提出的为运输安全管理局拨款的请求，僵局持续。",
@@ -353,7 +427,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -375,7 +449,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         },
@@ -441,7 +515,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
@@ -449,7 +523,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 18,
+      "match_count": 23,
       "titles": [
         {
           "title": "通胀降温难敌油市恐慌，美股承压、美债遭挫，美元重回99关口，白银下挫3%",
@@ -459,8 +533,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数持平，暂报2631.86点，期内呈现出W形反转行情。 MarketVectorTM数字资产100中盘指数涨0.89%，报2854.85点，北京时间11:48跌至2795.46点刷新日低，随后持续反弹。 MarketVector数字资产100指数持平，报14103.24点，13:27也曾刷新日低至13847.75点。 目前，Solana跌0.43%，狗狗币涨0.85%，XRP跌0.62%。 比特币跌0.25%，暂报70453美元；以太坊跌0.22%，暂报2070.20美元。",
@@ -504,11 +578,23 @@
           "url": "https://wallstreetcn.com/livenews/3069106",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
+        },
+        {
+          "title": "周四（3月12日）纽约尾盘，美元兑日元涨0.30%，刷新日高至159.43日元，北京时间19:37刷新日低至158.57日元，随后持续走高。 欧元兑日元跌0.16%，英镑兑日元跌0.20%。",
+          "url": "https://wallstreetcn.com/livenews/3069120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时39分"
         },
         {
           "title": "周四（3月12日），美联储隔夜逆回购协议（RRP）使用规模为1.37亿美元（交易对手4家），上个交易日报5.52亿美元。",
@@ -523,15 +609,39 @@
           "time_info": "[01时47分 ~ 02时58分]"
         },
         {
+          "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：3月11日当周，短期、中期投资级债券基金获得32.8亿美元资金流入，执勤啊一周流入18.7亿美元。 高收益（垃圾级）债券基金遭遇15.3亿美元资金外流，创2025年4月23日以来最大单周资金外流，之前一周外流1.824亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3069101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
+        },
+        {
           "title": "WTI 4月原油期货收涨8.48美元，涨幅9.72%，报95.73美元/桶。 NYMEX 4月天然气期货收报3.2330美元/百万英热单位。 NYMEX 4月汽油期货收报2.9646美元/加仑，NYMEX 3月取暖油期货收报3.8989美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3069105",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
+        },
+        {
+          "title": "周四（3月12日），韩元兑美元最终跌0.82%，报1488.60韩元，北京时间21:00过后加速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3069100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
         },
         {
           "title": "美国财政部拍卖220亿美元30年期国债，得标利率4.871%（2月12日为4.750%），投标倍数2.45（前次为2.66）。",
@@ -546,26 +656,51 @@
           "time_info": "[01时47分 ~ 02时58分]"
         },
         {
-          "title": "伦敦证券交易所集团-理柏（LSEG Lipper）：3月11日当周，短期、中期投资级债券基金获得32.8亿美元资金流入，执勤啊一周流入18.7亿美元。 高收益（垃圾级）债券基金遭遇15.3亿美元资金外流，创2025年4月23日以来最大单周资金外流，之前一周外流1.824亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3069101",
+          "title": "美国能源部宣布19亿美元投资，用于升级电网、降低电力成本。",
+          "url": "https://wallstreetcn.com/livenews/3069096",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
         },
         {
-          "title": "周四（3月12日），韩元兑美元最终跌0.82%，报1488.60韩元，北京时间21:00过后加速下跌。",
-          "url": "https://wallstreetcn.com/livenews/3069100",
+          "title": "LME期铜收跌42美元，报13000美元/吨。 LME期铝收涨60美元，报3516美元/吨。 LME期锌收跌8美元，报3302美元/吨。 LME期铅收涨4美元，报1940美元/吨。 LME期镍收涨49美元，报17742美元/吨。 LME期锡收跌259美元，报49388美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3069095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
+        },
+        {
+          "title": "美国原油期货收报每桶95.73美元，上涨8.48美元，涨幅9.72%。",
+          "url": "https://flash.jin10.com/detail/20260313023209986800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
+        },
+        {
+          "title": "周四（3月12日）纽约尾盘，ICE美元指数涨0.50%，报99.750点，全天处于上涨状态，北京时间20:00之前开启一波长时间持续上涨的走势。 彭博美元指数涨0.50%，报1208.86点。",
+          "url": "https://wallstreetcn.com/livenews/3069116",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时39分"
         },
         {
           "title": "亚马逊抓住时机发行540亿美元全球债券",
@@ -579,17 +714,6 @@
           "time_info": "01时47分"
         },
         {
-          "title": "美国能源部宣布19亿美元投资，用于升级电网、降低电力成本。",
-          "url": "https://wallstreetcn.com/livenews/3069096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的1.37亿美元。",
           "url": "https://flash.jin10.com/detail/20260313011800625800",
           "source": "金十数据",
@@ -601,26 +725,37 @@
           "time_info": "01时47分"
         },
         {
-          "title": "LME期铜收跌42美元，报13000美元/吨。 LME期铝收涨60美元，报3516美元/吨。 LME期锌收跌8美元，报3302美元/吨。 LME期铅收涨4美元，报1940美元/吨。 LME期镍收涨49美元，报17742美元/吨。 LME期锡收跌259美元，报49388美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3069095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "美国原油期货收报每桶95.73美元，上涨8.48美元，涨幅9.72%。",
-          "url": "https://flash.jin10.com/detail/20260313023209986800",
+          "title": "布伦特原油期货收报每桶100.46美元，上涨8.48美元，涨幅9.22%。布伦特原油期货结算价自2022年8月以来首次突破每桶100美元。",
+          "url": "https://flash.jin10.com/detail/20260313024947938800",
           "source": "金十数据",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时39分"
+        },
+        {
+          "title": "纽约期金跌破5100美元/盎司，日内跌1.53%。",
+          "url": "https://flash.jin10.com/detail/20260313024922502800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "布油自2022年8月以来首次收于100美元上方，中东原油期货涨20%",
+          "url": "https://wallstreetcn.com/livenews/3069105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "WTI原油期货涨幅收窄至8.4%，逼近93.30美元。",
@@ -659,7 +794,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普称对伊朗军事行动“即将结束”，暗示或打击更多目标，伊方警告美或陷入长期耗损战",
@@ -669,8 +804,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -680,8 +815,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "中方回应特朗普计划访华",
@@ -691,8 +826,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "几个小时内“180度转变”！美国从“反对”到“力促”史上最大规模战略油储释放，背后是特朗普的忧虑",
@@ -702,19 +837,42 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
+        },
+        {
+          "title": "美国总统特朗普：美联储主席“杰罗姆·太晚·鲍威尔”今天在哪里？他应该立刻降息，而不是等下一次会议。",
+          "url": "https://flash.jin10.com/detail/20260313030815962800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "特朗普政府任命42名移民法官，其中许多人拥有执法背景",
           "url": "https://flash.jin10.com/detail/20260313023939495800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
+        },
+        {
+          "title": "特朗普敦促鲍威尔立即降息：不要等到美联储下次开会",
+          "url": "https://wallstreetcn.com/livenews/3069118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时39分"
         },
         {
           "title": "伊朗称特朗普几条推文结束不了战争",
@@ -786,7 +944,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "MiniMax 市值超越百度，智谱市值超京东，如何看待资本市场给予 AI 企业更高溢价？",
@@ -797,8 +955,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "“乐山大佛是大禹雕像”系AI生成",
@@ -808,8 +966,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "沉迷AI的领导belike",
@@ -818,11 +976,47 @@
           "ranks": [
             26,
             22,
-            29
+            29,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
+        },
+        {
+          "title": "马斯克旗下xAI从Cursor挖走两名高级领导人。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3069122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        },
+        {
+          "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
+          "url": "https://flash.jin10.com/detail/20260313023700863800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
+        },
+        {
+          "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
+          "url": "https://wallstreetcn.com/livenews/3069094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
         },
         {
           "title": "Meta在Facebook Marketplace推出新款AI工具。",
@@ -849,35 +1043,13 @@
           "time_info": "[01时06分 ~ 01时47分]"
         },
         {
-          "title": "在SpaceX上市前，特斯拉将其对xAI的投资转换为SpaceX股份",
-          "url": "https://flash.jin10.com/detail/20260313023700863800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
-          "title": "特斯拉在SpaceX上市前将其对xAI的投资转换为SpaceX股份",
-          "url": "https://wallstreetcn.com/livenews/3069094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时58分"
-        },
-        {
           "title": "市场消息：特斯拉在SpaceX上市前将其对XAI的投资转换为SpaceX的股份。",
           "url": "https://flash.jin10.com/detail/20260313020547080800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
@@ -885,7 +1057,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗威胁关闭霍尔木兹，美股三大股指低开，现货黄金短线下挫，油价重返100美元",
@@ -895,8 +1067,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "追觅手机6800元起售 黄金版超10万元",
@@ -905,22 +1077,46 @@
           "ranks": [
             29,
             27,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "现货黄金向下触及5100美元/盎司，日内跌1.47%。",
           "url": "https://flash.jin10.com/detail/20260313023505482800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时58分 ~ 03时39分]"
+        },
+        {
+          "title": "现货黄金回落至5090美元/盎司下方，日内跌1.68%。",
+          "url": "https://flash.jin10.com/detail/20260313030213812800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时58分"
+          "time_info": "03时39分"
+        },
+        {
+          "title": "现货黄金跌穿5100美元/盎司，日内跌幅大约1.5%。",
+          "url": "https://wallstreetcn.com/livenews/3069108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月12日（周四）晚盘收盘下跌0.9%报1135.0元/克；<br/>上海黄金交易所白银T+D 3月12日（周四）晚盘收盘下跌0.45%报21491.0元/千克。",
@@ -929,7 +1125,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时58分"
         }
@@ -937,7 +1133,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "日本官员承认出轨，高市早苗让他“用工作弥补”",
@@ -947,8 +1143,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
         },
         {
           "title": "美国将对 16 个贸易伙伴发起 301 调查，中国、欧盟、日本、印度、墨西哥等在内，会带来哪些影响？",
@@ -959,8 +1155,19 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 02时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 03时39分]"
+        },
+        {
+          "title": "美国内政部长道格·伯古姆将在本周访问日本期间讨论液化天然气（LNG）购销协议。伯古姆表示，美国将推动更多阿拉斯加LNG的购销协议。",
+          "url": "https://flash.jin10.com/detail/20260313025006615800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时39分"
         },
         {
           "title": "软银支持的日本数字钱包运营商PayPay登陆美股，开盘涨超13%。",
