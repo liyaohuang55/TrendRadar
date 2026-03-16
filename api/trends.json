@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T07:52:12.372166+08:00",
-  "total_titles_processed": 598,
+  "generated_at": "2026-03-16T09:55:48.893204+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "极端天气导致美国航班停飞，降雪倾盆，并引发大规模停电",
@@ -47,8 +47,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "美国也是能源大国，为什么还怕油价太高？",
@@ -117,8 +117,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "外媒：更少成本，更多效果，伊朗的反击让美国意外",
@@ -128,8 +128,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "美媒：对伊朗战争或成美国衰落开端",
@@ -139,11 +139,12 @@
             18,
             16,
             17,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "美使馆要求美公民立即离开伊拉克，目前当地情况如何？美国会与伊拉克开战吗？",
@@ -169,11 +170,12 @@
             26,
             23,
             25,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "伊朗革命卫队海军司令：海湾国家成为美国野心的牺牲品",
@@ -334,9 +336,31 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "伊朗：海湾国家成为美国野心的牺牲品",
+          "url": "https://www.toutiao.com/trending/7616854230845915155/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "央视曝光“增肌神药黑产链”，进口产品检出美国兽药",
+          "url": "https://www.cls.cn/detail/2313154",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "市场消息：三星SDI与一家美国公司签署了一项价值1.5万亿韩元的能源储存系统电池协议。",
@@ -345,9 +369,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "报道：印度将暂缓与美国签署贸易协议",
+          "url": "https://wallstreetcn.com/livenews/3070479",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         },
         {
           "title": "美国能源部长赖特：“显然” 我们在霍尔木兹海峡问题上会得到其他国家的支持。",
@@ -375,7 +410,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
@@ -407,8 +442,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "鲍威尔“威胁”特朗普政府：如果继续调查，他将留任美联储理事直到2028年1月",
@@ -419,41 +454,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "媒体爆料“特朗普是如何决定发动伊朗战争的”，关于霍尔木兹海峡、委内瑞拉和结束战争计划",
           "url": "https://wallstreetcn.com/articles/3767541",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
-        },
-        {
-          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
-          "url": "https://wallstreetcn.com/articles/3767538",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
-        },
-        {
-          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
-          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "周末要闻汇总：企业微信已支持一键扫码接入OpenClaw；特朗普称暂时不会与伊朗达成停火协议",
@@ -463,11 +477,34 @@
             7,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
+        },
+        {
+          "title": "多国护航，特朗普就能“搞定”霍尔木兹海峡了吗？",
+          "url": "https://wallstreetcn.com/articles/3767538",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
+        },
+        {
+          "title": "特朗普呼吁多国派遣军舰护航，回应来了",
+          "url": "https://news.ifeng.com/c/8rW5kiqRNgu",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "事关停火，美伊双方表态！特朗普：暂时不会与伊朗达成协议",
@@ -506,8 +543,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "泽连斯基：特朗普可能视我如子，但我不是最受宠的",
@@ -515,11 +552,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 07时24分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "英国首相府：英国首相斯塔默今晚与美国总统特朗普、加拿大总理卡尼进行了通话。",
@@ -583,7 +621,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -606,7 +644,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -617,7 +655,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -628,15 +666,26 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
+        },
+        {
+          "title": "美国被曝拟宣布组建霍尔木兹海峡「护航联盟」，特朗普威胁北约盟友协助通航，如何解读美方意图？有哪些影响？",
+          "url": "https://www.zhihu.com/question/2016791283864138046",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
@@ -644,11 +693,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "给AI投毒",
@@ -683,11 +733,12 @@
             8,
             13,
             15,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时55分 ~ 07时52分]"
+          "appearance_count": 18,
+          "time_info": "[00时55分 ~ 09时55分]"
         },
         {
           "title": "六指内塔尼亚胡是AI替身？真相来了",
@@ -695,11 +746,12 @@
           "source": "今日头条",
           "ranks": [
             13,
-            11
+            11,
+            17
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "实测AI推荐如何被操控",
@@ -714,8 +766,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 07时24分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "315晚会曝光“AI投毒产业链”",
@@ -741,11 +793,12 @@
           "source": "贴吧",
           "ranks": [
             27,
-            28
+            28,
+            29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "315晚会曝光“AI投毒产业链”",
@@ -786,11 +839,12 @@
           "url": "https://www.cls.cn/detail/2313138",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 09时55分]"
         },
         {
           "title": "美国交通部长Duffy：我们准备就霍尔木兹海峡通航问题提供保险。 Caine正分析（美国军队）何时才能安全地（提供）护航。 可能会在一天之后开始提供护航，也可能还要一周。",
@@ -803,12 +857,143 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 00时56分]"
+        },
+        {
+          "title": "李迅雷解读“十五五”规划：AI真正成长为国民经济增长支柱性产业",
+          "url": "https://www.cls.cn/detail/2313247",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "美国内政部长伯古姆：日本希望从美国购买更多石油。",
+          "url": "https://flash.jin10.com/detail/20260315232504438800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            11,
+            14,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 02时31分]"
+        },
+        {
+          "title": "日本首相高市早苗：日本目前没有计划派遣海军前往中东护航。",
+          "url": "https://flash.jin10.com/detail/20260316094211821800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "日本东证指数下跌1.0%，报3,592.55点。",
+          "url": "https://flash.jin10.com/detail/20260316093432811800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "日经225指数、日本东证指数日内跌幅达1%。",
+          "url": "https://wallstreetcn.com/livenews/3070505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "日本五年期国债收益率下跌1.5个基点，至1.665%。",
+          "url": "https://flash.jin10.com/detail/20260316093117802800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "日本防卫大臣小泉纯一郎：没有考虑向中东派遣自卫队。",
+          "url": "https://wallstreetcn.com/livenews/3070482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "日本民调显示超八成受访民众反对美国打击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3070481",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "日本首相高市早苗：正在考虑保护日本船只的必要措施。",
+          "url": "https://wallstreetcn.com/livenews/3070480",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "美国内政部长Burgum谈及那些向霍尔木兹海峡派遣轮船的国家，宣称：这样的讨论正在进行之中。 （谈及日本）多个国家有“动机”在霍尔木兹海峡问题上提供帮助。 美国牵头释放石油储备，日本紧随其后",
+          "url": "https://wallstreetcn.com/livenews/3070354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "日本政府开始释放战略原油储备。",
+          "url": "https://wallstreetcn.com/livenews/3070471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "比特币短线从7.16万美元下方拉升至71990.88美元。",
@@ -890,7 +1075,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -905,6 +1090,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时26分 ~ 00时56分]"
+        },
+        {
+          "title": "现货白银失守79美元",
+          "url": "https://flash.jin10.com/detail/20260316091407586800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
+        },
+        {
+          "title": "人民币兑美元中间价下调至6.9057元，创3月9日以来新低",
+          "url": "https://wallstreetcn.com/livenews/3070483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时55分"
         }
       ]
     },
@@ -921,19 +1128,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
           "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            18
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         },
         {
           "title": "315晚会曝光AI大模型被投毒",
@@ -970,11 +1178,12 @@
           "url": "https://www.zhihu.com/question/2016626718161465398",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时51分 ~ 07时52分]"
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 09时55分]"
         }
       ]
     },
@@ -992,8 +1201,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时24分 ~ 07时52分]"
+          "appearance_count": 16,
+          "time_info": "[01时24分 ~ 09时55分]"
         },
         {
           "title": "中东战事进入第三周 金价持稳于5000美元上方",
@@ -1028,7 +1237,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
         },
@@ -1043,38 +1252,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国内政部长伯古姆：日本希望从美国购买更多石油。",
-          "url": "https://flash.jin10.com/detail/20260315232504438800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            11,
-            14,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 02时31分]"
-        },
-        {
-          "title": "美国内政部长Burgum谈及那些向霍尔木兹海峡派遣轮船的国家，宣称：这样的讨论正在进行之中。 （谈及日本）多个国家有“动机”在霍尔木兹海峡问题上提供帮助。 美国牵头释放石油储备，日本紧随其后",
-          "url": "https://wallstreetcn.com/livenews/3070354",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时26分"
         }
       ]
     },
@@ -1113,8 +1290,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时26分 ~ 07时52分]"
+          "appearance_count": 19,
+          "time_info": "[00时26分 ~ 09时55分]"
         }
       ]
     }
