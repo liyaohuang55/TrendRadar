@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-16T19:53:35.971276+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-03-16T20:59:30.933359+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 64,
+      "match_count": 72,
       "titles": [
+        {
+          "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
+          "url": "https://news.ifeng.com/c/8rWNQ4DcbqP",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时36分 ~ 20时59分]"
+        },
         {
           "title": "极端天气导致美国航班停飞，降雪倾盆，并引发大规模停电",
           "url": "https://wallstreetcn.com/livenews/3070389",
@@ -194,18 +206,6 @@
           "time_info": "[01时53分 ~ 06时22分]"
         },
         {
-          "title": "6问美以伊战事走向：美国如何停战？伊朗是否会恋战？",
-          "url": "https://news.ifeng.com/c/8rWNQ4DcbqP",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时36分 ~ 19时53分]"
-        },
-        {
           "title": "最快本周！美国被曝拟宣布组建霍尔木兹海峡“护航联盟” 各国态度如何？",
           "url": "https://www.cls.cn/detail/2313683",
           "source": "财联社热门",
@@ -361,6 +361,17 @@
           "time_info": "[15时54分 ~ 18时02分]"
         },
         {
+          "title": "伊朗黑客出手！美国遭遇最严重的战时网络攻击",
+          "url": "https://news.ifeng.com/c/8rXqJcAsWfv",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时59分]"
+        },
+        {
           "title": "伊朗：海湾国家成为美国野心的牺牲品",
           "url": "https://www.toutiao.com/trending/7616854230845915155/",
           "source": "今日头条",
@@ -417,7 +428,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -428,7 +439,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -439,7 +450,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -455,6 +466,17 @@
           "time_info": "18时02分"
         },
         {
+          "title": "贝森特：美国对部分船只通过霍尔木兹海峡持“认可”态度",
+          "url": "https://flash.jin10.com/detail/20260316204255922800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "伊朗向以色列和美国基地发射导弹和无人机。",
           "url": "https://flash.jin10.com/detail/20260316173312786800",
           "source": "金十数据",
@@ -466,15 +488,15 @@
           "time_info": "18时02分"
         },
         {
-          "title": "伊朗黑客出手！美国遭遇最严重的战时网络攻击",
-          "url": "https://news.ifeng.com/c/8rXqJcAsWfv",
-          "source": "凤凰网",
+          "title": "美国军方称已摧毁100艘伊朗海军舰艇",
+          "url": "https://wallstreetcn.com/livenews/3070930",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时53分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "美国财长贝森特：目前约有1.4亿桶伊朗原油在海上。",
@@ -483,7 +505,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -494,7 +516,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -505,7 +527,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -538,9 +560,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "美国3月纽约联储制造业指数 -0.2，预期 3.9，前值 7.1。",
+          "url": "https://wallstreetcn.com/livenews/3070925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "印度贸易秘书：正评估美国301调查对印度的法律影响。",
@@ -563,6 +596,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "华尔街大行继续看好美国股市 称冲突未改变投资逻辑",
+          "url": "https://wallstreetcn.com/livenews/3070924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "央视曝光“增肌神药黑产链”，进口产品检出美国兽药",
@@ -637,7 +681,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -670,7 +714,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -692,9 +736,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "美国3月纽约联储制造业就业指数 5.8，前值4。",
+          "url": "https://flash.jin10.com/detail/20260316203044352800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "市场消息：两艘美国海军扫雷舰“塔尔萨”号和“圣巴巴拉”号出现在马来西亚，尽管它们此前已被部署到巴林执行霍尔木兹海峡的扫雷任务。",
@@ -714,9 +769,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "美国3月纽约联储制造业物价获得指数 21.4，前值22.2。",
+          "url": "https://flash.jin10.com/detail/20260316203037029800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "美国财长贝森特：任何应对油价的举措都取决于战争的持续时间。",
@@ -725,9 +791,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "美国3月纽约联储制造业新订单指数 6.4，前值5.8。",
+          "url": "https://flash.jin10.com/detail/20260316203029327800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "为啥美剧《无耻之徒》里的一家人没有被美国斩杀线斩杀呢？",
+          "url": "https://www.zhihu.com/question/1988960657845019125",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "报道：印度将暂缓与美国签署贸易协议",
@@ -799,7 +887,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 53,
       "titles": [
         {
           "title": "条件“还不够好”！特朗普称暂时不会与伊朗达成停火协议，美官员：目前重点是继续战争",
@@ -961,8 +1049,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时55分 ~ 19时53分]"
+          "appearance_count": 10,
+          "time_info": "[09时55分 ~ 20时59分]"
         },
         {
           "title": "特朗普点名多国参加护航霍尔木兹海峡，德法日韩：不去",
@@ -974,8 +1062,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时36分 ~ 19时53分]"
+          "appearance_count": 9,
+          "time_info": "[12时36分 ~ 20时59分]"
+        },
+        {
+          "title": "特朗普会投入地面部队吗？",
+          "url": "https://news.ifeng.com/c/8rXXAfLW18s",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 20时59分]"
         },
         {
           "title": "英国首相府：英国首相斯塔默今晚与美国总统特朗普、加拿大总理卡尼进行了通话。",
@@ -994,6 +1093,32 @@
           "time_info": "[03时49分 ~ 06时22分]"
         },
         {
+          "title": "外交部：中美双方就特朗普总统访华事宜保持着沟通",
+          "url": "https://www.cls.cn/detail/2314062",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 20时59分]"
+        },
+        {
+          "title": "中美就特朗普总统访华事保持着沟通",
+          "url": "https://www.toutiao.com/trending/7616995731195052086/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 20时59分]"
+        },
+        {
           "title": "美伊战火持续蔓延！美石油巨头警告特朗普政府：能源危机恐恶化",
           "url": "https://www.cls.cn/detail/2313562",
           "source": "财联社热门",
@@ -1006,53 +1131,42 @@
           "time_info": "[12时36分 ~ 16时51分]"
         },
         {
-          "title": "特朗普会投入地面部队吗？",
-          "url": "https://news.ifeng.com/c/8rXXAfLW18s",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 19时53分]"
-        },
-        {
-          "title": "外交部：中美双方就特朗普总统访华事宜保持着沟通",
-          "url": "https://www.cls.cn/detail/2314062",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 19时53分]"
-        },
-        {
-          "title": "中美就特朗普总统访华事保持着沟通",
-          "url": "https://www.toutiao.com/trending/7616995731195052086/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 19时53分]"
-        },
-        {
           "title": "中方：中美就特朗普访华保持着沟通",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%EF%BC%9A%E4%B8%AD%E7%BE%8E%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E7%9D%80%E6%B2%9F%E9%80%9A",
           "source": "百度热搜",
           "ranks": [
             15,
-            1
+            1,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 20时59分]"
+        },
+        {
+          "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2016900692145637068",
+          "source": "知乎",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[16时51分 ~ 19时53分]"
+          "time_info": "[18时02分 ~ 20时59分]"
+        },
+        {
+          "title": "释新闻｜特朗普呼吁组建“护航联盟”打通霍尔木兹海峡，为何反应平平？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32775654",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时51分 ~ 20时59分]"
         },
         {
           "title": "中方回应特朗普涉访华言论",
@@ -1065,18 +1179,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时51分 ~ 19时02分]"
-        },
-        {
-          "title": "外交部回应特朗普将推迟访华言论，「双方就特朗普总统访华事宜保持着沟通」，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2016900692145637068",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 19时53分]"
         },
         {
           "title": "民调：特朗普正将美国盟友推向中国",
@@ -1093,6 +1195,17 @@
           "time_info": "[14时18分 ~ 18时02分]"
         },
         {
+          "title": "特朗普，赚了近100亿",
+          "url": "https://news.ifeng.com/c/8rXsIKxSU6H",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时59分]"
+        },
+        {
           "title": "中方回应特朗普呼吁多国派军舰护航",
           "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%91%BC%E5%90%81%E5%A4%9A%E5%9B%BD%E6%B4%BE%E5%86%9B%E8%88%B0%E6%8A%A4%E8%88%AA%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -1100,18 +1213,6 @@
             17,
             12,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时51分 ~ 19时53分]"
-        },
-        {
-          "title": "释新闻｜特朗普呼吁组建“护航联盟”打通霍尔木兹海峡，为何反应平平？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32775654",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -1177,6 +1278,18 @@
           "time_info": "[19时02分 ~ 19时53分]"
         },
         {
+          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
+          "url": "https://wallstreetcn.com/articles/3767606",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时59分]"
+        },
+        {
           "title": "据华尔街日报：特朗普政府计划最快于本周宣布，多个国家已同意组成联盟，为通过霍尔木兹海峡的船只提供护航。不过各方仍在讨论这些行动应在伊朗敌对行动结束之前还是之后启动。",
           "url": "https://flash.jin10.com/detail/20260316044634158800",
           "source": "金十数据",
@@ -1190,15 +1303,17 @@
           "time_info": "[05时24分 ~ 06时22分]"
         },
         {
-          "title": "特朗普，赚了近100亿",
-          "url": "https://news.ifeng.com/c/8rXsIKxSU6H",
-          "source": "凤凰网",
+          "title": "中国不协助霍尔木兹海峡护航特朗普就推迟访华？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            18,
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时53分]"
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时59分]"
         },
         {
           "title": "据华尔街日报：埃克森美孚、雪佛龙、康菲石油公司首席执行官警告美国总统特朗普的官员，伊朗战争扰乱霍尔木兹海峡将加剧能源危机。",
@@ -1225,6 +1340,17 @@
           "time_info": "14时18分"
         },
         {
+          "title": "美以伊战争丨特朗普求护航，德国：这不是北约的战争",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "日本共同社报道称，日本外务大臣茂木敏充和美国国务卿鲁比奥很可能讨论美国总统特朗普关于向霍尔木兹海峡派遣护航舰艇的请求。",
           "url": "https://flash.jin10.com/detail/20260316135643816800",
           "source": "金十数据",
@@ -1247,17 +1373,6 @@
           "time_info": "16时51分"
         },
         {
-          "title": "特朗普强推“护航联盟”：不派舰，北约未来“非常糟糕”；日澳已拒绝",
-          "url": "https://wallstreetcn.com/articles/3767606",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时53分]"
-        },
-        {
           "title": "特朗普再批英国行动太迟：赢了才派船",
           "url": "https://flash.jin10.com/detail/20260316072611295800",
           "source": "金十数据",
@@ -1267,18 +1382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时52分"
-        },
-        {
-          "title": "中国不协助霍尔木兹海峡护航特朗普就推迟访华？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776754",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时53分]"
         },
         {
           "title": "据华尔街日报：石油行业警告，特朗普政府导致的能源危机很可能进一步恶化。",
@@ -1337,6 +1440,17 @@
           "time_info": "07时52分"
         },
         {
+          "title": "白宫新闻秘书莱维特：美国总统特朗普正与欧洲和海湾地区的盟友通话。",
+          "url": "https://flash.jin10.com/detail/20260316203816433800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "中国不协助霍尔木兹海峡护航特朗普就不访华？外交部回应",
           "url": "https://wallstreetcn.com/livenews/3070699",
           "source": "华尔街见闻-快讯",
@@ -1387,7 +1501,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1417,7 +1531,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 28,
+      "match_count": 37,
       "titles": [
         {
           "title": "比特币短线从7.16万美元下方拉升至71990.88美元。",
@@ -1504,6 +1618,17 @@
           "time_info": "18时02分"
         },
         {
+          "title": "WTI原油回落至95美元/桶下方，日内跌4.41%。布伦特原油日内跌超2.00%，现报98.85美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260316204620282800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "泰铢汇率下跌，跌至1美元兑32.505泰铢，为2025年11月24日以来新低。",
           "url": "https://flash.jin10.com/detail/20260316121140865800",
           "source": "金十数据",
@@ -1532,7 +1657,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1571,6 +1696,28 @@
           "time_info": "[00时26分 ~ 00时56分]"
         },
         {
+          "title": "WTI原油日内跌幅达2%，跌破95美元/桶关口，报94.77美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3070929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "美元兑日元失守159，日内跌0.46%。",
+          "url": "https://wallstreetcn.com/livenews/3070928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "欧元兑美元涨幅扩大，上涨0.5%至日内高点1.1477。",
           "url": "https://wallstreetcn.com/livenews/3070845",
           "source": "华尔街见闻-快讯",
@@ -1593,13 +1740,24 @@
           "time_info": "12时37分"
         },
         {
+          "title": "WTI原油日内大跌4.00%，现报95.25美元/桶。此前美国财长贝森特安抚油市。",
+          "url": "https://flash.jin10.com/detail/20260316203755960800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "美元指数日内跌幅达0.5%，报99.99，跌破100关口。",
           "url": "https://wallstreetcn.com/livenews/3070885",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -1613,6 +1771,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时51分"
+        },
+        {
+          "title": "WTI原油跌破96美元/桶，日内跌3.33%。",
+          "url": "https://flash.jin10.com/detail/20260316203531728800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "加密货币走高，比特币上涨3%至73,860.55美元，以太坊上涨6%至2,263.93美元。",
@@ -1659,6 +1828,17 @@
           "time_info": "15时54分"
         },
         {
+          "title": "WTI原油日内跌3.00%，现报96.27美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260316203216917800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "杰富瑞：将埃克森美孚石油目标价从149美元上调至178美元。",
           "url": "https://wallstreetcn.com/livenews/3070779",
           "source": "华尔街见闻-快讯",
@@ -1679,6 +1859,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时54分"
+        },
+        {
+          "title": "美元兑日元USD/JPY失守159，日内跌幅0.46%。",
+          "url": "https://flash.jin10.com/detail/20260316203127785800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "人民币兑美元中间价下调至6.9057元，创3月9日以来新低",
@@ -1714,6 +1905,17 @@
           "time_info": "12时37分"
         },
         {
+          "title": "摩根大通启动57.5亿美元的贷款出售，用于Electronic Arts的杠杆收购。",
+          "url": "https://wallstreetcn.com/livenews/3070910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "Nebius美股盘前大涨10%，报道称，Meta将在未来五年就与Nebius的人工智能交易支出高达270亿美元。",
           "url": "https://wallstreetcn.com/livenews/3070811",
           "source": "华尔街见闻-快讯",
@@ -1723,6 +1925,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
+        },
+        {
+          "title": "美国财长贝森特：海湾原油缺口约为每日1000万至1400万桶。 通胀预期牢牢锚定。 几个月后油价很可能“远低于”80美元。",
+          "url": "https://wallstreetcn.com/livenews/3070903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         },
         {
           "title": "印度2月石油进口额为129.7亿美元。",
@@ -1750,7 +1963,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "系好安全带！最重磅的中美会谈、美日欧央行决议、AI大会和巨头财报，都在这一周",
@@ -1920,6 +2133,19 @@
           "time_info": "[18时02分 ~ 19时53分]"
         },
         {
+          "title": "从夯到拉点评AI作品",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E7%82%B9%E8%AF%84AI%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时59分]"
+        },
+        {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
           "url": "https://wallstreetcn.com/articles/3767539",
           "source": "华尔街见闻",
@@ -1955,6 +2181,17 @@
           "time_info": "[19时02分 ~ 19时53分]"
         },
         {
+          "title": "锐评B站AI大赛热门作品",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84B%E7%AB%99AI%E5%A4%A7%E8%B5%9B%E7%83%AD%E9%97%A8%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "自进化个人AI MuleRun发布",
           "url": "https://wallstreetcn.com/livenews/3070587",
           "source": "华尔街见闻-快讯",
@@ -1975,18 +2212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
-        },
-        {
-          "title": "从夯到拉点评AI作品",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E7%82%B9%E8%AF%84AI%E4%BD%9C%E5%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时53分]"
         },
         {
           "title": "阿里巴巴据悉计划推出面向企业，基于千问模型的AI智能体。（彭博）",
@@ -2074,7 +2299,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
         },
@@ -2114,11 +2339,12 @@
             9,
             10,
             11,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时36分 ~ 19时53分]"
+          "appearance_count": 9,
+          "time_info": "[12时36分 ~ 20时59分]"
         },
         {
           "title": "美国内政部长伯古姆：日本希望从美国购买更多石油。",
@@ -2134,6 +2360,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 02时31分]"
+        },
+        {
+          "title": "赖清德言论引众怒！蓝营前发言人：想当日本人，请去日本",
+          "url": "https://news.ifeng.com/c/8rXs56XKCFj",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 20时59分]"
         },
         {
           "title": "日本首相高市早苗：日本目前没有计划派遣海军前往中东护航。",
@@ -2212,17 +2449,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        },
-        {
-          "title": "赖清德言论引众怒！蓝营前发言人：想当日本人，请去日本",
-          "url": "https://news.ifeng.com/c/8rXs56XKCFj",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时53分]"
         },
         {
           "title": "日本小将松岛辉空成“王楚钦克星”",
@@ -2361,7 +2587,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗战争后黄金为何下跌？摩根大通：市场动荡初期，黄金往往首先被抛售，此后或迅速转涨",
@@ -2391,8 +2617,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时18分 ~ 19时53分]"
+          "appearance_count": 7,
+          "time_info": "[14时18分 ~ 20时59分]"
         },
         {
           "title": "金价",
@@ -2422,6 +2648,20 @@
           "time_info": "[12时36分 ~ 16时51分]"
         },
         {
+          "title": "特朗普承诺“护航”，美股期货走高，WTI原油涨2.2%，现货黄金跌破5000美元",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时02分 ~ 20时59分]"
+        },
+        {
           "title": "金十图示：2026年03月16日（周一）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260316064521615800",
           "source": "金十数据",
@@ -2447,19 +2687,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时54分 ~ 07时52分]"
-        },
-        {
-          "title": "特朗普承诺“护航”，美股期货走高，WTI原油涨2.2%，现货黄金跌破5000美元",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 19时53分]"
         },
         {
           "title": "黄金和手机卖爆 你的钱包参与了吗",
@@ -2565,6 +2792,17 @@
           "time_info": "15时54分"
         },
         {
+          "title": "通胀高压之下，黄金供应能否形成趋势？需求的最后一道防线在哪？金十研究员Steven正在直播，点击进入直播间观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260316203508949800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "机皇EA211黄金增程步入增程3.0",
           "url": "https://s.weibo.com/weibo?q=%23%E6%9C%BA%E7%9A%87EA211%E9%BB%84%E9%87%91%E5%A2%9E%E7%A8%8B%E6%AD%A5%E5%85%A5%E5%A2%9E%E7%A8%8B3.0%23&t=31&band_rank=18&Refer=top",
           "source": "微博",
@@ -2601,7 +2839,7 @@
     },
     {
       "keyword_group": "大模型",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“3·15”晚会：起底荐股分成骗局 给AI大模型投毒已成产业链",
@@ -2700,6 +2938,17 @@
           "time_info": "15时54分"
         },
         {
+          "title": "315晚会曝光AI大模型被“投毒”，给AI洗脑已成产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32773464",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
           "title": "中国AI大模型调用量连续两周超越美国 神秘模型Hunter Alpha上榜",
           "url": "https://wallstreetcn.com/livenews/3070595",
           "source": "华尔街见闻-快讯",
@@ -2709,6 +2958,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "显卡 英伟达",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“AI届春晚”重磅来袭！一文读懂：英伟达GTC今年有哪些看点？",
+          "url": "https://www.cls.cn/detail/2313854",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时54分 ~ 19时53分]"
+        },
+        {
+          "title": "“AI界春晚”重磅来袭！一文读懂：英伟达GTC今年有哪些看点？",
+          "url": "https://www.cls.cn/detail/2313854",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        },
+        {
+          "title": "英伟达GTC今年有哪些看点",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E4%BC%9F%E8%BE%BEGTC%E4%BB%8A%E5%B9%B4%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9C%8B%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
         }
       ]
     },
@@ -2763,6 +3053,23 @@
       ]
     },
     {
+      "keyword_group": "openai chatgpt",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英伟达GTC大会前瞻：整合Groq技术大举进攻推理芯片，三星首度代工生产，OpenAI或成首批客户",
+          "url": "https://wallstreetcn.com/articles/3767569",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "股市",
       "match_count": 1,
       "titles": [
@@ -2798,25 +3105,6 @@
           "is_new": false,
           "appearance_count": 25,
           "time_info": "[00时26分 ~ 18时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "显卡 英伟达",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“AI届春晚”重磅来袭！一文读懂：英伟达GTC今年有哪些看点？",
-          "url": "https://www.cls.cn/detail/2313854",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时54分 ~ 19时53分]"
         }
       ]
     }
