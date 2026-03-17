@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T04:34:24.950186+08:00",
-  "total_titles_processed": 499,
+  "generated_at": "2026-03-18T05:32:55.855613+08:00",
+  "total_titles_processed": 551,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 36,
+      "match_count": 49,
       "titles": [
         {
           "title": "伊朗最高领袖驳回与美国议和提案",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "强风暴席卷美国大部分地区",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "美国国家反恐中心主任辞职",
@@ -39,8 +39,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "美国正处于“内战前夜”？",
@@ -50,8 +50,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "欧盟回应美国解禁俄油：不会重新进口俄油，坚持摆脱对俄能源依赖",
@@ -61,8 +61,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "伊朗的新战法让美国很头疼",
@@ -71,11 +71,12 @@
           "ranks": [
             29,
             25,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "美国家反恐中心主任辞职：无法昧着良心支持对伊朗战争",
@@ -85,8 +86,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 04时34分]"
+          "appearance_count": 4,
+          "time_info": "[03时33分 ~ 05时32分]"
         },
         {
           "title": "如何看待美国、英国、以色列、意大利、澳大利亚等多国爆发大规模抗议？会影响美以伊局势吗？",
@@ -112,6 +113,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "美国务院：已要求全球所有驻外使馆“立即”开展安全评估",
+          "url": "https://wallstreetcn.com/livenews/3071918",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "美国亚利桑那州起诉Kalshi涉嫌非法经营博彩业务。",
           "url": "https://wallstreetcn.com/livenews/3071818",
           "source": "华尔街见闻-快讯",
@@ -122,6 +134,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时02分]"
+        },
+        {
+          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
+          "url": "https://wallstreetcn.com/livenews/3071896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
         },
         {
           "title": "根据美国银行对欧洲基金经理进行的一项调查，随着市场对滞胀的担忧加剧，自战争爆发以来，投资者对今年欧洲经济增长的乐观情绪已大幅下降。 调查发现，目前净29%的基金经理预计欧洲经济将加速增长，低于一个月前创纪录的74%。",
@@ -142,18 +166,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在05:32前后获得数据详情。",
-          "url": "https://wallstreetcn.com/livenews/3071896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -188,9 +201,45 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "无人机制造商Swarmer美国IPO首日收涨520%。",
+          "url": "https://wallstreetcn.com/livenews/3071887",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
+        },
+        {
+          "title": "AeroVironment Inc.（AVAV）股价走高，据华尔街日报报道，美国国防部希望大规模生产自杀式无人机。",
+          "url": "https://wallstreetcn.com/livenews/3071880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
+        },
+        {
+          "title": "美国夫妻藏匿190具遗体致腐烂获刑",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%AB%E5%A6%BB%E8%97%8F%E5%8C%BF190%E5%85%B7%E9%81%97%E4%BD%93%E8%87%B4%E8%85%90%E7%83%82%E8%8E%B7%E5%88%91%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
         },
         {
           "title": "美国国务卿鲁比奥：目前的古巴政府无法解决国家疲软的经济，需要新的人来负责以进行修复。",
@@ -221,9 +270,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书阿里·拉里贾尼的社交媒体账号18日凌晨发布消息，证实拉里贾尼在美国和以色列对伊朗的袭击中遇难。",
+          "url": "https://flash.jin10.com/detail/20260318050908273800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "伊朗外长否认与美国总统特使有任何最新接触",
@@ -237,13 +297,24 @@
           "time_info": "03时34分"
         },
         {
+          "title": "周二（3月17日）纽约尾盘，美国10年期基准国债收益率跌1.75个基点，报4.2004%，北京时间14:01涨至4.2473%刷新日高，随后逐步走低，00:29刷新日低至4.1868%。 两年期美债收益率持平，报3.6715%，日内交投于3.6925%-3.6526%区间。",
+          "url": "https://wallstreetcn.com/livenews/3071908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "安全消息人士：无人机袭击目标为巴格达机场附近的一处美国外交设施。",
           "url": "https://flash.jin10.com/detail/20260318041241555800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -259,24 +330,13 @@
           "time_info": "03时34分"
         },
         {
-          "title": "无人机制造商Swarmer美国IPO首日收涨520%。",
-          "url": "https://wallstreetcn.com/livenews/3071887",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
           "title": "安全消息人士：一枚爆炸性无人机在巴格达美国大使馆上空被拦截并击落。",
           "url": "https://flash.jin10.com/detail/20260318040904719800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -303,17 +363,6 @@
           "time_info": "02时02分"
         },
         {
-          "title": "AeroVironment Inc.（AVAV）股价走高，据华尔街日报报道，美国国防部希望大规模生产自杀式无人机。",
-          "url": "https://wallstreetcn.com/livenews/3071880",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
           "title": "消息人士：卡秋莎火箭弹袭击巴格达美国大使馆，C-RAM防空系统启动，警报声响起。",
           "url": "https://flash.jin10.com/detail/20260318003038654800",
           "source": "金十数据",
@@ -325,6 +374,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "行业周报：美国上周API原油库存增超650万桶，汽油库存减少超450万桶",
+          "url": "https://wallstreetcn.com/livenews/3071901",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "市场消息：土耳其官方消息否认了有关五角大楼要求使用土耳其空军基地驻扎美国加油机以保护其安全的报道。",
           "url": "https://flash.jin10.com/detail/20260318023832354800",
           "source": "金十数据",
@@ -334,6 +394,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "Oklo宣布，美国能源部已经批准其附属公司Groves Isotopes在得州试验性反应堆的核安全设计协议。",
+          "url": "https://wallstreetcn.com/livenews/3071900",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "文件显示：美国证券交易委员会与马斯克表示，他们正在谈判解决关于马斯克披露其Twitter股份的民事诉讼。",
@@ -353,7 +424,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -375,9 +446,75 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "美国至3月13日当周API投产原油量 14.7万桶/日，前值10.7万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260318043906636800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美国至3月13日当周API成品油进口 -14.4万桶/日，前值33.8万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260318043901165800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美国至3月13日当周API原油进口 5.6万桶，前值-11.3万桶。",
+          "url": "https://flash.jin10.com/detail/20260318043852293800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美国至3月13日当周API取暖油库存 -14万桶，前值37.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260318043843120800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美国至3月13日当周API库欣原油库存 81.3万桶，前值-37万桶。",
+          "url": "https://flash.jin10.com/detail/20260318043835199800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美国至3月13日当周API精炼油库存 -139.4万桶，预期-172.1万桶，前值-225.7万桶。",
+          "url": "https://flash.jin10.com/detail/20260318043826809800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国反恐主管Joe Kent在辞职信中提到虚假论述。",
@@ -391,17 +528,6 @@
           "time_info": "01时02分"
         },
         {
-          "title": "美国夫妻藏匿190具遗体致腐烂获刑",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%AB%E5%A6%BB%E8%97%8F%E5%8C%BF190%E5%85%B7%E9%81%97%E4%BD%93%E8%87%B4%E8%85%90%E7%83%82%E8%8E%B7%E5%88%91%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
           "title": "据华盛顿邮报：因近期发生的袭击事件，美国要求所有大使馆审查安全措施。",
           "url": "https://flash.jin10.com/detail/20260318022726944800",
           "source": "金十数据",
@@ -411,12 +537,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "美国至3月13日当周API汽油库存 -456万桶，预期-181.5万桶，前值-183.8万桶。",
+          "url": "https://flash.jin10.com/detail/20260318043814916800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美国至3月13日当周API原油库存 655.6万桶，预期7.3万桶，前值-167.8万桶。",
+          "url": "https://flash.jin10.com/detail/20260318043805332800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
@@ -426,8 +574,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "特朗普称将接管古巴",
@@ -439,8 +587,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
@@ -451,8 +599,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "美澄清涉特朗普或推迟访华不实报道",
@@ -463,8 +611,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "特朗普或因伊朗战事推迟访华？外交部回应",
@@ -474,8 +622,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "美国总统特朗普：伊朗行动进展迅速，远超计划，预计几周内会有结论。",
@@ -569,6 +717,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "特朗普称对北约很失望",
+          "url": "https://wallstreetcn.com/livenews/3071905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
           "url": "https://wallstreetcn.com/livenews/3071849",
           "source": "华尔街见闻-快讯",
@@ -600,6 +759,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普狂喷盟友并威胁退出北约：斯塔默不是丘吉尔、马克龙或将下台",
+          "url": "https://flash.jin10.com/detail/20260318044226279800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "美国总统特朗普：英国广播公司在我对其发起的诉讼中承认有罪，让我们拭目以待事态的发展。",
@@ -748,7 +918,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
@@ -758,8 +928,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
@@ -769,8 +939,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "周二（3月17日），韩元兑美元最终涨0.25%，报1488.48韩元。",
@@ -809,6 +979,18 @@
           "time_info": "[03时34分 ~ 04时34分]"
         },
         {
+          "title": "露露柠檬四季度净营收36.4亿美元，分析师预期35.8亿美元。 四季度总体同店销售（剔除汇率因素）增长2%，分析师预期增长1.75%。 四季度美国同店销售（剔除汇率因素）下滑2%，分析师预期下降4.09%。 四季度国际同店销售（剔除汇率因素）增长16%，分析师预期增长11.4%。 四季度每股收益（EPS）为5.01美元，分析师预期4.78美元。 原李维斯（Levis Strauss）首席执行官Chip Bergh加盟本公司董事会。 预计全年净营收113.5亿-115亿美元，分析师预期115亿美元。 预计一季度净营收24亿-24.3亿美元，分析师预期24.8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的7.97亿美元。",
           "url": "https://flash.jin10.com/detail/20260318013819744800",
           "source": "金十数据",
@@ -832,15 +1014,15 @@
           "time_info": "[02时02分 ~ 03时34分]"
         },
         {
-          "title": "露露柠檬四季度净营收36.4亿美元，分析师预期35.8亿美元。 四季度总体同店销售（剔除汇率因素）增长2%，分析师预期增长1.75%。 四季度美国同店销售（剔除汇率因素）下滑2%，分析师预期下降4.09%。 四季度国际同店销售（剔除汇率因素）增长16%，分析师预期增长11.4%。 四季度每股收益（EPS）为5.01美元，分析师预期4.78美元。 原李维斯（Levis Strauss）首席执行官Chip Bergh加盟本公司董事会。 预计全年净营收113.5亿-115亿美元，分析师预期115亿美元。 预计一季度净营收24亿-24.3亿美元，分析师预期24.8亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3071891",
+          "title": "周二（3月17日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8830元，较周一纽约尾盘涨60点，日内整体交投于6.8944-6.8797元区间。",
+          "url": "https://wallstreetcn.com/livenews/3071911",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时34分"
+          "time_info": "05时32分"
         },
         {
           "title": "英伟达CEO黄仁勋：到2027年底，Blackwell和Rubin芯片带来的营收机遇“可能将超过1万亿美元”。",
@@ -876,6 +1058,28 @@
           "time_info": "03时34分"
         },
         {
+          "title": "摩根大通(JPM.N)宣布对已发行普通股每股派发1.50美元的季度股息。",
+          "url": "https://flash.jin10.com/detail/20260318050412911800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "达飞海运：更新所有区域内航线附加费标准，干货箱130美元/TEU，冷藏箱155美元/TEU。",
+          "url": "https://flash.jin10.com/detail/20260318050330916800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "WTI 4月原油期货收涨2.71美元，涨幅将近2.90%，报96.21美元/桶。 布伦特5月原油期货收涨3.21美元，涨幅3.20%，报103.42美元/桶。 中东Abu Dhabi Murban原油期货涨3.09%，报110.02美元/桶。 NYMEX 4月天然气期货收报3.0330美元/百万英热单位。 NYMEX 4月汽油期货收报3.1234美元/加仑，2月27日收盘以来累计上涨50.31%；NYMEX 3月取暖油期货收报4.0158美元/加仑，2月27日收盘以来累计上涨超过50.35%。",
           "url": "https://wallstreetcn.com/livenews/3071854",
           "source": "华尔街见闻-快讯",
@@ -893,7 +1097,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -918,6 +1122,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美国太空军上将Michael Guetlein：将总统特朗普所谓金穹反导系统的第一阶段建设成本上调100亿美元，至1850亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "英伟达CEO黄仁勋：1万亿美元+的收入预期具有强烈的“能见度”。 这样的预期还仅仅包含了Blackwell和Rubin芯片。 这个预期还不包括即将发布的新品，也不包括新增的地区和市场。 希望预定和发货等业务规模将超过1万亿美元。 1万亿美元这个目标将继续膨胀。 季度预期可以超过（市场）预期。 客户希望确保自己能获得（充足的）供应。",
@@ -948,7 +1163,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -959,7 +1174,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -970,7 +1185,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -981,7 +1196,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -1032,8 +1247,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "推理时代加速到来！英伟达力推LPU，哪些上市公司有望吃到百万出货红利？",
@@ -1045,8 +1260,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "超微电脑加入英伟达BlueField-4 STX首发阵营，旨在通过存储服务器提升AI推理性能",
@@ -1156,7 +1371,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -1178,7 +1393,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         }
@@ -1195,11 +1410,12 @@
           "ranks": [
             8,
             5,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "315 曝光「AI 投毒」后 GEO 换马甲生意照做，暴露出哪些问题？怎样才能彻底铲除 GEO 黑产？",
@@ -1212,8 +1428,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "15只硬科技基金获批，精准投向AI与战略新兴产业，增量资金蓄势待发",
@@ -1223,8 +1439,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "于谦说怕AI偷看相册",
@@ -1236,8 +1452,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
@@ -1258,7 +1474,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -1277,7 +1493,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -1287,8 +1503,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
+        },
+        {
+          "title": "金价继续持稳于5000美元整数位心理关口附近",
+          "url": "https://wallstreetcn.com/livenews/3071903",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月17日（周二）晚盘收盘下跌0.21%报1113.31元/克；<br/>上海黄金交易所白银T+D 3月17日（周二）晚盘收盘下跌1.86%报20024.0元/千克。",
@@ -1313,13 +1540,24 @@
           "time_info": "01时02分"
         },
         {
+          "title": "世界黄金协会：黄金供应不太可能枯竭",
+          "url": "https://www.toutiao.com/trending/7617063311962734642/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
           "title": "金价银价下跌原因找到了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=30&Refer=top",
           "source": "微博",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         }
@@ -1327,7 +1565,7 @@
     },
     {
       "keyword_group": "openai chatgpt",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：IT企业将是OpenAI和Anthropic的中间商。",
@@ -1351,6 +1589,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "OpenAI正筹备上市，有望于年底前实现。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3071904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "据CNBC：OpenAI正筹备上市，有望于年底前实现。",
+          "url": "https://flash.jin10.com/detail/20260318044954930800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时32分"
         },
         {
           "title": "OpenAI：GPT-5.4 mini 今天在 ChatGPT、Codex 和 API 中上线。针对编码、计算机使用、多模态理解和子代理进行了优化。速度是 GPT-5 mini 的两倍。GPT-5.4nano也从今天开始在API中提供。",
@@ -1387,7 +1647,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
         },
@@ -1415,22 +1675,24 @@
           "ranks": [
             30,
             26,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时01分 ~ 04时34分]"
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 05时32分]"
         },
         {
           "title": "专家：警惕日本再度成亚洲战争策源地",
           "url": "https://www.toutiao.com/trending/7617163654705807423/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
         }
       ]
     },
