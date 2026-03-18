@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T18:46:11.375828+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2026-03-18T19:42:36.341810+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 69,
+      "match_count": 74,
       "titles": [
         {
           "title": "强风暴席卷美国大部分地区",
@@ -31,11 +31,12 @@
             6,
             5,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[03时33分 ~ 18时46分]"
+          "appearance_count": 21,
+          "time_info": "[03时33分 ~ 19时42分]"
         },
         {
           "title": "伊朗最高领袖驳回与美国议和提案",
@@ -63,11 +64,12 @@
             17,
             16,
             18,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时01分 ~ 18时46分]"
+          "appearance_count": 24,
+          "time_info": "[01时01分 ~ 19时42分]"
         },
         {
           "title": "欧盟回应美国解禁俄油：不会重新进口俄油，坚持摆脱对俄能源依赖",
@@ -126,6 +128,17 @@
           "time_info": "[12时21分 ~ 17时48分]"
         },
         {
+          "title": "美国国家反恐中心主任因不满发动对伊朗战争辞职，称伊并未对美构成迫在眉睫的威胁，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2017533900855984294",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时49分 ~ 19时42分]"
+        },
+        {
           "title": "美国威慑力“去马赛克化”，震怖第一岛链",
           "url": "https://news.ifeng.com/c/8rapSgw6TzK",
           "source": "凤凰网",
@@ -136,17 +149,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[13时45分 ~ 17时48分]"
-        },
-        {
-          "title": "美国国家反恐中心主任因不满发动对伊朗战争辞职，称伊并未对美构成迫在眉睫的威胁，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2017533900855984294",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时49分 ~ 18时46分]"
         },
         {
           "title": "美国夫妻藏匿190具遗体致腐烂获刑",
@@ -176,6 +178,30 @@
           "time_info": "[02时02分 ~ 07时39分]"
         },
         {
+          "title": "内塔尼亚胡找美国大使自证活着",
+          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E6%89%BE%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E8%87%AA%E8%AF%81%E6%B4%BB%E7%9D%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            29,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时49分 ~ 19时42分]"
+        },
+        {
+          "title": "暗杀拉里贾尼，以色列此招拖得住美国吗？",
+          "url": "https://news.ifeng.com/c/8rb7sb85L7M",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时42分]"
+        },
+        {
           "title": "美国务院：已要求全球所有驻外使馆“立即”开展安全评估",
           "url": "https://wallstreetcn.com/livenews/3071918",
           "source": "华尔街见闻-快讯",
@@ -200,29 +226,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时48分 ~ 18时46分]"
-        },
-        {
-          "title": "内塔尼亚胡找美国大使自证活着",
-          "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E6%89%BE%E7%BE%8E%E5%9B%BD%E5%A4%A7%E4%BD%BF%E8%87%AA%E8%AF%81%E6%B4%BB%E7%9D%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 18时46分]"
-        },
-        {
-          "title": "暗杀拉里贾尼，以色列此招拖得住美国吗？",
-          "url": "https://news.ifeng.com/c/8rb7sb85L7M",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
         },
         {
           "title": "周二（3月17日）纽约尾盘，美国10年期基准国债收益率跌1.75个基点，报4.2004%，北京时间14:01涨至4.2473%刷新日高，随后逐步走低，00:29刷新日低至4.1868%。 两年期美债收益率持平，报3.6715%，日内交投于3.6925%-3.6526%区间。",
@@ -365,6 +368,17 @@
           "time_info": "[01时02分 ~ 02时02分]"
         },
         {
+          "title": "美国贸易代表格里尔：第338条在特定情况下适用。",
+          "url": "https://flash.jin10.com/detail/20260318193209297800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "市场消息：美国将在伊朗战争期间放松对委内瑞拉的制裁，以释放更多石油资源。",
           "url": "https://flash.jin10.com/detail/20260318042610388800",
           "source": "金十数据",
@@ -374,6 +388,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "欧洲推出“EU Inc.”计划，旨在打造与美国等经济体相抗衡的初创企业生态系统。",
+          "url": "https://flash.jin10.com/detail/20260318193157083800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "无人机制造商Swarmer美国IPO首日收涨520%。",
@@ -502,6 +527,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "美国贸易代表格里尔：预计将与欧盟、马来西亚、印度进行双边贸易谈判。",
+          "url": "https://flash.jin10.com/detail/20260318193048446800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "美国中央司令部：数小时前，美军在霍尔木兹海峡附近伊朗沿海的伊朗导弹基地使用了5000磅级深穿透炸弹。",
           "url": "https://flash.jin10.com/detail/20260318065931362800",
           "source": "金十数据",
@@ -590,6 +626,17 @@
           "time_info": "07时39分"
         },
         {
+          "title": "美国3月13日当周MBA抵押贷款申请活动指数周环比 -10.9%，前值 3.2%。",
+          "url": "https://wallstreetcn.com/livenews/3072381",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "消息人士：卡秋莎火箭弹袭击巴格达美国大使馆，C-RAM防空系统启动，警报声响起。",
           "url": "https://flash.jin10.com/detail/20260318003038654800",
           "source": "金十数据",
@@ -610,6 +657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "首位高官公开“跳船”！美国反恐中心主任递交辞职信，手撕白宫开战谎言丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260318192728971800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "文件显示：美国证券交易委员会与马斯克表示，他们正在谈判解决关于马斯克披露其Twitter股份的民事诉讼。",
@@ -728,7 +786,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -823,720 +881,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 61,
-      "titles": [
-        {
-          "title": "特朗普称将接管古巴",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E6%8E%A5%E7%AE%A1%E5%8F%A4%E5%B7%B4",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
-          "url": "https://wallstreetcn.com/articles/3767756",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时34分 ~ 18时46分]"
-        },
-        {
-          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
-          "url": "https://www.cls.cn/detail/2315375",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 07时01分]"
-        },
-        {
-          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时01分 ~ 12时21分]"
-        },
-        {
-          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
-          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
-          "url": "https://www.cls.cn/detail/2316263",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 18时46分]"
-        },
-        {
-          "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
-          "url": "https://www.cls.cn/detail/2316154",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时38分 ~ 15时50分]"
-        },
-        {
-          "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
-          "url": "https://www.cls.cn/detail/2316165",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 16时42分]"
-        },
-        {
-          "title": "特朗普称应考虑美国退出北约的可能性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 16时42分]"
-        },
-        {
-          "title": "美澄清涉特朗普或推迟访华不实报道",
-          "url": "https://www.cls.cn/detail/2315239",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时01分 ~ 05时32分]"
-        },
-        {
-          "title": "国台办回应特朗普或将批准对台军售案",
-          "url": "https://www.toutiao.com/trending/7617485967372320822/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时45分 ~ 16时42分]"
-        },
-        {
-          "title": "特朗普亲自澄清：因对伊朗战事未了请求推迟行程，“期待访华”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32783811",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时45分 ~ 16时42分]"
-        },
-        {
-          "title": "美以伊战争丨因伊朗战争与特朗普决裂，他什么来头？",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 16时42分]"
-        },
-        {
-          "title": "中方回应特朗普称推迟访华",
-          "url": "https://www.douyin.com/hot/2435021",
-          "source": "抖音",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 16时42分]"
-        },
-        {
-          "title": "中方回应特朗普确认推迟访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A1%AE%E8%AE%A4%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 16时42分]"
-        },
-        {
-          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
-          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 18时46分]"
-        },
-        {
-          "title": "为何不谴责美以？高市早苗：因为我要见特朗普",
-          "url": "https://news.ifeng.com/c/8raajLUudf0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时49分 ~ 16时42分]"
-        },
-        {
-          "title": "美以伊战争丨特朗普：不担心伊朗会成为另一个越南",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 14时56分]"
-        },
-        {
-          "title": "中方回应特朗普确认推迟访华",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A1%AE%E8%AE%A4%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 16时42分]"
-        },
-        {
-          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
-          "url": "https://www.cls.cn/detail/2316670",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 18时46分]"
-        },
-        {
-          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
-          "url": "https://news.ifeng.com/c/8radF7mAvMh",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时56分]"
-        },
-        {
-          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
-          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 18时46分]"
-        },
-        {
-          "title": "美国总统特朗普：我们很快将重返月球，然后前往火星。",
-          "url": "https://wallstreetcn.com/livenews/3071928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 07时39分]"
-        },
-        {
-          "title": "美国总统特朗普谈及与爱尔兰的贸易赤字，宣称：（爱尔兰）需要购买我们的能源。",
-          "url": "https://wallstreetcn.com/livenews/3071927",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 07时39分]"
-        },
-        {
-          "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
-          "url": "https://news.ifeng.com/c/8raajLUudf0",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 14时56分]"
-        },
-        {
-          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
-          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 18时46分]"
-        },
-        {
-          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 18时46分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗行动进展迅速，远超计划，预计几周内会有结论。",
-          "url": "https://flash.jin10.com/detail/20260318014629718800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美国总统特朗普兜售股市上涨。",
-          "url": "https://wallstreetcn.com/livenews/3071838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时34分]"
-        },
-        {
-          "title": "美国总统特朗普夸赞美国股市表现。",
-          "url": "https://flash.jin10.com/detail/20260318014614651800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "特朗普谈反恐中心主任辞职：他走人是好事",
-          "url": "https://flash.jin10.com/detail/20260318032156939800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗战争进展顺利。今天我们过得很充实，击中了多个目标。",
-          "url": "https://flash.jin10.com/detail/20260318014202431800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美国总统特朗普重申过去两周美国在伊朗采取了一次“短暂行动”（excursion）。",
-          "url": "https://flash.jin10.com/detail/20260318055704570800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时01分]"
-        },
-        {
-          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
-          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        },
-        {
-          "title": "特朗普称应考虑美国退出北约的可能性",
-          "url": "https://wallstreetcn.com/livenews/3071810",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时02分]"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗）我们进展大大超前。",
-          "url": "https://flash.jin10.com/detail/20260318054846607800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时01分]"
-        },
-        {
-          "title": "特朗普称伊朗两名高级官员“已被清除”",
-          "url": "https://wallstreetcn.com/livenews/3071809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 02时02分]"
-        },
-        {
-          "title": "特朗普称对北约很失望",
-          "url": "https://wallstreetcn.com/livenews/3071905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时34分]"
-        },
-        {
-          "title": "特朗普称应考虑美国退出北约的可能性",
-          "url": "https://flash.jin10.com/detail/20260318003433795800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "特朗普：不担心伊朗成为“另一个越南”",
-          "url": "https://wallstreetcn.com/livenews/3072105",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时21分"
-        },
-        {
-          "title": "特朗普确认推迟访华，外交部：中美将继续就此事保持沟通",
-          "url": "https://wallstreetcn.com/livenews/3072217",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
-          "url": "https://wallstreetcn.com/livenews/3071849",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
-          "url": "https://flash.jin10.com/detail/20260318151145483800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时50分"
-        },
-        {
-          "title": "美国总统特朗普的新闻发布会结束。",
-          "url": "https://flash.jin10.com/detail/20260318003003015800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美官员致信特朗普称“无法昧着良心支持对伊朗的战争”并辞职，特朗普回应",
-          "url": "https://wallstreetcn.com/livenews/3072003",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "美国总统特朗普：古巴正与国务卿卢比奥对话。",
-          "url": "https://wallstreetcn.com/livenews/3071801",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "特朗普狂喷盟友并威胁退出北约：斯塔默不是丘吉尔、马克龙或将下台",
-          "url": "https://flash.jin10.com/detail/20260318044226279800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "美国总统特朗普：英国广播公司在我对其发起的诉讼中承认有罪，让我们拭目以待事态的发展。",
-          "url": "https://flash.jin10.com/detail/20260318002915360800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国总统特朗普：我们本来就无需支持乌克兰。",
-          "url": "https://wallstreetcn.com/livenews/3071797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国财长贝森特：多亏了特朗普总统的全球领导，我们的世界将更加安全，能源供应也会更充足。",
-          "url": "https://flash.jin10.com/detail/20260318002811007800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国总统特朗普谈论法国总统马克龙，声称：他很快就会下台。",
-          "url": "https://wallstreetcn.com/livenews/3071796",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国总统特朗普谈及与爱尔兰关系，声称：希望我们能达成一份关于美国出口液化天然气（LNG）的协议。",
-          "url": "https://wallstreetcn.com/livenews/3071842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "美国总统特朗普：全世界都应该感谢我对伊朗的行动。",
-          "url": "https://flash.jin10.com/detail/20260318002454473800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗战争很快就会结束。而战争一结束，油价就会断崖式下跌。",
-          "url": "https://flash.jin10.com/detail/20260318002215549800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国总统特朗普：欧洲发生了非常糟糕的事情，他们最好对移民和能源采取行动，否则欧洲将不复存在。",
-          "url": "https://flash.jin10.com/detail/20260318002118871800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国总统特朗普：将与爱尔兰领导人讨论贸易等问题。 认为两国之间的贸易关系将扩大。 爱尔兰可能希望讨论关税问题。",
-          "url": "https://wallstreetcn.com/livenews/3071793",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国总统特朗普：再过不久，船只就能通过霍尔木兹海峡了。",
-          "url": "https://flash.jin10.com/detail/20260318002052131800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国总统特朗普：不同意英国首相斯塔默的移民和能源政策。",
-          "url": "https://flash.jin10.com/detail/20260318001951811800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "美国总统特朗普：将努力阻止在美国建设风力发电厂。",
-          "url": "https://flash.jin10.com/detail/20260318001934971800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "特朗普：不再需要北约国家协助，也不需要日韩和澳大利亚的帮助",
-          "url": "https://wallstreetcn.com/livenews/3071784",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "当着特朗普的面 爱尔兰总理抨击关税和战争",
-          "url": "https://wallstreetcn.com/livenews/3072242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 60,
+      "match_count": 66,
       "titles": [
         {
           "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
@@ -1559,8 +905,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 18时46分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 19时42分]"
         },
         {
           "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
@@ -1584,8 +930,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时56分 ~ 18时46分]"
+          "appearance_count": 9,
+          "time_info": "[14时56分 ~ 19时42分]"
         },
         {
           "title": "WTI原油日内跌超1.00%，现报94.80美元/桶。",
@@ -1815,6 +1161,17 @@
           "time_info": "17时48分"
         },
         {
+          "title": "国际原油短线拉升，布伦特原油突破100美元/桶关口，日内涨0.84%。此前伊朗称其石油和天然气资产遭到袭击。",
+          "url": "https://wallstreetcn.com/livenews/3072408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "美国太空军上将Michael Guetlein：将总统特朗普所谓金穹反导系统的第一阶段建设成本上调100亿美元，至1850亿美元。",
           "url": "https://wallstreetcn.com/livenews/3071902",
           "source": "华尔街见闻-快讯",
@@ -1883,6 +1240,17 @@
           "time_info": "12时21分"
         },
         {
+          "title": "布伦特原油站上102美元/桶，日内涨1.23%。WTI原油站上96美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260318193030412800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "市场消息：美国将“金色穹顶”项目的成本估算扩大至1850亿美元，并征集顶级防务公司参与。",
           "url": "https://flash.jin10.com/detail/20260318012733280800",
           "source": "金十数据",
@@ -1903,6 +1271,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "布伦特原油日内涨超1.00%，现报101.85美元/桶。WTI原油逼近96美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260318192955919800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
@@ -2015,6 +1394,17 @@
           "time_info": "03时34分"
         },
         {
+          "title": "布伦特原油站上101美元/桶，日内涨0.25%。",
+          "url": "https://flash.jin10.com/detail/20260318192749922800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.817%（2月18日为4.664%），投标倍数2.76（前次为2.36）。",
           "url": "https://wallstreetcn.com/livenews/3071823",
           "source": "华尔街见闻-快讯",
@@ -2057,6 +1447,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "梅西百货第四季度净销售额76.4亿美元，预期75.1亿美元。 第四季度经调整后每股收益1.67美元，预期1.54美元。 梅西百货预计全财年净销售额214亿美元-216.5亿美元，预估211.1亿美元。 梅西百货预计一季度净销售额45.75亿美元-46.25亿美元。 梅西百货美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3072379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
@@ -2109,7 +1510,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -2123,6 +1524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时34分"
+        },
+        {
+          "title": "欧洲央行敦促银行密切关注美元流动性指标",
+          "url": "https://wallstreetcn.com/livenews/3072374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "LME期铜收跌80美元，报12775美元/吨。 LME期铝收涨4美元，报3400美元/吨。 LME期锌收跌42美元，报3228美元/吨。 LME期铅收涨24美元，报1930美元/吨。 LME期镍收跌270美元，报17195美元/吨。 LME期锡收跌1540美元，报46725美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -2175,7 +1587,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -2226,8 +1638,745 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 63,
+      "titles": [
+        {
+          "title": "特朗普称将接管古巴",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E6%8E%A5%E7%AE%A1%E5%8F%A4%E5%B7%B4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 07时39分]"
+        },
+        {
+          "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
+          "url": "https://wallstreetcn.com/articles/3767756",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[06时34分 ~ 19时42分]"
+        },
+        {
+          "title": "外交部：美方已澄清 特朗普访华事与霍尔木兹海峡通航问题无关",
+          "url": "https://www.cls.cn/detail/2315375",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 07时01分]"
+        },
+        {
+          "title": "美国财长：特朗普“因霍尔木兹海峡护航事威胁推迟访华”报道不实",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32781657",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 12时21分]"
+        },
+        {
+          "title": "特朗普或因伊朗战事推迟访华？外交部回应",
+          "url": "https://news.ifeng.com/c/8rZOqGs1pHk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 07时39分]"
+        },
+        {
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时21分 ~ 18时46分]"
+        },
+        {
+          "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
+          "url": "https://www.cls.cn/detail/2316154",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时38分 ~ 15时50分]"
+        },
+        {
+          "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
+          "url": "https://www.cls.cn/detail/2316165",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普称应考虑美国退出北约的可能性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            17,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 16时42分]"
+        },
+        {
+          "title": "美澄清涉特朗普或推迟访华不实报道",
+          "url": "https://www.cls.cn/detail/2315239",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 05时32分]"
+        },
+        {
+          "title": "国台办回应特朗普或将批准对台军售案",
+          "url": "https://www.toutiao.com/trending/7617485967372320822/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时45分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普亲自澄清：因对伊朗战事未了请求推迟行程，“期待访华”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32783811",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时45分 ~ 16时42分]"
+        },
+        {
+          "title": "美以伊战争丨因伊朗战争与特朗普决裂，他什么来头？",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
+          "url": "https://news.ifeng.com/c/8rb4ORiCMhg",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 19时42分]"
+        },
+        {
+          "title": "中方回应特朗普称推迟访华",
+          "url": "https://www.douyin.com/hot/2435021",
+          "source": "抖音",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 16时42分]"
+        },
+        {
+          "title": "中方回应特朗普确认推迟访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A1%AE%E8%AE%A4%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 16时42分]"
+        },
+        {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://www.cls.cn/detail/2316670",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 19时42分]"
+        },
+        {
+          "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8rb2oC4BRVx",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 19时42分]"
+        },
+        {
+          "title": "为何不谴责美以？高市早苗：因为我要见特朗普",
+          "url": "https://news.ifeng.com/c/8raajLUudf0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时49分 ~ 16时42分]"
+        },
+        {
+          "title": "特朗普就伊朗问题施压日本怎么办？高市可能使出拖字诀",
+          "url": "https://news.ifeng.com/c/8rb3KwO5fcb",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 19时42分]"
+        },
+        {
+          "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787473",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 19时42分]"
+        },
+        {
+          "title": "美以伊战争丨特朗普：不担心伊朗会成为另一个越南",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 14时56分]"
+        },
+        {
+          "title": "中方回应特朗普确认推迟访华",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E7%A1%AE%E8%AE%A4%E6%8E%A8%E8%BF%9F%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时41分 ~ 16时42分]"
+        },
+        {
+          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
+          "url": "https://news.ifeng.com/c/8radF7mAvMh",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时56分]"
+        },
+        {
+          "title": "美国总统特朗普：我们很快将重返月球，然后前往火星。",
+          "url": "https://wallstreetcn.com/livenews/3071928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时39分]"
+        },
+        {
+          "title": "是否派自卫队赴中东？日本专家：高市或与特朗普达成私下交易",
+          "url": "https://news.ifeng.com/c/8rb1B6BXYFH",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时42分]"
+        },
+        {
+          "title": "美国总统特朗普谈及与爱尔兰的贸易赤字，宣称：（爱尔兰）需要购买我们的能源。",
+          "url": "https://wallstreetcn.com/livenews/3071927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时39分]"
+        },
+        {
+          "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
+          "url": "https://news.ifeng.com/c/8raajLUudf0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时21分 ~ 14时56分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗行动进展迅速，远超计划，预计几周内会有结论。",
+          "url": "https://flash.jin10.com/detail/20260318014629718800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国总统特朗普兜售股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3071838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时34分]"
+        },
+        {
+          "title": "美国总统特朗普夸赞美国股市表现。",
+          "url": "https://flash.jin10.com/detail/20260318014614651800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普谈反恐中心主任辞职：他走人是好事",
+          "url": "https://flash.jin10.com/detail/20260318032156939800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗战争进展顺利。今天我们过得很充实，击中了多个目标。",
+          "url": "https://flash.jin10.com/detail/20260318014202431800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国总统特朗普重申过去两周美国在伊朗采取了一次“短暂行动”（excursion）。",
+          "url": "https://flash.jin10.com/detail/20260318055704570800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普称应考虑美国退出北约的可能性",
+          "url": "https://wallstreetcn.com/livenews/3071810",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时02分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈伊朗）我们进展大大超前。",
+          "url": "https://flash.jin10.com/detail/20260318054846607800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普称伊朗两名高级官员“已被清除”",
+          "url": "https://wallstreetcn.com/livenews/3071809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时02分]"
+        },
+        {
+          "title": "特朗普称对北约很失望",
+          "url": "https://wallstreetcn.com/livenews/3071905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时34分]"
+        },
+        {
+          "title": "特朗普称应考虑美国退出北约的可能性",
+          "url": "https://flash.jin10.com/detail/20260318003433795800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普：不担心伊朗成为“另一个越南”",
+          "url": "https://wallstreetcn.com/livenews/3072105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "特朗普确认推迟访华，外交部：中美将继续就此事保持沟通",
+          "url": "https://wallstreetcn.com/livenews/3072217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
+          "url": "https://wallstreetcn.com/livenews/3071849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
+          "url": "https://flash.jin10.com/detail/20260318151145483800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "美国总统特朗普的新闻发布会结束。",
+          "url": "https://flash.jin10.com/detail/20260318003003015800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美官员致信特朗普称“无法昧着良心支持对伊朗的战争”并辞职，特朗普回应",
+          "url": "https://wallstreetcn.com/livenews/3072003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "美国总统特朗普：古巴正与国务卿卢比奥对话。",
+          "url": "https://wallstreetcn.com/livenews/3071801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普狂喷盟友并威胁退出北约：斯塔默不是丘吉尔、马克龙或将下台",
+          "url": "https://flash.jin10.com/detail/20260318044226279800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "美国总统特朗普：英国广播公司在我对其发起的诉讼中承认有罪，让我们拭目以待事态的发展。",
+          "url": "https://flash.jin10.com/detail/20260318002915360800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：我想知道，如果我们彻底铲除伊朗“恐怖主义残余势力”，然后让那些利用伊朗的国家（而不是我们）来承担所谓的“正道”责任，会发生什么？这肯定会让一些不作为的“盟友”迅速行动起来！",
+          "url": "https://flash.jin10.com/detail/20260318192341026800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "美国总统特朗普：我们本来就无需支持乌克兰。",
+          "url": "https://wallstreetcn.com/livenews/3071797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国财长贝森特：多亏了特朗普总统的全球领导，我们的世界将更加安全，能源供应也会更充足。",
+          "url": "https://flash.jin10.com/detail/20260318002811007800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普谈论法国总统马克龙，声称：他很快就会下台。",
+          "url": "https://wallstreetcn.com/livenews/3071796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普谈及与爱尔兰关系，声称：希望我们能达成一份关于美国出口液化天然气（LNG）的协议。",
+          "url": "https://wallstreetcn.com/livenews/3071842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "美国总统特朗普：全世界都应该感谢我对伊朗的行动。",
+          "url": "https://flash.jin10.com/detail/20260318002454473800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗战争很快就会结束。而战争一结束，油价就会断崖式下跌。",
+          "url": "https://flash.jin10.com/detail/20260318002215549800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：欧洲发生了非常糟糕的事情，他们最好对移民和能源采取行动，否则欧洲将不复存在。",
+          "url": "https://flash.jin10.com/detail/20260318002118871800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：将与爱尔兰领导人讨论贸易等问题。 认为两国之间的贸易关系将扩大。 爱尔兰可能希望讨论关税问题。",
+          "url": "https://wallstreetcn.com/livenews/3071793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：再过不久，船只就能通过霍尔木兹海峡了。",
+          "url": "https://flash.jin10.com/detail/20260318002052131800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：不同意英国首相斯塔默的移民和能源政策。",
+          "url": "https://flash.jin10.com/detail/20260318001951811800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：将努力阻止在美国建设风力发电厂。",
+          "url": "https://flash.jin10.com/detail/20260318001934971800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "美国总统特朗普：民主党故意使国土安全部停摆，导致机场混乱。他们完全要为此负责，并且必须为我们国家的利益在中期选举中付出代价。",
+          "url": "https://flash.jin10.com/detail/20260318191222852800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "特朗普：不再需要北约国家协助，也不需要日韩和澳大利亚的帮助",
+          "url": "https://wallstreetcn.com/livenews/3071784",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "当着特朗普的面 爱尔兰总理抨击关税和战争",
+          "url": "https://wallstreetcn.com/livenews/3072242",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 47,
+      "match_count": 51,
       "titles": [
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
@@ -2327,17 +2476,6 @@
           "time_info": "[09时47分 ~ 16时42分]"
         },
         {
-          "title": "七部门发AI安全治理3年计划？谣言",
-          "url": "https://www.toutiao.com/trending/7618388030847700530/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时47分 ~ 16时42分]"
-        },
-        {
           "title": "科大讯飞辟谣网传「裁员 70%」，称消息并不属实，具体情况如何？如何看待 AI 浪潮下的裁员焦虑？",
           "url": "https://www.zhihu.com/question/2017541603019940502",
           "source": "知乎",
@@ -2347,8 +2485,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时56分 ~ 18时46分]"
+          "appearance_count": 9,
+          "time_info": "[14时56分 ~ 19时42分]"
+        },
+        {
+          "title": "七部门发AI安全治理3年计划？谣言",
+          "url": "https://www.toutiao.com/trending/7618388030847700530/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时47分 ~ 16时42分]"
         },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -2361,8 +2510,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时49分 ~ 18时46分]"
+          "appearance_count": 8,
+          "time_info": "[15时49分 ~ 19时42分]"
         },
         {
           "title": "网传“男二以下用AI演员” 于正发声",
@@ -2406,11 +2555,12 @@
           "source": "抖音",
           "ranks": [
             6,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 18时46分]"
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 19时42分]"
         },
         {
           "title": "“龙虾”火出圈，券商纷纷自研AI智能体",
@@ -2436,6 +2586,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时01分 ~ 02时02分]"
+        },
+        {
+          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
+          "url": "https://www.cls.cn/detail/2316793",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时42分]"
+        },
+        {
+          "title": "耀客AI演员 赵今麦翟子路",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%80%E5%AE%A2AI%E6%BC%94%E5%91%98%20%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BF%9F%E5%AD%90%E8%B7%AF&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 19时42分]"
         },
         {
           "title": "百度智能云发布AI算力、存储等产品调价公告",
@@ -2506,28 +2679,6 @@
           "time_info": "07时39分"
         },
         {
-          "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
-          "url": "https://www.cls.cn/detail/2316793",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        },
-        {
-          "title": "耀客AI演员 赵今麦翟子路",
-          "url": "https://s.weibo.com/weibo?q=%E8%80%80%E5%AE%A2AI%E6%BC%94%E5%91%98%20%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BF%9F%E5%AD%90%E8%B7%AF&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 18时46分]"
-        },
-        {
           "title": "阿里巴巴2027届实习生招聘启动，AI相关岗位占比超八成",
           "url": "https://wallstreetcn.com/livenews/3072139",
           "source": "华尔街见闻-快讯",
@@ -2537,6 +2688,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "腾讯总裁刘炽平：今年AI投资至少翻倍",
+          "url": "https://wallstreetcn.com/livenews/3072397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "易小星参加B站AI创作大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "腾讯控股(00700.HK)首席财务官：腾讯计划减少股票回购，将资金用于AI投资。",
@@ -2600,7 +2773,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -2625,6 +2798,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时48分"
+        },
+        {
+          "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
+          "url": "https://www.zhihu.com/question/2017543464514974274",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "金蝶徐少春：AI转型是生死之战",
@@ -2702,6 +2886,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时45分"
+        },
+        {
+          "title": "腾讯总裁刘炽平：今年AI投资至少翻倍",
+          "url": "https://flash.jin10.com/detail/20260318192238899800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "德国央行行长：AI创造的就业有望多于被取缔的岗位",
@@ -2784,7 +2979,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "俄战机携高超音速导弹飞越日本海",
@@ -2818,6 +3013,17 @@
           "time_info": "[01时01分 ~ 07时01分]"
         },
         {
+          "title": "日本炒作中国国防预算，国防部回应",
+          "url": "https://news.ifeng.com/c/8rb6767tnIb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时48分 ~ 19时42分]"
+        },
+        {
           "title": "专家：警惕日本再度成亚洲战争策源地",
           "url": "https://www.toutiao.com/trending/7617163654705807423/",
           "source": "今日头条",
@@ -2829,17 +3035,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时34分 ~ 06时34分]"
-        },
-        {
-          "title": "日本炒作中国国防预算，国防部回应",
-          "url": "https://news.ifeng.com/c/8rb6767tnIb",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时48分 ~ 18时46分]"
         },
         {
           "title": "三井住友信托：日本央行本周将维持利率不变",
@@ -3047,7 +3242,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         },
@@ -3074,6 +3269,17 @@
           "time_info": "13时45分"
         },
         {
+          "title": "日本女孩发布新干线化妆视频被辱骂",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%A9%E5%8F%91%E5%B8%83%E6%96%B0%E5%B9%B2%E7%BA%BF%E5%8C%96%E5%A6%86%E8%A7%86%E9%A2%91%E8%A2%AB%E8%BE%B1%E9%AA%82&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
           "title": "经济学家：日本央行在日债市场的影响力逐渐减弱",
           "url": "https://flash.jin10.com/detail/20260318141836260800",
           "source": "金十数据",
@@ -3083,6 +3289,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
+        },
+        {
+          "title": "赖清德称日本殖民台湾是为推动“东亚共荣”，外交部：对民族的可耻背叛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788558",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "日本对美出口连续三个月下降",
@@ -3132,7 +3349,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
@@ -3143,8 +3360,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时38分 ~ 18时46分]"
+          "appearance_count": 15,
+          "time_info": "[07时38分 ~ 19时42分]"
         },
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -3165,8 +3382,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 18时46分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 19时42分]"
         },
         {
           "title": "黄金价格下跌 普通人能入手吗",
@@ -3177,8 +3394,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时41分 ~ 18时46分]"
+          "appearance_count": 6,
+          "time_info": "[16时41分 ~ 19时42分]"
         },
         {
           "title": "金价银价下跌原因找到了",
@@ -3206,6 +3423,18 @@
           "time_info": "[15时50分 ~ 18时46分]"
         },
         {
+          "title": "现货黄金5分钟内下跌15.81美元/盎司，报4966.59美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3072368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时42分]"
+        },
+        {
           "title": "通胀火越烧越旺，今晚美联储还能“装睡”吗？｜黄金头条",
           "url": "https://flash.jin10.com/detail/20260318115712388800",
           "source": "金十数据",
@@ -3215,6 +3444,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "深圳市黄金珠宝首饰行业协会发布关于规范黄金行业经营行为的倡议书",
+          "url": "https://wallstreetcn.com/livenews/3072367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 19时42分]"
+        },
+        {
+          "title": "现货黄金跌破4950美元/盎司，为2月18日以来新低，日内跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3072389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "世界黄金协会：黄金供应不太可能枯竭",
@@ -3227,17 +3479,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时32分 ~ 06时34分]"
-        },
-        {
-          "title": "现货黄金5分钟内下跌15.81美元/盎司，报4966.59美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3072368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.144吨，当前持仓量为1069.564吨。",
@@ -3264,17 +3505,6 @@
           "time_info": "[05时32分 ~ 06时34分]"
         },
         {
-          "title": "深圳市黄金珠宝首饰行业协会发布关于规范黄金行业经营行为的倡议书",
-          "url": "https://wallstreetcn.com/livenews/3072367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时46分"
-        },
-        {
           "title": "金十图示：2026年03月18日（周三）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260318115432475800",
           "source": "金十数据",
@@ -3284,6 +3514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时21分"
+        },
+        {
+          "title": "现货黄金跌破4950美元/盎司，为2月18日以来新低，日内跌超1%。",
+          "url": "https://flash.jin10.com/detail/20260318192741171800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         },
         {
           "title": "上海黄金交易所黄金T+D 3月18日（周三）早盘盘初下跌0.27%报1112.67元/克；<br/>上海黄金交易所白银T+D 3月18日（周三）早盘盘初下跌1.99%报19998.0元/千克。",
@@ -3339,6 +3580,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "研究找到更适合国人的“黄金吃法”",
+          "url": "https://www.baidu.com/s?wd=%E7%A0%94%E7%A9%B6%E6%89%BE%E5%88%B0%E6%9B%B4%E9%80%82%E5%90%88%E5%9B%BD%E4%BA%BA%E7%9A%84%E2%80%9C%E9%BB%84%E9%87%91%E5%90%83%E6%B3%95%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时42分"
         }
       ]
     },
@@ -3372,11 +3624,12 @@
             13,
             14,
             16,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[01时01分 ~ 18时46分]"
+          "appearance_count": 24,
+          "time_info": "[01时01分 ~ 19时42分]"
         },
         {
           "title": "超微电脑加入英伟达BlueField-4 STX首发阵营，旨在通过存储服务器提升AI推理性能",
@@ -3783,7 +4036,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时46分"
         }
@@ -3842,11 +4095,12 @@
             6,
             7,
             9,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时21分 ~ 18时46分]"
+          "appearance_count": 11,
+          "time_info": "[12时21分 ~ 19时42分]"
         }
       ]
     },
