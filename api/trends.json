@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T09:48:16.864085+08:00",
-  "total_titles_processed": 822,
+  "generated_at": "2026-03-18T12:21:55.398761+08:00",
+  "total_titles_processed": 984,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
         {
           "title": "强风暴席卷美国大部分地区",
@@ -28,11 +28,12 @@
             7,
             8,
             6,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时48分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 12时21分]"
         },
         {
           "title": "伊朗最高领袖驳回与美国议和提案",
@@ -58,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时33分 ~ 09时48分]"
+          "appearance_count": 11,
+          "time_info": "[03时33分 ~ 12时21分]"
         },
         {
           "title": "美国正处于“内战前夜”？",
@@ -78,11 +79,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时48分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 12时21分]"
         },
         {
           "title": "伊朗的新战法让美国很头疼",
@@ -229,7 +231,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -268,6 +270,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时02分]"
+        },
+        {
+          "title": "WBC委内瑞拉击败美国夺冠",
+          "url": "https://search.bilibili.com/all?keyword=WBC%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "市场消息：美国将在伊朗战争期间放松对委内瑞拉的制裁，以释放更多石油资源。",
@@ -571,6 +584,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "美国西部遭遇罕见早春热浪",
+          "url": "https://wallstreetcn.com/livenews/3072083",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "美国至3月13日当周API取暖油库存 -14万桶，前值37.5万桶。",
           "url": "https://flash.jin10.com/detail/20260318043843120800",
           "source": "金十数据",
@@ -615,6 +639,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "古巴国家主席公开回应美国威胁",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%B4%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E5%85%AC%E5%BC%80%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "据华盛顿邮报：因近期发生的袭击事件，美国要求所有大使馆审查安全措施。",
           "url": "https://flash.jin10.com/detail/20260318022726944800",
           "source": "金十数据",
@@ -650,8 +685,582 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 50,
+      "titles": [
+        {
+          "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
+          "url": "https://wallstreetcn.com/articles/3767666",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 09时48分]"
+        },
+        {
+          "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2315898",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时01分 ~ 09时48分]"
+        },
+        {
+          "title": "WTI原油日内跌超1.00%，现报94.80美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260318061241742800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时39分]"
+        },
+        {
+          "title": "中通快递(02057.HK)：董事会已批准一项未来24个月内的股票回购计划，回购总额为15亿美元。",
+          "url": "https://flash.jin10.com/detail/20260318060800520800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时39分]"
+        },
+        {
+          "title": "周二（3月17日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8830元，较周一纽约尾盘涨60点，日内整体交投于6.8944-6.8797元区间。",
+          "url": "https://wallstreetcn.com/livenews/3071911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时32分 ~ 07时01分]"
+        },
+        {
+          "title": "中通快递四季度营收145.1亿元人民币，分析师预期141.6亿元。 预计2026年包裹处理量将达到423.7亿-435.2亿，预计将同比增长10%-13%。 董事会授权增加15亿美元股票回购。",
+          "url": "https://wallstreetcn.com/livenews/3071929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时39分]"
+        },
+        {
+          "title": "软件行业陷入低迷，摩根大通暂停Qualtrics 53亿美元债务融资",
+          "url": "https://wallstreetcn.com/livenews/3071920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时34分 ~ 07时39分]"
+        },
+        {
+          "title": "周二（3月17日），韩元兑美元最终涨0.25%，报1488.48韩元。",
+          "url": "https://wallstreetcn.com/livenews/3071840",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时34分]"
+        },
+        {
+          "title": "周二（3月17日）纽约尾盘，ICE美元指数跌0.14%，报99.577点，日内交投区间为100.115-99.503点，北京时间14:14刷新日高之后，持续走低。 彭博美元指数跌0.18%，报1206.96点，日内交投区间为1212-1206.06点。 美元兑日元跌0.02%，报159.04日元，日内交投区间为159.49-158.72日元。 欧元兑日元涨0.27%，英镑兑日元涨0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3071867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时34分]"
+        },
+        {
+          "title": "人民币兑美元中间价较上日调升52点至6.8909，中间价升值至2023年4月25日以来最高。",
+          "url": "https://flash.jin10.com/detail/20260318091557519800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "WTI原油延续跌势，回落至93美元/桶下方，日内跌2.90%。",
+          "url": "https://flash.jin10.com/detail/20260318115817546800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "WTI原油期货日内大跌3.00%，现报92.66美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260318115742552800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "摩根大通把哔哩哔哩评级从中性上调至超配，目标价从27美元上调至35美元。",
+          "url": "https://wallstreetcn.com/livenews/3072114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "中东油价飙破150美元！一文读懂：伊朗的威胁要成真了？",
+          "url": "https://www.cls.cn/detail/2316387",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8850元，较周一夜盘收盘涨58点。成交量458.26亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时34分 ~ 04时34分]"
+        },
+        {
+          "title": "露露柠檬四季度净营收36.4亿美元，分析师预期35.8亿美元。 四季度总体同店销售（剔除汇率因素）增长2%，分析师预期增长1.75%。 四季度美国同店销售（剔除汇率因素）下滑2%，分析师预期下降4.09%。 四季度国际同店销售（剔除汇率因素）增长16%，分析师预期增长11.4%。 四季度每股收益（EPS）为5.01美元，分析师预期4.78美元。 原李维斯（Levis Strauss）首席执行官Chip Bergh加盟本公司董事会。 预计全年净营收113.5亿-115亿美元，分析师预期115亿美元。 预计一季度净营收24亿-24.3亿美元，分析师预期24.8亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071891",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时34分 ~ 05时32分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的7.97亿美元。",
+          "url": "https://flash.jin10.com/detail/20260318013819744800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "周二（3月17日），美联储隔夜逆回购协议（RRP）使用规模为7.97亿美元（交易对手5家），上个交易日报5.82亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071828",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 03时34分]"
+        },
+        {
+          "title": "美国太空军上将Michael Guetlein：将总统特朗普所谓金穹反导系统的第一阶段建设成本上调100亿美元，至1850亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3071902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时32分 ~ 06时34分]"
+        },
+        {
+          "title": "美国参议员桑德斯：伊朗战争已经花费了228亿美元。用这228亿美元，我们可以为680万儿童提供医疗补助/建造260万个公共住房单位/为130万儿童提供早期教育项目/雇佣24万名教师/为100万借款人取消2万美元的学生债务。",
+          "url": "https://flash.jin10.com/detail/20260318053739973800",
+          "source": "金十数据",
+          "ranks": [
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时34分 ~ 07时01分]"
+        },
+        {
+          "title": "摩根大通将腾讯音乐评级从超配下调至中性，目标价从30美元下调至12美元。",
+          "url": "https://wallstreetcn.com/livenews/3072107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：到2027年底，Blackwell和Rubin芯片带来的营收机遇“可能将超过1万亿美元”。",
+          "url": "https://flash.jin10.com/detail/20260318025633666800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "WTI原油期货日内下跌逾2美元，此前伊拉克与库尔德当局达成石油出口协议。",
+          "url": "https://wallstreetcn.com/livenews/3072106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "市场消息：美国将“金色穹顶”项目的成本估算扩大至1850亿美元，并征集顶级防务公司参与。",
+          "url": "https://flash.jin10.com/detail/20260318012733280800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达2.00%，现报98.73美元/桶；WTI原油日内跌2.27%，报93.64美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260318115310762800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
+          "url": "https://flash.jin10.com/detail/20260318024409341800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "摩根大通(JPM.N)宣布对已发行普通股每股派发1.50美元的季度股息。",
+          "url": "https://flash.jin10.com/detail/20260318050412911800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "现货白银向上触及80美元/盎司，日内涨1.02%。",
+          "url": "https://flash.jin10.com/detail/20260318090830401800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "达飞海运：更新所有区域内航线附加费标准，干货箱130美元/TEU，冷藏箱155美元/TEU。",
+          "url": "https://flash.jin10.com/detail/20260318050330916800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        },
+        {
+          "title": "WTI 4月原油期货收涨2.71美元，涨幅将近2.90%，报96.21美元/桶。 布伦特5月原油期货收涨3.21美元，涨幅3.20%，报103.42美元/桶。 中东Abu Dhabi Murban原油期货涨3.09%，报110.02美元/桶。 NYMEX 4月天然气期货收报3.0330美元/百万英热单位。 NYMEX 4月汽油期货收报3.1234美元/加仑，2月27日收盘以来累计上涨50.31%；NYMEX 3月取暖油期货收报4.0158美元/加仑，2月27日收盘以来累计上涨超过50.35%。",
+          "url": "https://wallstreetcn.com/livenews/3071854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年4月25日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3072008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "黄仁勋确认：公司对明年营收突破万亿美元“信心十足”",
+          "url": "https://www.cls.cn/detail/2316095",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "Lululemon(LULU.O)第四季度营收36.4亿美元，市场预期为35.7亿美元。预计第一季度营收为24.00亿美元至24.30亿美元。",
+          "url": "https://flash.jin10.com/detail/20260318040731450800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)首席执行官：到2036年，人工智能将使亚马逊云服务销售额翻倍至6000亿美元（此前预计为3000亿美元）。",
+          "url": "https://flash.jin10.com/detail/20260318024011419800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.817%（2月18日为4.664%），投标倍数2.76（前次为2.36）。",
+          "url": "https://wallstreetcn.com/livenews/3071823",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "由于伊拉克方面与库尔德当局就石油出口协议达成一致，美国原油期货价格下跌2.14美元，至每桶94.07美元。",
+          "url": "https://flash.jin10.com/detail/20260318114721237800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：1万亿美元+的收入预期具有强烈的“能见度”。 这样的预期还仅仅包含了Blackwell和Rubin芯片。 这个预期还不包括即将发布的新品，也不包括新增的地区和市场。 希望预定和发货等业务规模将超过1万亿美元。 1万亿美元这个目标将继续膨胀。 季度预期可以超过（市场）预期。 客户希望确保自己能获得（充足的）供应。",
+          "url": "https://wallstreetcn.com/livenews/3071805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
+          "url": "https://wallstreetcn.com/livenews/3071821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "周二（3月17日）纽约尾盘，欧元兑美元涨0.28%，英镑兑美元涨0.28%，美元兑瑞郎跌0.35%。 商品货币对中，澳元兑美元涨0.45%，纽元兑美元跌0.04%，美元兑加元涨0.08%。 瑞典克朗兑美元涨0.66%，挪威克朗兑美元涨0.91%，丹麦克朗兑美元涨0.26%。 波兰兹罗提兑美元涨0.43%，匈牙利福林兑美元涨0.63%。",
+          "url": "https://wallstreetcn.com/livenews/3071877",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "阿联酋央行：韧性计划确保银行可额外动用高达现金准备金要求30%的储备余额，并可在阿联酋迪拉姆和美元两种货币下获得定期流动性便利。",
+          "url": "https://flash.jin10.com/detail/20260318040453663800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "阿联酋央行：阿联酋各银行在阿联酋央行存放的总体流动性余额，加上其可用于常规阿联酋央行操作的净合格资产，合计接近2500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260318040336263800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "报道：亚马逊预计AI将推动AWS销售额于2036年达到6000亿美元",
+          "url": "https://wallstreetcn.com/livenews/3071871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "LME期铜收跌80美元，报12775美元/吨。 LME期铝收涨4美元，报3400美元/吨。 LME期锌收跌42美元，报3228美元/吨。 LME期铅收涨24美元，报1930美元/吨。 LME期镍收跌270美元，报17195美元/吨。 LME期锡收跌1540美元，报46725美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3071841",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "花旗：将布伦特原油价格短线基线预测上调至每桶110-120美元，预计中东战争到4月中下旬将趋于缓和。",
+          "url": "https://flash.jin10.com/detail/20260318113914207800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "美元指数17日下跌",
+          "url": "https://flash.jin10.com/detail/20260318051816405800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时34分"
+        },
+        {
+          "title": "布油期货下跌1.10美元，至每桶102.32美元。",
+          "url": "https://wallstreetcn.com/livenews/3071989",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "黄仁勋信心爆棚 维持营收万亿美元预测",
+          "url": "https://flash.jin10.com/detail/20260318010533301800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "WTI原油期货跌幅扩大至2%，报93.62美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3072071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "港元兑美元一度跌至7.8390，为去年8月以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260318112934712800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "纽约银日内跌幅达2.0%，报79.06美元/盎司。 现货白银日内跌幅达2.0%，报79.07美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3071785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普称将接管古巴",
@@ -687,8 +1296,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时48分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 12时21分]"
         },
         {
           "title": "特朗普或因伊朗战事推迟访华？外交部回应",
@@ -700,6 +1309,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[01时01分 ~ 07时39分]"
+        },
+        {
+          "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
+          "url": "https://wallstreetcn.com/articles/3767756",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时34分 ~ 12时21分]"
         },
         {
           "title": "美澄清涉特朗普或推迟访华不实报道",
@@ -714,19 +1337,6 @@
           "time_info": "[01时01分 ~ 05时32分]"
         },
         {
-          "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
-          "url": "https://wallstreetcn.com/articles/3767756",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时34分 ~ 09时48分]"
-        },
-        {
           "title": "【早报】特朗普：应考虑美国退出北约的可能性；存储现货倒挂加剧",
           "url": "https://www.cls.cn/detail/2316154",
           "source": "财联社热门",
@@ -735,8 +1345,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时38分 ~ 09时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时38分 ~ 12时21分]"
+        },
+        {
+          "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
+          "url": "https://www.cls.cn/detail/2316165",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时21分]"
         },
         {
           "title": "美国总统特朗普：我们很快将重返月球，然后前往火星。",
@@ -763,6 +1384,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时34分 ~ 07时39分]"
+        },
+        {
+          "title": "特朗普称应考虑美国退出北约的可能性",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时21分]"
         },
         {
           "title": "美国总统特朗普：伊朗行动进展迅速，远超计划，预计几周内会有结论。",
@@ -819,17 +1452,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "伊朗证实拉里贾尼已经身亡 特朗普称对北约感到失望 | 环球市场",
-          "url": "https://www.cls.cn/detail/2316165",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
         },
         {
           "title": "美国总统特朗普重申过去两周美国在伊朗采取了一次“短暂行动”（excursion）。",
@@ -892,15 +1514,15 @@
           "time_info": "[05时32分 ~ 06时34分]"
         },
         {
-          "title": "特朗普称应考虑美国退出北约的可能性",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32786280",
-          "source": "澎湃新闻",
+          "title": "遭北约背刺，特朗普怒了：愚蠢！美国一定会“记仇”",
+          "url": "https://news.ifeng.com/c/8radF7mAvMh",
+          "source": "凤凰网",
           "ranks": [
-            20
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "特朗普称应考虑美国退出北约的可能性",
@@ -912,6 +1534,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普：不担心伊朗成为“另一个越南”",
+          "url": "https://wallstreetcn.com/livenews/3072105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "为何不谴责美以？高市早苗：因为我要见特朗普，说完了",
+          "url": "https://news.ifeng.com/c/8raajLUudf0",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "特朗普炮轰北约不肯援助：美国应考虑退出北约的可能性",
+          "url": "https://www.cls.cn/detail/2316263",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "美国总统特朗普重申，将在任期内封杀风力发电机",
@@ -942,7 +1597,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -1114,450 +1769,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 38,
-      "titles": [
-        {
-          "title": "黄仁勋GTC演讲全文：推理时代到来，2027营收至少万亿美元，龙虾就是新操作系统",
-          "url": "https://wallstreetcn.com/articles/3767666",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时48分]"
-        },
-        {
-          "title": "油价重上100美元搅动市场 美股三大期指小幅走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2315898",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时48分]"
-        },
-        {
-          "title": "WTI原油日内跌超1.00%，现报94.80美元/桶。",
-          "url": "https://flash.jin10.com/detail/20260318061241742800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 07时39分]"
-        },
-        {
-          "title": "中通快递(02057.HK)：董事会已批准一项未来24个月内的股票回购计划，回购总额为15亿美元。",
-          "url": "https://flash.jin10.com/detail/20260318060800520800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 07时39分]"
-        },
-        {
-          "title": "周二（3月17日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8830元，较周一纽约尾盘涨60点，日内整体交投于6.8944-6.8797元区间。",
-          "url": "https://wallstreetcn.com/livenews/3071911",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时32分 ~ 07时01分]"
-        },
-        {
-          "title": "中通快递四季度营收145.1亿元人民币，分析师预期141.6亿元。 预计2026年包裹处理量将达到423.7亿-435.2亿，预计将同比增长10%-13%。 董事会授权增加15亿美元股票回购。",
-          "url": "https://wallstreetcn.com/livenews/3071929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 07时39分]"
-        },
-        {
-          "title": "软件行业陷入低迷，摩根大通暂停Qualtrics 53亿美元债务融资",
-          "url": "https://wallstreetcn.com/livenews/3071920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时34分 ~ 07时39分]"
-        },
-        {
-          "title": "周二（3月17日），韩元兑美元最终涨0.25%，报1488.48韩元。",
-          "url": "https://wallstreetcn.com/livenews/3071840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时34分]"
-        },
-        {
-          "title": "周二（3月17日）纽约尾盘，ICE美元指数跌0.14%，报99.577点，日内交投区间为100.115-99.503点，北京时间14:14刷新日高之后，持续走低。 彭博美元指数跌0.18%，报1206.96点，日内交投区间为1212-1206.06点。 美元兑日元跌0.02%，报159.04日元，日内交投区间为159.49-158.72日元。 欧元兑日元涨0.27%，英镑兑日元涨0.28%。",
-          "url": "https://wallstreetcn.com/livenews/3071867",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时34分]"
-        },
-        {
-          "title": "人民币兑美元中间价较上日调升52点至6.8909，中间价升值至2023年4月25日以来最高。",
-          "url": "https://flash.jin10.com/detail/20260318091557519800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.8850元，较周一夜盘收盘涨58点。成交量458.26亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3071860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时34分 ~ 04时34分]"
-        },
-        {
-          "title": "露露柠檬四季度净营收36.4亿美元，分析师预期35.8亿美元。 四季度总体同店销售（剔除汇率因素）增长2%，分析师预期增长1.75%。 四季度美国同店销售（剔除汇率因素）下滑2%，分析师预期下降4.09%。 四季度国际同店销售（剔除汇率因素）增长16%，分析师预期增长11.4%。 四季度每股收益（EPS）为5.01美元，分析师预期4.78美元。 原李维斯（Levis Strauss）首席执行官Chip Bergh加盟本公司董事会。 预计全年净营收113.5亿-115亿美元，分析师预期115亿美元。 预计一季度净营收24亿-24.3亿美元，分析师预期24.8亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3071891",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时34分 ~ 05时32分]"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的7.97亿美元。",
-          "url": "https://flash.jin10.com/detail/20260318013819744800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "周二（3月17日），美联储隔夜逆回购协议（RRP）使用规模为7.97亿美元（交易对手5家），上个交易日报5.82亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3071828",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 03时34分]"
-        },
-        {
-          "title": "美国太空军上将Michael Guetlein：将总统特朗普所谓金穹反导系统的第一阶段建设成本上调100亿美元，至1850亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3071902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时32分 ~ 06时34分]"
-        },
-        {
-          "title": "美国参议员桑德斯：伊朗战争已经花费了228亿美元。用这228亿美元，我们可以为680万儿童提供医疗补助/建造260万个公共住房单位/为130万儿童提供早期教育项目/雇佣24万名教师/为100万借款人取消2万美元的学生债务。",
-          "url": "https://flash.jin10.com/detail/20260318053739973800",
-          "source": "金十数据",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时34分 ~ 07时01分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：到2027年底，Blackwell和Rubin芯片带来的营收机遇“可能将超过1万亿美元”。",
-          "url": "https://flash.jin10.com/detail/20260318025633666800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "市场消息：美国将“金色穹顶”项目的成本估算扩大至1850亿美元，并征集顶级防务公司参与。",
-          "url": "https://flash.jin10.com/detail/20260318012733280800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "亚马逊股价走高，最新上涨1%，报214美元以上，此前报道称，该公司首席执行官预计到2036年，人工智能将使亚马逊云服务的销售额翻一番，达到6000亿美元。",
-          "url": "https://flash.jin10.com/detail/20260318024409341800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "摩根大通(JPM.N)宣布对已发行普通股每股派发1.50美元的季度股息。",
-          "url": "https://flash.jin10.com/detail/20260318050412911800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "现货白银向上触及80美元/盎司，日内涨1.02%。",
-          "url": "https://flash.jin10.com/detail/20260318090830401800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "达飞海运：更新所有区域内航线附加费标准，干货箱130美元/TEU，冷藏箱155美元/TEU。",
-          "url": "https://flash.jin10.com/detail/20260318050330916800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        },
-        {
-          "title": "WTI 4月原油期货收涨2.71美元，涨幅将近2.90%，报96.21美元/桶。 布伦特5月原油期货收涨3.21美元，涨幅3.20%，报103.42美元/桶。 中东Abu Dhabi Murban原油期货涨3.09%，报110.02美元/桶。 NYMEX 4月天然气期货收报3.0330美元/百万英热单位。 NYMEX 4月汽油期货收报3.1234美元/加仑，2月27日收盘以来累计上涨50.31%；NYMEX 3月取暖油期货收报4.0158美元/加仑，2月27日收盘以来累计上涨超过50.35%。",
-          "url": "https://wallstreetcn.com/livenews/3071854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "人民币兑美元中间价创2023年4月25日以来新高",
-          "url": "https://wallstreetcn.com/livenews/3072008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "Lululemon(LULU.O)第四季度营收36.4亿美元，市场预期为35.7亿美元。预计第一季度营收为24.00亿美元至24.30亿美元。",
-          "url": "https://flash.jin10.com/detail/20260318040731450800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)首席执行官：到2036年，人工智能将使亚马逊云服务销售额翻倍至6000亿美元（此前预计为3000亿美元）。",
-          "url": "https://flash.jin10.com/detail/20260318024011419800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "美国财政部拍卖130亿美元20年期国债，得标利率4.817%（2月18日为4.664%），投标倍数2.76（前次为2.36）。",
-          "url": "https://wallstreetcn.com/livenews/3071823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：1万亿美元+的收入预期具有强烈的“能见度”。 这样的预期还仅仅包含了Blackwell和Rubin芯片。 这个预期还不包括即将发布的新品，也不包括新增的地区和市场。 希望预定和发货等业务规模将超过1万亿美元。 1万亿美元这个目标将继续膨胀。 季度预期可以超过（市场）预期。 客户希望确保自己能获得（充足的）供应。",
-          "url": "https://wallstreetcn.com/livenews/3071805",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌1.58%，暂报2771.72点，北京时间12:00前后出现一波显著的下挫行情，随后持续低位震荡。 MarketVectorTM数字资产100中盘指数跌0.86%，报3002.22点。 MarketVector数字资产100指数涨0.64%，报15001.15点。 目前，Solana跌0.63%，狗狗币跌1.99%，XRP跌0.66%。 比特币涨0.27%，暂报74255.79美元；以太坊跌0.04%，暂报2331.63美元。",
-          "url": "https://wallstreetcn.com/livenews/3071821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "周二（3月17日）纽约尾盘，欧元兑美元涨0.28%，英镑兑美元涨0.28%，美元兑瑞郎跌0.35%。 商品货币对中，澳元兑美元涨0.45%，纽元兑美元跌0.04%，美元兑加元涨0.08%。 瑞典克朗兑美元涨0.66%，挪威克朗兑美元涨0.91%，丹麦克朗兑美元涨0.26%。 波兰兹罗提兑美元涨0.43%，匈牙利福林兑美元涨0.63%。",
-          "url": "https://wallstreetcn.com/livenews/3071877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "阿联酋央行：韧性计划确保银行可额外动用高达现金准备金要求30%的储备余额，并可在阿联酋迪拉姆和美元两种货币下获得定期流动性便利。",
-          "url": "https://flash.jin10.com/detail/20260318040453663800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "阿联酋央行：阿联酋各银行在阿联酋央行存放的总体流动性余额，加上其可用于常规阿联酋央行操作的净合格资产，合计接近2500亿美元。",
-          "url": "https://flash.jin10.com/detail/20260318040336263800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "报道：亚马逊预计AI将推动AWS销售额于2036年达到6000亿美元",
-          "url": "https://wallstreetcn.com/livenews/3071871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "LME期铜收跌80美元，报12775美元/吨。 LME期铝收涨4美元，报3400美元/吨。 LME期锌收跌42美元，报3228美元/吨。 LME期铅收涨24美元，报1930美元/吨。 LME期镍收跌270美元，报17195美元/吨。 LME期锡收跌1540美元，报46725美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3071841",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "美元指数17日下跌",
-          "url": "https://flash.jin10.com/detail/20260318051816405800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时34分"
-        },
-        {
-          "title": "布油期货下跌1.10美元，至每桶102.32美元。",
-          "url": "https://wallstreetcn.com/livenews/3071989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "黄仁勋信心爆棚 维持营收万亿美元预测",
-          "url": "https://flash.jin10.com/detail/20260318010533301800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "纽约银日内跌幅达2.0%，报79.06美元/盎司。 现货白银日内跌幅达2.0%，报79.07美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3071785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "苹果 3 月 16 日新发布的 AirPods Max 2，它相比 1 有哪些升级？",
@@ -1610,11 +1823,12 @@
             17,
             15,
             14,
-            20
+            20,
+            23
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时48分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 12时21分]"
         },
         {
           "title": "大厂月薪 3 万元「疯抢」文科生，AI 时代文科生比理科生更吃香了吗？他们有哪些优势？",
@@ -1627,6 +1841,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时01分 ~ 09时48分]"
+        },
+        {
+          "title": "男二以下 AI演员",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时21分]"
         },
         {
           "title": "“龙虾”火出圈，券商纷纷自研AI智能体",
@@ -1654,6 +1880,17 @@
           "time_info": "[01时01分 ~ 02时02分]"
         },
         {
+          "title": "七部门发AI安全治理3年计划？谣言",
+          "url": "https://www.toutiao.com/trending/7618388030847700530/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时21分]"
+        },
+        {
           "title": "公募机构争夺AI好感度，业内提示谨防信息污染",
           "url": "https://wallstreetcn.com/livenews/3071939",
           "source": "华尔街见闻-快讯",
@@ -1664,6 +1901,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时01分 ~ 07时39分]"
+        },
+        {
+          "title": "如何看待 2026 EWC 官方因 Xiaohai 更换战队而取消其《街霸 6》卫冕冠军直邀资格的行为？",
+          "url": "https://www.zhihu.com/question/2016967278948787751",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "橡树资本联合创始人Howard Marks：投资者低估了人工智能（AI）。 AI让世界变得更难预测。 赋予AI重要性的“力量”也让AI未来会做些什么变得难以预料。",
@@ -1677,26 +1925,15 @@
           "time_info": "07时39分"
         },
         {
-          "title": "七部门发AI安全治理3年计划？谣言",
-          "url": "https://www.toutiao.com/trending/7618388030847700530/",
-          "source": "今日头条",
+          "title": "媒体称 AI 大厂月薪 3 万元「疯抢」文科生，为何会出现这个现象？AI 时代文科生有哪些优势？",
+          "url": "https://www.zhihu.com/question/2016095792616744489",
+          "source": "知乎",
           "ranks": [
-            11
+            9
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "男二以下 AI演员",
-          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E4%BA%8C%E4%BB%A5%E4%B8%8B%20AI%E6%BC%94%E5%91%98&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "摩根大通：上调哔哩哔哩评级至超配并建议抄底 公司AI投资战略正确",
@@ -1705,9 +1942,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "七部门发AI安全治理3年计划系谣言",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%83%E9%83%A8%E9%97%A8%E5%8F%91AI%E5%AE%89%E5%85%A8%E6%B2%BB%E7%90%863%E5%B9%B4%E8%AE%A1%E5%88%92%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "德国寻求扩大AI基础设施 计划瞄准大规模数据中心扩张",
@@ -1727,7 +1975,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -1760,7 +2008,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -1771,7 +2019,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -1782,7 +2030,197 @@
           "ranks": [
             29
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "日本跃跃欲试出兵中东恐沦为替死鬼",
+          "url": "https://www.toutiao.com/trending/7617621838914535466/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            26,
+            18,
+            19,
+            22,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时01分]"
+        },
+        {
+          "title": "专家：警惕日本再度成亚洲战争策源地",
+          "url": "https://www.toutiao.com/trending/7617163654705807423/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时34分 ~ 06时34分]"
+        },
+        {
+          "title": "俄战机携高超音速导弹飞越日本海",
+          "url": "https://www.douyin.com/hot/2434014",
+          "source": "抖音",
+          "ranks": [
+            17,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时21分]"
+        },
+        {
+          "title": "日本“苦于应对”美国护航要求，石破茂回应",
+          "url": "https://news.ifeng.com/c/8raMnS8mHgb",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 09时48分]"
+        },
+        {
+          "title": "日本制造业信心创逾四年新高 中东风险令前景承压",
+          "url": "https://flash.jin10.com/detail/20260318070634885800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "日本3月路透短观制造业景气判断指数 18，前值13。",
+          "url": "https://flash.jin10.com/detail/20260318070003030800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "日本10年期国债收益率下行4个基点至2.225%。",
+          "url": "https://wallstreetcn.com/livenews/3072108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "日本3月路透短观非制造业景气判断指数 25，前值25。",
+          "url": "https://flash.jin10.com/detail/20260318070002150800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "日本前防相：美军资源或战略重点转移可能导致日本安全环境失衡",
+          "url": "https://flash.jin10.com/detail/20260318115335502800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "日本商船三井CFO：在股价上涨后将考虑进行股票拆分。",
+          "url": "https://flash.jin10.com/detail/20260318065732962800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时39分"
+        },
+        {
+          "title": "日本商船三井股价大涨10%，此前报道称Elliott持有其大额股权。",
+          "url": "https://wallstreetcn.com/livenews/3072011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "日本10年期国债收益率下跌4.0个基点，至2.225%。",
+          "url": "https://flash.jin10.com/detail/20260318114927578800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "日本30年期国债收益率下行5个基点至3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3072102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "报道：Elliott持有日本商船三井大额股权",
+          "url": "https://wallstreetcn.com/livenews/3072006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "日本30年期国债收益率下行2.5个基点，至3.525%。 日本2年期国债收益率下行1.5个基点，至1.255%。",
+          "url": "https://wallstreetcn.com/livenews/3071987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时48分"
+        },
+        {
+          "title": "日产加入丰田、本田行列，计划将美国制造汽车出口至日本",
+          "url": "https://wallstreetcn.com/livenews/3072028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         }
@@ -1792,17 +2230,6 @@
       "keyword_group": "显卡 英伟达",
       "match_count": 14,
       "titles": [
-        {
-          "title": "AI味太冲,英伟达DLSS5翻车",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
-          "source": "贴吧",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时01分 ~ 09时48分]"
-        },
         {
           "title": "推理时代加速到来！英伟达力推LPU，哪些上市公司有望吃到百万出货红利？",
           "url": "https://www.cls.cn/detail/2315905",
@@ -1817,6 +2244,18 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[01时01分 ~ 09时48分]"
+        },
+        {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 12时21分]"
         },
         {
           "title": "超微电脑加入英伟达BlueField-4 STX首发阵营，旨在通过存储服务器提升AI推理性能",
@@ -1955,153 +2394,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "日本跃跃欲试出兵中东恐沦为替死鬼",
-          "url": "https://www.toutiao.com/trending/7617621838914535466/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            26,
-            18,
-            19,
-            22,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时01分]"
-        },
-        {
-          "title": "专家：警惕日本再度成亚洲战争策源地",
-          "url": "https://www.toutiao.com/trending/7617163654705807423/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时34分 ~ 06时34分]"
-        },
-        {
-          "title": "日本“苦于应对”美国护航要求，石破茂回应",
-          "url": "https://news.ifeng.com/c/8raMnS8mHgb",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "日本制造业信心创逾四年新高 中东风险令前景承压",
-          "url": "https://flash.jin10.com/detail/20260318070634885800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "俄战机携高超音速导弹飞越日本海",
-          "url": "https://www.douyin.com/hot/2434014",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
-        },
-        {
-          "title": "日本3月路透短观制造业景气判断指数 18，前值13。",
-          "url": "https://flash.jin10.com/detail/20260318070003030800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "日本3月路透短观非制造业景气判断指数 25，前值25。",
-          "url": "https://flash.jin10.com/detail/20260318070002150800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "日本商船三井CFO：在股价上涨后将考虑进行股票拆分。",
-          "url": "https://flash.jin10.com/detail/20260318065732962800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时39分"
-        },
-        {
-          "title": "日本商船三井股价大涨10%，此前报道称Elliott持有其大额股权。",
-          "url": "https://wallstreetcn.com/livenews/3072011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "报道：Elliott持有日本商船三井大额股权",
-          "url": "https://wallstreetcn.com/livenews/3072006",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "日本30年期国债收益率下行2.5个基点，至3.525%。 日本2年期国债收益率下行1.5个基点，至1.255%。",
-          "url": "https://wallstreetcn.com/livenews/3071987",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        },
-        {
-          "title": "日产加入丰田、本田行列，计划将美国制造汽车出口至日本",
-          "url": "https://wallstreetcn.com/livenews/3072028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "哈塞特安抚市场，美股指高开，科技股普涨，布油站上102美元，现货黄金涨0.2%",
@@ -2119,11 +2413,12 @@
           "url": "https://wallstreetcn.com/articles/3767701",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时38分 ~ 09时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时38分 ~ 12时21分]"
         },
         {
           "title": "金价银价下跌原因找到了",
@@ -2137,6 +2432,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时34分 ~ 07时39分]"
+        },
+        {
+          "title": "通胀火越烧越旺，今晚美联储还能“装睡”吗？｜黄金头条",
+          "url": "https://flash.jin10.com/detail/20260318115712388800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "世界黄金协会：黄金供应不太可能枯竭",
@@ -2175,13 +2481,35 @@
           "time_info": "[05时32分 ~ 06时34分]"
         },
         {
+          "title": "金十图示：2026年03月18日（周三）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260318115432475800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "大爷每年生日购入 100 克黄金坚持二十年，长期持有分批卖出收益颇丰，如何看待他的投资理念？",
+          "url": "https://www.zhihu.com/question/2013207075652661296",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 3月18日（周三）早盘盘初下跌0.27%报1112.67元/克；<br/>上海黄金交易所白银T+D 3月18日（周三）早盘盘初下跌1.99%报19998.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260318090110477800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -2203,7 +2531,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
         },
@@ -2284,6 +2612,56 @@
       ]
     },
     {
+      "keyword_group": "股市",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "日韩股市涨幅扩大，韩国首尔综指日内涨4%，日经225指数涨2.6%站上55000点关口。",
+          "url": "https://wallstreetcn.com/livenews/3072115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "金十图示：2026年03月18日（周三）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260318004533548800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        },
+        {
+          "title": "金十图示：2026年03月17日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260318040732567800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时34分"
+        },
+        {
+          "title": "非洲股市收盘播报｜周二（3月17日），南非富时/JSE非洲领先40可交易指数收涨0.63%，逼近11.0万点。 尼日利亚证交所全部股指收涨0.54%，至20.3万点上方，连续三个交易日创收盘历史新高。 毛里求斯证交所SEMDEX指数收跌0.42%，肯尼亚内罗毕证交所全股指数收跌0.25%。",
+          "url": "https://wallstreetcn.com/livenews/3071798",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌",
       "match_count": 3,
       "titles": [
@@ -2324,41 +2702,19 @@
       ]
     },
     {
-      "keyword_group": "股市",
-      "match_count": 3,
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：2026年03月18日（周三）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260318004533548800",
-          "source": "金十数据",
+          "title": "日本AI造假,套壳DeepSeek",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351991&amp;topic_name=%E6%97%A5%E6%9C%ACAI%E9%80%A0%E5%81%87%2C%E5%A5%97%E5%A3%B3DeepSeek",
+          "source": "贴吧",
           "ranks": [
-            2
+            3
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
-        },
-        {
-          "title": "金十图示：2026年03月17日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260318040732567800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时34分"
-        },
-        {
-          "title": "非洲股市收盘播报｜周二（3月17日），南非富时/JSE非洲领先40可交易指数收涨0.63%，逼近11.0万点。 尼日利亚证交所全部股指收涨0.54%，至20.3万点上方，连续三个交易日创收盘历史新高。 毛里求斯证交所SEMDEX指数收跌0.42%，肯尼亚内罗毕证交所全股指数收跌0.25%。",
-          "url": "https://wallstreetcn.com/livenews/3071798",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "12时21分"
         }
       ]
     },
@@ -2371,11 +2727,12 @@
           "url": "https://www.cls.cn/detail/2316213",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时47分 ~ 09时48分]"
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时21分]"
         }
       ]
     },
