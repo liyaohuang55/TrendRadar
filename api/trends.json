@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T07:27:32.820113+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-03-19T07:55:34.374952+08:00",
+  "total_titles_processed": 793,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "美国的四大盟友 看向中国",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "暗杀拉里贾尼，以色列此招拖得住美国吗？",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "通胀全面超预期！美国2月PPI同比3.4%，核心PPI 3.9%创一年新高",
@@ -39,8 +39,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "美国特教女老师1天5次性侵男童",
@@ -49,11 +49,12 @@
           "ranks": [
             20,
             19,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时57分 ~ 07时27分]"
+          "appearance_count": 10,
+          "time_info": "[01时57分 ~ 07时55分]"
         },
         {
           "title": "全球第一大产油国美国油价为何会飙升",
@@ -65,11 +66,12 @@
             28,
             27,
             8,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "约7吨重流星划过美国多地上空",
@@ -144,6 +146,18 @@
           "time_info": "[00时55分 ~ 01时57分]"
         },
         {
+          "title": "哥斯达黎加关闭驻古巴使馆，古巴指责美国幕后施压",
+          "url": "https://wallstreetcn.com/livenews/3072728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时55分]"
+        },
+        {
           "title": "市场消息：美国陆军导弹项目负责人Frank Lozano表示，美国陆军“非常接近”部署美军首个高超音速武器，这一判断与五角大楼近期认为在部署前仍需更多测试的评估存在分歧。",
           "url": "https://flash.jin10.com/detail/20260319045058028800",
           "source": "金十数据",
@@ -177,6 +191,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "据美国财经媒体Semafor：美国前反恐中心主任乔·肯特因涉嫌泄露机密信息正接受美国联邦调查局（FBI）调查。",
+          "url": "https://flash.jin10.com/detail/20260319074354447800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "美光科技美股盘后跌幅扩大至6%，该公司工厂开支庞大，掩盖了存储芯片销售的强劲表现。 周四亚太盘初，美国三大股指期货与罗素2000股指期货跌约0.3%。",
+          "url": "https://wallstreetcn.com/livenews/3072726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时55分]"
         },
         {
           "title": "鲍威尔：美国经济增速稳固，通胀高于目标主要存在于商品领域。",
@@ -219,7 +256,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -233,17 +270,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "哥斯达黎加关闭驻古巴使馆，古巴指责美国幕后施压",
-          "url": "https://wallstreetcn.com/livenews/3072728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
         },
         {
           "title": "伊拉克武装组织“真主党旅”发表声明称，将在满足特定条件的前提下，暂停对美国驻伊拉克大使馆的袭击，为期五天。",
@@ -302,17 +328,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
-        },
-        {
-          "title": "美光科技美股盘后跌幅扩大至6%，该公司工厂开支庞大，掩盖了存储芯片销售的强劲表现。 周四亚太盘初，美国三大股指期货与罗素2000股指期货跌约0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3072726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
         },
         {
           "title": "美国零售联合会：仍持乐观态度，认为美国经济的基本面将支撑未来一年的持续稳定。",
@@ -604,7 +619,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 44,
+      "match_count": 46,
       "titles": [
         {
           "title": "“虚假的油价”还在100美元徘徊，“真正的油价”已经高达155美元",
@@ -612,11 +627,26 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
+        },
+        {
+          "title": "纽元兑美元走低，新西兰四季度GDP数据逊色于市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3072710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            5,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时58分 ~ 07时55分]"
         },
         {
           "title": "纽约银日内跌幅达6.0%，报75.09美元/盎司。",
@@ -658,19 +688,6 @@
           "time_info": "[04时39分 ~ 06时31分]"
         },
         {
-          "title": "纽元兑美元走低，新西兰四季度GDP数据逊色于市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3072710",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 07时27分]"
-        },
-        {
           "title": "美元/日元日内涨幅达0.5%，报159.78；美元/瑞郎日内涨幅达1.0%，报0.7924。",
           "url": "https://wallstreetcn.com/livenews/3072663",
           "source": "华尔街见闻-快讯",
@@ -692,6 +709,31 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时55分 ~ 01时57分]"
+        },
+        {
+          "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
+          "url": "https://wallstreetcn.com/articles/3767807",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时55分]"
+        },
+        {
+          "title": "WTI原油期货5月合约涨至98.60美元/桶，投资者关注中东局势加剧。",
+          "url": "https://wallstreetcn.com/livenews/3072711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 07时55分]"
         },
         {
           "title": "周三（3月18日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.9004元，较周二纽约尾盘跌174点，日内整体交投于6.8721-6.9042元区间。",
@@ -735,11 +777,12 @@
           "url": "https://flash.jin10.com/detail/20260319070714203800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时55分]"
         },
         {
           "title": "LME期铜收跌380美元，报12396美元/吨。 LME期铝收平，报3400美元/吨。 LME期锌收跌94美元，报3134美元/吨。 LME期铅收跌16美元，报1914美元/吨。 LME期镍收跌44美元，报17151美元/吨。 LME期锡收跌1662美元，报45063美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -766,27 +809,16 @@
           "time_info": "[02时57分 ~ 03时46分]"
         },
         {
-          "title": "WTI原油期货5月合约涨至98.60美元/桶，投资者关注中东局势加剧。",
-          "url": "https://wallstreetcn.com/livenews/3072711",
-          "source": "华尔街见闻-快讯",
+          "title": "冲突爆发以来首次！伊朗最大气田遇袭部分停产，布油现货冲向105美元",
+          "url": "https://wallstreetcn.com/articles/3767848",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            18
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时27分]"
-        },
-        {
-          "title": "冲突升级叠加美联储鹰派，美国股债金“三杀”！布油大涨7%，美元涨回100",
-          "url": "https://wallstreetcn.com/articles/3767807",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "[07时27分 ~ 07时55分]"
         },
         {
           "title": "现货钯金跌破1500美元/盎司，为去年12月31日以来首次。",
@@ -891,15 +923,15 @@
           "time_info": "[04时39分 ~ 05时06分]"
         },
         {
-          "title": "冲突爆发以来首次！伊朗最大气田遇袭部分停产，布油现货冲向105美元",
-          "url": "https://wallstreetcn.com/articles/3767848",
-          "source": "华尔街见闻",
+          "title": "现货白银日内涨幅达1.00%，现报76.10美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260319074052607800",
+          "source": "金十数据",
           "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时27分"
+          "time_info": "07时55分"
         },
         {
           "title": "布伦特原油日内暴涨6.00%，现报106.87美元/桶。",
@@ -1067,6 +1099,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "美媒：美国防部寻求拨款2000亿美元用于对伊战争",
+          "url": "https://flash.jin10.com/detail/20260319072031722800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
           "title": "美国1月国际资本净流入 -250亿美元，前值由449亿美元修正为1139亿美元。",
           "url": "https://flash.jin10.com/detail/20260319040002317800",
           "source": "金十数据",
@@ -1114,7 +1157,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普改口：美国对伊朗动武，不需要盟友帮忙",
@@ -1124,8 +1167,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "特朗普称对伊行动无需北约和日韩澳帮助，伊朗宣告打击进入\"加速阶段\"、总统证实拉里贾尼身亡",
@@ -1150,8 +1193,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "外交部：中美双方将继续就特朗普总统访华事保持沟通",
@@ -1173,8 +1216,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "高市早苗访美，特朗普的案板正急缺一块肉",
@@ -1184,8 +1227,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "谴责伊朗不谴责美以，高市早苗语出惊人：因为我要见特朗普",
@@ -1195,8 +1238,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "马克龙称拒绝参与霍尔木兹海峡护航，特朗普：他快下台了",
@@ -1204,11 +1247,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "约翰-迪尔（迪尔农机）等农用拖拉机供应商的CEO们将前往美国白宫，会见总统特朗普。",
@@ -1222,6 +1266,44 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时39分 ~ 06时31分]"
+        },
+        {
+          "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
+          "url": "https://wallstreetcn.com/livenews/3072708",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            20,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时31分 ~ 07时55分]"
+        },
+        {
+          "title": "白宫：美国总统特朗普将于周四美东时间11:15会见到访的日本首相高市早苗。 双方随后将在19:15共同进餐。",
+          "url": "https://wallstreetcn.com/livenews/3072729",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时55分]"
+        },
+        {
+          "title": "特朗普豁免执行《琼斯法》遏制高油价",
+          "url": "https://www.toutiao.com/trending/7618591739103677988/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            18,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时06分 ~ 07时55分]"
         },
         {
           "title": "报道：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格",
@@ -1247,6 +1329,29 @@
           "time_info": "03时46分"
         },
         {
+          "title": "消息人士：在特朗普权衡对伊朗的下一步举措之际，其政府正考虑向中东增派数千名美军。",
+          "url": "https://flash.jin10.com/detail/20260319074528075800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
+        },
+        {
+          "title": "法国总统马克龙：刚刚与卡塔尔埃米尔和特朗普通话，讨论了当天针对伊朗和卡塔尔天然气生产设施的袭击事件。各方的共同利益在于，应立即实施暂停针对民用基础设施（尤其是能源和供水基础设施）的打击行动。",
+          "url": "https://flash.jin10.com/detail/20260319070337867800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时55分]"
+        },
+        {
           "title": "【报道：特朗普暂不想再袭伊朗能源设施】据《华尔街日报》援引美国官员消息报道，在以色列当天袭击了伊朗南帕尔斯天然气田之后，美国总统特朗普表示“不希望再发生针对伊朗能源设施的袭击”。报道称，特朗普提前获悉了以色列对南帕尔斯气田的袭击计划，并表示支持，意在借此向伊朗传递信息，以“回应其封锁霍尔木兹海峡的行为”。据美方官员称，特朗普认为“伊朗已领会了这一信息”，因此目前他反对继续袭击伊朗的能源基础设施。不过，视伊朗未来在该战略水道上的举动而定，特朗普仍有可能再次考虑将更多伊朗能源设施列为打击目标。据以色列媒体报道，以色列空军当天袭击了位于伊朗南部的“主要天然气设施”，并准备对伊朗其他国家基础设施发动袭击。以色列媒体报道称，此次袭击由以色列与美国“协调进行”。 (CCTV国际时讯)",
           "url": "https://wallstreetcn.com/livenews/3072708",
           "source": "华尔街见闻-快讯",
@@ -1256,40 +1361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时58分"
-        },
-        {
-          "title": "法国总统马克龙：刚刚与卡塔尔埃米尔和特朗普通话，讨论了当天针对伊朗和卡塔尔天然气生产设施的袭击事件。各方的共同利益在于，应立即实施暂停针对民用基础设施（尤其是能源和供水基础设施）的打击行动。",
-          "url": "https://flash.jin10.com/detail/20260319070337867800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "白宫：美国总统特朗普将于周四美东时间11:15会见到访的日本首相高市早苗。 双方随后将在19:15共同进餐。",
-          "url": "https://wallstreetcn.com/livenews/3072729",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
-          "title": "美国官员：特朗普暂不想再袭伊朗能源设施",
-          "url": "https://wallstreetcn.com/livenews/3072708",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时27分]"
         },
         {
           "title": "消息人士：特朗普政府预计将很快取消夏季汽油法规，以抑制能源价格。",
@@ -1315,25 +1386,13 @@
           "time_info": "[05时58分 ~ 06时31分]"
         },
         {
-          "title": "特朗普豁免执行《琼斯法》遏制高油价",
-          "url": "https://www.toutiao.com/trending/7618591739103677988/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时06分 ~ 06时31分]"
-        },
-        {
           "title": "美国加州州长纽森：唐纳德·特朗普想让美国倒退。如果我们不站出来，我们将失去这个国家。",
           "url": "https://flash.jin10.com/detail/20260319064615377800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -1377,8 +1436,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -1392,6 +1451,20 @@
           "time_info": "[00时55分 ~ 07时27分]"
         },
         {
+          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
+          "url": "https://wallstreetcn.com/articles/3767836",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
+        },
+        {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
           "url": "https://www.zhihu.com/question/2017543464514974274",
           "source": "知乎",
@@ -1402,21 +1475,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
-        },
-        {
-          "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
-          "url": "https://wallstreetcn.com/articles/3767836",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -1424,11 +1484,29 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
+        },
+        {
+          "title": "易小星参加B站AI创作大赛",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            27,
+            12,
+            21,
+            13,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -1446,32 +1524,17 @@
           "time_info": "[00时55分 ~ 07时27分]"
         },
         {
-          "title": "易小星参加B站AI创作大赛",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%93%E5%B0%8F%E6%98%9F%E5%8F%82%E5%8A%A0B%E7%AB%99AI%E5%88%9B%E4%BD%9C%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            27,
-            12,
-            21,
-            13,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时55分 ~ 07时27分]"
-        },
-        {
           "title": "AI短片流金谷恩仇录",
           "url": "https://www.douyin.com/hot/2435233",
           "source": "抖音",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时58分 ~ 07时27分]"
+          "appearance_count": 4,
+          "time_info": "[05时58分 ~ 07时55分]"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
@@ -1486,6 +1549,18 @@
           "time_info": "[03时46分 ~ 05时06分]"
         },
         {
+          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
+          "url": "https://wallstreetcn.com/livenews/3072731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时55分]"
+        },
+        {
           "title": "美光科技：AI服务器需求继续表现强劲。",
           "url": "https://wallstreetcn.com/livenews/3072679",
           "source": "华尔街见闻-快讯",
@@ -1498,15 +1573,16 @@
           "time_info": "[04时39分 ~ 05时58分]"
         },
         {
-          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
-          "url": "https://wallstreetcn.com/livenews/3072731",
+          "title": "AI成家电标配，头部企业竞逐主动智能赛道",
+          "url": "https://wallstreetcn.com/livenews/3072722",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            10,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时27分 ~ 07时55分]"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)的AI智能体将敏感的公司和用户数据泄露给了未经授权的员工。",
@@ -1543,17 +1619,6 @@
           "time_info": "01时57分"
         },
         {
-          "title": "AI成家电标配，头部企业竞逐主动智能赛道",
-          "url": "https://wallstreetcn.com/livenews/3072722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时27分"
-        },
-        {
           "title": "耀客AI演员 赵今麦翟子路",
           "url": "https://s.weibo.com/weibo?q=%E8%80%80%E5%AE%A2AI%E6%BC%94%E5%91%98%20%E8%B5%B5%E4%BB%8A%E9%BA%A6%E7%BF%9F%E5%AD%90%E8%B7%AF&t=31&band_rank=28&Refer=top",
           "source": "微博",
@@ -1579,8 +1644,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "黄金的牛市结束了吗",
@@ -1593,8 +1658,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "金价",
@@ -1604,8 +1669,34 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            22
+          ],
+          "is_new": false,
           "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "time_info": "[01时57分 ~ 07时55分]"
+        },
+        {
+          "title": "黄金价格下跌 普通人能入手吗",
+          "url": "https://www.toutiao.com/trending/7618482201037901355/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            25,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时57分 ~ 07时55分]"
         },
         {
           "title": "静待美联储决议，股油同涨，美债走强，美元两连跌，黄金连续两日持稳于5000关口",
@@ -1618,31 +1709,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时55分 ~ 06时31分]"
-        },
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时57分 ~ 07时27分]"
-        },
-        {
-          "title": "黄金价格下跌 普通人能入手吗",
-          "url": "https://www.toutiao.com/trending/7618482201037901355/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时57分 ~ 07时27分]"
         },
         {
           "title": "美伊冲突加剧！美股期货盘前集体跳水，布油大涨5%，现货黄金跌破4850，白银跌超4%，金属全面下跌",
@@ -1666,8 +1732,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时06分 ~ 07时27分]"
+          "appearance_count": 5,
+          "time_info": "[05时06分 ~ 07时55分]"
         },
         {
           "title": "美联储3月决议声明发布前，美元指数涨0.25%，暂报99.818点。 美国10年期国债收益率维持2.3个基点的涨幅，持稳于4.22%上方；两年期美债收益率涨3.8个基点，持稳于3.7%上方。 现货黄金跌2.3%，持稳于4900美元下方。",
@@ -1722,7 +1788,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -1752,7 +1818,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "日本炒作中国国防预算，国防部回应",
@@ -1762,8 +1828,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "赖清德称日本殖民台湾是为推动“东亚共荣”，外交部：对民族的可耻背叛",
@@ -1774,8 +1840,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
+        },
+        {
+          "title": "日本主管教育大臣陷不伦丑闻",
+          "url": "https://www.toutiao.com/trending/7618428535308926982/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时39分 ~ 07时55分]"
         },
         {
           "title": "中国、日本和英国在1月份增持美债",
@@ -1796,20 +1874,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "日本主管教育大臣陷不伦丑闻",
-          "url": "https://www.toutiao.com/trending/7618428535308926982/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 06时31分]"
         },
         {
           "title": "俄罗斯警告日本应汲取历史教训 勿重蹈覆辙",
@@ -1832,6 +1899,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时55分"
+        },
+        {
+          "title": "日本首相：暂无向霍尔木兹海峡派遣自卫队计划",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32787346",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
@@ -1846,7 +1924,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         },
@@ -1927,8 +2005,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
         },
         {
           "title": "英伟达连发7款“王炸”芯片",
@@ -1955,8 +2033,25 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时55分 ~ 07时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时55分 ~ 07时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "小米发布大模型MiMo-V2-Pro",
+          "url": "https://flash.jin10.com/detail/20260319073452387800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时55分"
         }
       ]
     },
