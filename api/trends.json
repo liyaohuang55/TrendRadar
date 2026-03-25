@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-26T07:06:00.450489+08:00",
-  "total_titles_processed": 670,
+  "generated_at": "2026-03-26T07:57:50.675344+08:00",
+  "total_titles_processed": 759,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 66,
+      "match_count": 70,
       "titles": [
         {
           "title": "伊朗大使：未与美国直接或间接谈判",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "伊朗拒绝美国停战方案",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "美国一边提停火方案一边加紧增兵，伊朗告诉调解方：怀疑和平谈判只是一个幌子",
@@ -36,11 +36,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "美前商务部长：对伊战争致美国经济压力暴增",
@@ -50,8 +51,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "伊朗喊话美国：别把你们失败称为协议",
@@ -61,11 +62,12 @@
             19,
             17,
             13,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "美国中央司令部：我们已打击伊朗超过1万个军事目标，摧毁了伊朗92%的大型海军舰艇。他们已经失去了有效投射海军力量的能力。",
@@ -94,6 +96,18 @@
           "time_info": "[04时34分 ~ 06时31分]"
         },
         {
+          "title": "华尔街机构集体转向悲观：美国经济将迎“中东战事冲击波”",
+          "url": "https://www.cls.cn/detail/2324957",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 07时57分]"
+        },
+        {
           "title": "伊朗军方喊话美国：“别把你们的失败称为协议”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32827616",
           "source": "澎湃新闻",
@@ -115,6 +129,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时43分 ~ 04时34分]"
+        },
+        {
+          "title": "【早报】深夜，中国资产全线上涨；伊朗：拒绝美国停战提议",
+          "url": "https://www.cls.cn/detail/2325013",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "美国至3月25日5年期国债竞拍-投标倍数 2.29，前值2.32。",
@@ -295,7 +320,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -358,17 +383,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时31分]"
-        },
-        {
-          "title": "华尔街机构集体转向悲观：美国经济将迎“中东战事冲击波”",
-          "url": "https://www.cls.cn/detail/2324957",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时05分 ~ 07时06分]"
         },
         {
           "title": "美国邮政服务局（USPS）宣布限时涨价8%的计划。",
@@ -478,7 +492,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -555,7 +569,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -681,6 +695,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "美国众议院各委员会将于周四审议一项全面的航空安全法案。",
+          "url": "https://flash.jin10.com/detail/20260326072354922800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
           "title": "摩根大通分析师Marengo认为，关键矿物是“美国机会”。",
           "url": "https://wallstreetcn.com/livenews/3076816",
           "source": "华尔街见闻-快讯",
@@ -712,6 +737,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时34分"
+        },
+        {
+          "title": "美联储警告：体育博彩合法化正显著侵蚀美国青少年信用健康",
+          "url": "https://wallstreetcn.com/livenews/3076946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "美国拟停火1个月",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%81%9C%E7%81%AB1%E4%B8%AA%E6%9C%88%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "【伊朗：霍尔木兹海峡通行规则将被重新界定，伊敌对力量相关方都无权通行】当地时间25日，伊朗武装部队哈塔姆·安比亚中央司令部发言人发表声明称，当前地区局势已发生变化，霍尔木兹海峡通行规则将被重新界定，即与伊朗敌对力量相关的任何一方，都无权通行。 他强调，通行许可的裁定权在伊朗手中，霍尔木兹海峡的局势“不会恢复到此前状态”。 该发言人还表示，美国和以色列“已被困住”，而且这种迹象日益明显，“被摧毁的不只是你们的基地，更是你们自己建立的秩序。” 当天早些时候，伊朗常驻联合国代表团发表声明表示，非交战国家的船只可以安全通过霍尔木兹海峡。（央视）",
@@ -761,7 +808,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "贝莱德CEO推演伊朗战争结局：若油价升至150美元将引发全球衰退",
@@ -773,8 +820,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "周三（3月25日）纽约尾盘（周四北京时间04:59），离岸人民币（CNH）兑美元报6.9028元，较周二纽约尾盘跌90点，日内整体交投于6.8840-6.9093元区间。",
@@ -801,6 +848,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时34分 ~ 07时06分]"
+        },
+        {
+          "title": "美元指数日内涨跌持平。美国总统特朗普在全国共和党国会委员会筹款活动上谈到伊朗称，“他们正在谈判”。",
+          "url": "https://wallstreetcn.com/livenews/3076974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "布伦特原油期货目前跌2.33%，暂报97.89美元。 据纽约时报，伊朗的袭击迫使美军远程行动部，分驻中东美军已迁至酒店和办公室。 另据Axios报道，特朗普拒绝了内塔尼亚胡号召伊朗发动起义的提议。",
@@ -1016,6 +1074,17 @@
           "time_info": "00时06分"
         },
         {
+          "title": "报道称美国评估油价每桶200美元的极端情境，白宫否认",
+          "url": "https://wallstreetcn.com/livenews/3076966",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
           "title": "WTI 5月原油期货收报90.32美元/桶。 布伦特5月原油期货收报102.22美元/桶。 中东Abu Dhabi Murban原油期货跌13.67%，报100.26美元/桶。 NYMEX 4月天然气期货收报2.9520美元/百万英热单位。 NYMEX 4月汽油期货收报3.0124美元/加仑，NYMEX 3月取暖油期货收报4.0063美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3076856",
           "source": "华尔街见闻-快讯",
@@ -1071,6 +1140,17 @@
           "time_info": "04时34分"
         },
         {
+          "title": "现货白银日内跌超1.00%，现报70.47美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260326070256475800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
           "title": "美联储季度调查：预计年底美国石油价格为74美元/桶",
           "url": "https://wallstreetcn.com/livenews/3076769",
           "source": "华尔街见闻-快讯",
@@ -1084,8 +1164,318 @@
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 26,
+      "titles": [
+        {
+          "title": "外交部称强闯使馆事反映出日本「新型军国主义」成势为患，对自卫队失管失教，有何警示信号？",
+          "url": "https://www.zhihu.com/question/2020174603088085583",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
+        },
+        {
+          "title": "强闯中使馆日本男子身份披露",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352312&amp;topic_name=%E5%BC%BA%E9%97%AF%E4%B8%AD%E4%BD%BF%E9%A6%86%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BB%BD%E6%8A%AB%E9%9C%B2",
+          "source": "贴吧",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
+        },
+        {
+          "title": "日本警方称将对中使馆24小时警戒",
+          "url": "https://www.toutiao.com/trending/7621012675912388142/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            23,
+            5,
+            16,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
+        },
+        {
+          "title": "日本警方披露强闯中国驻日使馆者身份信息",
+          "url": "https://news.ifeng.com/c/8rmkkOjixRq",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
+        },
+        {
+          "title": "外交部：强闯使馆事反映出日本“新型军国主义”成势为患，对自卫队失管失教",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828238",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
+        },
+        {
+          "title": "观察｜日本大幅扩充太空战部队规模，强化太空战能力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32822267",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
+        },
+        {
+          "title": "中方回应日本自卫队闯驻日使馆",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352285&amp;topic_name=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E9%97%AF%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86",
+          "source": "贴吧",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
+        },
+        {
+          "title": "日本自卫队员多次全裸上街被停职",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E5%91%98%E5%A4%9A%E6%AC%A1%E5%85%A8%E8%A3%B8%E4%B8%8A%E8%A1%97%E8%A2%AB%E5%81%9C%E8%81%8C",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            20,
+            27,
+            28,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时33分 ~ 07时57分]"
+        },
+        {
+          "title": "日本不法之徒身份公布",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%B8%8D%E6%B3%95%E4%B9%8B%E5%BE%92%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            22,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时05分 ~ 07时57分]"
+        },
+        {
+          "title": "日本至3月20日当周外资买进日债 5118亿日元，前值11941亿日元。",
+          "url": "https://flash.jin10.com/detail/20260326075048302800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "日本3月20日当周外资净买进日本债券 5118亿日元，前值 11941亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3076973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "日本至3月20日当周买进外国股票 312亿日元，前值9507亿日元。",
+          "url": "https://flash.jin10.com/detail/20260326075037785800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "日本3月20日当周净买进国外股票 312亿日元，前值 9507亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3076971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "日本2月企业服务价格指数年率 2.7%，前值2.60%。",
+          "url": "https://flash.jin10.com/detail/20260326075027019800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "日本3月20日当周净买进国外债券 -6353亿日元，前值 -9920亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3076972",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "据日本放送协会NHK：日本临时预算总额预计约为8.6万亿日元。",
+          "url": "https://flash.jin10.com/detail/20260326061328145800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时31分 ~ 07时06分]"
+        },
+        {
+          "title": "日本2月企业服务价格指数月率 0.2%，前值-0.5%。",
+          "url": "https://flash.jin10.com/detail/20260326075020533800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "日本3月20日当周外资净买进日本股票 -25097亿日元，前值 -17726亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3076970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "日本自卫队官员携刀强闯中国驻日使馆被逮捕",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32823059",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 00时06分]"
+        },
+        {
+          "title": "韩国要求日本立即纠正教科书",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%A6%81%E6%B1%82%E6%97%A5%E6%9C%AC%E7%AB%8B%E5%8D%B3%E7%BA%A0%E6%AD%A3%E6%95%99%E7%A7%91%E4%B9%A6%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时05分 ~ 00时06分]"
+        },
+        {
+          "title": "日本至3月20日当周外资买进日股 -25097亿日元，前值由-17726亿日元修正为-17725亿日元。",
+          "url": "https://flash.jin10.com/detail/20260326075002717800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "日本2月企业服务价格指数同比 2.7%，预期 2.6%，前值 2.6%。",
+          "url": "https://wallstreetcn.com/livenews/3076969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "日本至3月20日当周买进外国债券 -6353亿日元，前值由-9920亿日元修正为-9869亿日元。",
+          "url": "https://flash.jin10.com/detail/20260326075002693800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "日本政府今日起开始释放国家石油储备",
+          "url": "https://flash.jin10.com/detail/20260326074645440800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "是什么让日本自卫官敢对中使馆举刀",
+          "url": "https://www.baidu.com/s?wd=%E6%98%AF%E4%BB%80%E4%B9%88%E8%AE%A9%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E5%AE%98%E6%95%A2%E5%AF%B9%E4%B8%AD%E4%BD%BF%E9%A6%86%E4%B8%BE%E5%88%80",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "日本自卫队员多次全裸上街被停职",
+          "url": "https://www.toutiao.com/trending/7621115104737640490/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "美以伊战争丨美媒：军方只向特朗普展示胜利画面",
@@ -1095,8 +1485,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "凤凰女记者：伊朗民众认为特朗普说谎，在为美方袭击做准备",
@@ -1106,8 +1496,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "伊朗喊话特朗普：美国在中东地区的投资将不复存在",
@@ -1117,8 +1507,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "伊朗称向美林肯号航母发射导弹，特朗普再谈正与伊朗谈判，声称收到伊方「大礼」，具体情况如何？",
@@ -1129,8 +1519,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "又赢了？特朗普声称已实现伊朗的政权更迭，“他们还同意放弃拥核”",
@@ -1141,8 +1531,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "特朗普称美伊谈判“可能已相当接近达成协议”、伊朗同意永不拥有核武，报道称美国有意停火一个月、提15条和谈方案",
@@ -1165,19 +1555,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时34分 ~ 07时06分]"
+          "appearance_count": 5,
+          "time_info": "[05时34分 ~ 07时57分]"
         },
         {
           "title": "野村辜朝明：“伊朗战争”发生在特朗普输掉“高院关税战”后几天，这不是巧合",
           "url": "https://wallstreetcn.com/articles/3768337",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时31分 ~ 07时06分]"
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 07时57分]"
         },
         {
           "title": "美媒：以总理希望呼吁伊朗人民“起义” 遭特朗普拒绝",
@@ -1232,7 +1623,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -1259,6 +1650,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 03时43分]"
+        },
+        {
+          "title": "白宫：特朗普将于当地时间周四上午10点召开内阁会议。",
+          "url": "https://wallstreetcn.com/livenews/3076963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "白宫：特朗普将在周四上午10点（北京时间22:00）召开内阁会议。",
+          "url": "https://flash.jin10.com/detail/20260326073654888800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "美国总统特朗普：仇恨国家的民主党正在试图制造内部混乱，以掩盖我们在伊朗取得的伟大军事成就。他们讨厌看到我们如此彻底和果断的胜利，但美国公众看到了正在发生的事情。",
@@ -1292,6 +1705,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "释新闻｜美伊谈判迷雾：特朗普的算盘和巴基斯坦的中间人角色",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32828540",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         },
         {
           "title": "白宫新闻秘书莱维特：（谈到第82空降师）特朗普更喜欢能有选择。",
@@ -1329,173 +1753,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "外交部称强闯使馆事反映出日本「新型军国主义」成势为患，对自卫队失管失教，有何警示信号？",
-          "url": "https://www.zhihu.com/question/2020174603088085583",
-          "source": "知乎",
-          "ranks": [
-            7,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
-        },
-        {
-          "title": "强闯中使馆日本男子身份披露",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352312&amp;topic_name=%E5%BC%BA%E9%97%AF%E4%B8%AD%E4%BD%BF%E9%A6%86%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BB%BD%E6%8A%AB%E9%9C%B2",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
-        },
-        {
-          "title": "日本警方称将对中使馆24小时警戒",
-          "url": "https://www.toutiao.com/trending/7621012675912388142/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            23,
-            5,
-            16,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
-        },
-        {
-          "title": "日本警方披露强闯中国驻日使馆者身份信息",
-          "url": "https://news.ifeng.com/c/8rmkkOjixRq",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
-        },
-        {
-          "title": "外交部：强闯使馆事反映出日本“新型军国主义”成势为患，对自卫队失管失教",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32828238",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
-        },
-        {
-          "title": "观察｜日本大幅扩充太空战部队规模，强化太空战能力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32822267",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
-        },
-        {
-          "title": "中方回应日本自卫队闯驻日使馆",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352285&amp;topic_name=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E9%97%AF%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
-        },
-        {
-          "title": "日本自卫队员多次全裸上街被停职",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E5%91%98%E5%A4%9A%E6%AC%A1%E5%85%A8%E8%A3%B8%E4%B8%8A%E8%A1%97%E8%A2%AB%E5%81%9C%E8%81%8C",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            20,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时33分 ~ 06时31分]"
-        },
-        {
-          "title": "日本不法之徒身份公布",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E4%B8%8D%E6%B3%95%E4%B9%8B%E5%BE%92%E8%BA%AB%E4%BB%BD%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            22,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时05分 ~ 06时31分]"
-        },
-        {
-          "title": "据日本放送协会NHK：日本临时预算总额预计约为8.6万亿日元。",
-          "url": "https://flash.jin10.com/detail/20260326061328145800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时06分]"
-        },
-        {
-          "title": "日本自卫队官员携刀强闯中国驻日使馆被逮捕",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32823059",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
-        },
-        {
-          "title": "韩国要求日本立即纠正教科书",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E8%A6%81%E6%B1%82%E6%97%A5%E6%9C%AC%E7%AB%8B%E5%8D%B3%E7%BA%A0%E6%AD%A3%E6%95%99%E7%A7%91%E4%B9%A6%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
-        },
-        {
-          "title": "日本自卫队员多次全裸上街被停职",
-          "url": "https://www.toutiao.com/trending/7621115104737640490/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "专家说黄金正重演08年剧本",
@@ -1504,11 +1763,12 @@
           "ranks": [
             23,
             21,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "黄金正重演“2008年剧本”吗",
@@ -1520,8 +1780,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时33分 ~ 07时06分]"
+          "appearance_count": 10,
+          "time_info": "[01时33分 ~ 07时57分]"
         },
         {
           "title": "美伊谈判存疑，美股三大股指涨超1%，存储板块走低，现货黄金涨2%，原油跌幅重回5%",
@@ -1611,7 +1871,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -1625,6 +1885,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "黄金回血了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%9B%9E%E8%A1%80%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时57分"
         }
       ]
     },
@@ -1641,8 +1912,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "短剧演员成AI技术第一批“牺牲品”",
@@ -1652,11 +1923,12 @@
             19,
             18,
             14,
-            20
+            20,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时50分 ~ 07时06分]"
+          "appearance_count": 8,
+          "time_info": "[02时50分 ~ 07时57分]"
         },
         {
           "title": "美军错误情报叠加 AI 决策致使「战斧」导弹误击伊朗小学，如何看待战争中使用 AI？AI 决策的边界在哪里？",
@@ -1700,11 +1972,12 @@
           "url": "https://www.zhihu.com/question/2020204147274642238",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时05分 ~ 00时06分]"
+          "appearance_count": 3,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "量价齐升提振业绩，AI为半导体公司注入“芯”动力",
@@ -1713,7 +1986,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时06分"
         },
@@ -1750,11 +2023,12 @@
           "url": "https://wallstreetcn.com/articles/3768391",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时05分 ~ 07时06分]"
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 07时57分]"
         },
         {
           "title": "META和谷歌在社交媒体成瘾案中被认为负有责任。",
@@ -1812,11 +2086,12 @@
           "url": "https://www.cls.cn/detail/2324998",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时05分 ~ 07时06分]"
+          "appearance_count": 3,
+          "time_info": "[07时05分 ~ 07时57分]"
         },
         {
           "title": "CrowdStrike扩大与英特尔的战略合作，以保护新一代AI PC。",
@@ -1910,8 +2185,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时05分 ~ 07时06分]"
+          "appearance_count": 12,
+          "time_info": "[00时05分 ~ 07时57分]"
         },
         {
           "title": "OpenAI推出安全漏洞赏金计划。",
