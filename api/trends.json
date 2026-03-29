@@ -1,12 +1,83 @@
 {
-  "generated_at": "2026-03-30T01:03:00.385915+08:00",
-  "total_titles_processed": 350,
+  "generated_at": "2026-03-30T01:56:55.930637+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "下周重磅日程：关注伊朗战事进展、美国非农、中国PMI",
+          "url": "https://wallstreetcn.com/articles/3768649",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
+        },
+        {
+          "title": "面对海湾国家安抚，美国投资者“忧心忡忡”：中东经济还能撑多久？中东还有钱投资美国吗？",
+          "url": "https://wallstreetcn.com/articles/3768660",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
+        },
+        {
+          "title": "圆脸聊美国不要国王抗议游行",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%81%8A%E7%BE%8E%E5%9B%BD%E4%B8%8D%E8%A6%81%E5%9B%BD%E7%8E%8B%E6%8A%97%E8%AE%AE%E6%B8%B8%E8%A1%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
+        },
+        {
+          "title": "美国防部被曝在为对伊朗地面行动做准备",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32856235",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
+        },
+        {
+          "title": "波切蒂诺称美国队世界杯目标是夺冠，复制 02 年韩国和 22 年摩洛哥，这现实吗？",
+          "url": "https://www.zhihu.com/question/2020241556225946338",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
+        },
+        {
+          "title": "伊朗：核问题非美国与伊朗核心问题",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%A0%B8%E9%97%AE%E9%A2%98%E9%9D%9E%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%A0%B8%E5%BF%83%E9%97%AE%E9%A2%98",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            27,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
+        },
         {
           "title": "美国两党缠斗如何收场",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%85%9A%E7%BC%A0%E6%96%97%E5%A6%82%E4%BD%95%E6%94%B6%E5%9C%BA",
@@ -20,75 +91,6 @@
           "time_info": "[00时29分 ~ 01时03分]"
         },
         {
-          "title": "下周重磅日程：关注伊朗战事进展、美国非农、中国PMI",
-          "url": "https://wallstreetcn.com/articles/3768649",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
-        },
-        {
-          "title": "面对海湾国家安抚，美国投资者“忧心忡忡”：中东经济还能撑多久？中东还有钱投资美国吗？",
-          "url": "https://wallstreetcn.com/articles/3768660",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
-        },
-        {
-          "title": "圆脸聊美国不要国王抗议游行",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%86%E8%84%B8%E8%81%8A%E7%BE%8E%E5%9B%BD%E4%B8%8D%E8%A6%81%E5%9B%BD%E7%8E%8B%E6%8A%97%E8%AE%AE%E6%B8%B8%E8%A1%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
-        },
-        {
-          "title": "美国防部被曝在为对伊朗地面行动做准备",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32856235",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
-        },
-        {
-          "title": "波切蒂诺称美国队世界杯目标是夺冠，复制 02 年韩国和 22 年摩洛哥，这现实吗？",
-          "url": "https://www.zhihu.com/question/2020241556225946338",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
-        },
-        {
-          "title": "伊朗：核问题非美国与伊朗核心问题",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E6%A0%B8%E9%97%AE%E9%A2%98%E9%9D%9E%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%A0%B8%E5%BF%83%E9%97%AE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
-        },
-        {
           "title": "伊朗陆军发言人：核问题绝非美国与伊朗间核心问题",
           "url": "https://wallstreetcn.com/livenews/3078743",
           "source": "华尔街见闻-快讯",
@@ -96,8 +98,41 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时56分]"
+        },
+        {
+          "title": "伊朗武装部队发言人：“波斯湾的鲨鱼正等待美国军人”",
+          "url": "https://wallstreetcn.com/livenews/3078725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时56分]"
+        },
+        {
+          "title": "据以色列N12新闻：以色列计划向美国提议在其境内建立军事基地。",
+          "url": "https://flash.jin10.com/detail/20260330013711706800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "美国驻埃尔比勒领事馆：我们建议美国公民立即离开伊拉克。",
+          "url": "https://flash.jin10.com/detail/20260330013601981800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "美国中央司令部发布图文，在3月25日，“亚伯拉罕·林肯”号航空母舰上的美国海军F/A-18“超级大黄蜂”战斗机在“史诗怒火”行动期间准备执行夜间作战任务。",
@@ -112,15 +147,15 @@
           "time_info": "[00时29分 ~ 01时03分]"
         },
         {
-          "title": "伊朗武装部队发言人：“波斯湾的鲨鱼正等待美国军人”",
-          "url": "https://wallstreetcn.com/livenews/3078725",
-          "source": "华尔街见闻-快讯",
+          "title": "据以色列媒体报道，美国中央司令部司令布拉德·库珀海军上将今天访问以色列，与以色列国防军参谋长埃亚尔·扎米尔中将会面。",
+          "url": "https://flash.jin10.com/detail/20260330011921924800",
+          "source": "金十数据",
           "ranks": [
-            22
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         },
         {
           "title": "美国新国土安全部长为什么是个“印第安人MAGA”？",
@@ -132,6 +167,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "巴基斯坦外长：巴基斯坦非常高兴伊朗和美国均表示对巴基斯坦在促成对话方面充满信心。",
+          "url": "https://flash.jin10.com/detail/20260330004149875800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时56分"
         }
       ]
     },
@@ -140,17 +186,6 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "日本民众举行集会高呼中国对不起",
-          "url": "https://www.toutiao.com/trending/7621775178931814451/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
-        },
-        {
           "title": "日本被要求：尽快向中方道歉",
           "url": "https://www.cls.cn/detail/2327928",
           "source": "财联社热门",
@@ -158,8 +193,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
+        },
+        {
+          "title": "日本民众举行集会高呼中国对不起",
+          "url": "https://www.toutiao.com/trending/7621775178931814451/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "日本拟动用外储做空国际原油，以挽救日元汇率，对此你怎么看，其会重演 96 年「住友铜事件」么？",
@@ -169,8 +216,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "日本抗议者高喊中国对不起",
@@ -181,8 +228,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "日本警视厅对强闯我驻日使馆不法之徒所属部队驻地等展开搜查",
@@ -192,8 +239,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "F1日本站极速战报",
@@ -201,11 +248,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            9
+            9,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "“我们替高市向中国道歉”，日本民众集会反对高市早苗",
@@ -215,19 +263,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "安东内利日本站再夺魁",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%89%E4%B8%9C%E5%86%85%E5%88%A9%E6%97%A5%E6%9C%AC%E7%AB%99%E5%86%8D%E5%A4%BA%E9%AD%81",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "日本17岁高中生偷大米被抓",
@@ -238,8 +287,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         }
       ]
     },
@@ -255,8 +304,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "反对特朗普的浪潮国际化了",
@@ -266,8 +315,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "全美超900万人举行抗议，民众反对特朗普伊朗、移民等政策",
@@ -277,8 +326,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "全美爆发第三轮“不要国王”示威，预计900万人上街抗议特朗普",
@@ -288,8 +337,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -299,8 +348,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "美国一民主党参议员敦促特朗普不要向伊朗部署地面部队",
@@ -327,8 +376,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -338,8 +387,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -349,8 +398,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -360,8 +409,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
@@ -371,8 +420,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时02分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 01时56分]"
         }
       ]
     },
@@ -385,11 +434,12 @@
           "url": "https://www.toutiao.com/trending/7621850422521249846/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "内存价格跳水,等等党大胜",
@@ -400,19 +450,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "DDR5 内存价格 3 月出现明显下降，请问这是短期现象，还是内存供需紧张真的缓和了？",
           "url": "https://www.zhihu.com/question/2021602205866684610",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "内存条价格崩了",
@@ -423,8 +474,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         }
       ]
     },
@@ -438,22 +489,24 @@
           "source": "微博",
           "ranks": [
             4,
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "DeepSeek“崩了”",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B4%A9%E4%BA%86%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         }
       ]
     },
@@ -470,8 +523,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -482,8 +535,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         }
       ]
     },
@@ -499,8 +552,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         },
         {
           "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
@@ -511,8 +564,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 01时56分]"
         }
       ]
     },
@@ -528,8 +581,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 01时03分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 01时56分]"
         }
       ]
     }
