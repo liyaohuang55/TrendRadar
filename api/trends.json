@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T14:29:45.943485+08:00",
-  "total_titles_processed": 1057,
+  "generated_at": "2026-03-30T16:09:52.000105+08:00",
+  "total_titles_processed": 1184,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "美国对伊朗局势至少出现两个误判",
@@ -164,6 +164,18 @@
           "time_info": "[02时35分 ~ 05时56分]"
         },
         {
+          "title": "【早报】万斯发声！美国无意滞留在伊朗；中东两大铝厂遭袭",
+          "url": "https://www.cls.cn/detail/2328286",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 16时09分]"
+        },
+        {
           "title": "两名外交官表示，在喀麦隆举行的世贸组织谈判期间，美国和巴西就延长电子商务关税暂停令以在暂停期内不对数字下载征税的提案未能达成一致。",
           "url": "https://flash.jin10.com/detail/20260330035352508800",
           "source": "金十数据",
@@ -188,18 +200,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时56分 ~ 05时29分]"
-        },
-        {
-          "title": "【早报】万斯发声！美国无意滞留在伊朗；中东两大铝厂遭袭",
-          "url": "https://www.cls.cn/detail/2328286",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 14时29分]"
         },
         {
           "title": "美国在中东地区驻军人数已超5万人",
@@ -541,15 +541,37 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "中方回应4名美国议员窜访台湾",
+          "url": "https://flash.jin10.com/detail/20260330153442086800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "马士基宣布收取美国内陆燃油附加费",
+          "url": "https://wallstreetcn.com/livenews/3079060",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "日本被要求：尽快向中方道歉",
@@ -614,8 +636,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 16时09分]"
         },
         {
           "title": "日本抗议者高喊中国对不起",
@@ -626,11 +648,12 @@
             7,
             9,
             15,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 16时09分]"
         },
         {
           "title": "F1日本站极速战报",
@@ -677,8 +700,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 16时09分]"
         },
         {
           "title": "日本17岁高中生偷大米被抓",
@@ -729,11 +752,12 @@
           "source": "凤凰网",
           "ranks": [
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 16时09分]"
         },
         {
           "title": "舆论要求日本政府就闯中国使馆道歉",
@@ -779,9 +803,21 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "中方决定对日本国会众议员古屋圭司采取反制措施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860602",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 16时09分]"
         },
         {
           "title": "日本可重复使用火箭实验机飞行测试再次中止",
@@ -812,7 +848,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -823,7 +859,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -834,7 +870,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -867,9 +903,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "日本央行：潜在通胀率正升向2%目标水平",
+          "url": "https://wallstreetcn.com/livenews/3079086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "中方反制日本国会众议员古屋圭司",
+          "url": "https://www.douyin.com/hot/2448381",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "日本30年期国债收益率日内上升8.0个基点至3.780%。",
@@ -878,9 +936,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "中方决定对日本国会众议员古屋圭司采取反制措施",
+          "url": "https://news.ifeng.com/c/8ruYQEhDxBO",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "日本警察厅就自卫队员强闯中国使馆事件召开会议",
@@ -889,18 +958,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
-          "title": "中方决定对日本国会众议员古屋圭司采取反制措施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860602",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -911,7 +969,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -922,7 +980,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -933,7 +991,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -944,7 +1002,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -966,7 +1024,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -988,7 +1046,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1018,7 +1076,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普发出威胁：“下一个是古巴”",
@@ -1066,8 +1124,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 16时09分]"
         },
         {
           "title": "民调显示美国选民对特朗普“不满意率”创新高",
@@ -1083,18 +1141,6 @@
           "time_info": "[00时29分 ~ 06时26分]"
         },
         {
-          "title": "特朗普：与伊朗“可能”很快达成停火协议",
-          "url": "https://www.cls.cn/detail/2328385",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时29分]"
-        },
-        {
           "title": "“伊朗大礼”加码？特朗普：20艘油轮将通行霍尔木兹，或很快达成停火！",
           "url": "https://www.cls.cn/detail/2328604",
           "source": "财联社热门",
@@ -1103,8 +1149,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 16时09分]"
+        },
+        {
+          "title": "特朗普：与伊朗“可能”很快达成停火协议",
+          "url": "https://www.cls.cn/detail/2328385",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 16时09分]"
         },
         {
           "title": "特朗普：想要“夺取”伊朗石油，不排除占领哈尔克岛",
@@ -1113,22 +1172,24 @@
           "ranks": [
             14,
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 16时09分]"
         },
         {
           "title": "特朗普美股盘前发声“可能很快与伊朗达成停火协议”，巴基斯坦力促数日内进行有效会谈",
           "url": "https://wallstreetcn.com/articles/3768688",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 16时09分]"
         },
         {
           "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
@@ -1136,11 +1197,12 @@
           "source": "凤凰网",
           "ranks": [
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 16时09分]"
         },
         {
           "title": "民调：美选民对特朗普不满意率创新高",
@@ -1166,6 +1228,29 @@
           "time_info": "09时58分"
         },
         {
+          "title": "特朗普说中东冲突或很快停止，外交部回应",
+          "url": "https://news.ifeng.com/c/8ruuG1aRNqh",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "特朗普私下问：2028，万斯还是鲁比奥？",
+          "url": "https://news.ifeng.com/c/8rubpGeBu1W",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 16时09分]"
+        },
+        {
           "title": "特朗普：不反对向古巴供应石油",
           "url": "https://wallstreetcn.com/livenews/3078883",
           "source": "华尔街见闻-快讯",
@@ -1188,26 +1273,38 @@
           "time_info": "07时35分"
         },
         {
-          "title": "特朗普私下问：2028，万斯还是鲁比奥？",
-          "url": "https://news.ifeng.com/c/8rubpGeBu1W",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32860751",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 16时09分]"
+        },
+        {
+          "title": "特朗普：不排除占领伊朗石油枢纽哈尔克岛",
+          "url": "https://www.cls.cn/detail/2328360",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时29分"
+          "time_info": "16时09分"
+        },
+        {
+          "title": "特朗普说有可能很快停止在中东的冲突，中方回应",
+          "url": "https://wallstreetcn.com/livenews/3079079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "特朗普称伊朗已同意“15点计划”中“大部分内容”",
@@ -1252,6 +1349,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "特朗普称“下一个目标将是古巴”，中方回应",
+          "url": "https://flash.jin10.com/detail/20260330153553975800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         }
       ]
     },
@@ -1287,6 +1395,18 @@
           "time_info": "[00时29分 ~ 07时35分]"
         },
         {
+          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 16时09分]"
+        },
+        {
           "title": "DeepSeek宕机12小时后恢复服务",
           "url": "https://www.toutiao.com/trending/7622849000173178419/",
           "source": "今日头条",
@@ -1295,19 +1415,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时29分]"
-        },
-        {
-          "title": "DeepSeek“崩了”一夜，相关功能仍无法正常使用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32860242",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 16时09分]"
         },
         {
           "title": "3 月 29 日大量用户反映 DeepSeek 服务出现异常，在宕机 12 小时后恢复服务，怎么回事？",
@@ -1315,11 +1424,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时46分 ~ 14时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时46分 ~ 16时09分]"
         },
         {
           "title": "豆包谈DeepSeek频繁崩溃",
@@ -1417,7 +1527,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         }
@@ -1425,7 +1535,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "中东两家铝业公司遭袭，花旗分析师：铝价或暴涨至每吨4000美元",
@@ -1450,8 +1560,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时58分 ~ 16时09分]"
         },
         {
           "title": "周一汇市盘初，美元兑瑞郎USD/CHF日内跌幅达0.5%，报0.7947、欧元兑美元EUR/USD跌0.1%、澳元兑美元AUD/USD跌0.17%。",
@@ -1499,7 +1609,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         },
@@ -1525,6 +1635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "中东局势升级，日韩股市收跌约3%，美股期货续跌跌势，布油一度涨破115美元、铝价上涨5%",
+          "url": "https://wallstreetcn.com/articles/3768684",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         },
         {
           "title": "新台币兑美元下跌0.4%至32.008。",
@@ -1560,6 +1681,17 @@
           "time_info": "12时47分"
         },
         {
+          "title": "狂揽10亿美元！道达尔能源趁乱“做庄”原油，或创油市历史最大盈利",
+          "url": "https://flash.jin10.com/detail/20260330153921521800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "能源溢价暂撑美元 巴克莱看淡汇率长线走势",
           "url": "https://flash.jin10.com/detail/20260330094114097800",
           "source": "金十数据",
@@ -1574,7 +1706,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -1589,19 +1721,6 @@
           "time_info": "[00时29分 ~ 07时35分]"
         },
         {
-          "title": "AI勇闯二游圈,引爆米库论战",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 14时29分]"
-        },
-        {
           "title": "伊朗战争的账单，“AI牛市”来买？",
           "url": "https://wallstreetcn.com/articles/3768662",
           "source": "华尔街见闻",
@@ -1612,6 +1731,20 @@
           "is_new": false,
           "appearance_count": 18,
           "time_info": "[00时29分 ~ 12时47分]"
+        },
+        {
+          "title": "AI勇闯二游圈,引爆米库论战",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352478&amp;topic_name=AI%E5%8B%87%E9%97%AF%E4%BA%8C%E6%B8%B8%E5%9C%88%2C%E5%BC%95%E7%88%86%E7%B1%B3%E5%BA%93%E8%AE%BA%E6%88%98",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            8,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 16时09分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -1640,6 +1773,17 @@
           "time_info": "[01时02分 ~ 06时59分]"
         },
         {
+          "title": "雷军：小米AI人才招聘专项正式启动",
+          "url": "https://flash.jin10.com/detail/20260330160410563800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "AI驱动新一轮增长周期，云厂商迎来业绩拐点",
           "url": "https://wallstreetcn.com/livenews/3078783",
           "source": "华尔街见闻-快讯",
@@ -1663,21 +1807,65 @@
           "time_info": "[12时46分 ~ 12时47分]"
         },
         {
+          "title": "雷军：小米AI人才招聘专项正式启动",
+          "url": "https://wallstreetcn.com/livenews/3079092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "阿里达摩院与东软医疗达成战略合作 推动多癌早筛AI普及",
           "url": "https://flash.jin10.com/detail/20260330140530245800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
+        },
+        {
+          "title": "奥尼电子：与沐曦股份签署战略合作协议书，就沐曦桌面AI工作站等硬件产品进行全方位、多层次、长期稳固的合作，建立战略合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3079085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "奥尼电子：与沐曦股份联合开发沐曦桌面AI工作站系列产品",
+          "url": "https://flash.jin10.com/detail/20260330155102770800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
+          "title": "韩红秀牙缝自证“不是AI人”",
+          "url": "https://www.baidu.com/s?wd=%E9%9F%A9%E7%BA%A2%E7%A7%80%E7%89%99%E7%BC%9D%E8%87%AA%E8%AF%81%E2%80%9C%E4%B8%8D%E6%98%AFAI%E4%BA%BA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美银Hartnett：还没看到“抄底信号”，如何理解黄金在内的“抄底交易”？",
@@ -1685,11 +1873,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 16时09分]"
         },
         {
           "title": "黄金大买家土耳其央行在伊朗战争期间抛售 80 亿美元黄金，这意味着什么？",
@@ -1747,6 +1936,17 @@
           "time_info": "[06时59分 ~ 07时35分]"
         },
         {
+          "title": "上海黄金交易所3月30日（周一）交易行情",
+          "url": "https://flash.jin10.com/detail/20260330160016894800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -1767,6 +1967,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
+        },
+        {
+          "title": "Lombard Odier：建议维持对新兴市场信用和黄金的超配",
+          "url": "https://wallstreetcn.com/livenews/3079057",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时09分"
         }
       ]
     },
@@ -1811,11 +2022,12 @@
             9,
             11,
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 16时09分]"
         },
         {
           "title": "内存条价格崩了",
@@ -1835,11 +2047,12 @@
           "url": "https://wallstreetcn.com/articles/3768696",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 16时09分]"
         }
       ]
     },
@@ -1856,11 +2069,12 @@
             14,
             16,
             22,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 16时09分]"
         },
         {
           "title": "谷歌AI内存压缩算法遭质疑",
@@ -1872,11 +2086,12 @@
             18,
             19,
             24,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时29分 ~ 14时29分]"
+          "appearance_count": 20,
+          "time_info": "[00时29分 ~ 16时09分]"
         }
       ]
     },
@@ -1919,7 +2134,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时29分"
         }
