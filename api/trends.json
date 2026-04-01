@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T17:44:24.320383+08:00",
-  "total_titles_processed": 1475,
+  "generated_at": "2026-04-01T18:51:07.277561+08:00",
+  "total_titles_processed": 1600,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 75,
+      "match_count": 78,
       "titles": [
         {
           "title": "特朗普的“退出路线图”浮现：愿意先结束战争，重开霍尔木兹就交给欧洲和海湾盟友",
@@ -54,8 +54,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时53分 ~ 17时44分]"
+          "appearance_count": 21,
+          "time_info": "[00时53分 ~ 18时51分]"
         },
         {
           "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
@@ -66,8 +66,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时39分 ~ 17时44分]"
+          "appearance_count": 14,
+          "time_info": "[06时39分 ~ 18时51分]"
         },
         {
           "title": "特朗普称即使霍尔木兹海峡仍关闭也愿结束战争",
@@ -108,6 +108,20 @@
           "time_info": "[00时53分 ~ 07时58分]"
         },
         {
+          "title": "美国为何爆发反特朗普抗议",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            28,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[07时01分 ~ 18时51分]"
+        },
+        {
           "title": "美国打伊朗，阿拉伯国家掏钱？白宫新闻秘书：特朗普有这想法",
           "url": "https://m.thepaper.cn/newsDetail_forward_32865145",
           "source": "澎湃新闻",
@@ -132,6 +146,32 @@
           "time_info": "[00时53分 ~ 06时39分]"
         },
         {
+          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
+          "url": "https://wallstreetcn.com/articles/3768931",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 18时51分]"
+        },
+        {
+          "title": "明早9点！白宫重磅预告：特朗普将就伊朗问题发表全国讲话",
+          "url": "https://www.cls.cn/detail/2331621",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时11分 ~ 18时51分]"
+        },
+        {
           "title": "特朗普希望4月6日前与伊朗签协议",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B8%8C%E6%9C%9B4%E6%9C%886%E6%97%A5%E5%89%8D%E4%B8%8E%E4%BC%8A%E6%9C%97%E7%AD%BE%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -146,32 +186,6 @@
           "time_info": "[02时06分 ~ 07时02分]"
         },
         {
-          "title": "美国为何爆发反特朗普抗议",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E7%88%86%E5%8F%91%E5%8F%8D%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%97%E8%AE%AE",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时01分 ~ 17时44分]"
-        },
-        {
-          "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
-          "url": "https://wallstreetcn.com/articles/3768931",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 17时44分]"
-        },
-        {
           "title": "特朗普给伊朗“划红线”",
           "url": "https://news.ifeng.com/c/8rvXSKYsnyO",
           "source": "凤凰网",
@@ -181,19 +195,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 05时44分]"
-        },
-        {
-          "title": "明早9点！白宫重磅预告：特朗普将就伊朗问题发表全国讲话",
-          "url": "https://www.cls.cn/detail/2331621",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时11分 ~ 17时44分]"
         },
         {
           "title": "美伊转折点？特朗普：将在“两到三周”内结束战争，协议亦可能达成！",
@@ -301,6 +302,17 @@
           "time_info": "[06时39分 ~ 07时58分]"
         },
         {
+          "title": "马克龙访日暗讽特朗普",
+          "url": "https://news.ifeng.com/c/8ryL3cEUkYR",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
+        },
+        {
           "title": "美国总统特朗普：（谈及伊朗表示）他们没有军队。他们一无所有。他们承认自己在失败。他们在乞求达成协议。",
           "url": "https://flash.jin10.com/detail/20260401061746839800",
           "source": "金十数据",
@@ -325,6 +337,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时06分 ~ 03时53分]"
+        },
+        {
+          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时51分]"
         },
         {
           "title": "白宫官员：特朗普总统对很快达成协议充满信心。",
@@ -450,7 +474,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -682,17 +706,6 @@
           "time_info": "10时26分"
         },
         {
-          "title": "美国将结束打击伊朗？特朗普：两三周内撤离，霍尔木兹海峡通航问题与美无关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32869664",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
           "title": "美国总统特朗普：美联储主席鲍威尔必须尽快离职。",
           "url": "https://flash.jin10.com/detail/20260401055745078800",
           "source": "金十数据",
@@ -765,7 +778,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -836,6 +849,28 @@
           "time_info": "06时39分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-04-01）",
+          "url": "https://flash.jin10.com/detail/20260401181231630800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "英国首相回应特朗普退出北约言论",
+          "url": "https://wallstreetcn.com/livenews/3080808",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "美国国务卿鲁比奥：特朗普总统始终更倾向于谈判而非战争，但他不会允许虚假的谈判被用作伊朗拖延时间的策略。",
           "url": "https://flash.jin10.com/detail/20260401095843776800",
           "source": "金十数据",
@@ -883,7 +918,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 68,
+      "match_count": 71,
       "titles": [
         {
           "title": "鲁比奥放话：美国不会允许伊朗向通过霍尔木兹海峡的船舶收费",
@@ -939,6 +974,19 @@
           "time_info": "[10时26分 ~ 14时59分]"
         },
         {
+          "title": "伊朗：收到美国总统特使“私信”",
+          "url": "https://www.cls.cn/detail/2331889",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时17分 ~ 18时51分]"
+        },
+        {
           "title": "伊朗将按计划在美国参加世界杯比赛",
           "url": "https://www.toutiao.com/trending/7622619005228498986/",
           "source": "今日头条",
@@ -966,6 +1014,17 @@
           "time_info": "[00时53分 ~ 03时53分]"
         },
         {
+          "title": "美以伊战争丨伊朗议长嘲讽鲁比奥：做啥“美国梦”呢",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
+        },
+        {
           "title": "伊朗外长：一直收到美国总统特使信息，但不意味着谈判",
           "url": "https://news.ifeng.com/c/8ry7uIFNLZS",
           "source": "凤凰网",
@@ -988,18 +1047,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时06分 ~ 03时53分]"
-        },
-        {
-          "title": "伊朗：收到美国总统特使“私信”",
-          "url": "https://www.cls.cn/detail/2331889",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时44分]"
         },
         {
           "title": "美联储官员Schmid警告称：美国通胀率可能滞留在3%附近",
@@ -1133,6 +1180,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时38分]"
+        },
+        {
+          "title": "专家：F-35坠毁扯出美国军工暗疮",
+          "url": "https://www.toutiao.com/trending/7623707782524440115/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "鲁比奥：美国可以看到战争的“终点线”",
@@ -1431,6 +1489,17 @@
           "time_info": "05时44分"
         },
         {
+          "title": "美国欲撤、阿联酋“死战”：小国的生存焦虑与地缘赌局丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260401182619083800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "美国NASA：阿尔忒弥斯II号计划明日发射",
           "url": "https://wallstreetcn.com/livenews/3080373",
           "source": "华尔街见闻-快讯",
@@ -1676,7 +1745,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "鲍威尔表态提振美债反弹，但美股高开低走，半导体指数跌超4%，美元五连涨",
@@ -1942,6 +2011,17 @@
           "time_info": "13时12分"
         },
         {
+          "title": "哈萨克斯坦央行：计划于四月份从国家基金中出售3亿至4亿美元。3月份已在国内市场上出售了来自国家基金的4亿美元。",
+          "url": "https://flash.jin10.com/detail/20260401182936875800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "梅赛德斯-奔驰向阿拉巴马州SUV工厂投资40亿美元。",
           "url": "https://flash.jin10.com/detail/20260401012846492800",
           "source": "金十数据",
@@ -2047,7 +2127,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -2085,6 +2165,17 @@
           "time_info": "02时06分"
         },
         {
+          "title": "美国官员在讨论油价达到每桶150美元的可能性，美国财政部预计油价将在一段时间内维持在100美元/桶上方，特朗普政府将财政部的预期视为“基线情境”。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3080817",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "布伦特原油日内跌幅达0.5%，报103.34美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3080643",
           "source": "华尔街见闻-快讯",
@@ -2113,7 +2204,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -2165,7 +2256,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "日本防卫省：055编队穿越对马海峡",
@@ -2184,17 +2275,6 @@
           "time_info": "[00时53分 ~ 07时02分]"
         },
         {
-          "title": "警惕！日本完成两地远程导弹部署，装备性能披露",
-          "url": "https://news.ifeng.com/c/8rwYkJBehUX",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时53分 ~ 05时44分]"
-        },
-        {
           "title": "泰国泡面先吃后付,日本人怒了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352621&amp;topic_name=%E6%B3%B0%E5%9B%BD%E6%B3%A1%E9%9D%A2%E5%85%88%E5%90%83%E5%90%8E%E4%BB%98%2C%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%80%92%E4%BA%86",
           "source": "贴吧",
@@ -2205,8 +2285,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 17时44分]"
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 18时51分]"
         },
         {
           "title": "日本1:0英格兰",
@@ -2219,8 +2299,33 @@
             10
           ],
           "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 18时51分]"
+        },
+        {
+          "title": "警惕！日本完成两地远程导弹部署，装备性能披露",
+          "url": "https://news.ifeng.com/c/8rwYkJBehUX",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[10时26分 ~ 17时44分]"
+          "time_info": "[00时53分 ~ 05时44分]"
+        },
+        {
+          "title": "日本彻底撕下伪装",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BD%BB%E5%BA%95%E6%92%95%E4%B8%8B%E4%BC%AA%E8%A3%85%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            2,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时58分 ~ 18时51分]"
         },
         {
           "title": "俄方拒绝给日本供油",
@@ -2237,17 +2342,16 @@
           "time_info": "[04时38分 ~ 07时02分]"
         },
         {
-          "title": "日本彻底撕下伪装",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BD%BB%E5%BA%95%E6%92%95%E4%B8%8B%E4%BC%AA%E8%A3%85%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
+          "title": "外交部：日本这一动向十分危险",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E8%BF%99%E4%B8%80%E5%8A%A8%E5%90%91%E5%8D%81%E5%88%86%E5%8D%B1%E9%99%A9",
+          "source": "百度热搜",
           "ranks": [
-            5,
             2,
-            13
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[14时58分 ~ 17时44分]"
+          "time_info": "[16时17分 ~ 18时51分]"
         },
         {
           "title": "日本历史首胜英格兰",
@@ -2260,18 +2364,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时58分 ~ 16时17分]"
-        },
-        {
-          "title": "外交部：日本这一动向十分危险",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%96%E4%BA%A4%E9%83%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E8%BF%99%E4%B8%80%E5%8A%A8%E5%90%91%E5%8D%81%E5%88%86%E5%8D%B1%E9%99%A9",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时17分 ~ 17时44分]"
         },
         {
           "title": "国乒20岁新星vs日本名将",
@@ -2432,6 +2524,28 @@
           "time_info": "07时58分"
         },
         {
+          "title": "印度官员：不会向日本提供用于液化石油气互换协议的原油；印度法规不允许原油出口。",
+          "url": "https://wallstreetcn.com/livenews/3080852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
+          "title": "日本陆上自卫队宣布已在熊本和静冈部署远程导弹，如何看待日本这一举动？会对东北亚地区带来哪些影响?",
+          "url": "https://www.zhihu.com/question/2022266217021318999",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
+        },
+        {
           "title": "日本地震多座核电站据报无异常",
           "url": "https://www.toutiao.com/trending/7623263462064439359/",
           "source": "今日头条",
@@ -2441,6 +2555,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时58分 ~ 14时59分]"
+        },
+        {
+          "title": "外交部回应日本强行部署远程导弹",
+          "url": "https://www.toutiao.com/trending/7622869592729501722/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "日本央行新任审议委员浅田统一郎：如何应对滞胀局面是货币政策面临的难题。",
@@ -2498,6 +2623,17 @@
           "time_info": "14时59分"
         },
         {
+          "title": "印度官员：不会向日本提供用于液化石油气互换协议的原油；印度法规不允许原油出口。",
+          "url": "https://flash.jin10.com/detail/20260401182639604800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
+        },
+        {
           "title": "日本地震东京震感强烈",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87%E4%B8%9C%E4%BA%AC%E9%9C%87%E6%84%9F%E5%BC%BA%E7%83%88%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -2515,7 +2651,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -2529,6 +2665,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时12分"
+        },
+        {
+          "title": "日本首相高市早苗：已同意加强与法国的防务关系。 将与法国在包括聚变反应堆研发在内的民用核能领域开展合作。 已同意与法国密切合作，共同致力于霍尔木兹海峡的开放。",
+          "url": "https://wallstreetcn.com/livenews/3080809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "日本男足队史首次战胜英格兰",
@@ -2545,7 +2692,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "美股黄金全线大涨！伊朗总统称伊方愿在诉求满足前提下结束战争",
@@ -2588,6 +2735,18 @@
           "time_info": "[06时39分 ~ 07时58分]"
         },
         {
+          "title": "美伊释放停战信号，全球股债齐涨，美元小幅走软，布油跌破100、黄金站上4700",
+          "url": "https://wallstreetcn.com/articles/3768936",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时51分]"
+        },
+        {
           "title": "佣金价格战逼近极限，券商打起“靓号”牌",
           "url": "https://wallstreetcn.com/livenews/3080413",
           "source": "华尔街见闻-快讯",
@@ -2598,6 +2757,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时02分]"
+        },
+        {
+          "title": "哈萨克斯坦央行：为与黄金购买量相匹配，该行3月份出售了价值3500亿坚戈的外汇，并将在第二季度出售价值1.1万亿坚戈的外汇。",
+          "url": "https://flash.jin10.com/detail/20260401183153114800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         },
         {
           "title": "现货黄金日内暴涨150.00美元，现报4661.02美元/盎司，涨幅3.33%。",
@@ -2656,17 +2826,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
-        },
-        {
-          "title": "美伊释放停战信号，全球股债齐涨，美元小幅走软，布油跌破100、黄金站上4700",
-          "url": "https://wallstreetcn.com/articles/3768936",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
         },
         {
           "title": "现货黄金涨3.5%，3月份累跌超11%，一季度涨约5%",
@@ -2771,7 +2930,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 18,
       "titles": [
         {
           "title": "凌晨3点上班,AI卷疯打工人",
@@ -2782,11 +2941,12 @@
             15,
             19,
             20,
-            24
+            24,
+            22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时53分 ~ 17时44分]"
+          "appearance_count": 21,
+          "time_info": "[00时53分 ~ 18时51分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -2825,6 +2985,18 @@
           "time_info": "[07时57分 ~ 07时58分]"
         },
         {
+          "title": "AI清明短片《纸手机》爆火",
+          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时44分 ~ 18时51分]"
+        },
+        {
           "title": "澳大利亚与Anthropic围绕国别人工智能（National AI）计划签署备忘录（MOU）。",
           "url": "https://wallstreetcn.com/livenews/3080416",
           "source": "华尔街见闻-快讯",
@@ -2849,6 +3021,17 @@
           "time_info": "[10时26分 ~ 13时12分]"
         },
         {
+          "title": "最没人味的AI制作出最有人味的短片",
+          "url": "https://www.baidu.com/s?wd=%E6%9C%80%E6%B2%A1%E4%BA%BA%E5%91%B3%E7%9A%84AI%E5%88%B6%E4%BD%9C%E5%87%BA%E6%9C%80%E6%9C%89%E4%BA%BA%E5%91%B3%E7%9A%84%E7%9F%AD%E7%89%87",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
+        },
+        {
           "title": "重仓“隐藏款”浮出水面，基金经理沿AI主线布局",
           "url": "https://wallstreetcn.com/livenews/3080408",
           "source": "华尔街见闻-快讯",
@@ -2859,6 +3042,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时39分 ~ 07时02分]"
+        },
+        {
+          "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
+          "url": "https://www.cls.cn/detail/2332176",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
         },
         {
           "title": "澳大利亚3月AIG/PWC制造业表现指数 -27.9，前值-15.6。",
@@ -2885,13 +3079,24 @@
           "time_info": "[06时39分 ~ 07时02分]"
         },
         {
+          "title": "周深新歌禁止用于AI训练",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%96%B0%E6%AD%8C%E7%A6%81%E6%AD%A2%E7%94%A8%E4%BA%8EAI%E8%AE%AD%E7%BB%83%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时50分 ~ 18时51分]"
+        },
+        {
           "title": "英国央行：金融体系迄今表现出韧性，但风险上升，多项脆弱性可能同时暴露。 中东冲突已对全球经济造成“重大负面供应冲击”。 主权债务市场、高风险资产估值、私募信贷领域仍存在风险。 外债市场或股票估值出现冲击，可能传导至英国。 MFS违约凸显高风险信贷市场的弱点。 美国科技公司估值“依然明显偏高”，伊朗冲突加剧风险，因AI数据中心和供应链能源消耗巨大。 市场预计中东冲突为短期事件，但对其走势和长期影响存在高度不确定性。 按当前市场利率预期，到2028年第四季度，58%的英国房贷持有人还款将增加，且大多数幅度较为温和。 银行使用人工智能带来的风险可能会“迅速增加”。",
           "url": "https://wallstreetcn.com/livenews/3080798",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -2918,24 +3123,13 @@
           "time_info": "00时53分"
         },
         {
-          "title": "AI清明短片《纸手机》爆火",
-          "url": "https://www.baidu.com/s?wd=AI%E6%B8%85%E6%98%8E%E7%9F%AD%E7%89%87%E3%80%8A%E7%BA%B8%E6%89%8B%E6%9C%BA%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时44分"
-        },
-        {
           "title": "Anthropic意外泄露了Claude AI智能体的源代码",
           "url": "https://wallstreetcn.com/livenews/3080773",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         },
@@ -2978,6 +3172,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[13时11分 ~ 16时17分]"
+        },
+        {
+          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
+          "url": "https://www.zhihu.com/question/2022593285970027591",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时17分 ~ 18时51分]"
         },
         {
           "title": "OpenAI完成1220亿美元融资，估值达8520亿美元",
@@ -3025,17 +3230,6 @@
           "time_info": "04时38分"
         },
         {
-          "title": "如何解读 OpenAI 完成 1220 亿美元融资，投后估值 8520 亿美元，此轮融资有哪些意义？",
-          "url": "https://www.zhihu.com/question/2022593285970027591",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时17分"
-        },
-        {
           "title": "OpenAI按8520亿美元估值完成本轮1220亿美元规模的融资",
           "url": "https://wallstreetcn.com/livenews/3080357",
           "source": "华尔街见闻-快讯",
@@ -3065,11 +3259,12 @@
             27,
             14,
             20,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时53分 ~ 17时44分]"
+          "appearance_count": 21,
+          "time_info": "[00时53分 ~ 18时51分]"
         },
         {
           "title": "内存要降价了吗",
@@ -3082,11 +3277,12 @@
             23,
             26,
             20,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时53分 ~ 17时44分]"
+          "appearance_count": 21,
+          "time_info": "[00时53分 ~ 18时51分]"
         },
         {
           "title": "内存条价格大跳水",
@@ -3129,7 +3325,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时44分"
         }
@@ -3137,7 +3333,7 @@
     },
     {
       "keyword_group": "股市",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "非洲股市收盘播报｜周二（3月31日），南非富时/JSE非洲领先40可交易指数收涨1.57%，报逼近10.65万点，3月份累跌11.64%，一季度累跌1.56%。",
@@ -3162,6 +3358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时38分"
+        },
+        {
+          "title": "金十图示：2026年04月01日（周三）亚太市场股市指数",
+          "url": "https://flash.jin10.com/detail/20260401181046538800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     },
@@ -3180,8 +3387,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 17时44分]"
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 18时51分]"
         }
       ]
     },
@@ -3200,6 +3407,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 02时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "跨境电商",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国务院食安办、市场监管总局、海关总署部署核查跨境电商进口“优思益”保健品违规营销行为",
+          "url": "https://wallstreetcn.com/livenews/3080827",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时51分"
         }
       ]
     }
