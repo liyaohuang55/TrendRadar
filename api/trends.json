@@ -1,11 +1,1531 @@
 {
-  "generated_at": "2026-04-02T21:02:04.404142+08:00",
-  "total_titles_processed": 1858,
+  "generated_at": "2026-04-02T22:24:51.878618+08:00",
+  "total_titles_processed": 1970,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美国",
+      "match_count": 131,
+      "titles": [
+        {
+          "title": "伊朗总统发表致美国人民的公开信",
+          "url": "https://news.ifeng.com/c/8rywsqCsT2r",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 22时24分]"
+        },
+        {
+          "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
+          "url": "https://wallstreetcn.com/articles/3769031",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 22时24分]"
+        },
+        {
+          "title": "直播丨经过多次调整，美国载人绕月飞行任务“阿耳忒弥斯2号”发射升空",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32870834",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 22时24分]"
+        },
+        {
+          "title": "解读美国载人绕月任务背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            14,
+            17,
+            19,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时51分 ~ 22时24分]"
+        },
+        {
+          "title": "WTI日内涨近1%，报道称阿联酋准备帮助美国武力打开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3768942",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时04分 ~ 07时32分]"
+        },
+        {
+          "title": "世界杯上，美国和伊朗在这个情况下有望对打",
+          "url": "https://news.ifeng.com/c/8ryP49JmirY",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时04分 ~ 12时27分]"
+        },
+        {
+          "title": "伊朗总统发表致美国人民公开信",
+          "url": "https://www.toutiao.com/trending/7623926704578399782/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            12,
+            14,
+            13,
+            19,
+            22,
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[07时32分 ~ 22时24分]"
+        },
+        {
+          "title": "美国实施载人绕月飞行任务",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%AE%9E%E6%96%BD%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            13,
+            11,
+            12,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时51分 ~ 22时24分]"
+        },
+        {
+          "title": "【早报】伊朗总统发表致美国人民公开信；宇树科技、中科宇航被抽中现场检查",
+          "url": "https://www.cls.cn/detail/2332729",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 15时07分]"
+        },
+        {
+          "title": "美国执行载人绕月任务火箭发射升空",
+          "url": "https://www.toutiao.com/trending/7623332124256829494/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            15,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时32分 ~ 15时07分]"
+        },
+        {
+          "title": "伊朗将按计划在美国参加世界杯比赛",
+          "url": "https://www.toutiao.com/trending/7622619005228498986/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            29,
+            27,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[03时36分 ~ 06时32分]"
+        },
+        {
+          "title": "美国一婴儿光天化日在街头被枪杀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%A9%B4%E5%84%BF%E5%85%89%E5%A4%A9%E5%8C%96%E6%97%A5%E5%9C%A8%E8%A1%97%E5%A4%B4%E8%A2%AB%E6%9E%AA%E6%9D%80%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            9,
+            12,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时07分 ~ 18时48分]"
+        },
+        {
+          "title": "美国载人绕月任务火箭发射升空 伊朗总统发表致美国人民公开信 | 环球市场",
+          "url": "https://www.cls.cn/detail/2332719",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时51分 ~ 15时07分]"
+        },
+        {
+          "title": "外交部回应「美国颁发在委投资矿产通用许可证将中俄排除在外」，称坚决反对，如何看待美方此举？",
+          "url": "https://www.zhihu.com/question/2022701322135171727",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时27分 ~ 13时57分]"
+        },
+        {
+          "title": "美国50多年来首次载人飞向月球",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD50%E5%A4%9A%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%BD%E4%BA%BA%E9%A3%9E%E5%90%91%E6%9C%88%E7%90%83",
+          "source": "百度热搜",
+          "ranks": [
+            7,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时27分 ~ 15时07分]"
+        },
+        {
+          "title": "澳大利亚总理：美国的战争目标都已经实现了，不知道还在打什么",
+          "url": "https://news.ifeng.com/c/8s04AFnINbd",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 22时24分]"
+        },
+        {
+          "title": "美国国家航空航天局（NASA）：正在排查登月火箭的电池故障。",
+          "url": "https://wallstreetcn.com/livenews/3081126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时32分]"
+        },
+        {
+          "title": "美以伊战争丨伊朗指控美国：新型导弹致21名运动员遇难",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时47分 ~ 18时48分]"
+        },
+        {
+          "title": "【伊朗：反击行动最终目标包括美军撤离中东】4月1日，伊朗国防部发言人礼萨·塔莱尼克表示，伊朗对美国和以色列反击行动的最终目标，包括美军撤离中东地区以及彻底摧毁美军在该地区的基地。塔莱尼克说，伊朗将确保相关行动对对手造成“对等破坏”，确保伊朗及周边地区不再发生新的战争，维护地区主权与安全稳定。他还表示，伊朗武装力量将与地区“抵抗阵线”继续协同行动，直至实现既定目标。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3081124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时38分 ~ 07时32分]"
+        },
+        {
+          "title": "美国执行载人绕月任务火箭发射升空",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%A7%E8%A1%8C%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时32分 ~ 12时27分]"
+        },
+        {
+          "title": "澳大利亚民众抗议美国封锁古巴",
+          "url": "https://www.toutiao.com/trending/7622852346615791626/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 01时40分]"
+        },
+        {
+          "title": "美国绕月火箭宇航员一度与地面失联",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BB%95%E6%9C%88%E7%81%AB%E7%AE%AD%E5%AE%87%E8%88%AA%E5%91%98%E4%B8%80%E5%BA%A6%E4%B8%8E%E5%9C%B0%E9%9D%A2%E5%A4%B1%E8%81%94",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时56分 ~ 15时07分]"
+        },
+        {
+          "title": "【伊朗媒体：伊朗前外长在空袭中受伤】据伊朗塔斯尼姆通讯社1日报道，伊朗前外长卡迈勒·哈拉齐当天在美国和以色列对伊朗首都德黑兰居民区发动的空袭中受伤。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3081099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时40分 ~ 06时32分]"
+        },
+        {
+          "title": "英国将召集35国讨论重启霍尔木兹海峡的方案 美国竟不在名单中！",
+          "url": "https://www.cls.cn/detail/2333513",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时24分]"
+        },
+        {
+          "title": "美国老百姓怎么看张雪机车夺冠",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%80%81%E7%99%BE%E5%A7%93%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A4%BA%E5%86%A0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时32分 ~ 09时51分]"
+        },
+        {
+          "title": "石油基金Cayler在3月份增长18%，美国和以色列发动的伊朗战争震撼市场。",
+          "url": "https://wallstreetcn.com/livenews/3081071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 03时36分]"
+        },
+        {
+          "title": "美国航空航天局（NASA）已确认电池发热不会影响今天的发射任务。",
+          "url": "https://flash.jin10.com/detail/20260402060322388800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时32分"
+        },
+        {
+          "title": "全球产区天气4.2：多雨延误美国大豆作业，但墒情改善利好春播？",
+          "url": "https://flash.jin10.com/detail/20260402093854909800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "美国至3月27日当周EIA天然气库存将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260402222000001800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布天然气库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3081664",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "伊朗总统：对美国当前政策是否真正契合“美国优先”的核心利益提出质疑",
+          "url": "https://flash.jin10.com/detail/20260402030024968800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时40分]"
+        },
+        {
+          "title": "周三（4月1日）纽约尾盘，美国10年期基准国债收益率涨0.20个基点，报4.3186%，日内交投于4.2574%-4.3324%区间，整体呈现出V形反转。 两年期美债收益率涨0.80个基点，报3.8010%，日内交投于3.7334%-3.8133%区间，北京时间20:00过后出现一波显著的拉升行情。",
+          "url": "https://wallstreetcn.com/livenews/3081131",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时32分 ~ 07时32分]"
+        },
+        {
+          "title": "美国3月挑战者企业裁员人数同比 -78%，前值 -71.9%。",
+          "url": "https://wallstreetcn.com/livenews/3081563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时02分]"
+        },
+        {
+          "title": "伊朗总统将在一个小时内发布“致美国民众的信”。（Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3081063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "美国航空航天局（NASA）：发射团队正在处理电池问题。",
+          "url": "https://flash.jin10.com/detail/20260402053159335800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时32分]"
+        },
+        {
+          "title": "伊朗总统致美国人民公开信",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%87%B4%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%AC%E5%BC%80%E4%BF%A1%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 12时27分]"
+        },
+        {
+          "title": "伊朗媒体：伊朗总统将发表致美国人民公开信",
+          "url": "https://wallstreetcn.com/livenews/3081067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 03时36分]"
+        },
+        {
+          "title": "礼来口服减肥药Foundayo获美国FDA批准，正面挑战诺和诺德",
+          "url": "https://wallstreetcn.com/livenews/3081021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）与众议长约翰逊宣称：共和党将让国土安全部（DHS）“全面地重新开放”（全面结束停摆）。",
+          "url": "https://wallstreetcn.com/livenews/3081082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时40分]"
+        },
+        {
+          "title": "加拿大央行：在3月份货币政策会议上讨论了石油冲击对CPI的长期影响，但现在做出判断还言之过早。 央行官员们同意，他们可以花时间来观察（美国和以色列发动的）伊朗战争将如何演变。 除了伊朗战争，加拿大经济面临的风险还包括美国墨西哥加拿大贸易协议（USMCA）等。",
+          "url": "https://wallstreetcn.com/livenews/3081061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "美国地质调查局称，印尼特尔纳特西北偏西119公里处发生7.8级地震。 太平洋海啸预警中心称，印尼沿海可能发生海啸。",
+          "url": "https://wallstreetcn.com/livenews/3081156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：美联储可以通过调整监管来实现缩减资产负债表。 如果能服务于公共利益，那资产负债表规模的扩大就不是坏事。 某些流动性制度不会提高系统安全性。",
+          "url": "https://wallstreetcn.com/livenews/3081659",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "内塔尼亚胡当年曾怂恿美国打伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3081055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时10分]"
+        },
+        {
+          "title": "伊朗总统发布致美国民众的信",
+          "url": "https://wallstreetcn.com/livenews/3081080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时36分 ~ 04时40分]"
+        },
+        {
+          "title": "美国为何突然重启登月",
+          "url": "https://www.douyin.com/hot/2452651",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时02分]"
+        },
+        {
+          "title": "标普500指数维持1.1%的涨幅。 据伊朗媒体Tasnim报道，伊朗总统将在一个小时内发布“致美国民众的信”。",
+          "url": "https://wallstreetcn.com/livenews/3081063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时10分 ~ 03时36分]"
+        },
+        {
+          "title": "美国头大了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A4%B4%E5%A4%A7%E4%BA%86%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美国众议院议长约翰逊和参议院共和党领袖图恩宣布了一项为国土安全部提供资金的前进方案。",
+          "url": "https://flash.jin10.com/detail/20260402024253950800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "美国海啸预警系统：印尼、菲律宾和马来西亚沿岸距震中1000公里范围内，可能产生由此次地震引发的海啸波。",
+          "url": "https://flash.jin10.com/detail/20260402070608741800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美国参议院共和党领袖图恩：仍在与民主党就移民改革进行磋商。",
+          "url": "https://flash.jin10.com/detail/20260402192630408800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "美国3月28日当周首次申请失业救济人数 20.2万人，预期 21.2万人，前值 21万人。",
+          "url": "https://wallstreetcn.com/livenews/3081595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "报道：美国将对成品钢铝征收25%的关税",
+          "url": "https://wallstreetcn.com/livenews/3081115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时32分]"
+        },
+        {
+          "title": "美国TikTok禁令演不下去了吗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDTikTok%E7%A6%81%E4%BB%A4%E6%BC%94%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%E5%90%97%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 12时27分]"
+        },
+        {
+          "title": "美国将委内瑞拉代总统移出制裁名单",
+          "url": "https://wallstreetcn.com/livenews/3081096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时38分]"
+        },
+        {
+          "title": "伊朗总统发表致美国人民公开信",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%8F%91%E8%A1%A8%E8%87%B4%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%AC%E5%BC%80%E4%BF%A1",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时51分 ~ 12时27分]"
+        },
+        {
+          "title": "美国航空航天局（NASA）：阿尔忒弥斯任务的发射厂区准备就绪。飞行终止系统不再构成限制，已批准发射。",
+          "url": "https://flash.jin10.com/detail/20260402051338492800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时32分]"
+        },
+        {
+          "title": "伊朗总统致信美国人民：“要看穿宣传战争的迷雾”",
+          "url": "https://wallstreetcn.com/livenews/3081094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时38分]"
+        },
+        {
+          "title": "美以空袭美国原驻伊朗使馆区域",
+          "url": "https://wallstreetcn.com/livenews/3081111",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时32分]"
+        },
+        {
+          "title": "据以色列广播机构：美国和以色列已制定计划，若谈判失败则将升级战争态势。",
+          "url": "https://flash.jin10.com/detail/20260402012313900800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时10分]"
+        },
+        {
+          "title": "市场消息：美国汽车行业组织呼吁废除美国联邦燃油税，并以车辆使用费取而代之，用于道路维修资金。",
+          "url": "https://flash.jin10.com/detail/20260402051214401800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时32分]"
+        },
+        {
+          "title": "【伊朗最高领袖外交政策顾问遇袭重伤】4月1日获悉，据伊朗方面消息，伊朗最高领袖外交政策顾问、前伊朗外交部长卡迈勒·哈拉齐当天遭遇美国和以色列袭击，身受重伤，他的妻子遇难。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3081093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时40分 ~ 05时38分]"
+        },
+        {
+          "title": "日产汽车一季度美国销售24.7068万辆，同比下滑7.5%。",
+          "url": "https://wallstreetcn.com/livenews/3081039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 02时10分]"
+        },
+        {
+          "title": "美国官员：美伊讨论以重开霍尔木兹海峡为条件的停火协议",
+          "url": "https://wallstreetcn.com/livenews/3081018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "美国3月21日当周续请失业救济人数 184.1万人，预期 183.7万人，前值 181.9万人。",
+          "url": "https://wallstreetcn.com/livenews/3081594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "美国50多年来首次载人飞向月球",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD50%E5%A4%9A%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%BD%E4%BA%BA%E9%A3%9E%E5%90%91%E6%9C%88%E7%90%83%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "美国参议院否决了众议院版本的国土安全部拨款法案。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3081556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（4月1日）担保隔夜融资利率（SOFR）报3.65%，之前一天报3.68%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3081653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：伊朗对普通美国人没有敌意。",
+          "url": "https://flash.jin10.com/detail/20260402023946634800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "美国海啸预警系统：印尼马鲁古海发生7.8级地震后发布海啸警报。",
+          "url": "https://flash.jin10.com/detail/20260402065905129800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率3.615%，投标倍数2.95。",
+          "url": "https://wallstreetcn.com/livenews/3081014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "美国10年期国债收益率上行6个基点至4.38%。",
+          "url": "https://wallstreetcn.com/livenews/3081338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "美国加州发生4.9级地震",
+          "url": "https://wallstreetcn.com/livenews/3081485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "美国正在将其派遣至中东的A-10攻击机机队规模扩大一倍",
+          "url": "https://flash.jin10.com/detail/20260402023908102800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "美国不管霍尔木兹海峡了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%8D%E7%AE%A1%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E4%BA%86%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "伊朗总统致信美国人民：伊朗从未发动过战争",
+          "url": "https://flash.jin10.com/detail/20260402023759560800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "提醒：北京时间20:30，将公布美国2月贸易帐、美国3月28日当周首次申请失业救济人数、加拿大2月贸易帐。",
+          "url": "https://wallstreetcn.com/livenews/3081589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "美国因防御弹药短缺，欲调用波兰「爱国者」反导系统遭拒，如何看待波兰这一表态？暴露出美方联盟哪些问题？",
+          "url": "https://www.zhihu.com/question/2022648235337016783",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "据Axios：美国正征集相关提案，以协助企业将全栈式人工智能系统打包并推向全球市场。",
+          "url": "https://flash.jin10.com/detail/20260402023533205800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "美国3月挑战者企业裁员人数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260402192000000800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "以媒：以色列担忧美国可能宣布结束对伊朗军事行动",
+          "url": "https://www.cls.cn/detail/2332807",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "消息人士：委内瑞拉代总统罗德里格斯将任命美国境内国营石油公司PDVSA旗下子公司的新董事会。",
+          "url": "https://flash.jin10.com/detail/20260401233749884800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "美国财政部网站：美国将委内瑞拉临时总统德尔西·罗德里格斯从制裁名单中移除。",
+          "url": "https://flash.jin10.com/detail/20260402034436954800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "美国2月贸易逆差扩大幅度低于预期",
+          "url": "https://flash.jin10.com/detail/20260402204945357800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "美国执行载人绕月任务火箭发射升空",
+          "url": "https://wallstreetcn.com/livenews/3081143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美国男子两次试图将陌生人推下轻轨",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B8%A4%E6%AC%A1%E8%AF%95%E5%9B%BE%E5%B0%86%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8E%A8%E4%B8%8B%E8%BD%BB%E8%BD%A8%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "美国能源部：拟从布赖恩·芒德战略石油储备（SPR）基地提取至多1000万桶原油。",
+          "url": "https://flash.jin10.com/detail/20260402034203772800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "礼来减肥药GLP-1 Foundayo获得美国食品药品管理局（FDA）批准，在减肥药市场打开新的篇章。 礼来制药涨幅迅速扩大至4%，诺和诺德ADR迅速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3081008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "报道：美国将中东地区的A-10攻击机部署规模翻倍",
+          "url": "https://wallstreetcn.com/livenews/3081073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "美国至4月1日4个月国债竞拍-得标利率配置百分比 22.85%，前值96.91%。",
+          "url": "https://flash.jin10.com/detail/20260401233508878800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "据半岛电视台：伊拉克武装组织声称对美国基地发动41次袭击。",
+          "url": "https://flash.jin10.com/detail/20260402051206046800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美国能源部官员：美国目前未就从战略石油储备中释放更多原油一事进行任何磋商。",
+          "url": "https://flash.jin10.com/detail/20260402221538639800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "报道：SpaceX已经秘密递交美国IPO申请",
+          "url": "https://wallstreetcn.com/livenews/3081005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "美国参议院多数党领袖：不认为参议院会支持美国退出北约",
+          "url": "https://wallstreetcn.com/livenews/3081581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "美国至4月1日4个月国债竞拍-得标利率 3.615%，前值3.64%。",
+          "url": "https://flash.jin10.com/detail/20260401233500615800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "【伊朗最高领袖发表致辞，缅怀冲突死难者】4月1日，伊朗最高领袖穆杰塔巴·哈梅内伊就当天的伊朗伊斯兰共和国日暨自然日发表书面致辞，呼吁伊朗人民植树，缅怀在美以伊冲突中的死难者。穆杰塔巴表示，美国和以色列对伊朗的军事打击肆无忌惮，毫无道德底线，造成人员伤亡并严重破坏了伊朗的自然环境。他呼吁人民植树，播撒希望的种子，他称此举象征着发展、希望以及伊朗人民对敌人的回应。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3081091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "【伊朗实施“真实承诺-4”第90波打击行动 袭击美相关金属产业设施】当地时间4月2日，伊朗伊斯兰革命卫队发布声明称，已实施“真实承诺-4”第90波打击行动，对地区内与美国相关的钢铁和铝业设施发动打击。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3081542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "美国重返月球为何只绕不登",
+          "url": "https://www.toutiao.com/trending/7624109647061847598/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美国至4月1日4个月国债竞拍-投标倍数 2.95，前值2.82。",
+          "url": "https://flash.jin10.com/detail/20260401233446395800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "美国航空航天局（NASA）：发现阿尔忒弥斯 II 发射的飞行终止系统通信问题，目前正在努力解决。如果无法确保系统在需要时能正常工作，今天的发射认为将被取消。",
+          "url": "https://flash.jin10.com/detail/20260402050649103800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美国参议院共和党成员们将尝试在周四通过国土安全部（DHS）拨款草案。（PunchBowl）",
+          "url": "https://wallstreetcn.com/livenews/3081090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "据纽约时报：美国正在将其派遣至中东的A-10攻击机机队规模扩大一倍。",
+          "url": "https://flash.jin10.com/detail/20260402022758276800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "美国商务部首次就“美国人工智能出口计划”征集提案。",
+          "url": "https://flash.jin10.com/detail/20260402031852137800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "美国中央司令部：（就伊朗局势）现在已经进入了第五周的行动，我的评估是我们正在取得不可否认的进展。我们没有看到他们的海军出航。我们没有看到他们的飞机起飞，他们的空中和导弹防御系统大部分已经被摧毁。",
+          "url": "https://flash.jin10.com/detail/20260402181650471800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "美国参议院否决众议院版本的国土安全部拨款法案。",
+          "url": "https://flash.jin10.com/detail/20260402191145031800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "美国得州寻求提高先进核建筑。",
+          "url": "https://wallstreetcn.com/livenews/3081002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "美国防部将部署在中东的A-10攻击机规模扩大一倍",
+          "url": "https://wallstreetcn.com/livenews/3081089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "美国为何只绕月不登月",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%8F%AA%E7%BB%95%E6%9C%88%E4%B8%8D%E7%99%BB%E6%9C%88%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "美国驻北约大使惠特克：我们相信伊朗可以选择一条出路。",
+          "url": "https://flash.jin10.com/detail/20260402021234325800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "美国国会共和党领袖表示，他们将通过单独的立法程序推动相关法案的通过，以在今年以及未来三年内为国土安全项目提供充足的资金支持。",
+          "url": "https://flash.jin10.com/detail/20260402031338025800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "据美国哥伦比亚广播公司（CBS）：美国航空航天局（NASA）正在排查一个可能导致阿尔忒弥斯二号发射延迟的问题。",
+          "url": "https://flash.jin10.com/detail/20260402045322036800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "市场消息：礼来(LLY.N)的减肥药FOUNDAYO获得美国批准。",
+          "url": "https://flash.jin10.com/detail/20260401233058505800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "美国驻北约大使惠特克：显然我们在与伊朗的合适人士对话。",
+          "url": "https://flash.jin10.com/detail/20260402021101323800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时36分"
+        },
+        {
+          "title": "据Punchbowl：美国参议院共和党计划在当地时间周四尝试通过国土安全部的资金法案。",
+          "url": "https://flash.jin10.com/detail/20260402030726400800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时40分"
+        },
+        {
+          "title": "美国“阿耳忒弥斯2号”载人绕月任务火箭点火发射。",
+          "url": "https://flash.jin10.com/detail/20260402063552750800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "俄罗斯总统助理乌沙科夫：尽管三方谈判暂停，俄罗斯仍与美国保持联系，讨论“乌克兰问题”。",
+          "url": "https://flash.jin10.com/detail/20260402181545562800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "霍尔木兹海峡封锁期间，韩国增加了从美国的石油进口。（韩联社）",
+          "url": "https://wallstreetcn.com/livenews/3081282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时27分"
+        },
+        {
+          "title": "美国10年期国债收益率上升6个基点至4.38%，12月联邦基金期货下跌6.5个跳动点。",
+          "url": "https://flash.jin10.com/detail/20260402132129434800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "联合国秘书长古特雷斯：美国和以色列应停止这场对经济造成毁灭性打击的战争",
+          "url": "https://flash.jin10.com/detail/20260402221055738800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美国载人绕月飞船能安全去月球吗",
+          "url": "https://www.toutiao.com/trending/7624028161835011625/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴：将继续支持抵抗犹太复国主义和美国。",
+          "url": "https://flash.jin10.com/detail/20260401232913236800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时05分"
+        },
+        {
+          "title": "美国上周初请失业金人数下降 劳动力市场维持低招聘低裁员局面",
+          "url": "https://flash.jin10.com/detail/20260402204013761800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "委内瑞拉代总统罗德里格斯表示，美国解除对她的制裁是迈向关系正常化、加强与美关系的一步。",
+          "url": "https://flash.jin10.com/detail/20260402043713216800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美国驻伊拉克使馆敦促美公民撤离伊拉克",
+          "url": "https://wallstreetcn.com/livenews/3081361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时07分"
+        },
+        {
+          "title": "Challenger报告：美国雇主3月宣布的裁员人数同比下降78%",
+          "url": "https://wallstreetcn.com/livenews/3081567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        },
+        {
+          "title": "如何看待美国阿尔忒弥斯2号发射成功",
+          "url": "https://www.toutiao.com/trending/7624098036590841370/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时42分"
+        },
+        {
+          "title": "IMF：美国能源价格上涨带来通胀上行风险。 美国近期增长和失业风险处于平衡状态。 预计美国2026年GDP增速将小幅加快至2.4%。 对中东冲突带来的不确定性表示担忧。",
+          "url": "https://wallstreetcn.com/livenews/3081620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美国银行全球研究部预计，英国央行将在2027年4月、7月和11月分别降息25个基点。",
+          "url": "https://flash.jin10.com/detail/20260402171213791800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "美国重返月球为何只绕不登",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E9%87%8D%E8%BF%94%E6%9C%88%E7%90%83%E4%B8%BA%E4%BD%95%E5%8F%AA%E7%BB%95%E4%B8%8D%E7%99%BB",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美国航空航天局（NASA）：阿耳忒弥斯2号载人绕月任务发射前10分钟开始倒计时。",
+          "url": "https://flash.jin10.com/detail/20260402062635543800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时32分"
+        },
+        {
+          "title": "美国银行全球研究部预计，英国央行将在6月和7月各加息25个基点，而此前的预测是今年6月和9月降息。",
+          "url": "https://flash.jin10.com/detail/20260402171151086800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时56分"
+        },
+        {
+          "title": "市场分析：美国劳动力市场呈低招聘低裁员特征",
+          "url": "https://flash.jin10.com/detail/20260402203422851800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 128,
+      "match_count": 129,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -16,8 +1536,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时27分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[12时27分 ~ 22时24分]"
+        },
+        {
+          "title": "完整视频丨特朗普发表全国讲话：对伊朗战事取得决定性胜利",
+          "url": "https://v.ifeng.com/c/8rzRV2vcF17",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时27分 ~ 22时24分]"
         },
         {
           "title": "马克龙访日暗讽特朗普",
@@ -31,17 +1562,6 @@
           "time_info": "[00时04分 ~ 07时32分]"
         },
         {
-          "title": "完整视频丨特朗普发表全国讲话：对伊朗战事取得决定性胜利",
-          "url": "https://v.ifeng.com/c/8rzRV2vcF17",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时27分 ~ 21时02分]"
-        },
-        {
           "title": "特朗普关键“全美讲话”前夕，美伊就“谈判现状”激烈交锋",
           "url": "https://wallstreetcn.com/articles/3769022",
           "source": "华尔街见闻",
@@ -51,8 +1571,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 22时24分]"
         },
         {
           "title": "全球市场瞩目！9点“全美讲话”，特朗普会讲什么？",
@@ -64,8 +1584,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 22时24分]"
         },
         {
           "title": "俄10万吨石油抵达古巴，特朗普：没有任何意见",
@@ -86,8 +1606,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时27分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[12时27分 ~ 22时24分]"
         },
         {
           "title": "特朗普称将在“两到三周”内结束伊朗战事 霍尔木兹海峡由他国自行解决",
@@ -138,8 +1658,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时27分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[12时27分 ~ 22时24分]"
         },
         {
           "title": "外媒：特朗普正“认真考虑”让美国退出北约",
@@ -177,11 +1697,12 @@
             13,
             12,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时27分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[12时27分 ~ 22时24分]"
         },
         {
           "title": "特朗普称美军将很快撤出伊朗战事",
@@ -231,6 +1752,21 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时51分 ~ 18时48分]"
+        },
+        {
+          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
+          "url": "https://www.cls.cn/detail/2333305",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 22时24分]"
         },
         {
           "title": "特朗普自行宣称对伊朗取得「快速、决定性、压倒性胜利」，接下来几周将对伊进行更强打击，如何看待这一表态？",
@@ -287,18 +1823,29 @@
           "time_info": "[06时32分 ~ 15时07分]"
         },
         {
-          "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
-          "url": "https://www.cls.cn/detail/2333305",
-          "source": "财联社热门",
+          "title": "特朗普讲话后金银直线跳水",
+          "url": "https://www.douyin.com/hot/2452230",
+          "source": "抖音",
           "ranks": [
-            7,
-            5,
-            4,
-            3
+            16,
+            9,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 22时24分]"
+        },
+        {
+          "title": "外交部谈特朗普涉伊朗言论",
+          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
+          "source": "凤凰网",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[16时34分 ~ 21时02分]"
+          "time_info": "[17时56分 ~ 22时24分]"
         },
         {
           "title": "特朗普9点将发表对伊重要讲话，还不忘放“烟雾弹”",
@@ -340,30 +1887,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[16时34分 ~ 21时02分]"
-        },
-        {
-          "title": "特朗普讲话后金银直线跳水",
-          "url": "https://www.douyin.com/hot/2452230",
-          "source": "抖音",
-          "ranks": [
-            16,
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时34分 ~ 21时02分]"
-        },
-        {
-          "title": "外交部谈特朗普涉伊朗言论",
-          "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时56分 ~ 21时02分]"
         },
         {
           "title": "马克龙“暗批”特朗普",
@@ -514,6 +2037,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时04分 ~ 07时32分]"
+        },
+        {
+          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2333830",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时01分 ~ 22时24分]"
         },
         {
           "title": "特朗普要求军方提交夺取伊朗核材料计划",
@@ -787,17 +2322,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时48分"
-        },
-        {
-          "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2333830",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "据华尔街日报：北约秘书长吕特将于下周会见美国总统特朗普。",
@@ -1220,7 +2744,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1234,6 +2758,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时07分"
+        },
+        {
+          "title": "法官暂停特朗普政府对Anthropic禁令 美司法部提出上诉",
+          "url": "https://flash.jin10.com/detail/20260402221108761800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "提醒：特朗普结束在白宫的讲话。",
@@ -1502,1413 +3037,8 @@
       ]
     },
     {
-      "keyword_group": "美国",
-      "match_count": 121,
-      "titles": [
-        {
-          "title": "伊朗总统发表致美国人民的公开信",
-          "url": "https://news.ifeng.com/c/8rywsqCsT2r",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 21时02分]"
-        },
-        {
-          "title": "伊总统致美民众公开信：美国俨然以色列代理，伊朗对别国并无敌意、绝非发动战争",
-          "url": "https://wallstreetcn.com/articles/3769031",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 21时02分]"
-        },
-        {
-          "title": "直播丨经过多次调整，美国载人绕月飞行任务“阿耳忒弥斯2号”发射升空",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32870834",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            10,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 21时02分]"
-        },
-        {
-          "title": "WTI日内涨近1%，报道称阿联酋准备帮助美国武力打开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3768942",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时04分 ~ 07时32分]"
-        },
-        {
-          "title": "世界杯上，美国和伊朗在这个情况下有望对打",
-          "url": "https://news.ifeng.com/c/8ryP49JmirY",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时04分 ~ 12时27分]"
-        },
-        {
-          "title": "伊朗总统发表致美国人民公开信",
-          "url": "https://www.toutiao.com/trending/7623926704578399782/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            12,
-            14,
-            13,
-            19,
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时32分 ~ 19时42分]"
-        },
-        {
-          "title": "解读美国载人绕月任务背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            14,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时51分 ~ 18时48分]"
-        },
-        {
-          "title": "美国实施载人绕月飞行任务",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%AE%9E%E6%96%BD%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E9%A3%9E%E8%A1%8C%E4%BB%BB%E5%8A%A1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            13,
-            11,
-            12,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时51分 ~ 17时56分]"
-        },
-        {
-          "title": "【早报】伊朗总统发表致美国人民公开信；宇树科技、中科宇航被抽中现场检查",
-          "url": "https://www.cls.cn/detail/2332729",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 15时07分]"
-        },
-        {
-          "title": "美国执行载人绕月任务火箭发射升空",
-          "url": "https://www.toutiao.com/trending/7623332124256829494/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            15,
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时32分 ~ 15时07分]"
-        },
-        {
-          "title": "伊朗将按计划在美国参加世界杯比赛",
-          "url": "https://www.toutiao.com/trending/7622619005228498986/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            29,
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时36分 ~ 06时32分]"
-        },
-        {
-          "title": "美国一婴儿光天化日在街头被枪杀",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%80%E5%A9%B4%E5%84%BF%E5%85%89%E5%A4%A9%E5%8C%96%E6%97%A5%E5%9C%A8%E8%A1%97%E5%A4%B4%E8%A2%AB%E6%9E%AA%E6%9D%80%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2,
-            9,
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时07分 ~ 18时48分]"
-        },
-        {
-          "title": "美国载人绕月任务火箭发射升空 伊朗总统发表致美国人民公开信 | 环球市场",
-          "url": "https://www.cls.cn/detail/2332719",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时51分 ~ 15时07分]"
-        },
-        {
-          "title": "外交部回应「美国颁发在委投资矿产通用许可证将中俄排除在外」，称坚决反对，如何看待美方此举？",
-          "url": "https://www.zhihu.com/question/2022701322135171727",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时27分 ~ 13时57分]"
-        },
-        {
-          "title": "美国50多年来首次载人飞向月球",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD50%E5%A4%9A%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%BD%E4%BA%BA%E9%A3%9E%E5%90%91%E6%9C%88%E7%90%83",
-          "source": "百度热搜",
-          "ranks": [
-            7,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时07分]"
-        },
-        {
-          "title": "美国国家航空航天局（NASA）：正在排查登月火箭的电池故障。",
-          "url": "https://wallstreetcn.com/livenews/3081126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时38分 ~ 07时32分]"
-        },
-        {
-          "title": "美以伊战争丨伊朗指控美国：新型导弹致21名运动员遇难",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 18时48分]"
-        },
-        {
-          "title": "【伊朗：反击行动最终目标包括美军撤离中东】4月1日，伊朗国防部发言人礼萨·塔莱尼克表示，伊朗对美国和以色列反击行动的最终目标，包括美军撤离中东地区以及彻底摧毁美军在该地区的基地。塔莱尼克说，伊朗将确保相关行动对对手造成“对等破坏”，确保伊朗及周边地区不再发生新的战争，维护地区主权与安全稳定。他还表示，伊朗武装力量将与地区“抵抗阵线”继续协同行动，直至实现既定目标。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3081124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时38分 ~ 07时32分]"
-        },
-        {
-          "title": "美国执行载人绕月任务火箭发射升空",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%89%A7%E8%A1%8C%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E4%BB%BB%E5%8A%A1%E7%81%AB%E7%AE%AD%E5%8F%91%E5%B0%84%E5%8D%87%E7%A9%BA",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时32分 ~ 12时27分]"
-        },
-        {
-          "title": "澳大利亚总理：美国的战争目标都已经实现了，不知道还在打什么",
-          "url": "https://news.ifeng.com/c/8s04AFnINbd",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时42分 ~ 21时02分]"
-        },
-        {
-          "title": "澳大利亚民众抗议美国封锁古巴",
-          "url": "https://www.toutiao.com/trending/7622852346615791626/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时04分 ~ 01时40分]"
-        },
-        {
-          "title": "美国绕月火箭宇航员一度与地面失联",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%BB%95%E6%9C%88%E7%81%AB%E7%AE%AD%E5%AE%87%E8%88%AA%E5%91%98%E4%B8%80%E5%BA%A6%E4%B8%8E%E5%9C%B0%E9%9D%A2%E5%A4%B1%E8%81%94",
-          "source": "百度热搜",
-          "ranks": [
-            9,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时07分]"
-        },
-        {
-          "title": "【伊朗媒体：伊朗前外长在空袭中受伤】据伊朗塔斯尼姆通讯社1日报道，伊朗前外长卡迈勒·哈拉齐当天在美国和以色列对伊朗首都德黑兰居民区发动的空袭中受伤。（新华社）",
-          "url": "https://wallstreetcn.com/livenews/3081099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时40分 ~ 06时32分]"
-        },
-        {
-          "title": "美国老百姓怎么看张雪机车夺冠",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E8%80%81%E7%99%BE%E5%A7%93%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%A4%BA%E5%86%A0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时32分 ~ 09时51分]"
-        },
-        {
-          "title": "石油基金Cayler在3月份增长18%，美国和以色列发动的伊朗战争震撼市场。",
-          "url": "https://wallstreetcn.com/livenews/3081071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 03时36分]"
-        },
-        {
-          "title": "美国航空航天局（NASA）已确认电池发热不会影响今天的发射任务。",
-          "url": "https://flash.jin10.com/detail/20260402060322388800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "全球产区天气4.2：多雨延误美国大豆作业，但墒情改善利好春播？",
-          "url": "https://flash.jin10.com/detail/20260402093854909800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "伊朗总统：对美国当前政策是否真正契合“美国优先”的核心利益提出质疑",
-          "url": "https://flash.jin10.com/detail/20260402030024968800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 04时40分]"
-        },
-        {
-          "title": "周三（4月1日）纽约尾盘，美国10年期基准国债收益率涨0.20个基点，报4.3186%，日内交投于4.2574%-4.3324%区间，整体呈现出V形反转。 两年期美债收益率涨0.80个基点，报3.8010%，日内交投于3.7334%-3.8133%区间，北京时间20:00过后出现一波显著的拉升行情。",
-          "url": "https://wallstreetcn.com/livenews/3081131",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
-        },
-        {
-          "title": "美国3月挑战者企业裁员人数同比 -78%，前值 -71.9%。",
-          "url": "https://wallstreetcn.com/livenews/3081563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时42分 ~ 21时02分]"
-        },
-        {
-          "title": "伊朗总统将在一个小时内发布“致美国民众的信”。（Tasnim）",
-          "url": "https://wallstreetcn.com/livenews/3081063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "美国航空航天局（NASA）：发射团队正在处理电池问题。",
-          "url": "https://flash.jin10.com/detail/20260402053159335800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时32分]"
-        },
-        {
-          "title": "伊朗总统致美国人民公开信",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%87%B4%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%AC%E5%BC%80%E4%BF%A1%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时27分]"
-        },
-        {
-          "title": "伊朗媒体：伊朗总统将发表致美国人民公开信",
-          "url": "https://wallstreetcn.com/livenews/3081067",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 03时36分]"
-        },
-        {
-          "title": "礼来口服减肥药Foundayo获美国FDA批准，正面挑战诺和诺德",
-          "url": "https://wallstreetcn.com/livenews/3081021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "美国参议院多数党领袖约翰·图恩（John Thune）与众议长约翰逊宣称：共和党将让国土安全部（DHS）“全面地重新开放”（全面结束停摆）。",
-          "url": "https://wallstreetcn.com/livenews/3081082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 04时40分]"
-        },
-        {
-          "title": "加拿大央行：在3月份货币政策会议上讨论了石油冲击对CPI的长期影响，但现在做出判断还言之过早。 央行官员们同意，他们可以花时间来观察（美国和以色列发动的）伊朗战争将如何演变。 除了伊朗战争，加拿大经济面临的风险还包括美国墨西哥加拿大贸易协议（USMCA）等。",
-          "url": "https://wallstreetcn.com/livenews/3081061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "美国地质调查局称，印尼特尔纳特西北偏西119公里处发生7.8级地震。 太平洋海啸预警中心称，印尼沿海可能发生海啸。",
-          "url": "https://wallstreetcn.com/livenews/3081156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "内塔尼亚胡当年曾怂恿美国打伊拉克",
-          "url": "https://wallstreetcn.com/livenews/3081055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时10分]"
-        },
-        {
-          "title": "伊朗总统发布致美国民众的信",
-          "url": "https://wallstreetcn.com/livenews/3081080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时36分 ~ 04时40分]"
-        },
-        {
-          "title": "美国为何突然重启登月",
-          "url": "https://www.douyin.com/hot/2452651",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "标普500指数维持1.1%的涨幅。 据伊朗媒体Tasnim报道，伊朗总统将在一个小时内发布“致美国民众的信”。",
-          "url": "https://wallstreetcn.com/livenews/3081063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时10分 ~ 03时36分]"
-        },
-        {
-          "title": "美国众议院议长约翰逊和参议院共和党领袖图恩宣布了一项为国土安全部提供资金的前进方案。",
-          "url": "https://flash.jin10.com/detail/20260402024253950800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "美国海啸预警系统：印尼、菲律宾和马来西亚沿岸距震中1000公里范围内，可能产生由此次地震引发的海啸波。",
-          "url": "https://flash.jin10.com/detail/20260402070608741800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美国参议院共和党领袖图恩：仍在与民主党就移民改革进行磋商。",
-          "url": "https://flash.jin10.com/detail/20260402192630408800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "美国3月28日当周首次申请失业救济人数 20.2万人，预期 21.2万人，前值 21万人。",
-          "url": "https://wallstreetcn.com/livenews/3081595",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "报道：美国将对成品钢铝征收25%的关税",
-          "url": "https://wallstreetcn.com/livenews/3081115",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时32分]"
-        },
-        {
-          "title": "美国TikTok禁令演不下去了吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BDTikTok%E7%A6%81%E4%BB%A4%E6%BC%94%E4%B8%8D%E4%B8%8B%E5%8E%BB%E4%BA%86%E5%90%97%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时27分]"
-        },
-        {
-          "title": "英国将召集35国讨论重启霍尔木兹海峡的方案 美国竟不在名单中！",
-          "url": "https://www.cls.cn/detail/2333513",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
-        },
-        {
-          "title": "美国将委内瑞拉代总统移出制裁名单",
-          "url": "https://wallstreetcn.com/livenews/3081096",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时38分]"
-        },
-        {
-          "title": "伊朗总统发表致美国人民公开信",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E5%8F%91%E8%A1%A8%E8%87%B4%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%85%AC%E5%BC%80%E4%BF%A1",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时51分 ~ 12时27分]"
-        },
-        {
-          "title": "美国航空航天局（NASA）：阿尔忒弥斯任务的发射厂区准备就绪。飞行终止系统不再构成限制，已批准发射。",
-          "url": "https://flash.jin10.com/detail/20260402051338492800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时32分]"
-        },
-        {
-          "title": "伊朗总统致信美国人民：“要看穿宣传战争的迷雾”",
-          "url": "https://wallstreetcn.com/livenews/3081094",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时38分]"
-        },
-        {
-          "title": "美以空袭美国原驻伊朗使馆区域",
-          "url": "https://wallstreetcn.com/livenews/3081111",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时32分]"
-        },
-        {
-          "title": "据以色列广播机构：美国和以色列已制定计划，若谈判失败则将升级战争态势。",
-          "url": "https://flash.jin10.com/detail/20260402012313900800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时10分]"
-        },
-        {
-          "title": "市场消息：美国汽车行业组织呼吁废除美国联邦燃油税，并以车辆使用费取而代之，用于道路维修资金。",
-          "url": "https://flash.jin10.com/detail/20260402051214401800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时32分]"
-        },
-        {
-          "title": "【伊朗最高领袖外交政策顾问遇袭重伤】4月1日获悉，据伊朗方面消息，伊朗最高领袖外交政策顾问、前伊朗外交部长卡迈勒·哈拉齐当天遭遇美国和以色列袭击，身受重伤，他的妻子遇难。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3081093",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时40分 ~ 05时38分]"
-        },
-        {
-          "title": "日产汽车一季度美国销售24.7068万辆，同比下滑7.5%。",
-          "url": "https://wallstreetcn.com/livenews/3081039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 02时10分]"
-        },
-        {
-          "title": "美国官员：美伊讨论以重开霍尔木兹海峡为条件的停火协议",
-          "url": "https://wallstreetcn.com/livenews/3081018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "美国3月21日当周续请失业救济人数 184.1万人，预期 183.7万人，前值 181.9万人。",
-          "url": "https://wallstreetcn.com/livenews/3081594",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美国50多年来首次载人飞向月球",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD50%E5%A4%9A%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E8%BD%BD%E4%BA%BA%E9%A3%9E%E5%90%91%E6%9C%88%E7%90%83%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "美国参议院否决了众议院版本的国土安全部拨款法案。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3081556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：伊朗对普通美国人没有敌意。",
-          "url": "https://flash.jin10.com/detail/20260402023946634800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "美国海啸预警系统：印尼马鲁古海发生7.8级地震后发布海啸警报。",
-          "url": "https://flash.jin10.com/detail/20260402065905129800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美国财政部拍卖四个月期国债，得标利率3.615%，投标倍数2.95。",
-          "url": "https://wallstreetcn.com/livenews/3081014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "美国10年期国债收益率上行6个基点至4.38%。",
-          "url": "https://wallstreetcn.com/livenews/3081338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "美国加州发生4.9级地震",
-          "url": "https://wallstreetcn.com/livenews/3081485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "美国正在将其派遣至中东的A-10攻击机机队规模扩大一倍",
-          "url": "https://flash.jin10.com/detail/20260402023908102800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "美国不管霍尔木兹海峡了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%8D%E7%AE%A1%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E4%BA%86%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "伊朗总统致信美国人民：伊朗从未发动过战争",
-          "url": "https://flash.jin10.com/detail/20260402023759560800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "提醒：北京时间20:30，将公布美国2月贸易帐、美国3月28日当周首次申请失业救济人数、加拿大2月贸易帐。",
-          "url": "https://wallstreetcn.com/livenews/3081589",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美国因防御弹药短缺，欲调用波兰「爱国者」反导系统遭拒，如何看待波兰这一表态？暴露出美方联盟哪些问题？",
-          "url": "https://www.zhihu.com/question/2022648235337016783",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "据Axios：美国正征集相关提案，以协助企业将全栈式人工智能系统打包并推向全球市场。",
-          "url": "https://flash.jin10.com/detail/20260402023533205800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "美国3月挑战者企业裁员人数将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260402192000000800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "以媒：以色列担忧美国可能宣布结束对伊朗军事行动",
-          "url": "https://www.cls.cn/detail/2332807",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "消息人士：委内瑞拉代总统罗德里格斯将任命美国境内国营石油公司PDVSA旗下子公司的新董事会。",
-          "url": "https://flash.jin10.com/detail/20260401233749884800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "美国财政部网站：美国将委内瑞拉临时总统德尔西·罗德里格斯从制裁名单中移除。",
-          "url": "https://flash.jin10.com/detail/20260402034436954800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "美国2月贸易逆差扩大幅度低于预期",
-          "url": "https://flash.jin10.com/detail/20260402204945357800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美国执行载人绕月任务火箭发射升空",
-          "url": "https://wallstreetcn.com/livenews/3081143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美国男子两次试图将陌生人推下轻轨",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%94%B7%E5%AD%90%E4%B8%A4%E6%AC%A1%E8%AF%95%E5%9B%BE%E5%B0%86%E9%99%8C%E7%94%9F%E4%BA%BA%E6%8E%A8%E4%B8%8B%E8%BD%BB%E8%BD%A8%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "美国能源部：拟从布赖恩·芒德战略石油储备（SPR）基地提取至多1000万桶原油。",
-          "url": "https://flash.jin10.com/detail/20260402034203772800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "礼来减肥药GLP-1 Foundayo获得美国食品药品管理局（FDA）批准，在减肥药市场打开新的篇章。 礼来制药涨幅迅速扩大至4%，诺和诺德ADR迅速下跌。",
-          "url": "https://wallstreetcn.com/livenews/3081008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "报道：美国将中东地区的A-10攻击机部署规模翻倍",
-          "url": "https://wallstreetcn.com/livenews/3081073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "美国至4月1日4个月国债竞拍-得标利率配置百分比 22.85%，前值96.91%。",
-          "url": "https://flash.jin10.com/detail/20260401233508878800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "据半岛电视台：伊拉克武装组织声称对美国基地发动41次袭击。",
-          "url": "https://flash.jin10.com/detail/20260402051206046800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "报道：SpaceX已经秘密递交美国IPO申请",
-          "url": "https://wallstreetcn.com/livenews/3081005",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "美国参议院多数党领袖：不认为参议院会支持美国退出北约",
-          "url": "https://wallstreetcn.com/livenews/3081581",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "美国至4月1日4个月国债竞拍-得标利率 3.615%，前值3.64%。",
-          "url": "https://flash.jin10.com/detail/20260401233500615800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "【伊朗最高领袖发表致辞，缅怀冲突死难者】4月1日，伊朗最高领袖穆杰塔巴·哈梅内伊就当天的伊朗伊斯兰共和国日暨自然日发表书面致辞，呼吁伊朗人民植树，缅怀在美以伊冲突中的死难者。穆杰塔巴表示，美国和以色列对伊朗的军事打击肆无忌惮，毫无道德底线，造成人员伤亡并严重破坏了伊朗的自然环境。他呼吁人民植树，播撒希望的种子，他称此举象征着发展、希望以及伊朗人民对敌人的回应。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3081091",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "【伊朗实施“真实承诺-4”第90波打击行动 袭击美相关金属产业设施】当地时间4月2日，伊朗伊斯兰革命卫队发布声明称，已实施“真实承诺-4”第90波打击行动，对地区内与美国相关的钢铁和铝业设施发动打击。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3081542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "美国至4月1日4个月国债竞拍-投标倍数 2.95，前值2.82。",
-          "url": "https://flash.jin10.com/detail/20260401233446395800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "美国航空航天局（NASA）：发现阿尔忒弥斯 II 发射的飞行终止系统通信问题，目前正在努力解决。如果无法确保系统在需要时能正常工作，今天的发射认为将被取消。",
-          "url": "https://flash.jin10.com/detail/20260402050649103800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "美国参议院共和党成员们将尝试在周四通过国土安全部（DHS）拨款草案。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3081090",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "据纽约时报：美国正在将其派遣至中东的A-10攻击机机队规模扩大一倍。",
-          "url": "https://flash.jin10.com/detail/20260402022758276800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "美国商务部首次就“美国人工智能出口计划”征集提案。",
-          "url": "https://flash.jin10.com/detail/20260402031852137800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "美国中央司令部：（就伊朗局势）现在已经进入了第五周的行动，我的评估是我们正在取得不可否认的进展。我们没有看到他们的海军出航。我们没有看到他们的飞机起飞，他们的空中和导弹防御系统大部分已经被摧毁。",
-          "url": "https://flash.jin10.com/detail/20260402181650471800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "美国参议院否决众议院版本的国土安全部拨款法案。",
-          "url": "https://flash.jin10.com/detail/20260402191145031800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "美国得州寻求提高先进核建筑。",
-          "url": "https://wallstreetcn.com/livenews/3081002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "美国防部将部署在中东的A-10攻击机规模扩大一倍",
-          "url": "https://wallstreetcn.com/livenews/3081089",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "美国为何只绕月不登月",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E4%B8%BA%E4%BD%95%E5%8F%AA%E7%BB%95%E6%9C%88%E4%B8%8D%E7%99%BB%E6%9C%88%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时34分"
-        },
-        {
-          "title": "美国驻北约大使惠特克：我们相信伊朗可以选择一条出路。",
-          "url": "https://flash.jin10.com/detail/20260402021234325800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "美国国会共和党领袖表示，他们将通过单独的立法程序推动相关法案的通过，以在今年以及未来三年内为国土安全项目提供充足的资金支持。",
-          "url": "https://flash.jin10.com/detail/20260402031338025800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "据美国哥伦比亚广播公司（CBS）：美国航空航天局（NASA）正在排查一个可能导致阿尔忒弥斯二号发射延迟的问题。",
-          "url": "https://flash.jin10.com/detail/20260402045322036800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "市场消息：礼来(LLY.N)的减肥药FOUNDAYO获得美国批准。",
-          "url": "https://flash.jin10.com/detail/20260401233058505800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "美国驻北约大使惠特克：显然我们在与伊朗的合适人士对话。",
-          "url": "https://flash.jin10.com/detail/20260402021101323800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时36分"
-        },
-        {
-          "title": "据Punchbowl：美国参议院共和党计划在当地时间周四尝试通过国土安全部的资金法案。",
-          "url": "https://flash.jin10.com/detail/20260402030726400800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时40分"
-        },
-        {
-          "title": "美国“阿耳忒弥斯2号”载人绕月任务火箭点火发射。",
-          "url": "https://flash.jin10.com/detail/20260402063552750800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：尽管三方谈判暂停，俄罗斯仍与美国保持联系，讨论“乌克兰问题”。",
-          "url": "https://flash.jin10.com/detail/20260402181545562800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时48分"
-        },
-        {
-          "title": "霍尔木兹海峡封锁期间，韩国增加了从美国的石油进口。（韩联社）",
-          "url": "https://wallstreetcn.com/livenews/3081282",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时27分"
-        },
-        {
-          "title": "美国10年期国债收益率上升6个基点至4.38%，12月联邦基金期货下跌6.5个跳动点。",
-          "url": "https://flash.jin10.com/detail/20260402132129434800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时57分"
-        },
-        {
-          "title": "美国载人绕月飞船能安全去月球吗",
-          "url": "https://www.toutiao.com/trending/7624028161835011625/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时07分"
-        },
-        {
-          "title": "伊朗最高领袖穆杰塔巴：将继续支持抵抗犹太复国主义和美国。",
-          "url": "https://flash.jin10.com/detail/20260401232913236800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时05分"
-        },
-        {
-          "title": "美国上周初请失业金人数下降 劳动力市场维持低招聘低裁员局面",
-          "url": "https://flash.jin10.com/detail/20260402204013761800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "委内瑞拉代总统罗德里格斯表示，美国解除对她的制裁是迈向关系正常化、加强与美关系的一步。",
-          "url": "https://flash.jin10.com/detail/20260402043713216800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "美国驻伊拉克使馆敦促美公民撤离伊拉克",
-          "url": "https://wallstreetcn.com/livenews/3081361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时07分"
-        },
-        {
-          "title": "Challenger报告：美国雇主3月宣布的裁员人数同比下降78%",
-          "url": "https://wallstreetcn.com/livenews/3081567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
-          "title": "如何看待美国阿尔忒弥斯2号发射成功",
-          "url": "https://www.toutiao.com/trending/7624098036590841370/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "美国银行全球研究部预计，英国央行将在2027年4月、7月和11月分别降息25个基点。",
-          "url": "https://flash.jin10.com/detail/20260402171213791800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "美国航空航天局（NASA）：阿耳忒弥斯2号载人绕月任务发射前10分钟开始倒计时。",
-          "url": "https://flash.jin10.com/detail/20260402062635543800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时32分"
-        },
-        {
-          "title": "美国银行全球研究部预计，英国央行将在6月和7月各加息25个基点，而此前的预测是今年6月和9月降息。",
-          "url": "https://flash.jin10.com/detail/20260402171151086800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时56分"
-        },
-        {
-          "title": "市场分析：美国劳动力市场呈低招聘低裁员特征",
-          "url": "https://flash.jin10.com/detail/20260402203422851800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 70,
+      "match_count": 71,
       "titles": [
         {
           "title": "报道称美财政部预计油价将长期维持在100美元上方，不排除涨至200美元的可能",
@@ -3080,7 +3210,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -3348,7 +3478,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -3436,7 +3566,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -3480,7 +3610,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -3502,7 +3632,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -3527,6 +3657,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        },
+        {
+          "title": "WTI原油日内涨幅超13%，报113.26美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3081638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "避险买盘与石油出口优势共振 美元在战局迷雾中强劲攀升",
@@ -3719,7 +3860,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "停火预期点燃FOMO情绪，美股指两连涨、存储股大涨，黄金四连涨，油价震荡于百元",
@@ -3731,8 +3872,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时32分 ~ 21时02分]"
+          "appearance_count": 14,
+          "time_info": "[07时32分 ~ 22时24分]"
         },
         {
           "title": "黄金年内回撤达26%",
@@ -3837,6 +3978,17 @@
           "time_info": "[12时27分 ~ 13时57分]"
         },
         {
+          "title": "特朗普威胁升级对伊战事，WTI原油突破110美元，美股大幅低开，黄金跌破4600、白银日内跌超5%",
+          "url": "https://wallstreetcn.com/articles/3769052",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美股股指期货、WTI原油和现货黄金周四开盘基本持稳，现货白银低开0.3%。",
           "url": "https://flash.jin10.com/detail/20260402060250655800",
           "source": "金十数据",
@@ -3854,7 +4006,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -3979,7 +4131,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -4001,7 +4153,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -4100,7 +4252,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -4138,13 +4290,24 @@
           "time_info": "12时27分"
         },
         {
+          "title": "金价持续大蹦极",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%8C%81%E7%BB%AD%E5%A4%A7%E8%B9%A6%E6%9E%81%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "受黄金进口激增影响，加拿大2月贸易逆差飙升至六个月新高",
           "url": "https://flash.jin10.com/detail/20260402203653572800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -4174,7 +4337,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 24,
+      "match_count": 27,
       "titles": [
         {
           "title": "军报：日本具备制造核武器条件",
@@ -4187,11 +4350,12 @@
             15,
             11,
             13,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时51分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[09时51分 ~ 22时24分]"
         },
         {
           "title": "马克龙访问日本",
@@ -4239,11 +4403,25 @@
             22,
             25,
             27,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时04分 ~ 21时02分]"
+          "appearance_count": 24,
+          "time_info": "[00时04分 ~ 22时24分]"
+        },
+        {
+          "title": "媒体披露日本已具备制造核武器的几乎所有物质和技术条件，日本会打破「无核三原则」吗？若拥核意味着什么？",
+          "url": "https://www.zhihu.com/question/2022977025393124304",
+          "source": "知乎",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时07分 ~ 22时24分]"
         },
         {
           "title": "日本核原料能造5500枚核弹头",
@@ -4274,30 +4452,18 @@
           "time_info": "[12时27分 ~ 19时42分]"
         },
         {
-          "title": "媒体披露日本已具备制造核武器的几乎所有物质和技术条件，日本会打破「无核三原则」吗？若拥核意味着什么？",
-          "url": "https://www.zhihu.com/question/2022977025393124304",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时07分 ~ 21时02分]"
-        },
-        {
           "title": "俄罗斯重新将28名日本人列为战犯",
           "url": "https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%E9%87%8D%E6%96%B0%E5%B0%8628%E5%90%8D%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%88%97%E4%B8%BA%E6%88%98%E7%8A%AF",
           "source": "百度热搜",
           "ranks": [
             9,
             18,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时56分 ~ 21时02分]"
+          "appearance_count": 7,
+          "time_info": "[17时56分 ~ 22时24分]"
         },
         {
           "title": "日本终于露出獠牙",
@@ -4349,6 +4515,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时56分 ~ 15时07分]"
+        },
+        {
+          "title": "媒体：日本威胁不是“狼来了”的恫吓",
+          "url": "https://www.toutiao.com/trending/7624120830863085075/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "日本1:0英格兰",
@@ -4481,12 +4658,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时56分"
+        },
+        {
+          "title": "日本两大航司将上调国际航线燃油附加费",
+          "url": "https://wallstreetcn.com/livenews/3081623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "日本政府计划5月派团访问俄罗斯 或将讨论从俄进口原油",
+          "url": "https://wallstreetcn.com/livenews/3081621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -4539,6 +4738,20 @@
           "time_info": "[12时27分 ~ 19时42分]"
         },
         {
+          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[16时34分 ~ 22时24分]"
+        },
+        {
           "title": "有了 AI 之后，遇到问题忍不住想找 AI 帮忙，长期这样下去会不会丧失思考能力？",
           "url": "https://www.zhihu.com/question/2020209448975607009",
           "source": "知乎",
@@ -4551,19 +4764,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时32分 ~ 15时07分]"
-        },
-        {
-          "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32877620",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时34分 ~ 21时02分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -4623,7 +4823,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -4673,6 +4873,28 @@
           "time_info": "[05时37分 ~ 05时38分]"
         },
         {
+          "title": "微软：三款世界级MAI模型现已上线FOUNDRY。",
+          "url": "https://wallstreetcn.com/livenews/3081656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "AI冲击+侵权,配音演员联合抵制",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
+          "source": "贴吧",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "可灵AI全球用户规模领先，成Sora关停后最受关注视频模型",
           "url": "https://wallstreetcn.com/livenews/3081299",
           "source": "华尔街见闻-快讯",
@@ -4690,7 +4912,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -4715,6 +4937,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时57分"
+        },
+        {
+          "title": "微软计划明年推出大型前沿AI模型 追求自主先进技术",
+          "url": "https://flash.jin10.com/detail/20260402221538196800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "千问AI眼镜上线充值话费、扫码骑车、点外卖等AI能力",
@@ -4773,11 +5006,12 @@
             15,
             17,
             18,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时04分 ~ 21时02分]"
+          "appearance_count": 24,
+          "time_info": "[00时04分 ~ 22时24分]"
         },
         {
           "title": "内存条价格大跳水",
@@ -4792,6 +5026,19 @@
           "time_info": "[04时39分 ~ 07时32分]"
         },
         {
+          "title": "华强北商户抛售内存条，存储行业供需拐点已经来了吗？",
+          "url": "https://www.zhihu.com/question/2022101442727614368",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时42分 ~ 22时24分]"
+        },
+        {
           "title": "内存要降价了吗",
           "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%AD%98%E8%A6%81%E9%99%8D%E4%BB%B7%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
@@ -4803,18 +5050,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时04分 ~ 02时10分]"
-        },
-        {
-          "title": "华强北商户抛售内存条，存储行业供需拐点已经来了吗？",
-          "url": "https://www.zhihu.com/question/2022101442727614368",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时42分 ~ 21时02分]"
         },
         {
           "title": "石油涨价、内存飙涨：家电业4月开启涨价潮，涨幅最高20%",
@@ -4921,6 +5156,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "CPU 英特尔",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英特尔(INTC.O)短线拉升，日内涨幅扩大至3%。",
+          "url": "https://flash.jin10.com/detail/20260402220645978800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         }
       ]
     }
