@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T08:01:53.160477+08:00",
-  "total_titles_processed": 724,
+  "generated_at": "2026-04-03T11:17:54.778917+08:00",
+  "total_titles_processed": 899,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 71,
+      "match_count": 74,
       "titles": [
         {
           "title": "伊朗指控美国使用新型导弹，致21名运动员遇难",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时17分]"
         },
         {
           "title": "伊朗总统发表致美国人民的公开信",
@@ -62,11 +62,12 @@
           "url": "https://news.ifeng.com/c/8s04AFnINbd",
           "source": "凤凰网",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时17分]"
         },
         {
           "title": "美国重返月球为何只绕不登",
@@ -81,8 +82,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时17分]"
         },
         {
           "title": "解读美国载人绕月任务背后",
@@ -97,8 +98,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时17分]"
         },
         {
           "title": "美国实施载人绕月飞行任务",
@@ -110,11 +111,12 @@
             29,
             24,
             25,
-            27
+            27,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时17分]"
         },
         {
           "title": "美国为何突然重启登月",
@@ -124,11 +126,12 @@
             25,
             26,
             27,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时17分]"
         },
         {
           "title": "伊朗总统发表致美国人民公开信",
@@ -585,7 +588,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -610,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        },
+        {
+          "title": "官宣：美国维持50%金属关税，对部分制成品征收25%关税，对专利药征100%关税，但遵守协议“豁免”",
+          "url": "https://wallstreetcn.com/articles/3769140",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "安全消息人士称，两架无人机袭击了巴格达机场附近的一处美国外交设施。",
@@ -665,6 +679,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "美国宣布将对进口专利药及制药成分加征100%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32890919",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "美国至4月3日当周天然气钻井总数 130口，前值127口。",
@@ -739,7 +764,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -832,6 +857,17 @@
           "time_info": "04时31分"
         },
         {
+          "title": "SK海力士选定花旗、摩根大通、高盛作为其美国存托凭证（ADR）安排行。",
+          "url": "https://wallstreetcn.com/livenews/3081895",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "美国达拉斯联储主席Lorie Logan（2026年FOMC票委）：在达拉斯联储辖区，私人信用并非头等风险。",
           "url": "https://wallstreetcn.com/livenews/3081687",
           "source": "华尔街见闻-快讯",
@@ -857,7 +893,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 44,
+      "match_count": 48,
       "titles": [
         {
           "title": "韩国3月外汇储备 4236.6亿美元，前值4276.2亿美元。",
@@ -872,6 +908,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时04分 ~ 07时31分]"
+        },
+        {
+          "title": "【早报】美国：将对进口专利药加征100%关税；飙涨近12%，美油站上110美元",
+          "url": "https://www.cls.cn/detail/2334089",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 11时17分]"
         },
         {
           "title": "美国投资级债券基金在4月1日当周面临53.5亿美元资金外流，创2025年4月中旬以来最大单周赎回。 宏观经济风险加重，造成这类资产大幅亏损。",
@@ -950,6 +999,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时45分 ~ 03时46分]"
+        },
+        {
+          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
+          "url": "https://www.cls.cn/detail/2334086",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 11时17分]"
         },
         {
           "title": "美国芝加哥商业交易所（CME）集团：将非HRP铝期货保证金从4000美元上调至5000美元。 将非HRP铝欧洲Premium Contract（权利金合约）保证金从800美元提高至1100美元。",
@@ -1034,21 +1096,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
-        },
-        {
-          "title": "【早报】美国：将对进口专利药加征100%关税；飙涨近12%，美油站上110美元",
-          "url": "https://www.cls.cn/detail/2334089",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 08时01分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了3个对手方的3.27亿美元。",
@@ -1120,18 +1170,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时50分 ~ 03时46分]"
-        },
-        {
-          "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
-          "url": "https://www.cls.cn/detail/2334086",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 08时01分]"
         },
         {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
@@ -1265,6 +1303,28 @@
           "time_info": "03时46分"
         },
         {
+          "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
+          "url": "https://wallstreetcn.com/articles/3769147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "超越Meta和特斯拉！SpaceX据悉将IPO目标估值提升至逾2万亿美元",
+          "url": "https://www.cls.cn/detail/2334126",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "沙特公共投资基金正考虑在SpaceX IPO中认购50亿美元股份",
           "url": "https://flash.jin10.com/detail/20260403020321569800",
           "source": "金十数据",
@@ -1282,7 +1342,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -1296,6 +1356,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "美元指数维持日内小幅上涨态势，现报100.05。特朗普针对伊朗发帖：下一步将摧毁桥梁，然后是发电厂；伊朗新政权领导层知道必须做什么，而且必须尽快做。",
+          "url": "https://wallstreetcn.com/livenews/3081923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "摩根大通：如果霍尔木兹海峡的石油运输在5月中旬前仍受阻，油价存在升至每桶150美元以上的风险。",
@@ -1384,12 +1455,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "特朗普放狠话加剧冲突，美油暴涨超13%，即期布油飙破140美元，金银现“踩踏式撤退”。伊朗释放霍尔木兹协议信号，市场巨震不止.....后市市场情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20260403103102775800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -1430,11 +1512,12 @@
           "url": "https://news.ifeng.com/c/8rzs0Q10Ejk",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时17分]"
         },
         {
           "title": "特朗普放狠话加剧冲突 美股期指大幅下跌 国际油价暴涨 | 今夜看点",
@@ -1444,11 +1527,12 @@
             7,
             6,
             5,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时17分]"
         },
         {
           "title": "伊朗强硬回应特朗普",
@@ -1573,6 +1657,17 @@
           "time_info": "00时53分"
         },
         {
+          "title": "美以伊战争丨炸完大桥特朗普再发威胁，伊朗回击",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "特朗普刚说“炸回石器时代”，美军就把伊朗大桥炸了",
           "url": "https://flash.jin10.com/detail/20260403061620774800",
           "source": "金十数据",
@@ -1615,9 +1710,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
+          "url": "https://news.ifeng.com/c/8s10y0PIEwa",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
@@ -1672,9 +1778,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
+        },
+        {
+          "title": "密友出车祸被捕，特朗普紧急出面护短",
+          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "据Politico：在美国司法部长邦迪被解职后，特朗普考虑进一步调整内阁。",
@@ -1683,7 +1800,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时01分"
         },
@@ -1697,6 +1814,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "特朗普想甩手走人，盟友急了：40多国磋商“自己开海峡”，联合国武力方案被挡下",
+          "url": "https://flash.jin10.com/detail/20260403110254234800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
+          "url": "https://www.cls.cn/detail/2334117",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
@@ -1732,6 +1871,17 @@
           "time_info": "01时45分"
         },
         {
+          "title": "特朗普放炸桥视频施压伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BE%E7%82%B8%E6%A1%A5%E8%A7%86%E9%A2%91%E6%96%BD%E5%8E%8B%E4%BC%8A%E6%9C%97%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "特朗普：伊朗是时候达成协议了，以免为时已晚",
           "url": "https://flash.jin10.com/detail/20260403004016648800",
           "source": "金十数据",
@@ -1743,6 +1893,17 @@
           "time_info": "01时45分"
         },
         {
+          "title": "特朗普：伊朗新政权领导层必须尽快去做该做的事",
+          "url": "https://flash.jin10.com/detail/20260403104321080800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
           "title": "伦敦基础金属下跌，特朗普威胁要袭击伊朗电厂",
           "url": "https://wallstreetcn.com/livenews/3081722",
           "source": "华尔街见闻-快讯",
@@ -1752,6 +1913,160 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "这个猛料，让日本网络炸裂了",
+          "url": "https://news.ifeng.com/c/8s0GT8XDY2k",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时17分]"
+        },
+        {
+          "title": "媒体披露日本已具备制造核武器的几乎所有物质和技术条件，日本会打破「无核三原则」吗？若拥核意味着什么？",
+          "url": "https://www.zhihu.com/question/2022977025393124304",
+          "source": "知乎",
+          "ranks": [
+            7,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时31分]"
+        },
+        {
+          "title": "军报：日本具备制造核武器条件",
+          "url": "https://www.douyin.com/hot/2451955",
+          "source": "抖音",
+          "ranks": [
+            13,
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时53分 ~ 07时31分]"
+        },
+        {
+          "title": "日本启动第19次核污染水排海",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%AF%E5%8A%A8%E7%AC%AC19%E6%AC%A1%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            27,
+            22,
+            21,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时53分 ~ 07时31分]"
+        },
+        {
+          "title": "媒体：日本威胁不是“狼来了”的恫吓",
+          "url": "https://www.toutiao.com/trending/7624120830863085075/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            8,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时53分 ~ 06时01分]"
+        },
+        {
+          "title": "日本经济再生大臣赤泽亮正：昨晚，与阿联酋能源部长、阿布扎比国有石油公司（ADNOC）CEO贾贝尔进行在线会谈，就两国间的能源合作及其他领域的合作交流意见。",
+          "url": "https://wallstreetcn.com/livenews/3081813",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时01分 ~ 07时31分]"
+        },
+        {
+          "title": "日本经济再生大臣赤泽亮正：昨晚，与阿联酋能源部长、阿布扎比国有石油公司（ADNOC）CEO贾贝尔进行了在线会谈，就两国间的能源合作及其他领域的合作进行了意见交流。",
+          "url": "https://flash.jin10.com/detail/20260403050718716800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时01分 ~ 07时31分]"
+        },
+        {
+          "title": "美国官员：因贸易协定，对欧洲、日本、韩国和瑞士的药品关税降至15%。",
+          "url": "https://flash.jin10.com/detail/20260403032842972800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时46分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：石油市场正在冲击日元汇率。 果断行动可能包括干预。 如有必要，将根据日美协议采取行动。",
+          "url": "https://wallstreetcn.com/livenews/3081928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "日本、韩国、伊朗、澳大利亚、约旦、乌兹别克斯坦、沙特阿拉伯、卡塔尔、伊拉克等九队入选世界杯，你怎么看？",
+          "url": "https://www.zhihu.com/question/2022704110575599872",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "微软计划在2026年至2029年间向日本投资1.6万亿日元。",
+          "url": "https://wallstreetcn.com/livenews/3081915",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "人民日报钟声评日本部署进攻性导弹",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E9%92%9F%E5%A3%B0%E8%AF%84%E6%97%A5%E6%9C%AC%E9%83%A8%E7%BD%B2%E8%BF%9B%E6%94%BB%E6%80%A7%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
@@ -1868,118 +2183,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "这个猛料，让日本网络炸裂了",
-          "url": "https://news.ifeng.com/c/8s0GT8XDY2k",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
-        },
-        {
-          "title": "媒体披露日本已具备制造核武器的几乎所有物质和技术条件，日本会打破「无核三原则」吗？若拥核意味着什么？",
-          "url": "https://www.zhihu.com/question/2022977025393124304",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时31分]"
-        },
-        {
-          "title": "军报：日本具备制造核武器条件",
-          "url": "https://www.douyin.com/hot/2451955",
-          "source": "抖音",
-          "ranks": [
-            13,
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时53分 ~ 07时31分]"
-        },
-        {
-          "title": "日本启动第19次核污染水排海",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%90%AF%E5%8A%A8%E7%AC%AC19%E6%AC%A1%E6%A0%B8%E6%B1%A1%E6%9F%93%E6%B0%B4%E6%8E%92%E6%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            27,
-            22,
-            21,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时53分 ~ 07时31分]"
-        },
-        {
-          "title": "媒体：日本威胁不是“狼来了”的恫吓",
-          "url": "https://www.toutiao.com/trending/7624120830863085075/",
-          "source": "今日头条",
-          "ranks": [
-            9,
-            8,
-            10,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时53分 ~ 06时01分]"
-        },
-        {
-          "title": "日本经济再生大臣赤泽亮正：昨晚，与阿联酋能源部长、阿布扎比国有石油公司（ADNOC）CEO贾贝尔进行在线会谈，就两国间的能源合作及其他领域的合作交流意见。",
-          "url": "https://wallstreetcn.com/livenews/3081813",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时01分 ~ 07时31分]"
-        },
-        {
-          "title": "日本经济再生大臣赤泽亮正：昨晚，与阿联酋能源部长、阿布扎比国有石油公司（ADNOC）CEO贾贝尔进行了在线会谈，就两国间的能源合作及其他领域的合作进行了意见交流。",
-          "url": "https://flash.jin10.com/detail/20260403050718716800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时01分 ~ 07时31分]"
-        },
-        {
-          "title": "美国官员：因贸易协定，对欧洲、日本、韩国和瑞士的药品关税降至15%。",
-          "url": "https://flash.jin10.com/detail/20260403032842972800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时46分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -1987,22 +2192,24 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时17分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352714&amp;topic_name=AI%E5%86%B2%E5%87%BB%2B%E4%BE%B5%E6%9D%83%2C%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E8%81%94%E5%90%88%E6%8A%B5%E5%88%B6",
           "source": "贴吧",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时17分]"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
@@ -2015,6 +2222,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时31分 ~ 08时01分]"
+        },
+        {
+          "title": "智元将于4月7日开启 “智元AI发布周”",
+          "url": "https://wallstreetcn.com/livenews/3081936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
           "title": "标普道琼斯指数公司：将Atmus Filtration纳入标普小盘股600指数，从中剔除Air Lease。",
@@ -2039,13 +2257,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时04分]"
+        },
+        {
+          "title": "上海交大与蚂蚁健康全面合作，共建AI联合实验室",
+          "url": "https://wallstreetcn.com/livenews/3081922",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
     {
       "keyword_group": "谷歌",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "谷歌最新模型Gemma4发布",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
         {
           "title": "谷歌公司推出Gemma 4开源模型，为高级推理打造Gemma 4。 英伟达与谷歌公司致力于为英伟达GPUs优化Gemma 4。 英伟达为本地智能体人工智能（Agentic AI）加速Gemma 4。",
           "url": "https://wallstreetcn.com/livenews/3081712",
@@ -2079,6 +2319,61 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "内存 存储颗粒",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "华强北商户抛售内存条，存储行业供需拐点已经来了吗？",
+          "url": "https://www.zhihu.com/question/2022101442727614368",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            5,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时53分 ~ 08时01分]"
+        },
+        {
+          "title": "内存雪崩,囤货佬跪求出货",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352660&amp;topic_name=%E5%86%85%E5%AD%98%E9%9B%AA%E5%B4%A9%2C%E5%9B%A4%E8%B4%A7%E4%BD%AC%E8%B7%AA%E6%B1%82%E5%87%BA%E8%B4%A7",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时17分]"
+        },
+        {
+          "title": "小米卢伟冰回应部分机型涨价：本轮内存涨价力度远超预期",
+          "url": "https://wallstreetcn.com/livenews/3081925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
+        },
+        {
+          "title": "卢伟冰回应小米涨价：本轮内存涨价的力度确实远超预期",
+          "url": "https://flash.jin10.com/detail/20260403103333107800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
@@ -2125,34 +2420,30 @@
       ]
     },
     {
-      "keyword_group": "内存 存储颗粒",
+      "keyword_group": "大模型",
       "match_count": 2,
       "titles": [
         {
-          "title": "华强北商户抛售内存条，存储行业供需拐点已经来了吗？",
-          "url": "https://www.zhihu.com/question/2022101442727614368",
+          "title": "如何评价 Google 发布的开源大模型 Gemma4？使用体验怎么样？",
+          "url": "https://www.zhihu.com/question/2023204569811828949",
           "source": "知乎",
           "ranks": [
-            4,
-            3,
-            5,
-            10,
-            12
+            7
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         },
         {
-          "title": "内存雪崩,囤货佬跪求出货",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352660&amp;topic_name=%E5%86%85%E5%AD%98%E9%9B%AA%E5%B4%A9%2C%E5%9B%A4%E8%B4%A7%E4%BD%AC%E8%B7%AA%E6%B1%82%E5%87%BA%E8%B4%A7",
-          "source": "贴吧",
+          "title": "错过张雪机车的重庆国资们 站上大模型与新能源的牌桌",
+          "url": "https://www.cls.cn/detail/2333899",
+          "source": "财联社热门",
           "ranks": [
-            24
+            12
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
@@ -2165,22 +2456,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352717&amp;topic_name=%E6%98%BE%E5%8D%A1%E5%86%8D%E5%8D%87%E7%BA%A7%2C6090%E6%9B%9D%E5%85%89",
           "source": "贴吧",
           "ranks": [
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时53分 ~ 08时01分]"
+          "appearance_count": 12,
+          "time_info": "[00时53分 ~ 11时17分]"
         },
         {
           "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
           "url": "https://www.cls.cn/detail/2334039",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时01分 ~ 11时17分]"
         }
       ]
     },
