@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T14:44:51.751271+08:00",
-  "total_titles_processed": 1166,
+  "generated_at": "2026-04-03T16:01:55.678589+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
     {
@@ -99,8 +99,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 14时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 16时01分]"
         },
         {
           "title": "美国实施载人绕月飞行任务",
@@ -113,11 +113,12 @@
             24,
             25,
             27,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 14时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 16时01分]"
         },
         {
           "title": "美国为何突然重启登月",
@@ -132,8 +133,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 14时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 16时01分]"
         },
         {
           "title": "伊朗总统发表致美国人民公开信",
@@ -175,6 +176,18 @@
           "time_info": "[03时46分 ~ 06时01分]"
         },
         {
+          "title": "官宣：美国维持50%金属关税，对部分制成品征收25%关税，对专利药征100%关税，但遵守协议“豁免”",
+          "url": "https://wallstreetcn.com/articles/3769140",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 16时01分]"
+        },
+        {
           "title": "美国海军：福特号航母准备重新参与伊朗的行动。",
           "url": "https://flash.jin10.com/detail/20260403044719293800",
           "source": "金十数据",
@@ -201,6 +214,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时04分 ~ 07时31分]"
+        },
+        {
+          "title": "美国宣布将对进口专利药及制药成分加征100%关税",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32890919",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 16时01分]"
         },
         {
           "title": "贸易消息人士及船舶追踪数据显示，卡塔尔能源公司与埃克森美孚合作推进的美国Golden Pass天然气项目将于本月装载首船出口货物，并正持续增加原料气的进气量。",
@@ -278,29 +303,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时01分 ~ 07时31分]"
-        },
-        {
-          "title": "官宣：美国维持50%金属关税，对部分制成品征收25%关税，对专利药征100%关税，但遵守协议“豁免”",
-          "url": "https://wallstreetcn.com/articles/3769140",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 14时44分]"
-        },
-        {
-          "title": "美国宣布将对进口专利药及制药成分加征100%关税",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32890919",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 14时44分]"
         },
         {
           "title": "美国官员：大型制药企业有120天时间作出公告，以避免被征收100%的关税。",
@@ -436,7 +438,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -922,7 +924,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -952,7 +954,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 49,
+      "match_count": 51,
       "titles": [
         {
           "title": "【早报】美国：将对进口专利药加征100%关税；飙涨近12%，美油站上110美元",
@@ -964,8 +966,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 14时44分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 16时01分]"
         },
         {
           "title": "伊朗回应特朗普所谓已胜利 SpaceX有望冲刺2万亿美元估值 | 环球市场",
@@ -978,8 +980,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 14时44分]"
+          "appearance_count": 6,
+          "time_info": "[07时31分 ~ 16时01分]"
         },
         {
           "title": "韩国3月外汇储备 4236.6亿美元，前值4276.2亿美元。",
@@ -994,6 +996,31 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时04分 ~ 07时31分]"
+        },
+        {
+          "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
+          "url": "https://wallstreetcn.com/articles/3769147",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 16时01分]"
+        },
+        {
+          "title": "超越Meta和特斯拉！SpaceX据悉将IPO目标估值提升至逾2万亿美元",
+          "url": "https://www.cls.cn/detail/2334126",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 16时01分]"
         },
         {
           "title": "美国投资级债券基金在4月1日当周面临53.5亿美元资金外流，创2025年4月中旬以来最大单周赎回。 宏观经济风险加重，造成这类资产大幅亏损。",
@@ -1074,18 +1101,6 @@
           "time_info": "[01时45分 ~ 03时46分]"
         },
         {
-          "title": "“全球最重要的现货原油价格”飙升至140美元以上，2008年以来第一次！",
-          "url": "https://wallstreetcn.com/articles/3769147",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 14时44分]"
-        },
-        {
           "title": "美国芝加哥商业交易所（CME）集团：将非HRP铝期货保证金从4000美元上调至5000美元。 将非HRP铝欧洲Premium Contract（权利金合约）保证金从800美元提高至1100美元。",
           "url": "https://wallstreetcn.com/livenews/3081810",
           "source": "华尔街见闻-快讯",
@@ -1110,18 +1125,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时04分 ~ 06时37分]"
-        },
-        {
-          "title": "超越Meta和特斯拉！SpaceX据悉将IPO目标估值提升至逾2万亿美元",
-          "url": "https://www.cls.cn/detail/2334126",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 14时44分]"
         },
         {
           "title": "美国原油期货收涨至110美元上方，为2022年以来首次",
@@ -1464,6 +1467,17 @@
           "time_info": "02时50分"
         },
         {
+          "title": "泰国央行：截至3月27日净外汇头寸为230亿美元，而3月20日为221亿美元。",
+          "url": "https://flash.jin10.com/detail/20260403153057679800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
           "title": "消息人士称，SpaceX已与沙特公共投资基金就2026年IPO的基石投资进行洽谈。一家沙特基金正考虑在SpaceX的IPO中认购50亿美元的基石投资。",
           "url": "https://flash.jin10.com/detail/20260403015702486800",
           "source": "金十数据",
@@ -1473,6 +1487,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时50分"
+        },
+        {
+          "title": "泰国央行：截至3月27日外汇储备为2777亿美元，而3月20日为2800亿美元。",
+          "url": "https://flash.jin10.com/detail/20260403153042212800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         },
         {
           "title": "LME期铜收跌75美元，报12360美元/吨。 LME期铝收跌62美元，报3470美元/吨。 LME期锌收跌25美元，报3264美元/吨。 LME期铅收跌8美元，报1933美元/吨。 LME期镍收跌123美元，报17086美元/吨。 LME期锡收跌1085美元，报46277美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -1544,7 +1569,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普自行宣称：对伊朗战事取得“压倒性胜利”，未来两到三周将开展极其猛烈的打击",
@@ -1675,8 +1700,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 16时01分]"
+        },
+        {
+          "title": "密友出车祸被捕，特朗普紧急出面护短",
+          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 16时01分]"
+        },
+        {
+          "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
+          "url": "https://www.cls.cn/detail/2334117",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 16时01分]"
         },
         {
           "title": "机构：特朗普对伊战争讲话为油市蒙上阴影，到4月底超6亿桶石油供应面临风险",
@@ -1718,17 +1766,6 @@
           "time_info": "[04时31分 ~ 06时01分]"
         },
         {
-          "title": "密友出车祸被捕，特朗普紧急出面护短",
-          "url": "https://news.ifeng.com/c/8rs4tUu8kcn",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 14时44分]"
-        },
-        {
           "title": "美国总统特朗普宣称，司法部长Bondi被免职。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3081729",
           "source": "华尔街见闻-快讯",
@@ -1742,16 +1779,30 @@
           "time_info": "[01时45分 ~ 03时46分]"
         },
         {
-          "title": "敲定100%关税！特朗普“剑指”进口专利药及制药成分",
-          "url": "https://www.cls.cn/detail/2334117",
-          "source": "财联社热门",
+          "title": "白宫紧急下架特朗普讲话视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%B4%A7%E6%80%A5%E4%B8%8B%E6%9E%B6%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%B2%E8%AF%9D%E8%A7%86%E9%A2%91%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
+            11,
             13,
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时17分 ~ 14时44分]"
+          "time_info": "[13时20分 ~ 16时01分]"
+        },
+        {
+          "title": "说着硬话但表情沮丧，特朗普的“胜利”之说能信几分？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32879891",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 16时01分]"
         },
         {
           "title": "外交部谈特朗普涉伊朗言论：再次敦促当事方立即停止军事行动",
@@ -1823,6 +1874,18 @@
           "time_info": "08时01分"
         },
         {
+          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
+          "url": "https://www.cls.cn/detail/2334381",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 16时01分]"
+        },
+        {
           "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
           "url": "https://flash.jin10.com/detail/20260403003009535800",
           "source": "金十数据",
@@ -1832,18 +1895,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时53分"
-        },
-        {
-          "title": "白宫紧急下架特朗普讲话视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%99%BD%E5%AE%AB%E7%B4%A7%E6%80%A5%E4%B8%8B%E6%9E%B6%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%B2%E8%AF%9D%E8%A7%86%E9%A2%91%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时44分]"
         },
         {
           "title": "据CBS报道，礼来制药减肥药Foundayo将上架美国总统特朗普的TrumpRX。 4月1日，美国食品药品管理局（FDA）批准了这款口服减肥药。",
@@ -1856,18 +1907,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时01分 ~ 06时37分]"
-        },
-        {
-          "title": "说着硬话但表情沮丧，特朗普的“胜利”之说能信几分？｜907编辑部",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32879891",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时44分]"
         },
         {
           "title": "忍了数月，特朗普解职美司法部长邦迪",
@@ -1915,6 +1954,17 @@
           "time_info": "08时01分"
         },
         {
+          "title": "伊朗警告敢发动地面战绝不留活口，伊称击中敌先进战机、美否认，特朗普放炸桥视频施压",
+          "url": "https://wallstreetcn.com/articles/3769139",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
+        },
+        {
           "title": "白宫官员确认，美国总统特朗普免去了帕姆·邦迪的美国司法部长职务。",
           "url": "https://flash.jin10.com/detail/20260403010625479800",
           "source": "金十数据",
@@ -1935,17 +1985,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
-        },
-        {
-          "title": "美国炸毁伊朗最大桥梁 特朗普威胁：将继续打击桥梁和发电厂！",
-          "url": "https://www.cls.cn/detail/2334381",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
         },
         {
           "title": "据CNN：美国总统特朗普免去帕姆·邦迪美国司法部长职务。",
@@ -2023,6 +2062,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
+        },
+        {
+          "title": "石破茂爆料特朗普喜欢被奉承",
+          "url": "https://www.toutiao.com/trending/7623434338327265307/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         },
         {
           "title": "伦敦基础金属下跌，特朗普威胁要袭击伊朗电厂",
@@ -2120,6 +2170,20 @@
           "time_info": "[00时53分 ~ 06时01分]"
         },
         {
+          "title": "日本、韩国、伊朗、澳大利亚、约旦、乌兹别克斯坦、沙特阿拉伯、卡塔尔、伊拉克等九队入选世界杯，你怎么看？",
+          "url": "https://www.zhihu.com/question/2022704110575599872",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14,
+            15,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 16时01分]"
+        },
+        {
           "title": "日本经济再生大臣赤泽亮正：昨晚，与阿联酋能源部长、阿布扎比国有石油公司（ADNOC）CEO贾贝尔进行在线会谈，就两国间的能源合作及其他领域的合作交流意见。",
           "url": "https://wallstreetcn.com/livenews/3081813",
           "source": "华尔街见闻-快讯",
@@ -2146,17 +2210,15 @@
           "time_info": "[06时01分 ~ 07时31分]"
         },
         {
-          "title": "日本、韩国、伊朗、澳大利亚、约旦、乌兹别克斯坦、沙特阿拉伯、卡塔尔、伊拉克等九队入选世界杯，你怎么看？",
-          "url": "https://www.zhihu.com/question/2022704110575599872",
-          "source": "知乎",
+          "title": "霸王茶姬疑似被日本抄袭",
+          "url": "https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E7%96%91%E4%BC%BC%E8%A2%AB%E6%97%A5%E6%9C%AC%E6%8A%84%E8%A2%AD&t=31&band_rank=4&Refer=top",
+          "source": "微博",
           "ranks": [
-            18,
-            14,
-            15
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 14时44分]"
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 16时01分]"
         },
         {
           "title": "知情人士称美将延迟交付日本订购的“战斧”导弹",
@@ -2188,18 +2250,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "霸王茶姬疑似被日本抄袭",
-          "url": "https://s.weibo.com/weibo?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E7%96%91%E4%BC%BC%E8%A2%AB%E6%97%A5%E6%9C%AC%E6%8A%84%E8%A2%AD&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -2243,7 +2294,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -2276,7 +2327,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -2287,7 +2338,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -2452,11 +2503,12 @@
             10,
             9,
             11,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 14时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 16时01分]"
         },
         {
           "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
@@ -2494,6 +2546,18 @@
           "time_info": "[06时01分 ~ 06时37分]"
         },
         {
+          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
+          "url": "https://www.zhihu.com/question/2023359161887450046",
+          "source": "知乎",
+          "ranks": [
+            20,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 16时01分]"
+        },
+        {
           "title": "阿波罗首席经济学家：AI尚未对劳动力市场产生重大影响",
           "url": "https://wallstreetcn.com/livenews/3081768",
           "source": "华尔街见闻-快讯",
@@ -2515,17 +2579,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时17分"
-        },
-        {
-          "title": "同事被优化后 AI 分身在群里回消息、写代码，这种「数字分身」会侵犯离职员工权益吗？可能带来哪些问题？",
-          "url": "https://www.zhihu.com/question/2023359161887450046",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
         }
       ]
     },
@@ -2566,11 +2619,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时20分 ~ 14时44分]"
+          "appearance_count": 3,
+          "time_info": "[13时20分 ~ 16时01分]"
         },
         {
           "title": "小米卢伟冰回应部分机型涨价：本轮内存涨价力度远超预期",
@@ -2601,7 +2655,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         }
@@ -2609,7 +2663,7 @@
     },
     {
       "keyword_group": "谷歌",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌最新模型Gemma4发布",
@@ -2634,6 +2688,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时53分 ~ 01时45分]"
+        },
+        {
+          "title": "谷歌官方发布最新模型Gemma4",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%AE%98%E6%96%B9%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E6%A8%A1%E5%9E%8BGemma4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时01分"
         },
         {
           "title": "英伟达(NVDA.O)和谷歌(GOOG.O)合作对Gemma 4进行优化，使其适用于NVIDIA GPU。",
@@ -2712,11 +2777,12 @@
           "ranks": [
             7,
             3,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时17分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[11时17分 ~ 16时01分]"
         },
         {
           "title": "错过张雪机车的重庆国资们 站上大模型与新能源的牌桌",
@@ -2743,11 +2809,12 @@
             9,
             15,
             17,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时53分 ~ 14时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时53分 ~ 16时01分]"
         },
         {
           "title": "算力太紧俏！英伟达四年前发布的H100租赁费用近半年飙升近40%",
