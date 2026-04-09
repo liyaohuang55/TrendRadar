@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-09T18:40:46.742262+08:00",
-  "total_titles_processed": 1600,
+  "generated_at": "2026-04-09T19:52:19.287201+08:00",
+  "total_titles_processed": 1716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 103,
+      "match_count": 106,
       "titles": [
         {
           "title": "伊朗称美国原则上承诺履行八项义务，若美不接受“十点计划”，停火协议将无效",
@@ -46,8 +46,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 19时52分]"
         },
         {
           "title": "美国年轻人为何被锁死一生",
@@ -57,8 +57,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 19时52分]"
         },
         {
           "title": "比尔·盖茨同意就爱泼斯坦案在美国国会作证",
@@ -87,6 +87,20 @@
           "time_info": "[01时40分 ~ 10时27分]"
         },
         {
+          "title": "美国被曝将从部分北约国家撤出军事部署，因其未能对美以提供帮助，欧洲局势可能如何变化？北约有解体风险吗？",
+          "url": "https://www.zhihu.com/question/2025480538157315795",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 19时52分]"
+        },
+        {
           "title": "低轨卫星互联网迎利好 美国拟放宽频谱功率限制 宽带容量有望提升7倍",
           "url": "https://www.cls.cn/detail/2338693",
           "source": "财联社热门",
@@ -102,18 +116,31 @@
           "time_info": "[12时57分 ~ 18时40分]"
         },
         {
-          "title": "美国被曝将从部分北约国家撤出军事部署，因其未能对美以提供帮助，欧洲局势可能如何变化？北约有解体风险吗？",
-          "url": "https://www.zhihu.com/question/2025480538157315795",
-          "source": "知乎",
+          "title": "美国公布对伊行动巨额“帐单” 但美军强调将继续驻留中东地区",
+          "url": "https://www.cls.cn/detail/2338818",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            13,
-            16,
-            20
+            9,
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时52分]"
+        },
+        {
+          "title": "美国的停火谈判被以色列加了备注",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%81%9C%E7%81%AB%E8%B0%88%E5%88%A4%E8%A2%AB%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E4%BA%86%E5%A4%87%E6%B3%A8%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            9,
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时52分]"
         },
         {
           "title": "伊朗外长说美国必须二选一",
@@ -143,29 +170,16 @@
           "time_info": "[07时59分 ~ 14时20分]"
         },
         {
-          "title": "美国公布对伊行动巨额“帐单” 但美军强调将继续驻留中东地区",
-          "url": "https://www.cls.cn/detail/2338818",
-          "source": "财联社热门",
+          "title": "凤凰女记者：伊朗要求美国控制住以色列",
+          "url": "https://news.ifeng.com/c/8sBRkJzjodW",
+          "source": "凤凰网",
           "ranks": [
             9,
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时40分]"
-        },
-        {
-          "title": "美国的停火谈判被以色列加了备注",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%81%9C%E7%81%AB%E8%B0%88%E5%88%A4%E8%A2%AB%E4%BB%A5%E8%89%B2%E5%88%97%E5%8A%A0%E4%BA%86%E5%A4%87%E6%B3%A8%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            9,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时40分]"
+          "time_info": "[17时17分 ~ 19时52分]"
         },
         {
           "title": "意大利前总理：不能为美国流血，找中国去",
@@ -177,6 +191,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时57分 ~ 16时02分]"
+        },
+        {
+          "title": "车臣军队准备好被部署到伊朗对抗美国？卡德罗夫回应",
+          "url": "https://news.ifeng.com/c/8sB92Olw8mH",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时52分]"
         },
         {
           "title": "反超美国 全球更认可中国领导力",
@@ -261,18 +286,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时09分 ~ 06时06分]"
-        },
-        {
-          "title": "凤凰女记者：伊朗要求美国控制住以色列",
-          "url": "https://news.ifeng.com/c/8sBRkJzjodW",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时40分]"
         },
         {
           "title": "美国就伊朗战争问题是否与中国举行了高层会谈？外交部回应",
@@ -421,17 +434,6 @@
           "time_info": "[04时08分 ~ 05时09分]"
         },
         {
-          "title": "车臣军队准备好被部署到伊朗对抗美国？卡德罗夫回应",
-          "url": "https://news.ifeng.com/c/8sB92Olw8mH",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
           "title": "美国副总统万斯：伊朗给予我们的越多，它从谈判中获得的就越多。",
           "url": "https://flash.jin10.com/detail/20260409033941749800",
           "source": "金十数据",
@@ -520,6 +522,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "停火后如何确保霍尔木兹海峡通航？美国让欧洲盟友提方案",
+          "url": "https://news.ifeng.com/c/8sBhui56oZ0",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "美国副总统万斯：以色列人已提议在黎巴嫩境内自我约束。",
@@ -781,7 +794,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1017,6 +1030,17 @@
           "time_info": "07时07分"
         },
         {
+          "title": "何立峰会见美国桥水投资公司创始人达利欧",
+          "url": "https://wallstreetcn.com/livenews/3085040",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "伊朗媒体报道称，伊朗总统向巴基斯坦总理表示，黎巴嫩停火是与美国达成10点协议框架内的必要条件。",
           "url": "https://flash.jin10.com/detail/20260409002256132800",
           "source": "金十数据",
@@ -1127,6 +1151,17 @@
           "time_info": "16时02分"
         },
         {
+          "title": "欧盟贸易专员Sefcovic将于四月下旬访问美国。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3085033",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "EIA年度能源展望报告：到2050年，美国原油产量预计将介于每天1240万至1270万桶之间，而2025年为每天1360万桶。",
           "url": "https://flash.jin10.com/detail/20260409030146284800",
           "source": "金十数据",
@@ -1185,7 +1220,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "特朗普威胁对向伊朗供武国家加税",
@@ -1314,8 +1349,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时59分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[07时59分 ~ 19时52分]"
         },
         {
           "title": "特朗普：若谈判不顺，美国能轻易恢复对伊军事行动，万斯：\"脆弱休战\"基础初步形成",
@@ -1345,17 +1380,6 @@
           "time_info": "[06时06分 ~ 16时02分]"
         },
         {
-          "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
-          "url": "https://wallstreetcn.com/articles/3769420",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时09分]"
-        },
-        {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
           "url": "https://www.cls.cn/detail/2338839",
           "source": "财联社热门",
@@ -1367,8 +1391,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 19时52分]"
         },
         {
           "title": "停火首日即遇变数：特朗普“反复横跳”，不承认伊朗“10点计划”做基础",
@@ -1381,8 +1405,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 19时52分]"
         },
         {
           "title": "美媒披露特朗普发动伊朗战争内幕：“全凭直觉”，除万斯外无人反对",
@@ -1394,8 +1418,19 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时27分 ~ 19时52分]"
+        },
+        {
+          "title": "伊朗终止同美直接外交联系、仍通过调解人沟通，巴基斯坦提议宽限两周、特朗普将回应，报道称很快有好消息",
+          "url": "https://wallstreetcn.com/articles/3769420",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[10时27分 ~ 18时40分]"
+          "time_info": "[01时03分 ~ 05时09分]"
         },
         {
           "title": "特朗普：提议美伊联管霍尔木兹海峡，威胁向伊朗供武国家征收50%关税",
@@ -1404,11 +1439,12 @@
           "ranks": [
             10,
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时27分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[10时27分 ~ 19时52分]"
         },
         {
           "title": "脆弱的停火：以色列依旧“搅屎棍”，特朗普还是“来回变”",
@@ -1420,8 +1456,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 18时40分]"
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 19时52分]"
         },
         {
           "title": "外交部回应特朗普：关税战没有赢家！",
@@ -1430,11 +1466,12 @@
           "ranks": [
             4,
             1,
-            2
+            2,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时40分]"
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时52分]"
         },
         {
           "title": "“北约盟友没帮忙，特朗普打算这样惩罚”",
@@ -1484,6 +1521,19 @@
           "time_info": "[12时57分 ~ 16时02分]"
         },
         {
+          "title": "特朗普：美军将“继续驻扎在伊朗境内及其周边”",
+          "url": "https://www.cls.cn/detail/2338861",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时52分]"
+        },
+        {
           "title": "外交部回应特朗普认为是中国促使伊朗同意停火，「中方一直积极致力于促和止战」，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2025238372327723742",
           "source": "知乎",
@@ -1497,27 +1547,29 @@
           "time_info": "[12时57分 ~ 17时17分]"
         },
         {
-          "title": "特朗普：美军将“继续驻扎在伊朗境内及其周边”",
-          "url": "https://www.cls.cn/detail/2338861",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时40分]"
-        },
-        {
           "title": "特朗普：美媒披露的伊方10项停火条款是“假新闻”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32932623",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时02分 ~ 19时52分]"
+        },
+        {
+          "title": "在特朗普2.0任期内炒股竟有秘诀：标普十大涨幅日九个和TACO有关",
+          "url": "https://www.cls.cn/detail/2338928",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时02分 ~ 18时40分]"
+          "time_info": "[17时17分 ~ 19时52分]"
         },
         {
           "title": "北约秘书长吕特：与美国总统特朗普进行了非常坦诚、开放的讨论。",
@@ -1636,16 +1688,16 @@
           "time_info": "[07时59分 ~ 10时27分]"
         },
         {
-          "title": "在特朗普2.0任期内炒股竟有秘诀：标普十大涨幅日九个和TACO有关",
-          "url": "https://www.cls.cn/detail/2338928",
+          "title": "关税战没有赢家！外交部回应特朗普关税言论",
+          "url": "https://www.cls.cn/detail/2339082",
           "source": "财联社热门",
           "ranks": [
-            11,
-            8
+            13,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时40分]"
+          "time_info": "[18时40分 ~ 19时52分]"
         },
         {
           "title": "美国总统特朗普：我们将与伊朗通过闭门会议讨论停火协议的条款。",
@@ -1713,7 +1765,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1784,6 +1836,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "特朗普：10项停战条款是“假新闻”，美军将“继续驻扎在伊朗境内及其周边”",
+          "url": "https://wallstreetcn.com/articles/3769556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "美国共和党参议员格雷厄姆：特朗普总统明白过去的领导人所忽视的，即伊朗绝不能拥有核武器。",
           "url": "https://flash.jin10.com/detail/20260409095703896800",
           "source": "金十数据",
@@ -1793,17 +1856,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
-        },
-        {
-          "title": "关税战没有赢家！外交部回应特朗普关税言论",
-          "url": "https://www.cls.cn/detail/2339082",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "美媒：石油行业抵制特朗普的伊朗和平计划",
@@ -2084,7 +2136,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "伊朗要求以加密货币支付霍尔木兹海峡通行费，每桶原油 1 美元，对航运成本有多大影响？为何要用加密货币？",
@@ -2092,11 +2144,12 @@
           "source": "知乎",
           "ranks": [
             9,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 18时40分]"
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 19时52分]"
         },
         {
           "title": "《哪吒2》票房离第3还有不到0.7亿美元",
@@ -2109,6 +2162,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时57分 ~ 14时20分]"
+        },
+        {
+          "title": "CoreWeave提议发行30亿美元可转换优先票据。",
+          "url": "https://wallstreetcn.com/livenews/3085067",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "美元指数跌超0.7%",
@@ -2232,7 +2296,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -2243,7 +2307,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -2298,7 +2362,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -2347,6 +2411,17 @@
           "time_info": "05时09分"
         },
         {
+          "title": "全球能源咽喉再关闭油轮紧急返航，美媒曝超级油轮过海峡需缴200万美元",
+          "url": "https://wallstreetcn.com/livenews/3085052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "布伦特原油跌幅收窄至8%，现报94.64美元/桶。",
           "url": "https://flash.jin10.com/detail/20260409032407469800",
           "source": "金十数据",
@@ -2367,6 +2442,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时17分"
+        },
+        {
+          "title": "黑莓预计2027年营收5.84亿美元至6.11亿美元，市场预估5.769亿美元。 预计2027年经调整基本每股收益0.15美元至0.19美元，市场预估0.17美元。 预计第一季度营收1.32亿美元至1.40亿美元，市场预估1.307亿美元。 预计第一季度经调整基本每股收益0.02美元至0.03美元，市场预估0.03美元。",
+          "url": "https://wallstreetcn.com/livenews/3085048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "委内瑞拉加大美元出售以遏制汇率贬值",
@@ -2446,6 +2532,17 @@
           "time_info": "17时17分"
         },
         {
+          "title": "CoreWeave美股盘前涨超7%，公司与Meta签署210亿美元AI基础设施协议",
+          "url": "https://wallstreetcn.com/livenews/3085038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
+        },
+        {
           "title": "土耳其财政部长：自伊朗战争爆发以来，土耳其外汇储备减少了487亿美元。",
           "url": "https://flash.jin10.com/detail/20260409162915631800",
           "source": "金十数据",
@@ -2504,7 +2601,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "日本老人在华求职,月薪要5w",
@@ -2515,11 +2612,12 @@
             6,
             7,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 19时52分]"
         },
         {
           "title": "日本73岁老人来中国求职",
@@ -2552,6 +2650,42 @@
           "time_info": "[12时57分 ~ 17时17分]"
         },
         {
+          "title": "日籍男留华安居,笑谈日本烂透",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353000&amp;topic_name=%E6%97%A5%E7%B1%8D%E7%94%B7%E7%95%99%E5%8D%8E%E5%AE%89%E5%B1%85%2C%E7%AC%91%E8%B0%88%E6%97%A5%E6%9C%AC%E7%83%82%E9%80%8F",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时52分]"
+        },
+        {
+          "title": "国防部回应日本部署远程导弹",
+          "url": "https://www.douyin.com/hot/2460761",
+          "source": "抖音",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时52分]"
+        },
+        {
+          "title": "日媒炒作“中文喧哗声”，日学者：没素质的日本人比比皆是",
+          "url": "https://news.ifeng.com/c/8sBW0WWtfmd",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时52分]"
+        },
+        {
           "title": "国防部：日本军事扩张野心暴露无遗",
           "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%98%B2%E9%83%A8%EF%BC%9A%E6%97%A5%E6%9C%AC%E5%86%9B%E4%BA%8B%E6%89%A9%E5%BC%A0%E9%87%8E%E5%BF%83%E6%9A%B4%E9%9C%B2%E6%97%A0%E9%81%97",
           "source": "百度热搜",
@@ -2561,18 +2695,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时02分 ~ 18时40分]"
-        },
-        {
-          "title": "日籍男留华安居,笑谈日本烂透",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353000&amp;topic_name=%E6%97%A5%E7%B1%8D%E7%94%B7%E7%95%99%E5%8D%8E%E5%AE%89%E5%B1%85%2C%E7%AC%91%E8%B0%88%E6%97%A5%E6%9C%AC%E7%83%82%E9%80%8F",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时40分]"
         },
         {
           "title": "日本央行行长植田和男：短期和中期利率明显为负。",
@@ -2656,27 +2778,16 @@
           "time_info": "[06时06分 ~ 07时07分]"
         },
         {
-          "title": "国防部回应日本部署远程导弹",
-          "url": "https://www.douyin.com/hot/2460761",
-          "source": "抖音",
+          "title": "人民日报：日本必须放弃军事化道路",
+          "url": "https://www.toutiao.com/trending/7625838194420776979/",
+          "source": "今日头条",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "日媒炒作“中文喧哗声”，日学者：没素质的日本人比比皆是",
-          "url": "https://news.ifeng.com/c/8sBW0WWtfmd",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            12
+            8,
+            21
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时40分]"
+          "time_info": "[18时40分 ~ 19时52分]"
         },
         {
           "title": "日本考虑就确保石油供应问题支持亚洲“本土”企业。（NHK）",
@@ -2689,17 +2800,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时07分 ~ 07时59分]"
-        },
-        {
-          "title": "人民日报：日本必须放弃军事化道路",
-          "url": "https://www.toutiao.com/trending/7625838194420776979/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "日本央行前执行董事Masaaki Kaizuka称，日本央行本月可能会提高基准利率，以避免在控制通胀方面落后。",
@@ -2763,7 +2863,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -2799,12 +2899,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
+        },
+        {
+          "title": "日本媒体夸孙颖莎是“绝对女王”",
+          "url": "https://www.toutiao.com/trending/7626612431775072299/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "员工离职变AI,上班不能停",
@@ -2815,11 +2926,12 @@
             11,
             13,
             16,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[01时03分 ~ 18时40分]"
+          "appearance_count": 16,
+          "time_info": "[01时03分 ~ 19时52分]"
         },
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -2833,17 +2945,6 @@
           "time_info": "[01时03分 ~ 10时27分]"
         },
         {
-          "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
-          "url": "https://www.zhihu.com/question/2024823845052269102",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时03分 ~ 05时09分]"
-        },
-        {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
           "url": "https://m.thepaper.cn/newsDetail_forward_32926200",
           "source": "澎湃新闻",
@@ -2853,8 +2954,19 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时57分 ~ 18时40分]"
+          "appearance_count": 6,
+          "time_info": "[12时57分 ~ 19时52分]"
+        },
+        {
+          "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
+          "url": "https://www.zhihu.com/question/2024823845052269102",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时03分 ~ 05时09分]"
         },
         {
           "title": "如何看待 Faker 称「非常期待与 AI 对战，我认为人类所拥有的直觉力是 AI 无法完全追赶的」？",
@@ -2867,8 +2979,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时20分 ~ 18时40分]"
+          "appearance_count": 5,
+          "time_info": "[14时20分 ~ 19时52分]"
         },
         {
           "title": "两人用AI洗稿编造车企谣言被抓",
@@ -2880,6 +2992,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时27分 ~ 14时20分]"
+        },
+        {
+          "title": "AI红利和普通人有何关系",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "万斯称十点提案有多个版本 有些像是AI写的",
@@ -2914,6 +3037,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时57分"
+        },
+        {
+          "title": "玩具也要闯闯AI赛道",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "腾讯云发布AI算力、容器服务、EMR相关产品价格调整公告",
@@ -3010,7 +3144,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -3051,7 +3185,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "黄金涨跌逻辑变了",
@@ -3067,13 +3201,26 @@
           "time_info": "[01时03分 ~ 07时59分]"
         },
         {
+          "title": "黄金再反转",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%86%8D%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            26,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时17分 ~ 19时52分]"
+        },
+        {
           "title": "捷克央行在3月增持约2吨黄金储备",
           "url": "https://flash.jin10.com/detail/20260409182225414800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -3101,16 +3248,15 @@
           "time_info": "[03时08分 ~ 04时08分]"
         },
         {
-          "title": "黄金再反转",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E5%86%8D%E5%8F%8D%E8%BD%AC%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "国际现货黄金的暴涨契机仍需等待，央行何时放弃鹰派立场？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260409193847413800",
+          "source": "金十数据",
           "ranks": [
-            29,
-            26
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时17分 ~ 18时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时52分"
         },
         {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.429吨，当前持仓量为1052.99吨。",
@@ -3326,7 +3472,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
@@ -3365,11 +3511,12 @@
           "url": "https://www.toutiao.com/trending/7626368681664626731/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时52分]"
         }
       ]
     },
@@ -3426,11 +3573,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E8%83%BD%E6%8B%AF%E6%95%91%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时52分]"
         }
       ]
     },
@@ -3500,8 +3648,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时59分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[07时59分 ~ 19时52分]"
         }
       ]
     }
