@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T14:53:01.600802+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-04-12T16:02:08.358564+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 76,
+      "match_count": 78,
       "titles": [
         {
           "title": "美伊谈判进行中！伊朗称美国同意在黎巴嫩停火",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 14时53分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 16时02分]"
         },
         {
           "title": "美国 3 月 CPI 创近两年最大涨幅，工厂订单连续第二个月停滞，4 月消费者信心降至历史新低，对此你怎么看？",
@@ -125,11 +125,12 @@
             15,
             16,
             13,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 14时53分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 16时02分]"
         },
         {
           "title": "美媒称数艘美国海军舰船通过霍尔木兹海峡，未与伊朗方面协调，是伊朗战事爆发以来的首次，具体情况如何？",
@@ -155,11 +156,12 @@
             22,
             27,
             20,
-            19
+            19,
+            30
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 13时11分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 16时02分]"
         },
         {
           "title": "美国员工不满薪资纵火烧仓库",
@@ -243,6 +245,30 @@
           "time_info": "[01时57分 ~ 07时01分]"
         },
         {
+          "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
+          "url": "https://wallstreetcn.com/articles/3769753",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时02分]"
+        },
+        {
+          "title": "加总理：军费流向美国的日子已结束",
+          "url": "https://www.toutiao.com/trending/7626818986018177070/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时02分]"
+        },
+        {
           "title": "据伊朗塔斯尼姆通讯社：当前这一轮谈判可能是与美国达成框架协议的“最后机会”。",
           "url": "https://flash.jin10.com/detail/20260412040338819800",
           "source": "金十数据",
@@ -290,27 +316,66 @@
           "time_info": "[05时01分 ~ 10时02分]"
         },
         {
-          "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
-          "url": "https://wallstreetcn.com/articles/3769753",
-          "source": "华尔街见闻",
+          "title": "伊朗不急于再与美国进行谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%8D%E6%80%A5%E4%BA%8E%E5%86%8D%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
           "ranks": [
-            2,
-            1
+            6,
+            12,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时02分]"
         },
         {
-          "title": "加总理：军费流向美国的日子已结束",
-          "url": "https://www.toutiao.com/trending/7626818986018177070/",
-          "source": "今日头条",
+          "title": "“教皇和美国总统面临数十年来最尖锐分歧”",
+          "url": "https://news.ifeng.com/c/8sG2M53zfCH",
+          "source": "凤凰网",
           "ranks": [
-            2
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时02分]"
+        },
+        {
+          "title": "两次谈判均背信偷袭 美国还有谁敢信",
+          "url": "https://www.toutiao.com/trending/7626724495856336902/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时02分]"
+        },
+        {
+          "title": "美国副总统万斯：美伊谈判未达成共识，将返回美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954111",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时02分]"
+        },
+        {
+          "title": "伊朗消息人士称美国找借口退出谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%89%BE%E5%80%9F%E5%8F%A3%E9%80%80%E5%87%BA%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时02分]"
         },
         {
           "title": "据MS NOW：伊朗官员表示，他们对谈判充满信心，并相信谈判进展顺利，美国正在倾听他们的立场。",
@@ -417,18 +482,6 @@
           "time_info": "[06时26分 ~ 10时02分]"
         },
         {
-          "title": "伊朗不急于再与美国进行谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%B8%8D%E6%80%A5%E4%BA%8E%E5%86%8D%E4%B8%8E%E7%BE%8E%E5%9B%BD%E8%BF%9B%E8%A1%8C%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 14时53分]"
-        },
-        {
           "title": "据伊朗国家电视台驻伊斯兰堡记者报道，伊朗与美国在谈判中正就分歧进行最后弥合。",
           "url": "https://flash.jin10.com/detail/20260412012445428800",
           "source": "金十数据",
@@ -484,39 +537,16 @@
           "time_info": "[05时39分 ~ 07时43分]"
         },
         {
-          "title": "“教皇和美国总统面临数十年来最尖锐分歧”",
-          "url": "https://news.ifeng.com/c/8sG2M53zfCH",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 14时53分]"
-        },
-        {
-          "title": "两次谈判均背信偷袭 美国还有谁敢信",
-          "url": "https://www.toutiao.com/trending/7626724495856336902/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 14时53分]"
-        },
-        {
-          "title": "美国副总统万斯：美伊谈判未达成共识，将返回美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32954111",
+          "title": "美国副总统万斯离开巴基斯坦，伊朗代表团将于12日离开",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32954265",
           "source": "澎湃新闻",
           "ranks": [
-            17,
-            15
+            18,
+            16
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时10分 ~ 14时53分]"
+          "time_info": "[14时52分 ~ 16时02分]"
         },
         {
           "title": "伊朗称美国同意在黎巴嫩停火",
@@ -530,17 +560,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时34分 ~ 07时43分]"
-        },
-        {
-          "title": "伊朗消息人士称美国找借口退出谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%B6%88%E6%81%AF%E4%BA%BA%E5%A3%AB%E7%A7%B0%E7%BE%8E%E5%9B%BD%E6%89%BE%E5%80%9F%E5%8F%A3%E9%80%80%E5%87%BA%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 14时53分]"
         },
         {
           "title": "白宫高级官员声称：美国与伊朗的磋商仍在继续。（彭博）",
@@ -567,6 +586,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 01时57分]"
+        },
+        {
+          "title": "美国纽约中央车站发生暴力事件",
+          "url": "https://www.toutiao.com/trending/7627512340422574122/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗与美国代表团正就谈判文本进行交换。",
@@ -621,6 +651,19 @@
           "time_info": "[01时27分 ~ 02时41分]"
         },
         {
+          "title": "伊朗消息人士称美国寻找借口退出谈判",
+          "url": "https://wallstreetcn.com/livenews/3086328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 16时02分]"
+        },
+        {
           "title": "美国中央司令部：两艘美军军舰通过霍尔木兹海峡并在波斯湾执行任务。",
           "url": "https://flash.jin10.com/detail/20260412004150345800",
           "source": "金十数据",
@@ -660,6 +703,19 @@
           "time_info": "[01时27分 ~ 02时41分]"
         },
         {
+          "title": "美国谈判代表团离开巴基斯坦",
+          "url": "https://wallstreetcn.com/livenews/3086321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            20,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 16时02分]"
+        },
+        {
           "title": "伊朗美国巴基斯坦三方会谈开始举行",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%BE%8E%E5%9B%BD%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88%E5%BC%80%E5%A7%8B%E4%B8%BE%E8%A1%8C",
           "source": "百度热搜",
@@ -671,6 +727,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 01时57分]"
+        },
+        {
+          "title": "万斯：谈判尚未取得共识 将返回美国",
+          "url": "https://wallstreetcn.com/livenews/3086314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 16时02分]"
         },
         {
           "title": "据伊朗法尔斯通讯社援引其记者报道称，在最新一轮谈判中，伊朗与美国未能就双方分歧达成共识。",
@@ -753,18 +822,6 @@
           "time_info": "10时02分"
         },
         {
-          "title": "伊朗消息人士称美国寻找借口退出谈判",
-          "url": "https://wallstreetcn.com/livenews/3086328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时53分]"
-        },
-        {
           "title": "据伊朗媒体：伊朗与美国在伊斯兰堡的面对面会谈结束，双方开始就关键问题交换书面文本。",
           "url": "https://flash.jin10.com/detail/20260412003743072800",
           "source": "金十数据",
@@ -777,18 +834,6 @@
           "time_info": "[01时27分 ~ 01时57分]"
         },
         {
-          "title": "美国谈判代表团离开巴基斯坦",
-          "url": "https://wallstreetcn.com/livenews/3086321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时53分]"
-        },
-        {
           "title": "据伊朗塔斯尼姆通讯社：伊朗与美国专家团队正在交换文本文件。",
           "url": "https://flash.jin10.com/detail/20260412003519255800",
           "source": "金十数据",
@@ -799,29 +844,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 01时57分]"
-        },
-        {
-          "title": "美国副总统万斯离开巴基斯坦，伊朗代表团将于12日离开",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32954265",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
-        },
-        {
-          "title": "万斯：谈判尚未取得共识 将返回美国",
-          "url": "https://wallstreetcn.com/livenews/3086314",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时53分]"
         },
         {
           "title": "3名伊朗公民在美国被捕",
@@ -857,6 +879,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时27分]"
+        },
+        {
+          "title": "美国银行：中东冲击范围广泛但不均衡",
+          "url": "https://flash.jin10.com/detail/20260412151940937800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         },
         {
           "title": "美国副总统万斯将在伊斯兰堡召开新闻发布会。",
@@ -1005,8 +1038,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 14时53分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 16时02分]"
         },
         {
           "title": "仅3国掏钱，170亿就凑了个零头，特朗普的“和平委员会”要黄？",
@@ -1061,11 +1094,12 @@
           "url": "https://wallstreetcn.com/articles/3769751",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时02分]"
         },
         {
           "title": "特朗普、佩泽希齐扬、内塔尼亚胡，同日表态",
@@ -1075,8 +1109,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时02分]"
         },
         {
           "title": "特朗普：是否与伊朗达成协议对我来说无关紧要",
@@ -1196,11 +1230,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 16时02分]"
         },
         {
           "title": "伊朗战争丨特朗普：若谈判不顺，美国准备好“重启”",
@@ -1260,6 +1295,18 @@
           "time_info": "[13时10分 ~ 13时11分]"
         },
         {
+          "title": "美伊谈判结束后 特朗普再提欧洲",
+          "url": "https://flash.jin10.com/detail/20260412125636392800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 16时02分]"
+        },
+        {
           "title": "特朗普：若与伊谈判进展不顺 美国已准备好“重启”",
           "url": "https://wallstreetcn.com/livenews/3086245",
           "source": "华尔街见闻-快讯",
@@ -1270,17 +1317,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时27分]"
-        },
-        {
-          "title": "美伊谈判结束后 特朗普再提欧洲",
-          "url": "https://flash.jin10.com/detail/20260412125636392800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
         },
         {
           "title": "美媒：美方谈判团队与特朗普至少六次通话 还与多名美政府官员进行了沟通",
@@ -1370,11 +1406,12 @@
           "ranks": [
             20,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 16时02分]"
         },
         {
           "title": "让AI与AI互相聊天会聊出什么",
@@ -1385,8 +1422,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时10分 ~ 14时53分]"
+          "appearance_count": 6,
+          "time_info": "[13时10分 ~ 16时02分]"
         },
         {
           "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
@@ -1401,6 +1438,18 @@
           "time_info": "[07时42分 ~ 10时02分]"
         },
         {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260412130705252800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时53分 ~ 16时02分]"
+        },
+        {
           "title": "孩子用 AI 写作文，我该夸他会用新科技，还是得拆穿他是在「作弊」？",
           "url": "https://www.zhihu.com/question/2002055091918697271",
           "source": "知乎",
@@ -1411,17 +1460,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时27分 ~ 01时57分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/D4supSq6s7-gSzJkAz87N.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260412130705252800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时53分"
         },
         {
           "title": "法律角度解析AI炼化真人",
@@ -1438,7 +1476,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "女子从日本背回244本淫秽漫画获刑",
@@ -1486,8 +1524,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 14时53分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 16时02分]"
         },
         {
           "title": "日本3月机床订单额增长28% 海外订单增40%",
@@ -1495,11 +1533,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时11分 ~ 14时53分]"
+          "appearance_count": 3,
+          "time_info": "[13时11分 ~ 16时02分]"
         },
         {
           "title": "日本一企业推出“活寄生虫”笔",
@@ -1512,6 +1551,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时34分 ~ 01时57分]"
+        },
+        {
+          "title": "媒体：美国一收缩日本就哆嗦",
+          "url": "https://www.toutiao.com/trending/7627668470599172132/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
         }
       ]
     },
@@ -1525,11 +1575,24 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 16时02分]"
+        },
+        {
+          "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」token，将如何影响市场格局？",
+          "url": "https://www.zhihu.com/question/2025491195443311364",
+          "source": "知乎",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时52分 ~ 16时02分]"
         },
         {
           "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」词元，将如何影响市场格局？",
@@ -1541,17 +1604,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时10分 ~ 13时11分]"
-        },
-        {
-          "title": "小米推出 MiMo 大模型订阅套餐，罗福莉称不想「贱卖」token，将如何影响市场格局？",
-          "url": "https://www.zhihu.com/question/2025491195443311364",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 14时53分]"
         }
       ]
     },
@@ -1568,8 +1620,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时02分 ~ 14时53分]"
+          "appearance_count": 7,
+          "time_info": "[10时02分 ~ 16时02分]"
         },
         {
           "title": "黄金投资者周报上新！",
@@ -1611,8 +1663,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时34分 ~ 14时53分]"
+          "appearance_count": 19,
+          "time_info": "[00时34分 ~ 16时02分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -1626,6 +1678,34 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时34分 ~ 10时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "沙特阿拉伯股市指数早盘下跌0.5%。",
+          "url": "https://flash.jin10.com/detail/20260412150154102800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
+        },
+        {
+          "title": "卡塔尔股市指数早盘下跌1%。",
+          "url": "https://flash.jin10.com/detail/20260412144020402800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时02分"
         }
       ]
     },
