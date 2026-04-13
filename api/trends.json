@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T16:28:08.184799+08:00",
-  "total_titles_processed": 1125,
+  "generated_at": "2026-04-13T18:36:12.113525+08:00",
+  "total_titles_processed": 1280,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "伊美14小时谈判“无果”但12日继续，伊朗拒绝美方“共管霍尔木兹海峡”，特朗普称“不在意是否达成协议”",
@@ -56,8 +56,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 16时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时42分 ~ 18时36分]"
         },
         {
           "title": "特朗普威胁：如果伊朗拒绝妥协，将控制霍尔木兹海峡打击伊朗经济",
@@ -70,6 +70,18 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[00时42分 ~ 14时14分]"
+        },
+        {
+          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2026779173369246174",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时02分 ~ 18时36分]"
         },
         {
           "title": "特朗普：将调集更多扫雷艇前往霍尔木兹海峡",
@@ -88,6 +100,33 @@
           "time_info": "[02时03分 ~ 06时39分]"
         },
         {
+          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
+          "url": "https://wallstreetcn.com/articles/3769785",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 18时36分]"
+        },
+        {
+          "title": "特朗普：今晚10点封锁伊朗，大卖美国石油",
+          "url": "https://www.cls.cn/detail/2341979",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时14分 ~ 18时36分]"
+        },
+        {
           "title": "特朗普：不允许伊朗通过出售石油赚钱",
           "url": "https://wallstreetcn.com/livenews/3086458",
           "source": "华尔街见闻-快讯",
@@ -103,16 +142,28 @@
           "time_info": "[00时42分 ~ 04时39分]"
         },
         {
-          "title": "美伊谈判刚不欢而散，特朗普就下令海军封锁霍尔木兹海峡，有何意图？要效仿委内瑞拉模式吗？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2026779173369246174",
-          "source": "知乎",
+          "title": "停火岌岌可危？特朗普被曝考虑恢复对伊朗有限军事打击",
+          "url": "https://www.cls.cn/detail/2341889",
+          "source": "财联社热门",
           "ranks": [
             7,
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[08时02分 ~ 16时28分]"
+          "time_info": "[14时14分 ~ 18时36分]"
+        },
+        {
+          "title": "美国总统特朗普：封锁伊朗后美国将能大卖石油",
+          "url": "https://www.cls.cn/detail/2342019",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时36分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗首席谈判代表卡利巴夫就美国总统特朗普的新威胁表示，此类威胁对伊朗民族毫无作用。",
@@ -141,6 +192,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时58分 ~ 16时28分]"
+        },
+        {
+          "title": "凤凰女记者：面对特朗普封锁海峡威胁，伊朗民间不以为然",
+          "url": "https://news.ifeng.com/c/8sI4OzcFPQr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时36分]"
         },
         {
           "title": "伊朗称特朗普威胁封锁霍尔木兹荒谬",
@@ -187,29 +249,61 @@
           "time_info": "[00时42分 ~ 03时59分]"
         },
         {
-          "title": "贝森特告知特朗普：如果战争持续8-12周，美国面临油价上涨风险，亚欧将受影响最大",
-          "url": "https://wallstreetcn.com/articles/3769785",
-          "source": "华尔街见闻",
+          "title": "特朗普重申将封锁进出伊朗港口船只，中方回应",
+          "url": "https://news.ifeng.com/c/8sI7b9TiMxd",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            7,
             6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时58分 ~ 16时28分]"
+          "time_info": "[16时27分 ~ 18时36分]"
         },
         {
-          "title": "特朗普：今晚10点封锁伊朗，大卖美国石油",
-          "url": "https://www.cls.cn/detail/2341979",
-          "source": "财联社热门",
+          "title": "中方回应“特朗普称将封锁伊朗港口”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            5,
-            2
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时36分]"
+        },
+        {
+          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
+          "url": "https://wallstreetcn.com/articles/3769786",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时36分]"
+        },
+        {
+          "title": "中方回应特朗普威胁加征关税",
+          "url": "https://www.toutiao.com/trending/7628143442782064147/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时36分]"
+        },
+        {
+          "title": "中方回应特朗普重申将封锁伊朗港口",
+          "url": "https://www.toutiao.com/trending/7628108023306718761/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时36分]"
         },
         {
           "title": "美国总统特朗普：石油价格一开始可能降不下来，但最终还是会跌的。 原油价格与汽油价格可能会在中期选举之前下跌，也可能会略微更高。 坦率来说，汽油价格涨势并没有我（原来）想象的那么多。 （美国和以色列发动的伊朗）战争爆发以来，股市跌幅并不是非常大。",
@@ -238,16 +332,15 @@
           "time_info": "[00时42分 ~ 03时13分]"
         },
         {
-          "title": "停火岌岌可危？特朗普被曝考虑恢复对伊朗有限军事打击",
-          "url": "https://www.cls.cn/detail/2341889",
-          "source": "财联社热门",
+          "title": "伊朗战争丨教皇回击特朗普：我并不惧怕",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 16时28分]"
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "美伊对峙再升级！特朗普罕见承认：11月前油价或维持高位",
@@ -260,28 +353,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 14时14分]"
-        },
-        {
-          "title": "美国总统特朗普：封锁伊朗后美国将能大卖石油",
-          "url": "https://www.cls.cn/detail/2342019",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
-        },
-        {
-          "title": "凤凰女记者：面对特朗普封锁海峡威胁，伊朗民间不以为然",
-          "url": "https://news.ifeng.com/c/8sI4OzcFPQr",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
         },
         {
           "title": "前CIA局长呼吁罢免特朗普：这人显然精神失常",
@@ -320,28 +391,6 @@
           "time_info": "06时39分"
         },
         {
-          "title": "中方回应“特朗普称将封锁伊朗港口”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%B0%81%E9%94%81%E4%BC%8A%E6%9C%97%E6%B8%AF%E5%8F%A3%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
-        },
-        {
-          "title": "特朗普重申将封锁进出伊朗港口船只，中方回应",
-          "url": "https://news.ifeng.com/c/8sI7b9TiMxd",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
-        },
-        {
           "title": "美媒：特朗普考虑恢复对伊朗的有限军事打击",
           "url": "https://news.ifeng.com/c/8sHT0I0yzy3",
           "source": "凤凰网",
@@ -352,6 +401,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时58分 ~ 14时14分]"
+        },
+        {
+          "title": "美媒鼓噪：特朗普让美国利益遭四连击，中俄获利",
+          "url": "https://news.ifeng.com/c/8sI5EiH0EGq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
+          "url": "https://www.cls.cn/detail/2342208",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "卡尔森：特朗普和斯塔默是以色列利益的奴隶",
@@ -387,26 +458,15 @@
           "time_info": "14时14分"
         },
         {
-          "title": "特朗普“封锁霍尔木兹”，高盛：股市迎来“最终决战”",
-          "url": "https://wallstreetcn.com/articles/3769786",
-          "source": "华尔街见闻",
+          "title": "特朗普重申将封锁进出伊朗港口船只 中方回应",
+          "url": "https://www.cls.cn/detail/2342207",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
-        },
-        {
-          "title": "中方回应特朗普威胁加征关税",
-          "url": "https://www.toutiao.com/trending/7628143442782064147/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "特朗普放狠话全面封锁霍尔木兹，美军却说只堵伊朗港口，油价暴拉10%",
@@ -421,15 +481,15 @@
           "time_info": "[07时30分 ~ 08时02分]"
         },
         {
-          "title": "中方回应特朗普重申将封锁伊朗港口",
-          "url": "https://www.toutiao.com/trending/7628108023306718761/",
-          "source": "今日头条",
+          "title": "特朗普：将封锁伊朗",
+          "url": "https://www.douyin.com/hot/2464515",
+          "source": "抖音",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "特朗普说海峡全封 美军说只封伊朗港口船只",
@@ -522,7 +582,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -555,7 +615,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -615,13 +675,24 @@
           "time_info": "14时14分"
         },
         {
+          "title": "全球屏息！今晚10点，特朗普霍尔木兹“拦截令”将生效",
+          "url": "https://flash.jin10.com/detail/20260413180913606800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
           "title": "特朗普威胁若中国向伊朗供武就加征关税，外交部：关税战没有赢家",
           "url": "https://wallstreetcn.com/livenews/3086760",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -662,7 +733,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 53,
+      "match_count": 55,
       "titles": [
         {
           "title": "美伊谈判“无果而终”，伊朗称“由于美方贪婪和野心”，万斯表态“已展现灵活和诚意，将返回美国”",
@@ -721,11 +792,12 @@
             9,
             24,
             17,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时42分 ~ 08时02分]"
+          "appearance_count": 17,
+          "time_info": "[00时42分 ~ 18时36分]"
         },
         {
           "title": "美国加州州长热门人选涉嫌性侵遭调查",
@@ -799,6 +871,20 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[05时29分 ~ 08时02分]"
+        },
+        {
+          "title": "当大男子主义色彩的美国防长成为战争推手",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32955808",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 18时36分]"
         },
         {
           "title": "伊朗总统办公室声明：总统与俄罗斯总统普京通电话。 （伊朗）全面准备好（与美国）达成“平衡且公平的”协议。",
@@ -947,17 +1033,15 @@
           "time_info": "[05时29分 ~ 07时30分]"
         },
         {
-          "title": "当大男子主义色彩的美国防长成为战争推手",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32955808",
-          "source": "澎湃新闻",
+          "title": "伊朗申请不去美国踢世界杯，国际足协拒绝",
+          "url": "https://news.ifeng.com/c/8sI8apkUful",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            15,
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[11时58分 ~ 16时28分]"
+          "time_info": "[16时27分 ~ 18时36分]"
         },
         {
           "title": "美国高级官员表示，伊朗还拒绝了停止资助哈马斯、真主党、胡塞武装，以及全面开放霍尔木兹海峡的呼吁。",
@@ -1086,7 +1170,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1124,15 +1208,15 @@
           "time_info": "14时14分"
         },
         {
-          "title": "伊朗申请不去美国踢世界杯，国际足协拒绝",
-          "url": "https://news.ifeng.com/c/8sI8apkUful",
-          "source": "凤凰网",
+          "title": "德国外交部发言人：（就伊朗问题）我们假设的是美国对伊朗港口实施封锁，而非对霍尔木兹海峡实施封锁。",
+          "url": "https://flash.jin10.com/detail/20260413182336106800",
+          "source": "金十数据",
           "ranks": [
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "揭秘美国重返月球难点",
@@ -1204,6 +1288,17 @@
           "time_info": "[00时42分 ~ 01时31分]"
         },
         {
+          "title": "欧洲多国罕见对美国说“不”",
+          "url": "https://www.baidu.com/s?wd=%E6%AC%A7%E6%B4%B2%E5%A4%9A%E5%9B%BD%E7%BD%95%E8%A7%81%E5%AF%B9%E7%BE%8E%E5%9B%BD%E8%AF%B4%E2%80%9C%E4%B8%8D%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
           "title": "古巴：有可能与美国对话并达成协议",
           "url": "https://www.toutiao.com/trending/7627850365384130614/",
           "source": "今日头条",
@@ -1221,7 +1316,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1243,7 +1338,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1328,7 +1423,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 18,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗议长卡利巴夫：好好享受当前的油价水平吧。 在所谓的‘封锁’之下，很快你（指美国）就会开始怀念每加仑4-5美元的汽油价格。",
@@ -1453,6 +1548,28 @@
           "time_info": "14时14分"
         },
         {
+          "title": "美伊谈判无果而终：油价重返100美元上方 亚太股市普遍走低",
+          "url": "https://www.cls.cn/detail/2341832",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
+          "title": "特朗普“封锁令”倒计时！霍尔木兹航运再陷中断 150美元油价警报拉响",
+          "url": "https://www.cls.cn/detail/2342301",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
           "title": "现货白银日内大跌4.00%，现报72.72美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260413062344213800",
           "source": "金十数据",
@@ -1487,6 +1604,28 @@
           "time_info": "14时14分"
         },
         {
+          "title": "瑞银集团：上调2027年3月底布伦特原油价格预期至每桶85美元。",
+          "url": "https://flash.jin10.com/detail/20260413182206950800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "瑞银集团：上调布伦特原油价格预测，6月底为每桶100美元，9月底为每桶95美元，12月底为每桶90美元。",
+          "url": "https://flash.jin10.com/detail/20260413182141927800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
           "title": "美元/匈牙利福林下跌1.8%，至314.18；欧元/匈牙利福林下跌2.1%，至367.14。",
           "url": "https://flash.jin10.com/detail/20260413112648660800",
           "source": "金十数据",
@@ -1496,6 +1635,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时58分"
+        },
+        {
+          "title": "摩根大通：预计2026年下半年铝价平均约为每吨3500美元。",
+          "url": "https://flash.jin10.com/detail/20260413181958105800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
+          "title": "摩根大通：预计随着供应中断的规模在现货市场日益显现，2026年第二季度铝价平均为每吨3800美元。",
+          "url": "https://flash.jin10.com/detail/20260413181947324800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "匈牙利福林兑美元创2022年2月23日来最高水平。",
@@ -1509,13 +1670,24 @@
           "time_info": "11时58分"
         },
         {
+          "title": "摩根大通：维持基准观点，认为现货铝价在未来几个月内仍有上行潜力，有望达到每吨4000美元及以上。",
+          "url": "https://flash.jin10.com/detail/20260413181919678800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
           "title": "贝克休斯以约14.5亿美元价格出售旗下Waygate Technologies",
           "url": "https://wallstreetcn.com/livenews/3086771",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1540,12 +1712,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "摩根士丹利：维持布伦特原油的即期价格预测不变——2026年第二季度为110美元/桶，第三季度为100美元/桶，预计2027年将稳定在80美元/桶左右。 我们的假设是，霍尔木兹海峡的原油出口在4月仍然低迷，5月至7月将收复约70%的降幅，直到10月才会回到稳定状态。",
+          "url": "https://wallstreetcn.com/livenews/3086854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "san值狂掉,日本活虫笔走红",
@@ -1555,11 +1738,12 @@
             6,
             13,
             14,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 16时28分]"
+          "appearance_count": 21,
+          "time_info": "[00时42分 ~ 18时36分]"
         },
         {
           "title": "日本漠视民众,控产死保粮价",
@@ -1716,7 +1900,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1730,6 +1914,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时14分"
+        },
+        {
+          "title": "日本首相高市早苗：将重点关注稳步降低债务占GDP比重。",
+          "url": "https://wallstreetcn.com/livenews/3086862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "日本30年期国债收益率上行5个基点至3.675%。",
@@ -1746,7 +1941,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "国产AI模型为何大多免费",
@@ -1818,6 +2013,19 @@
           "time_info": "[00时42分 ~ 06时39分]"
         },
         {
+          "title": "太乙真人配音演员声音被 AI 偷走，合作告吹，当声音被轻易复制，配音演员该如何保护自己的饭碗与权益？",
+          "url": "https://www.zhihu.com/question/2026361952214017900",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时58分 ~ 18时36分]"
+        },
+        {
           "title": "多款AI应用存在涉黄生成漏洞",
           "url": "https://www.baidu.com/s?wd=%E5%A4%9A%E6%AC%BEAI%E5%BA%94%E7%94%A8%E5%AD%98%E5%9C%A8%E6%B6%89%E9%BB%84%E7%94%9F%E6%88%90%E6%BC%8F%E6%B4%9E",
           "source": "百度热搜",
@@ -1831,16 +2039,17 @@
           "time_info": "[03时13分 ~ 07时30分]"
         },
         {
-          "title": "太乙真人配音演员声音被 AI 偷走，合作告吹，当声音被轻易复制，配音演员该如何保护自己的饭碗与权益？",
-          "url": "https://www.zhihu.com/question/2026361952214017900",
-          "source": "知乎",
+          "title": "央视重锤!AI造黄产业链被扒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
+          "source": "贴吧",
           "ranks": [
-            5,
-            4
+            3,
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时58分 ~ 16时28分]"
+          "appearance_count": 5,
+          "time_info": "[14时14分 ~ 18时36分]"
         },
         {
           "title": "战争间歇期的四个缩圈方向：AI硬件、资源、周期涨价和红利",
@@ -1868,16 +2077,27 @@
           "time_info": "[11时58分 ~ 16时28分]"
         },
         {
-          "title": "央视重锤!AI造黄产业链被扒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
-          "source": "贴吧",
+          "title": "马上评｜谁来斩断AI“造黄”产业链",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            4
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时14分 ~ 16时28分]"
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 18时36分]"
+        },
+        {
+          "title": "守护未成年,AI伴侣全禁售",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "央视曝光AI造黄产业链",
@@ -1890,17 +2110,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时02分 ~ 14时14分]"
-        },
-        {
-          "title": "马上评｜谁来斩断AI“造黄”产业链",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32957872",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 16时28分]"
         },
         {
           "title": "苹果AI眼镜细节曝光",
@@ -1920,7 +2129,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -1939,7 +2148,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "四国为何抛售黄金",
@@ -1958,6 +2167,17 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时42分 ~ 07时30分]"
+        },
+        {
+          "title": "美国“封锁”逼近，布油破百，美股盘前科技股普跌，黄金回调，铝价四年新高",
+          "url": "https://wallstreetcn.com/articles/3769784",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         },
         {
           "title": "黄金、美债双双大跌！中东局势恐慌下市场再现“避险资产不避险”",
@@ -2082,7 +2302,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
@@ -2128,7 +2348,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -2139,7 +2359,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         }
