@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T21:13:40.321082+08:00",
-  "total_titles_processed": 1768,
+  "generated_at": "2026-04-15T22:53:19.490214+08:00",
+  "total_titles_processed": 1908,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 132,
+      "match_count": 155,
       "titles": [
         {
           "title": "新华社18秒视频让美国前高官焦虑了",
@@ -17,6 +17,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时11分 ~ 08时06分]"
+        },
+        {
+          "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
+          "url": "https://www.zhihu.com/question/2027356246810869800",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时47分 ~ 22时53分]"
         },
         {
           "title": "美国正在“阻击”中国车",
@@ -44,19 +57,6 @@
           "time_info": "[00时11分 ~ 08时06分]"
         },
         {
-          "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
-          "url": "https://www.zhihu.com/question/2027356246810869800",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 21时13分]"
-        },
-        {
           "title": "通胀全面低于预期！美国3月PPI同比上涨4%，创三年最高纪录，环比涨幅收窄至0.5%",
           "url": "https://wallstreetcn.com/articles/3769945",
           "source": "华尔街见闻",
@@ -79,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时13分 ~ 21时13分]"
+          "appearance_count": 6,
+          "time_info": "[17时13分 ~ 22时53分]"
         },
         {
           "title": "伊朗将使用替代港口绕开美国封锁",
@@ -94,6 +94,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[17时13分 ~ 21时13分]"
+        },
+        {
+          "title": "美国将退还超1万亿元关税",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%80%80%E8%BF%98%E8%B6%851%E4%B8%87%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 22时53分]"
+        },
+        {
+          "title": "美国将退还超1万亿元关税",
+          "url": "https://www.toutiao.com/trending/7628928333723471387/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时53分]"
         },
         {
           "title": "委内瑞拉代总统罗德里格斯：美国颁发的许可并不能提供长期的法律保障，对委内瑞拉的制裁应当予以解除。将倾听石油公司关于能源行业的建议和意见。",
@@ -135,15 +159,52 @@
         },
         {
           "title": "美国将退还超1万亿元关税",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E9%80%80%E8%BF%98%E8%B6%851%E4%B8%87%E4%BA%BF%E5%85%83%E5%85%B3%E7%A8%8E%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "url": "https://news.ifeng.com/c/8sLeD7iwCpY",
+          "source": "凤凰网",
           "ranks": [
-            10,
-            1
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 21时13分]"
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 22时53分]"
+        },
+        {
+          "title": "伊朗军方回应美国海上封锁",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 22时53分]"
+        },
+        {
+          "title": "伊朗总统N连问美国",
+          "url": "https://www.toutiao.com/trending/7628015770903068715/",
+          "source": "今日头条",
+          "ranks": [
+            23,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 22时53分]"
+        },
+        {
+          "title": "伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁，能破解美国围堵吗？",
+          "url": "https://www.zhihu.com/question/2027778593300719600",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 22时53分]"
         },
         {
           "title": "美国副总统称对当前美伊局势进展“感到乐观”",
@@ -156,17 +217,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时10分 ~ 08时06分]"
-        },
-        {
-          "title": "美国将退还超1万亿元关税",
-          "url": "https://www.toutiao.com/trending/7628928333723471387/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
         },
         {
           "title": "美国财政部：允许销售伊朗石油的短期许可在未来几天到期后将不再续期。",
@@ -191,6 +241,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "美国参议院多数党领袖约翰·图恩（John Thune）：结束对美联储主席鲍威尔的调查符合所有人的利益。",
+          "url": "https://wallstreetcn.com/livenews/3088622",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "美国财长贝森特：关税可能在7月初恢复到此前水平。",
           "url": "https://flash.jin10.com/detail/20260415053154508800",
           "source": "金十数据",
@@ -213,6 +274,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时33分]"
+        },
+        {
+          "title": "美国被曝将向中东增派数千名士兵，施压伊朗达成协议",
+          "url": "https://news.ifeng.com/c/8sLqRxtsfNo",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "据福克斯新闻：福克斯新闻（Fox）报道：美国众议院穆伦纳尔（Moolenaar）要求美国国防部长赫格塞斯向空客公司施压，涉及卫星图像问题。",
@@ -307,16 +379,15 @@
           "time_info": "19时53分"
         },
         {
-          "title": "伊朗军方回应美国海上封锁",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81",
-          "source": "百度热搜",
+          "title": "英国财政大臣Reeves：（美国和以色列发动伊朗战争之前）霍尔木兹海峡本来是开放的，我们希望恢复原状。",
+          "url": "https://wallstreetcn.com/livenews/3088620",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            16
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 21时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "委内瑞拉代总统Delcy Rodriguez：与美国需要长期的能源合作关系。 美国的许可（许可证）并不能提供长期的法律保障，应当取消对委内瑞拉的制裁。 目前正在听取石油公司的建议，以及对能源行业的意见。",
@@ -423,17 +494,6 @@
           "time_info": "[07时10分 ~ 08时06分]"
         },
         {
-          "title": "美国将退还超1万亿元关税",
-          "url": "https://news.ifeng.com/c/8sLeD7iwCpY",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 21时13分]"
-        },
-        {
           "title": "美国国务卿鲁比奥：与埃及外长阿卜杜拉提进行了会面，讨论伊朗停火、推进加沙20点计划以及结束苏丹冲突的持续努力。我们还探讨了加强美埃经济和商业关系的方法。",
           "url": "https://flash.jin10.com/detail/20260415051806594800",
           "source": "金十数据",
@@ -514,18 +574,6 @@
           "time_info": "[07时10分 ~ 08时06分]"
         },
         {
-          "title": "伊朗总统N连问美国",
-          "url": "https://www.toutiao.com/trending/7628015770903068715/",
-          "source": "今日头条",
-          "ranks": [
-            23,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 21时13分]"
-        },
-        {
           "title": "美国白宫国家经济委员会主任哈塞特：我们今年绝对可以实现4%的增长。",
           "url": "https://flash.jin10.com/detail/20260415044500788800",
           "source": "金十数据",
@@ -548,17 +596,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时10分 ~ 08时06分]"
-        },
-        {
-          "title": "伊朗将使用替代港口绕开美国对霍尔木兹海峡的封锁，能破解美国围堵吗？",
-          "url": "https://www.zhihu.com/question/2027778593300719600",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 21时13分]"
         },
         {
           "title": "美国至4月10日当周API投产原油量 -14.5万桶/日，前值7.1万桶/日。",
@@ -792,6 +829,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "报道：美国尚未同意延长停火协议",
+          "url": "https://wallstreetcn.com/articles/3770034",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "美国参议院共和党领袖图恩：计划下周就国土安全部支出大纲进行投票。",
           "url": "https://flash.jin10.com/detail/20260415022810360800",
           "source": "金十数据",
@@ -803,6 +851,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "美国参议院共和党领袖图恩：结束对美联储主席鲍威尔的调查符合大家的最佳利益。",
+          "url": "https://flash.jin10.com/detail/20260415224549983800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "美联储理事Barr并未置评FOMC货币政策或美国经济。",
           "url": "https://wallstreetcn.com/livenews/3087893",
           "source": "华尔街见闻-快讯",
@@ -812,6 +871,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：美国石油出口量跃升至创纪录高位。",
+          "url": "https://flash.jin10.com/detail/20260415224438809800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "据报道，伊朗军方警告美国不要继续海上封锁。 伊朗军方称持续封锁将破坏停火。如果封锁持续，伊朗将不允许进出海湾地区的货物运输。",
@@ -864,9 +934,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "伊朗外交部说不可能“全盘接受”美国方案",
+          "url": "https://wallstreetcn.com/livenews/3088610",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国银行首席执行官：宏观经济背景依然积极。",
@@ -875,7 +956,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -897,7 +978,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -924,6 +1005,17 @@
           "time_info": "08时06分"
         },
         {
+          "title": "美国能源信息署（EIA）：美国最近一周的原油净进口量降至历史最低水平。",
+          "url": "https://flash.jin10.com/detail/20260415223812123800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "美国财政部拍卖六周期国债，得标利率3.630%，投标倍数3.04。 拍卖52周期国债，得标利率3.560%，投标倍数3.21。",
           "url": "https://wallstreetcn.com/livenews/3087858",
           "source": "华尔街见闻-快讯",
@@ -941,9 +1033,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "美国与伊朗在4月14日洽谈中取得进展，在结束战争方面更加接近达成一个框架协议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3088608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国至4月14日6周国债竞拍-投标倍数 3.04，前值3.57。",
@@ -1007,9 +1110,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "美国EIA原油净进口创历史新低，总体出口创历史新高",
+          "url": "https://wallstreetcn.com/livenews/3088607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国至4月14日6周国债竞拍-得标利率 3.63%，前值3.62%。",
@@ -1029,9 +1143,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "美国4月10日当周EIA精炼油库存变动 -312.2万桶，预期 -214.3万桶，前值 -314.4万桶。",
+          "url": "https://wallstreetcn.com/livenews/3088606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国至4月14日6周国债竞拍-得标利率配置百分比 64.13%，前值80.6%。",
@@ -1051,9 +1176,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "美国4月10日当周EIA精炼厂设备利用率变化 -2.4%，预期 0.44%，前值 -0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3088605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国至4月14日1年期国债竞拍-投标倍数 3.21，前值3.43。",
@@ -1117,9 +1253,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "美国4月10日当周EIA汽油库存变动 -632.8万桶，预期 -201.2万桶，前值 -158.9万桶。",
+          "url": "https://wallstreetcn.com/livenews/3088604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国至4月14日1年期国债竞拍-得标利率 3.56%，前值3.49%。",
@@ -1133,6 +1280,17 @@
           "time_info": "00时12分"
         },
         {
+          "title": "IMF总裁格奥尔基耶娃：我们看到美国和欧盟的短期通胀预期正在上升。",
+          "url": "https://flash.jin10.com/detail/20260415223519435800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "黎巴嫩国家新闻机构：与以色列在美国华盛顿的初步对话结束。",
           "url": "https://wallstreetcn.com/livenews/3087906",
           "source": "华尔街见闻-快讯",
@@ -1142,6 +1300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "美国4月10日当周EIA原油库存变动 -91.3万桶，预期 190万桶，前值 308.1万桶。",
+          "url": "https://wallstreetcn.com/livenews/3088603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国至4月14日1年期国债竞拍-得标利率配置百分比 62.43%，前值21.76%。",
@@ -1188,6 +1357,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "美国4月10日当周EIA库欣地区原油库存变动 -172.7万桶，前值 2.4万桶。",
+          "url": "https://wallstreetcn.com/livenews/3088602",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "美国至4月10日当周API汽油库存 62.6万桶，预期-221.2万桶，前值-396.8万桶。",
           "url": "https://flash.jin10.com/detail/20260415043758159800",
           "source": "金十数据",
@@ -1227,7 +1407,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -1243,13 +1423,24 @@
           "time_info": "05时33分"
         },
         {
+          "title": "伊朗外交部说不可能“全盘接受”美国方案",
+          "url": "https://flash.jin10.com/detail/20260415223450085800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "美国财长贝森特：不知道沃什会否在5月16日之前得到确认。 希望大家都能努力让沃什在5月份进入美联储。 正在追踪私募信贷。 希望避免监管套利。 新的Anthropic模型非常强大。 财政部认为私募信贷不存在系统性风险。",
           "url": "https://wallstreetcn.com/livenews/3088518",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -1318,6 +1509,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（4月14日）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.63%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3088599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国国务卿鲁比奥表示，此举旨在彻底终结真主党在该地区长达20至30年的影响力。",
@@ -1397,6 +1599,17 @@
           "time_info": "11时47分"
         },
         {
+          "title": "金十数据整理：美国当周EIA数据最值一览",
+          "url": "https://flash.jin10.com/detail/20260415223209111800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "欧洲各国正在制定一项计划，旨在组建一个广泛的国际联盟，以帮助疏通（恢复）霍尔木兹海峡的航运。 欧洲计划向霍尔木兹海峡派遣扫雷船。 欧洲起草的战后计划可能包含德国，但不包含美国。 法国总统马克龙称，防卫计划不包括美国。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3087934",
           "source": "华尔街见闻-快讯",
@@ -1458,9 +1671,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "提醒：北京时间22:30，美国能源信息署（EIA）将发布政府版原油库存周报。",
+          "url": "https://wallstreetcn.com/livenews/3088595",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国财政部：已授权与委内瑞拉政府开展与商业相关的附条件合同（contingent contracts）谈判。授权涉及部分委内瑞拉银行及委内瑞拉政府官员的金融服务交易。",
@@ -1485,6 +1709,17 @@
           "time_info": "18时41分"
         },
         {
+          "title": "美国至4月10日当周EIA蒸馏燃油产量引伸需求数据 543万桶/日，前值563.61万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260415223048548800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "美国国务院在华盛顿举行的美、以、黎三方会议后发表声明：讨论了启动以色列与黎巴嫩之间直接谈判的步骤。 美方对进一步的会谈表示支持。 美方表达了希望会谈范围能够超越2024年协议规模的愿望。 美方表示希望谈判能最终促成和平协议。",
           "url": "https://wallstreetcn.com/livenews/3087930",
           "source": "华尔街见闻-快讯",
@@ -1494,6 +1729,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "美国能源部长Wright：没有必要进一步释放石油储备。 对俄罗斯石油的制裁不太可能延长。",
+          "url": "https://wallstreetcn.com/livenews/3088594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "美国至4月10日当周EIA车用汽油总产量引伸需求数据 998.81万桶/日，前值944.46万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260415223041656800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "李成钢会见美国福特汽车公司全球执行副总裁兼首席政务官柯立",
@@ -1510,8 +1767,21 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 64,
+      "match_count": 69,
       "titles": [
+        {
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时47分 ~ 22时53分]"
+        },
         {
           "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
           "url": "https://www.toutiao.com/trending/7628414997059784242/",
@@ -1525,17 +1795,21 @@
           "time_info": "[00时11分 ~ 08时06分]"
         },
         {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
           "ranks": [
+            9,
+            8,
+            7,
+            6,
+            4,
             3,
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 21时13分]"
+          "appearance_count": 9,
+          "time_info": "[11时47分 ~ 22时53分]"
         },
         {
           "title": "孙宇晨指控「特朗普家族」旗下加密货币公司 WLF 单方面冻结其资产，对此你怎么看？",
@@ -1564,22 +1838,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时11分 ~ 06时10分]"
-        },
-        {
-          "title": "特朗普称美国对伊朗的战争已经结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 21时13分]"
         },
         {
           "title": "特朗普说伊朗没牌了遭北约盟友打脸",
@@ -1646,6 +1904,18 @@
           "time_info": "[11时47分 ~ 17时14分]"
         },
         {
+          "title": "特朗普：没必要延长停火，接下来两天很精彩",
+          "url": "https://wallstreetcn.com/articles/3770009",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时13分 ~ 22时53分]"
+        },
+        {
           "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
           "url": "https://news.ifeng.com/c/8sLS5AcutoB",
           "source": "凤凰网",
@@ -1666,18 +1936,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 03时05分]"
-        },
-        {
-          "title": "特朗普：没必要延长停火，接下来两天很精彩",
-          "url": "https://wallstreetcn.com/articles/3770009",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时13分 ~ 21时13分]"
         },
         {
           "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
@@ -1703,6 +1961,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时47分 ~ 15时44分]"
+        },
+        {
+          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时41分 ~ 22时53分]"
         },
         {
           "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
@@ -1751,15 +2021,16 @@
           "time_info": "[13时58分 ~ 15时44分]"
         },
         {
-          "title": "特朗普：没必要延长同伊朗的停火，接下来两天将非常精彩",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32974811",
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            5,
+            1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时41分 ~ 21时13分]"
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时53分]"
         },
         {
           "title": "特朗普：伊朗战事的“最终结果”可能很快就会取得",
@@ -1802,7 +2073,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -1852,13 +2123,24 @@
           "time_info": "[04时31分 ~ 05时33分]"
         },
         {
+          "title": "特朗普再次威胁袭击伊朗",
+          "url": "https://news.ifeng.com/c/8sLjLSMNHZq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "特朗普：若美联储主席鲍威尔任期届满后仍留任 将对其解职",
           "url": "https://flash.jin10.com/detail/20260415204827964800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -1869,7 +2151,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -1919,6 +2201,17 @@
           "time_info": "19时53分"
         },
         {
+          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
+          "url": "https://wallstreetcn.com/articles/3770032",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时53分]"
+        },
+        {
           "title": "英媒：特朗普次子将以个人身份陪同访华",
           "url": "https://news.ifeng.com/c/8sL7wyoFoMW",
           "source": "凤凰网",
@@ -1930,15 +2223,15 @@
           "time_info": "[13时58分 ~ 15时44分]"
         },
         {
-          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32975598",
-          "source": "澎湃新闻",
+          "title": "特朗普拒向教宗道歉，美国民众：很失望",
+          "url": "https://news.ifeng.com/c/8sLg84i0YpG",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时13分"
+          "time_info": "22时53分"
         },
         {
           "title": "特朗普暗示美伊会谈或在2天内恢复",
@@ -1985,17 +2278,6 @@
           "time_info": "08时06分"
         },
         {
-          "title": "谈判重启前美国向伊朗施压：数千士兵增派中东，特朗普保留“所有选项”！",
-          "url": "https://wallstreetcn.com/articles/3770032",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
-        },
-        {
           "title": "特朗普再次威胁袭击伊朗民用基础设施",
           "url": "https://flash.jin10.com/detail/20260415192917646800",
           "source": "金十数据",
@@ -2016,6 +2298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "特朗普以金斯伯格为例，暗示高龄大法官应考虑提前退休",
+          "url": "https://wallstreetcn.com/livenews/3088614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "特朗普称赞最高法院大法官Alito。",
@@ -2060,6 +2353,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时53分"
+        },
+        {
+          "title": "耶伦：美联储今年仍可能降息，掌门候选人未必会“听特朗普的话”！",
+          "url": "https://www.cls.cn/detail/2344775",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "美国联邦机构绕过特朗普对Anthropic公司的禁令，测试其先进人工智能模型。（Politico）",
@@ -2189,7 +2493,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -2244,15 +2548,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
+        },
+        {
+          "title": "特朗普暗示对伊朗的打击行动将持续",
+          "url": "https://wallstreetcn.com/livenews/3088593",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 61,
+      "match_count": 67,
       "titles": [
         {
           "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
@@ -2382,6 +2697,17 @@
           "time_info": "18时41分"
         },
         {
+          "title": "根据路透社的计算，4月份俄罗斯乌拉尔原油在俄罗斯港口相对于即期布伦特原油价格的折扣较3月份缩小了10美元/桶，降至约15-17美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260415224845012800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "WTI 5月原油期货收跌7.80美元，跌幅7.87%，报91.28美元/桶。 NYMEX 5月天然气期货收报2.599美元/百万英热单位。 NYMEX 5月汽油期货收报3.0395美元/加仑，NYMEX 5月取暖油期货收报3.6243美元/加仑。",
           "url": "https://wallstreetcn.com/livenews/3087926",
           "source": "华尔街见闻-快讯",
@@ -2462,6 +2788,18 @@
           "time_info": "[05时33分 ~ 06时10分]"
         },
         {
+          "title": "为什么奖金只有 1.38 万美元的菲尔兹奖地位那么崇高？",
+          "url": "https://www.zhihu.com/question/1921367137244653470",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时53分]"
+        },
+        {
           "title": "世界银行行长Banga：世界银行能够在15个月内针对支持“那些受到伊朗战争冲击的国家”进行800亿-1000亿美元融资。",
           "url": "https://wallstreetcn.com/livenews/3087978",
           "source": "华尔街见闻-快讯",
@@ -2531,6 +2869,39 @@
           "time_info": "19时53分"
         },
         {
+          "title": "韩国向伊朗提供50万美元人道主义援助，称与霍尔木兹通行无关",
+          "url": "https://news.ifeng.com/c/8sLg8QKvdGo",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "路透社数据显示，俄罗斯乌拉尔原油价格在4月份保持在接近12年来的高点，约为每桶100美元。",
+          "url": "https://flash.jin10.com/detail/20260415224645711800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "美元兑以色列谢克尔跌0.4%，至2.993谢克尔，为1995年10月份以来首次跌穿3关口。",
+          "url": "https://wallstreetcn.com/livenews/3088616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "哈佛教授罗格夫：美元被高估至少20%，伊朗战争结束预期“太天真”",
           "url": "https://flash.jin10.com/detail/20260415164626687800",
           "source": "金十数据",
@@ -2570,7 +2941,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -2606,17 +2977,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
-        },
-        {
-          "title": "为什么奖金只有 1.38 万美元的菲尔兹奖地位那么崇高？",
-          "url": "https://www.zhihu.com/question/1921367137244653470",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
         },
         {
           "title": "美国参议院多数党领袖：650亿-750亿美元法案拟为ICE和CBP提供资金",
@@ -2672,6 +3032,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
+        },
+        {
+          "title": "美元兑以色列新谢克尔下跌0.4%，至2.993，为自1995年10月以来首次跌破3的水平。",
+          "url": "https://flash.jin10.com/detail/20260415223721782800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "WTI原油日内跌幅达7.0%，报92.13美元/桶。 布伦特原油日内跌幅达4.5%，报94.86美元/桶。",
@@ -2790,7 +3161,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -2826,6 +3197,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "美、布两油短线上扬0.7美元，现分别报91.41美元/桶和92.31美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260415223359681800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "Jefferies把摩根大通目标价从310美元上调至320美元，把Moderna目标价从37美元上调至45美元。",
@@ -2941,8 +3323,22 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时47分 ~ 22时53分]"
+        },
         {
           "title": "UP主揭秘AI短剧制作流程",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
@@ -2983,20 +3379,6 @@
           "time_info": "[00时11分 ~ 08时06分]"
         },
         {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时47分 ~ 21时13分]"
-        },
-        {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
           "url": "https://m.thepaper.cn/newsDetail_forward_32961502",
           "source": "澎湃新闻",
@@ -3032,8 +3414,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时13分 ~ 21时13分]"
+          "appearance_count": 6,
+          "time_info": "[17时13分 ~ 22时53分]"
         },
         {
           "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
@@ -3048,6 +3430,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时47分 ~ 17时14分]"
+        },
+        {
+          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
+          "url": "https://www.zhihu.com/question/2027689506711630551",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时41分 ~ 22时53分]"
         },
         {
           "title": "马斯克：恭喜特斯拉AI芯片设计团队成功完成AI5芯片的流片。AI6、Dojo3以及其他令人期待的芯片也正在开发中。",
@@ -3164,18 +3559,6 @@
           "time_info": "13时58分"
         },
         {
-          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
-          "url": "https://www.zhihu.com/question/2027689506711630551",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时41分 ~ 21时13分]"
-        },
-        {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
           "url": "https://wallstreetcn.com/livenews/3087974",
           "source": "华尔街见闻-快讯",
@@ -3186,6 +3569,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时10分]"
+        },
+        {
+          "title": "爱奇艺龚宇：用AI生成长片已无技术障碍",
+          "url": "https://wallstreetcn.com/livenews/3088617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "据美国《财富》杂志：Anthropic因其 Claude AI聊天机器人出现性能下降而面临用户强烈不满。据多位开发者和重度用户反映，Claude人工智能模型近期性能明显下滑，表现为越来越难以遵循指令、在某些情况下选择不恰当的捷径，并在复杂工作流程中出现更多错误。",
@@ -3238,7 +3632,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -3263,6 +3657,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "英国政府发布商业公开信，就AI网络风险发出警告。",
+          "url": "https://wallstreetcn.com/livenews/3088609",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
+          "title": "特斯拉AI5芯片流片",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89AI5%E8%8A%AF%E7%89%87%E6%B5%81%E7%89%87%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "阿里千问AI眼镜全球首店在南京开业",
@@ -3312,7 +3728,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -3339,6 +3755,17 @@
           "time_info": "[06时10分 ~ 07时10分]"
         },
         {
+          "title": "黄金暴跌谁在悄悄抄底",
+          "url": "https://www.toutiao.com/trending/7628949233759948324/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
+        },
+        {
           "title": "美军大举增兵中东，美股期指跌幅扩大，黄金失守4790美元，布油涨超2%",
           "url": "https://wallstreetcn.com/articles/3770007",
           "source": "华尔街见闻",
@@ -3357,7 +3784,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -3372,6 +3799,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 03时05分]"
+        },
+        {
+          "title": "谈判曙光提振市场，美股高开，美银、大摩涨近4%，阿斯麦跌3%，黄金重回4800美元，布油再度转跌",
+          "url": "https://wallstreetcn.com/articles/3770007",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "汇丰私人银行紧急调仓：减持印度，加码黄金！",
@@ -3533,7 +3971,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "日本饿熊袭人,开启猎杀新赛季",
@@ -3548,8 +3986,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时11分 ~ 21时13分]"
+          "appearance_count": 20,
+          "time_info": "[00时11分 ~ 22时53分]"
         },
         {
           "title": "日本警方再次逮捕强闯中国使馆自卫官",
@@ -3578,8 +4016,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时44分 ~ 21时13分]"
+          "appearance_count": 7,
+          "time_info": "[15时44分 ~ 22时53分]"
+        },
+        {
+          "title": "中国钨出口管制对日本影响几何",
+          "url": "https://www.toutiao.com/trending/7628876812475498559/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 22时53分]"
         },
         {
           "title": "日本政府决定继续释放民间石油储备",
@@ -3593,18 +4044,6 @@
           "time_info": "17时14分"
         },
         {
-          "title": "中国钨出口管制对日本影响几何",
-          "url": "https://www.toutiao.com/trending/7628876812475498559/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 21时13分]"
-        },
-        {
           "title": "日本首相高市早苗：帮助亚洲国家不会动用日本的储备金。",
           "url": "https://flash.jin10.com/detail/20260415152258508800",
           "source": "金十数据",
@@ -3614,6 +4053,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时44分"
+        },
+        {
+          "title": "冲击决赛！陪看U20女足中国vs日本",
+          "url": "https://www.toutiao.com/trending/7628142654219911204/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时53分"
         },
         {
           "title": "中国U20女足今晚对阵日本 冲击决赛",
@@ -3667,7 +4117,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -3786,7 +4236,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时13分"
         },
@@ -3825,9 +4275,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时13分 ~ 22时53分]"
         },
         {
           "title": "阿里云：对大模型服务平台百炼部分MU（Model Unit）模型单元的服务价格进行上调",
@@ -3959,11 +4409,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            5
+            5,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时53分 ~ 21时13分]"
+          "appearance_count": 3,
+          "time_info": "[19时53分 ~ 22时53分]"
         }
       ]
     },
