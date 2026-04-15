@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T13:58:23.738587+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2026-04-15T15:44:59.191327+08:00",
+  "total_titles_processed": 1246,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 92,
+      "match_count": 96,
       "titles": [
         {
           "title": "新华社18秒视频让美国前高官焦虑了",
@@ -51,8 +51,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时05分 ~ 13时58分]"
+          "appearance_count": 5,
+          "time_info": "[08时05分 ~ 15时44分]"
+        },
+        {
+          "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
+          "url": "https://www.zhihu.com/question/2027356246810869800",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时44分]"
         },
         {
           "title": "委内瑞拉代总统罗德里格斯：美国颁发的许可并不能提供长期的法律保障，对委内瑞拉的制裁应当予以解除。将倾听石油公司关于能源行业的建议和意见。",
@@ -91,18 +103,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时10分]"
-        },
-        {
-          "title": "福特 CEO 称「中国车进入美国市场，我们就完蛋」，如何看待其表态？",
-          "url": "https://www.zhihu.com/question/2027356246810869800",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 13时58分]"
         },
         {
           "title": "美国副总统称对当前美伊局势进展“感到乐观”",
@@ -231,6 +231,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "伊朗将使用除南部港口以外的替代港口，以绕过美国对霍尔木兹海峡的封锁。（伊朗媒体MEHR）",
+          "url": "https://wallstreetcn.com/livenews/3088293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "委内瑞拉代总统Delcy Rodriguez：与美国需要长期的能源合作关系。 美国的许可（许可证）并不能提供长期的法律保障，应当取消对委内瑞拉的制裁。 目前正在听取石油公司的建议，以及对能源行业的意见。",
@@ -455,6 +466,18 @@
           "time_info": "[05时33分 ~ 06时10分]"
         },
         {
+          "title": "伊朗总统质问美国凭什么攻击伊朗",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%B4%A8%E9%97%AE%E7%BE%8E%E5%9B%BD%E5%87%AD%E4%BB%80%E4%B9%88%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时44分]"
+        },
+        {
           "title": "美国至4月10日当周API取暖油库存 -22.8万桶，前值-9.2万桶。",
           "url": "https://flash.jin10.com/detail/20260415043818592800",
           "source": "金十数据",
@@ -647,6 +670,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "高盛：美国3月PPI意外降温 但PCE相关的分项强于预期",
+          "url": "https://flash.jin10.com/detail/20260415151328181800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "报道：美国政府本周将终止伊朗海上石油制裁豁免",
@@ -858,6 +892,17 @@
           "time_info": "05时33分"
         },
         {
+          "title": "美国缅因州议会通过法案暂缓大型数据中心建设",
+          "url": "https://wallstreetcn.com/livenews/3088266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "美国至4月10日当周API原油库存 610.1万桶，预期-126.6万桶，前值371.9万桶。",
           "url": "https://flash.jin10.com/detail/20260415043748055800",
           "source": "金十数据",
@@ -957,6 +1002,17 @@
           "time_info": "07时10分"
         },
         {
+          "title": "报道：一艘伊朗油轮突破了美国海军的封锁",
+          "url": "https://wallstreetcn.com/livenews/3088262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "美国国务卿鲁比奥表示，我们明白，我们正在与“数十年的历史和复杂性”作斗争。",
           "url": "https://flash.jin10.com/detail/20260414232248482800",
           "source": "金十数据",
@@ -1043,23 +1099,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时31分"
-        },
-        {
-          "title": "伊朗总统质问美国凭什么攻击伊朗",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%B4%A8%E9%97%AE%E7%BE%8E%E5%9B%BD%E5%87%AD%E4%BB%80%E4%B9%88%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "美伊释放继续谈判信号 油价跌破100美元 全球股市普涨 | 今夜看点",
@@ -1178,6 +1223,17 @@
           "time_info": "03时05分"
         },
         {
+          "title": "日本首相高市早苗：将通过财政手段“帮助亚洲采购石油”，欲提供100亿美元的援助。",
+          "url": "https://flash.jin10.com/detail/20260415152104044800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "周二（4月14日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8108元，较周一纽约尾盘涨89点，日内整体交投于6.8207-6.8059元区间。 日线图上，离岸人民币逼近2023年2月10日顶部6.7898元、当年1月16日顶部6.6975元。",
           "url": "https://wallstreetcn.com/livenews/3087982",
           "source": "华尔街见闻-快讯",
@@ -1278,7 +1334,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1303,6 +1359,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "日本首相高市早苗：将通过金融手段协助亚洲国家采购石油。 将向亚洲国家提供100亿美元支持。",
+          "url": "https://wallstreetcn.com/livenews/3088281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "美国参议院多数党领袖：650亿-750亿美元法案拟为ICE和CBP提供资金",
@@ -1399,7 +1466,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1415,13 +1482,24 @@
           "time_info": "01时41分"
         },
         {
+          "title": "印度航空在亏损24亿美元后，向塔塔集团和新加坡航空寻求资金支持。",
+          "url": "https://wallstreetcn.com/livenews/3088265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
           "title": "Jefferies把摩根大通目标价从310美元上调至320美元，把Moderna目标价从37美元上调至45美元。",
           "url": "https://wallstreetcn.com/livenews/3088184",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1465,7 +1543,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -1487,7 +1565,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         }
@@ -1495,7 +1573,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "曝伊朗称暂停铀浓缩5年 特朗普拒绝",
@@ -1572,8 +1650,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时10分 ~ 13时58分]"
+          "appearance_count": 6,
+          "time_info": "[07时10分 ~ 15时44分]"
         },
         {
           "title": "美对伊港口“封锁令”生效，特朗普称伊朗致电美方说希望达成协议，威胁消灭伊快速攻击舰",
@@ -1585,6 +1663,41 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 03时05分]"
+        },
+        {
+          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
+          "url": "https://wallstreetcn.com/articles/3769962",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时44分]"
+        },
+        {
+          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
+          "url": "https://www.cls.cn/detail/2344264",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时44分]"
+        },
+        {
+          "title": "特朗普：美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344245",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时44分]"
         },
         {
           "title": "不再催降息？特朗普阵营态度微妙转变 贝森特称美联储当前宜观望",
@@ -1611,50 +1724,51 @@
           "time_info": "[01时41分 ~ 03时05分]"
         },
         {
-          "title": "特朗普称“未来两天内”可能再与伊朗谈判，上轮谈判一度谈到80%仍破裂，伊外长：因为内塔尼亚胡给万斯打了电话",
-          "url": "https://wallstreetcn.com/articles/3769962",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 13时58分]"
-        },
-        {
-          "title": "特朗普最新表态：美国对伊战争已结束 未来两天或重返谈判桌",
-          "url": "https://www.cls.cn/detail/2344264",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 13时58分]"
-        },
-        {
-          "title": "特朗普：美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344245",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 13时58分]"
-        },
-        {
           "title": "伊朗战争丨特朗普称没有必要延长同伊朗的停火",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时44分]"
+        },
+        {
+          "title": "特朗普称没有必要延长同伊朗的停火",
+          "url": "https://news.ifeng.com/c/8sLFvoAhX14",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时44分]"
+        },
+        {
+          "title": "特朗普称美国对伊朗的战争已经结束",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时44分]"
+        },
+        {
+          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
+          "url": "https://www.cls.cn/detail/2344265",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时44分]"
         },
         {
           "title": "美国副总统万斯：特朗普对伊朗表示，如果你们承诺不拥有核武器，我们将让伊朗实现经济繁荣。",
@@ -1667,17 +1781,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时10分 ~ 08时06分]"
-        },
-        {
-          "title": "特朗普称没有必要延长同伊朗的停火",
-          "url": "https://news.ifeng.com/c/8sLFvoAhX14",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "特朗普对福克斯新闻表示，他认为战争非常接近结束。",
@@ -1702,6 +1805,18 @@
           "time_info": "11时47分"
         },
         {
+          "title": "特朗普：没有必要延长同伊朗的停火",
+          "url": "https://www.cls.cn/detail/2344586",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时44分]"
+        },
+        {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：（总统特朗普派兵）封锁霍尔木兹海峡是必要的，太聪明了。",
           "url": "https://wallstreetcn.com/livenews/3087958",
           "source": "华尔街见闻-快讯",
@@ -1712,18 +1827,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时33分]"
-        },
-        {
-          "title": "特朗普称美国对伊朗的战争已经结束",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32972732",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 13时58分]"
         },
         {
           "title": "美国副总统万斯：特朗普总统指示我们要“带着诚意进行谈判”。",
@@ -1748,6 +1851,17 @@
           "time_info": "11时47分"
         },
         {
+          "title": "英媒：特朗普次子将以个人身份陪同访华",
+          "url": "https://news.ifeng.com/c/8sL7wyoFoMW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时44分]"
+        },
+        {
           "title": "特朗普暗示美伊会谈或在2天内恢复",
           "url": "https://www.toutiao.com/trending/7628753825699991090/",
           "source": "今日头条",
@@ -1757,18 +1871,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时05分 ~ 08时06分]"
-        },
-        {
-          "title": "4月15日投资避雷针：特朗普称美国对伊朗的战争已经结束",
-          "url": "https://www.cls.cn/detail/2344265",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 13时58分]"
         },
         {
           "title": "特朗普：谁能告诉教宗Leo，伊朗拥有核弹是绝对不能接受的。",
@@ -1782,17 +1884,6 @@
           "time_info": "11时47分"
         },
         {
-          "title": "特朗普：没有必要延长同伊朗的停火",
-          "url": "https://www.cls.cn/detail/2344586",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
-        },
-        {
           "title": "特朗普称伊朗战争已经结束",
           "url": "https://flash.jin10.com/detail/20260415071703356800",
           "source": "金十数据",
@@ -1804,15 +1895,15 @@
           "time_info": "08时06分"
         },
         {
-          "title": "英媒：特朗普次子将以个人身份陪同访华",
-          "url": "https://news.ifeng.com/c/8sL7wyoFoMW",
-          "source": "凤凰网",
+          "title": "美财长称中国“不可靠”会影响特朗普访华吗？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3088283",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时58分"
+          "time_info": "15时44分"
         },
         {
           "title": "特朗普态度摇摆：先排除、后改口仍倾向巴基斯坦作为美伊谈判地",
@@ -1928,7 +2019,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -1999,11 +2090,36 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 13时58分]"
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时44分]"
+        },
+        {
+          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
+          "url": "https://www.cls.cn/detail/2344320",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时47分 ~ 15时44分]"
+        },
+        {
+          "title": "马斯克：恭喜特斯拉AI芯片设计团队成功完成AI5芯片的流片。AI6、Dojo3以及其他令人期待的芯片也正在开发中。",
+          "url": "https://flash.jin10.com/detail/20260415152557597800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "美国财长贝森特：Anthropic的AI模型Mythos是能力方面的“一个功能变化”。",
@@ -2016,6 +2132,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时10分 ~ 07时10分]"
+        },
+        {
+          "title": "曝爱奇艺与深度合作艺人签约AI授权",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%88%B1%E5%A5%87%E8%89%BA%E4%B8%8E%E6%B7%B1%E5%BA%A6%E5%90%88%E4%BD%9C%E8%89%BA%E4%BA%BA%E7%AD%BE%E7%BA%A6AI%E6%8E%88%E6%9D%83%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "Lumen Technologies的CEO Johnson：AI机器人正在占领网络。",
@@ -2071,21 +2198,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
-        },
-        {
-          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
-          "url": "https://www.cls.cn/detail/2344320",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时47分 ~ 13时58分]"
         },
         {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
@@ -2117,7 +2232,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时58分"
         },
@@ -2131,6 +2246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "马斯克在X上称，恭喜特斯拉AI芯片设计团队成功完成AI5芯片的流片。AI6、Dojo3以及其他令人期待的芯片也正在开发中。AI5将成为有史以来产量最高的AI芯片之一。",
+          "url": "https://wallstreetcn.com/livenews/3088282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "报道：Anthropic正准备Opus 4.7模型和AI设计工具",
@@ -2164,12 +2290,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "阿里ATH事业群发布首款AI开发工具秒悟",
+          "url": "https://wallstreetcn.com/livenews/3088264",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "美国通胀低于预期，美股指高开，科技股、航空股上涨，WTI原油跌近95美元，黄金涨至4800美元",
@@ -2296,12 +2433,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "黄金看涨期权押注意愿已明显放缓，日内先关注此处保护情况",
+          "url": "https://flash.jin10.com/detail/20260415150439573800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金高位回落 国际现货白银警惕上方空单",
+          "url": "https://flash.jin10.com/detail/20260415150327638800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "日本饿熊袭人,开启猎杀新赛季",
@@ -2309,11 +2468,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 15时44分]"
         },
         {
           "title": "日本警方再次逮捕强闯中国使馆自卫官",
@@ -2332,6 +2492,29 @@
           "time_info": "[01时41分 ~ 08时06分]"
         },
         {
+          "title": "日本首相高市早苗：帮助亚洲国家不会动用日本的储备金。",
+          "url": "https://flash.jin10.com/detail/20260415152258508800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        },
+        {
+          "title": "中国U20女足今晚对阵日本 冲击决赛",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDU20%E5%A5%B3%E8%B6%B3%E4%BB%8A%E6%99%9A%E5%AF%B9%E9%98%B5%E6%97%A5%E6%9C%AC+%E5%86%B2%E5%87%BB%E5%86%B3%E8%B5%9B",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时58分 ~ 15时44分]"
+        },
+        {
           "title": "IMF：日本央行等主要央行暂无迫切必要加息",
           "url": "https://wallstreetcn.com/livenews/3087867",
           "source": "华尔街见闻-快讯",
@@ -2341,6 +2524,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
+        },
+        {
+          "title": "U20女足中国vs日本",
+          "url": "https://www.douyin.com/hot/2466817",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
         },
         {
           "title": "日本4月路透短观制造业景气判断指数 7，前值18。",
@@ -2374,17 +2568,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时12分"
-        },
-        {
-          "title": "中国U20女足今晚对阵日本 冲击决赛",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDU20%E5%A5%B3%E8%B6%B3%E4%BB%8A%E6%99%9A%E5%AF%B9%E9%98%B5%E6%97%A5%E6%9C%AC+%E5%86%B2%E5%87%BB%E5%86%B3%E8%B5%9B",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时58分"
         },
         {
           "title": "日本将赋予那些基于石油的产品“特别重要性”。（日经新闻）",
@@ -2486,6 +2669,45 @@
       ]
     },
     {
+      "keyword_group": "股市",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2026年04月14日（周二）全球股市指数-美洲市场（收盘）",
+          "url": "https://flash.jin10.com/detail/20260415040627162800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时31分"
+        },
+        {
+          "title": "金十图示：2026年04月14日（周二）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260414234104391800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        },
+        {
+          "title": "金十图示：2026年04月15日（周三）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260415151137311800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "显卡 英伟达",
       "match_count": 3,
       "titles": [
@@ -2498,8 +2720,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时30分 ~ 13时58分]"
+          "appearance_count": 10,
+          "time_info": "[04时30分 ~ 15时44分]"
         },
         {
           "title": "英伟达推出全球首个开源量子AI模型",
@@ -2557,34 +2779,6 @@
       ]
     },
     {
-      "keyword_group": "股市",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2026年04月14日（周二）全球股市指数-美洲市场（收盘）",
-          "url": "https://flash.jin10.com/detail/20260415040627162800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时31分"
-        },
-        {
-          "title": "金十图示：2026年04月14日（周二）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260414234104391800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek",
       "match_count": 1,
       "titles": [
@@ -2598,8 +2792,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时11分 ~ 13时58分]"
+          "appearance_count": 14,
+          "time_info": "[00时11分 ~ 15时44分]"
         }
       ]
     },
