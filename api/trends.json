@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T04:43:25.636156+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2026-04-17T05:38:59.539429+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 43,
+      "match_count": 48,
       "titles": [
         {
           "title": "20位中国学者被美国拒绝入境",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "美国多位机密领域科学家失踪或死亡",
@@ -25,11 +25,12 @@
           "ranks": [
             26,
             23,
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "巴基斯坦外交部称下一轮美伊会谈日期尚未确定，伊朗称伊斯兰堡是与美国进行谈判的唯一地点，为何是伊斯兰堡？",
@@ -37,11 +38,26 @@
           "source": "知乎",
           "ranks": [
             15,
-            14
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
+        },
+        {
+          "title": "美国国防部长遭弹劾",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E9%81%AD%E5%BC%B9%E5%8A%BE",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            27,
+            20,
+            18
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "霍尔木兹海峡之后，印媒担心美国盯上马六甲海峡",
@@ -53,19 +69,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时54分 ~ 02时05分]"
-        },
-        {
-          "title": "美国国防部长遭弹劾",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E9%81%AD%E5%BC%B9%E5%8A%BE",
-          "source": "百度热搜",
-          "ranks": [
-            16,
-            27,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 04时21分]"
         },
         {
           "title": "美国卫生部长：疫苗可能已经实现阻止那些感染麻疹的儿童死亡。",
@@ -84,22 +87,35 @@
           "url": "https://flash.jin10.com/detail/20260417041422151800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时38分]"
         },
         {
           "title": "美国财长贝森特4月15日会见了英国财政大臣Reeves和意大利财长Giorgetti。",
           "url": "https://wallstreetcn.com/livenews/3089573",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时38分]"
+        },
+        {
+          "title": "伊朗总统：美国多次违约 伊朗人民已对其完全失去信任",
+          "url": "https://wallstreetcn.com/livenews/3089589",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "05时38分"
         },
         {
           "title": "消息人士：美国官员已通知欧洲国家，由于伊朗战争，武器交付将延迟。",
@@ -161,6 +177,30 @@
           "time_info": "[04时21分 ~ 04时43分]"
         },
         {
+          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
+          "url": "https://www.zhihu.com/question/2027115873823973436",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时38分]"
+        },
+        {
+          "title": "20位中国学者被美国拒绝入境",
+          "url": "https://www.baidu.com/s?wd=20%E4%BD%8D%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%BB%9D%E5%85%A5%E5%A2%83",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 05时38分]"
+        },
+        {
           "title": "美国参议院通过一项法案，推翻拜登政府时期对明尼苏达州采矿的禁令，此举提振了安托法加斯塔公司旗下Twin Metals项目。",
           "url": "https://flash.jin10.com/detail/20260417001842667800",
           "source": "金十数据",
@@ -181,6 +221,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "美国中央司令部：林肯号航母正在阿拉伯海航行，美国军队并未封锁霍尔木兹海峡。超过10,000名美国军人、12艘以上舰艇和100架以上飞机在区域水域执行封锁，确保没有船只违反总统的声明。",
+          "url": "https://flash.jin10.com/detail/20260417043858258800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美国证交会文件显示：Meta将于5月27日举行线上年度会议。",
+          "url": "https://flash.jin10.com/detail/20260417043657693800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "也门胡塞武装：谴责美国以强加条件方式推进谈判",
@@ -247,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时54分"
+        },
+        {
+          "title": "美国财政部：美国财政部长贝森特昨天与英国财政大臣里夫斯会面。",
+          "url": "https://flash.jin10.com/detail/20260417042028564800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "美国众议院以微弱优势否决了一项决议，该决议旨在阻止在没有国会批准的情况下进一步对伊朗进行打击。",
@@ -337,17 +410,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "美国和伊朗打了一个多月，一共烧了多少钱？",
-          "url": "https://www.zhihu.com/question/2027115873823973436",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
           "title": "黎巴嫩总理：停火是周二在美国会议上的主要目标。",
           "url": "https://flash.jin10.com/detail/20260416235545431800",
           "source": "金十数据",
@@ -431,20 +493,9 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "20位中国学者被美国拒绝入境",
-          "url": "https://www.baidu.com/s?wd=20%E4%BD%8D%E4%B8%AD%E5%9B%BD%E5%AD%A6%E8%80%85%E8%A2%AB%E7%BE%8E%E5%9B%BD%E6%8B%92%E7%BB%9D%E5%85%A5%E5%A2%83",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "04时43分"
         },
         {
           "title": "美国前财长保尔森呼吁制定备用方案应对美债需求崩溃",
@@ -480,6 +531,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "美国卫生部长：疫苗本可能阻止一名儿童因麻疹死亡",
+          "url": "https://wallstreetcn.com/livenews/3089560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "美国白宫推进向联邦机构开放Mythos",
           "url": "https://flash.jin10.com/detail/20260417024131483800",
           "source": "金十数据",
@@ -494,7 +556,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -505,8 +567,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
@@ -517,8 +579,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "特朗普就访华明确表态，中方回应",
@@ -528,8 +590,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "特朗普称以黎停火10天",
@@ -541,8 +603,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "伊朗战争丨特朗普：伊朗已同意不拥有核武器",
@@ -552,8 +614,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 05时38分]"
         },
         {
           "title": "特朗普：美伊下次会晤或在本周末举行",
@@ -563,8 +625,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 04时43分]"
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 05时38分]"
         },
         {
           "title": "中东和平希望升温！特朗普：以黎领导人周四将进行34年来首次对话",
@@ -622,6 +684,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "美国总统特朗普：意大利（在发动伊朗战争方面）不支持我们，我们将来也不会支持他们。",
+          "url": "https://wallstreetcn.com/livenews/3089591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "美国总统特朗普：宣布Jennifer Shuford被任命为CDC副主任，Sara Brenner被任命为公共卫生高级顾问。",
           "url": "https://flash.jin10.com/detail/20260417032747106800",
           "source": "金十数据",
@@ -654,6 +727,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "罗马教皇再发声 暗指特朗普操控宗教",
+          "url": "https://flash.jin10.com/detail/20260417051016228800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "欧盟委员会主席冯德莱恩：对美国总统特朗普撮合的以色列与黎巴嫩停火10天表示欢迎。",
@@ -846,6 +930,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "美国参议院以微弱优势推翻明尼苏达州采矿禁令，法案已递交特朗普",
+          "url": "https://wallstreetcn.com/livenews/3089577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "据英国金融时报：美国石油行业高管敦促特朗普，应在伊朗提出对霍尔木兹海峡征收“通行费”问题上保持强硬立场。",
           "url": "https://flash.jin10.com/detail/20260417030924363800",
           "source": "金十数据",
@@ -959,7 +1054,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 30,
       "titles": [
         {
           "title": "中巴拟签百亿美元国防大单",
@@ -971,8 +1066,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "巴媒：中巴拟签百亿美元国防大单",
@@ -982,11 +1077,12 @@
             10,
             8,
             17,
-            19
+            19,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "美元指数16日上涨",
@@ -1001,6 +1097,17 @@
           "time_info": "[04时21分 ~ 04时43分]"
         },
         {
+          "title": "美国证交会文件显示：奈飞公司联合首席执行官在2025年的总体薪酬达到了5320万美元。",
+          "url": "https://flash.jin10.com/detail/20260417051231882800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
           "title": "周四（4月16日）纽约尾盘，ICE美元指数涨0.14%，报98.194点，日内交投区间为97.832-98.292点，北京时间16:00之前呈现出V形反转行情，随后持续交投于98.200点附近。 彭博美元指数涨0.07%，报1193.23点，日内交投区间为1189.77-1194.49点。 美元兑日元涨0.07%，报159.11日元，日内交投区间为158.27-159.31日元。 欧元兑日元跌0.05%，英镑兑日元跌0.15%。",
           "url": "https://wallstreetcn.com/livenews/3089556",
           "source": "华尔街见闻-快讯",
@@ -1011,6 +1118,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 04时43分]"
+        },
+        {
+          "title": "美国铝业(AA.N)一季度营收31.9亿美元，市场预期32.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260417041138412800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时38分]"
         },
         {
           "title": "Upscale AI洽谈获得20亿美元估值，该公司的投资者包括老虎环球。",
@@ -1025,6 +1144,54 @@
           "time_info": "[04时21分 ~ 04时43分]"
         },
         {
+          "title": "奈飞(NFLX.O)维持全年营收预期在507亿-517亿美元不变，市场预期513.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260417041119547800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时38分]"
+        },
+        {
+          "title": "奈飞(NFLX.O)第一季度营收122.5亿美元，市场预估121.7亿美元。",
+          "url": "https://flash.jin10.com/detail/20260417041104015800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时38分]"
+        },
+        {
+          "title": "美国铝业一季度销售31.9亿美元，分析师预期32.7亿美元。 维持全年铝产量预期在240万-260万吨不变，维持铝发货量预期在260万-280万吨不变。 维持全年氧化铝发货量预期在1180万-1200万吨不变。",
+          "url": "https://wallstreetcn.com/livenews/3089569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时38分]"
+        },
+        {
+          "title": "奈飞一季度营收122.5亿美元，分析师预期121.7亿美元。 一季度每股收益（EPS）为1.23美元，上年同期0.66美元。 维持全年营收预期在507亿-517亿美元不变，分析师预期513.7亿美元。 维持全年运营利润率预期在31.5%不变，分析师预期32%。 预计二季度营收125.7亿美元，分析师预期126.4亿美元。 预计二季度EPS为0.78美元，分析师预期0.84美元。 奈飞美股盘后跌9.3%。",
+          "url": "https://wallstreetcn.com/livenews/3089565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时38分]"
+        },
+        {
           "title": "美国投资公司协会（ICI）：美国货币市场资产缩水1758.1万亿美元，创历史上最大降幅，至7.64万亿美元。",
           "url": "https://wallstreetcn.com/livenews/3089547",
           "source": "华尔街见闻-快讯",
@@ -1035,28 +1202,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 04时43分]"
-        },
-        {
-          "title": "美国铝业(AA.N)一季度营收31.9亿美元，市场预期32.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260417041138412800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "奈飞(NFLX.O)维持全年营收预期在507亿-517亿美元不变，市场预期513.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260417041119547800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
         },
         {
           "title": "美国银行寻求发行100亿美元高评级债券。",
@@ -1070,37 +1215,37 @@
           "time_info": "02时05分"
         },
         {
-          "title": "奈飞(NFLX.O)第一季度营收122.5亿美元，市场预估121.7亿美元。",
-          "url": "https://flash.jin10.com/detail/20260417041104015800",
+          "title": "周四（4月16日）纽约尾盘（周五北京时间04:59），离岸人民币（CNH）兑美元报6.8229元，较周三纽约尾盘跌48点，日内整体交投于6.8130-6.8270元区间。",
+          "url": "https://wallstreetcn.com/livenews/3089584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "周四（4月16日）纽约尾盘，现货白银跌0.69%，报78.4150美元/盎司，北京时间13:30刷新日高至80.8585美元，22:00之前短线显著跳水。 COMEX白银期货跌1.49%，报78.455美元/盎司。 COMEX铜期货跌0.73%，报6.100美元/磅。 现货铂金跌1.07%，现货钯金跌0.88%。",
+          "url": "https://wallstreetcn.com/livenews/3089583",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美国证交会文件显示：Meta公司首席执行官扎克伯格2025年总薪酬为2510万美元。",
+          "url": "https://flash.jin10.com/detail/20260417043659305800",
           "source": "金十数据",
           "ranks": [
-            8
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "美国铝业一季度销售31.9亿美元，分析师预期32.7亿美元。 维持全年铝产量预期在240万-260万吨不变，维持铝发货量预期在260万-280万吨不变。 维持全年氧化铝发货量预期在1180万-1200万吨不变。",
-          "url": "https://wallstreetcn.com/livenews/3089569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
-        },
-        {
-          "title": "奈飞一季度营收122.5亿美元，分析师预期121.7亿美元。 一季度每股收益（EPS）为1.23美元，上年同期0.66美元。 维持全年营收预期在507亿-517亿美元不变，分析师预期513.7亿美元。 维持全年运营利润率预期在31.5%不变，分析师预期32%。 预计二季度营收125.7亿美元，分析师预期126.4亿美元。 预计二季度EPS为0.78美元，分析师预期0.84美元。 奈飞美股盘后跌9.3%。",
-          "url": "https://wallstreetcn.com/livenews/3089565",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "05时38分"
         },
         {
           "title": "美国投资公司协会（ICI）：货币市场基金资产降至7.64万亿美元，单日减少1758.1亿美元，创下有记录以来最大降幅。",
@@ -1112,6 +1257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时21分"
+        },
+        {
+          "title": "美国至4月20日当周外国央行持有美国国债 122.76亿美元，前值-388.14亿美元。",
+          "url": "https://flash.jin10.com/detail/20260417043100409800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "周四（4月16日），美联储隔夜逆回购协议（RRP）使用规模为1.58亿美元（交易对手5家），上个交易日报2.23亿美元。",
@@ -1249,7 +1405,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "中国驻日本大使馆接连遭受到恐怖威胁，包括有人称在使馆内安装远距离遥控炸弹等，哪些信息值得关注？",
@@ -1259,8 +1415,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "环球时报社评：文物返还，法国的做法值得日本学习",
@@ -1270,8 +1426,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "“日本警方未重视使馆报警”，我驻日使馆披露接连遭恐怖威胁细节",
@@ -1282,8 +1438,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "日本物价狂飙,买菜得贷款",
@@ -1293,8 +1449,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "强闯我使馆的日本人所持刀具曝光",
@@ -1303,11 +1459,23 @@
           "ranks": [
             10,
             17,
-            30
+            30,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[00时54分 ~ 05时38分]"
+        },
+        {
+          "title": "美国财政部：贝森特与日本财务大臣会面，会面时其重申了美日两国之间牢固的联盟关系。",
+          "url": "https://flash.jin10.com/detail/20260417043134842800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "日本设无人装备部门，欲打造新作战方式",
@@ -1338,7 +1506,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         }
@@ -1346,7 +1514,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -1356,8 +1524,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -1368,8 +1536,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
@@ -1380,8 +1548,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "AI承诺赔10万,用户索赔败诉",
@@ -1391,8 +1559,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
         },
         {
           "title": "玩家AI生图捧洛克,网友一秒戳穿",
@@ -1402,8 +1570,19 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时54分 ~ 04时43分]"
+          "appearance_count": 5,
+          "time_info": "[00时54分 ~ 05时38分]"
+        },
+        {
+          "title": "解读AI蒸馏攻防战",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         },
         {
           "title": "据伊朗Press TV：伊朗伊斯兰革命卫队圣城旅司令smail Qaani就黎以停火发表声明。Qaani表示，黎巴嫩及地区人民应当知晓，这场战斗的胜利者是真主党。如果达成停火，那将是黎巴嫩“抵抗力量”的坚定立场以及伊朗支持的结果。",
@@ -1412,7 +1591,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
         },
@@ -1426,6 +1605,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
+          "url": "https://wallstreetcn.com/livenews/3089544",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时21分 ~ 04时43分]"
+        },
+        {
+          "title": "NiSource美股盘后涨3.7%，该公司宣布与谷歌母公司Alphabet附属公司达成长期能源供应协议，用于后者在美国印第安纳州北部开发和运营大规模数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3089580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "谷歌云：宣布BigQuery Studio笔记本画廊（Notebook Gallery）正式上线 。",
+          "url": "https://flash.jin10.com/detail/20260417000852118800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时54分"
         }
       ]
     },
@@ -1469,31 +1688,44 @@
       ]
     },
     {
-      "keyword_group": "谷歌",
-      "match_count": 2,
+      "keyword_group": "金价 黄金",
+      "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI推出旨在药物研发的新AI模型，向谷歌发起挑战",
-          "url": "https://wallstreetcn.com/livenews/3089544",
-          "source": "华尔街见闻-快讯",
+          "title": "借近百万买800克黄金寄“男友”",
+          "url": "https://www.baidu.com/s?wd=%E5%80%9F%E8%BF%91%E7%99%BE%E4%B8%87%E4%B9%B0800%E5%85%8B%E9%BB%84%E9%87%91%E5%AF%84%E2%80%9C%E7%94%B7%E5%8F%8B%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            17,
-            30
+            30,
+            25,
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时21分 ~ 04时43分]"
+          "appearance_count": 4,
+          "time_info": "[02时05分 ~ 05时38分]"
         },
         {
-          "title": "谷歌云：宣布BigQuery Studio笔记本画廊（Notebook Gallery）正式上线 。",
-          "url": "https://flash.jin10.com/detail/20260417000852118800",
-          "source": "金十数据",
+          "title": "周四（4月16日）纽约尾盘，现货黄金跌0.04%，报4788.96美元/盎司，亚太早盘显著走高，北京时间08:40达到4837.68美元，日内大部分时间持稳于4820美元附近。 COMEX黄金期货跌0.26%，报4810.50美元/盎司，13:06也曾刷新日高至4861.30美元。",
+          "url": "https://wallstreetcn.com/livenews/3089581",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时54分"
+          "time_info": "05时38分"
+        },
+        {
+          "title": "美国对涉及黄金领域的尼加拉瓜官员实施制裁",
+          "url": "https://wallstreetcn.com/livenews/3089578",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         }
       ]
     },
@@ -1526,25 +1758,6 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "借近百万买800克黄金寄“男友”",
-          "url": "https://www.baidu.com/s?wd=%E5%80%9F%E8%BF%91%E7%99%BE%E4%B8%87%E4%B9%B0800%E5%85%8B%E9%BB%84%E9%87%91%E5%AF%84%E2%80%9C%E7%94%B7%E5%8F%8B%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            25,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时05分 ~ 04时43分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "股市",
       "match_count": 1,
       "titles": [
@@ -1553,11 +1766,12 @@
           "url": "https://flash.jin10.com/detail/20260417040801179800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时43分 ~ 05时38分]"
         }
       ]
     },
