@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T07:37:12.183907+08:00",
-  "total_titles_processed": 652,
+  "generated_at": "2026-04-17T10:03:01.161894+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 52,
+      "match_count": 56,
       "titles": [
         {
           "title": "20位中国学者被美国拒绝入境",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 07时37分]"
+        },
+        {
+          "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时35分 ~ 10时03分]"
         },
         {
           "title": "美国国防部长遭弹劾",
@@ -74,17 +85,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时43分 ~ 07时37分]"
-        },
-        {
-          "title": "伊朗战争丨伊朗总统：民众对美国不再抱有任何信任",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时35分 ~ 07时37分]"
         },
         {
           "title": "伊朗总统：美国多次违约 伊朗人民已对其完全失去信任",
@@ -231,6 +231,17 @@
           "time_info": "[05时38分 ~ 06时35分]"
         },
         {
+          "title": "伊总统：伊朗人民对美国完全失去信任",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%80%BB%E7%BB%9F%EF%BC%9A%E4%BC%8A%E6%9C%97%E4%BA%BA%E6%B0%91%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%AE%8C%E5%85%A8%E5%A4%B1%E5%8E%BB%E4%BF%A1%E4%BB%BB",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
           "title": "美国执法部门突击搜查休斯顿燃料贸易商Ikon Midstream办公室",
           "url": "https://wallstreetcn.com/livenews/3089545",
           "source": "华尔街见闻-快讯",
@@ -255,15 +266,37 @@
           "time_info": "[00时54分 ~ 05时38分]"
         },
         {
+          "title": "俄警告美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BF%84%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
           "title": "美国务院：以黎停火期限可延长 以色列保留“自卫权利”",
           "url": "https://flash.jin10.com/detail/20260417070521345800",
           "source": "金十数据",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
+        },
+        {
+          "title": "俄外交部：美国封锁伊朗应被视为“犯罪和侵略”",
+          "url": "https://flash.jin10.com/detail/20260417094809963800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "美国参议院通过一项法案，推翻拜登政府时期对明尼苏达州采矿的禁令，此举提振了安托法加斯塔公司旗下Twin Metals项目。",
@@ -365,13 +398,24 @@
           "time_info": "05时38分"
         },
         {
+          "title": "全球产区天气4.17：美国霜冻阿根廷大雨，大豆播种收获两难？",
+          "url": "https://flash.jin10.com/detail/20260417093804004800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "美国国务卿卢比奥与英国官员Cooper谈论霍尔木兹海峡问题。",
           "url": "https://wallstreetcn.com/livenews/3089606",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -610,7 +654,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普急了！美伊4月BigDeal可以期待？市场紧盯这两天",
@@ -619,11 +663,23 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时03分]"
+        },
+        {
+          "title": "特朗普：美伊下次会晤或在本周末举行",
+          "url": "https://news.ifeng.com/c/8sN3kmBakib",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时37分]"
+          "time_info": "[04时21分 ~ 10时03分]"
         },
         {
           "title": "特朗普就访华明确表态，中方回应",
@@ -649,17 +705,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时54分 ~ 07时37分]"
-        },
-        {
-          "title": "特朗普：美伊下次会晤或在本周末举行",
-          "url": "https://news.ifeng.com/c/8sN3kmBakib",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时21分 ~ 07时37分]"
         },
         {
           "title": "特朗普：美国“很有可能”在4月下旬英国国王访美前与伊朗达成协议",
@@ -709,6 +754,17 @@
           "time_info": "[00时54分 ~ 02时05分]"
         },
         {
+          "title": "特朗普称伊朗同意几乎所有要求",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E5%87%A0%E4%B9%8E%E6%89%80%E6%9C%89%E8%A6%81%E6%B1%82%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
           "title": "限特朗普战争权力议案遭美众院否决",
           "url": "https://flash.jin10.com/detail/20260417002555759800",
           "source": "金十数据",
@@ -753,6 +809,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "中东迎“曙光”？特朗普：美伊下次会晤或在本周末，以黎同意停火10天！",
+          "url": "https://www.cls.cn/detail/2346891",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
           "title": "罗马教皇再发声 暗指特朗普操控宗教",
           "url": "https://flash.jin10.com/detail/20260417051016228800",
           "source": "金十数据",
@@ -763,6 +830,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时35分]"
+        },
+        {
+          "title": "特朗普：美伊下次会谈可能本周末举行，不排除必要时延长停火，伊朗同意不拥有核武",
+          "url": "https://wallstreetcn.com/articles/3770182",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "美国总统特朗普：宣布Jennifer Shuford被任命为CDC副主任，Sara Brenner被任命为公共卫生高级顾问。",
@@ -805,7 +883,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -842,6 +920,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 04时43分]"
+        },
+        {
+          "title": "特朗普称黎以停火10天",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E9%BB%8E%E4%BB%A5%E5%81%9C%E7%81%AB10%E5%A4%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
           "title": "美国总统特朗普提名Erica Schwartz为疾控中心（CDC）主任。",
@@ -933,6 +1022,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        },
+        {
+          "title": "特朗普政府敦促美国石油公司增加钻探。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3089690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "特朗普宣布黎以将停火后，以军大规模空袭黎巴嫩南部",
@@ -1122,6 +1222,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "特朗普淡化伊朗战争延宕：“才两个月而已”",
+          "url": "https://flash.jin10.com/detail/20260417092959953800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "特朗普：美伊下次会晤可能在本周末举行",
           "url": "https://wallstreetcn.com/livenews/3089529",
           "source": "华尔街见闻-快讯",
@@ -1158,7 +1269,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 33,
+      "match_count": 35,
       "titles": [
         {
           "title": "中巴拟签百亿美元国防大单",
@@ -1200,6 +1311,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时35分 ~ 07时37分]"
+        },
+        {
+          "title": "台积电Q1净利润同比增58%，毛利率历史性突破66%，资本支出111亿美元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3770116",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时36分 ~ 10时03分]"
         },
         {
           "title": "美国铝业一季度销售31.9亿美元，分析师预期32.7亿美元。 维持全年铝产量预期在240万-260万吨不变，维持铝发货量预期在260万-280万吨不变。 维持全年氧化铝发货量预期在1180万-1200万吨不变。",
@@ -1335,17 +1457,6 @@
           "time_info": "[05时38分 ~ 06时35分]"
         },
         {
-          "title": "台积电Q1净利润同比增58%，毛利率历史性突破66%，资本支出111亿美元 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3770116",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
           "title": "美国证交会文件显示：Meta公司首席执行官扎克伯格2025年总薪酬为2510万美元。",
           "url": "https://flash.jin10.com/detail/20260417043659305800",
           "source": "金十数据",
@@ -1449,6 +1560,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "人民币兑美元中间价报6.8622，下调6点；上一交易日中间价6.8616，上一交易日官方收盘价6.8197，上日夜盘报收6.8230。",
+          "url": "https://wallstreetcn.com/livenews/3089669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的1.58亿美元。",
           "url": "https://flash.jin10.com/detail/20260417011732383800",
           "source": "金十数据",
@@ -1515,6 +1637,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "避险光环褪去，华尔街集体转空，齐喊“看跌美元”",
+          "url": "https://flash.jin10.com/detail/20260417093021501800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "WTI原油5分钟内上涨0.53美元/桶，报94.44美元/桶；布伦特原油期货日内涨超4美元。报道称，美国需要大约半年时间才能与伊朗达成协议。",
           "url": "https://wallstreetcn.com/livenews/3089497",
           "source": "华尔街见闻-快讯",
@@ -1550,9 +1683,202 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 11,
+      "keyword_group": "AI",
+      "match_count": 14,
       "titles": [
+        {
+          "title": "番茄作者AI代笔,读者白追",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时03分]"
+        },
+        {
+          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2346625",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时03分]"
+        },
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时03分]"
+        },
+        {
+          "title": "玩家AI生图捧洛克,网友一秒戳穿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
+          "source": "贴吧",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时03分]"
+        },
+        {
+          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
+          "url": "https://www.cls.cn/detail/2346308",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时54分 ~ 07时37分]"
+        },
+        {
+          "title": "国产AI激光“灭蚊神器”海外爆单",
+          "url": "https://www.toutiao.com/trending/7628666147721740329/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "解读AI蒸馏攻防战",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时38分 ~ 06时35分]"
+        },
+        {
+          "title": "曝常春藤名校用打字机对抗AI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B8%B8%E6%98%A5%E8%97%A4%E5%90%8D%E6%A0%A1%E7%94%A8%E6%89%93%E5%AD%97%E6%9C%BA%E5%AF%B9%E6%8A%97AI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时36分 ~ 07时37分]"
+        },
+        {
+          "title": "很多人难以接受自己喜欢的歌是 AI 生成的，你怎么看？ 音乐要有情感和内涵，必须得有人的参与吗？",
+          "url": "https://www.zhihu.com/question/2027774132033511914",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "朱珠版wait一开口对味了",
+          "url": "https://www.douyin.com/hot/2468877",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "用 AI 写的代码，最终会不会让整个项目成为屎山？",
+          "url": "https://www.zhihu.com/question/2013899380286047376",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时02分 ~ 10时03分]"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗伊斯兰革命卫队圣城旅司令smail Qaani就黎以停火发表声明。Qaani表示，黎巴嫩及地区人民应当知晓，这场战斗的胜利者是真主党。如果达成停火，那将是黎巴嫩“抵抗力量”的坚定立场以及伊朗支持的结果。",
+          "url": "https://flash.jin10.com/detail/20260417035226003800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时43分"
+        },
+        {
+          "title": "华为推出伴随式AI解决方案 华为Pura X Max首发",
+          "url": "https://flash.jin10.com/detail/20260417094027575800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：各国应密切关注经济转型中的“赢家”与“输家”。 AI革命不应重蹈全球化时期的覆辙，当时许多失去工作的人从未能重新融入经济体系。 她担心如果人们相信冲突会很快结束，那么节能的意愿将会降低。",
+          "url": "https://wallstreetcn.com/livenews/3089507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "日本",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "“日本警方未重视使馆报警”，我驻日使馆披露接连遭恐怖威胁细节",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32984566",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15,
+            14,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时03分]"
+        },
+        {
+          "title": "日本物价狂飙,买菜得贷款",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353297&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E7%8B%82%E9%A3%99%2C%E4%B9%B0%E8%8F%9C%E5%BE%97%E8%B4%B7%E6%AC%BE",
+          "source": "贴吧",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时54分 ~ 10时03分]"
+        },
         {
           "title": "中国驻日本大使馆接连遭受到恐怖威胁，包括有人称在使馆内安装远距离遥控炸弹等，哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2028144905344623639",
@@ -1571,30 +1897,6 @@
           "ranks": [
             13,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时37分]"
-        },
-        {
-          "title": "“日本警方未重视使馆报警”，我驻日使馆披露接连遭恐怖威胁细节",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32984566",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时37分]"
-        },
-        {
-          "title": "日本物价狂飙,买菜得贷款",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353297&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%89%A9%E4%BB%B7%E7%8B%82%E9%A3%99%2C%E4%B9%B0%E8%8F%9C%E5%BE%97%E8%B4%B7%E6%AC%BE",
-          "source": "贴吧",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -1633,7 +1935,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         },
@@ -1648,6 +1950,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时38分 ~ 06时35分]"
+        },
+        {
+          "title": "日本计划在2030年起的十年占据全球自动驾驶汽车市场25%的份额。",
+          "url": "https://flash.jin10.com/detail/20260417094318507800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
         },
         {
           "title": "日本设无人装备部门，欲打造新作战方式",
@@ -1672,6 +1985,17 @@
           "time_info": "00时54分"
         },
         {
+          "title": "日本东证指数日内跌幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3089668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
           "title": "媒体：日本拒不返还文物是反面典型",
           "url": "https://www.toutiao.com/trending/7629135516709178926/",
           "source": "今日头条",
@@ -1685,106 +2009,59 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 9,
+      "keyword_group": "openai chatgpt",
+      "match_count": 5,
       "titles": [
         {
-          "title": "番茄作者AI代笔,读者白追",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时37分]"
-        },
-        {
-          "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
-          "url": "https://www.cls.cn/detail/2346308",
+          "title": "OpenAI推出AI代理升级 可以“与你并肩操作你的电脑”",
+          "url": "https://www.cls.cn/detail/2346818",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时37分]"
-        },
-        {
-          "title": "AI需求强劲支撑涨势 美股三大期指小幅走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2346625",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时37分]"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时37分]"
-        },
-        {
-          "title": "玩家AI生图捧洛克,网友一秒戳穿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353287&amp;topic_name=%E7%8E%A9%E5%AE%B6AI%E7%94%9F%E5%9B%BE%E6%8D%A7%E6%B4%9B%E5%85%8B%2C%E7%BD%91%E5%8F%8B%E4%B8%80%E7%A7%92%E6%88%B3%E7%A9%BF",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时54分 ~ 07时37分]"
-        },
-        {
-          "title": "解读AI蒸馏攻防战",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBAI%E8%92%B8%E9%A6%8F%E6%94%BB%E9%98%B2%E6%88%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            27
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时38分 ~ 06时35分]"
+          "time_info": "[10时02分 ~ 10时03分]"
         },
         {
-          "title": "曝常春藤名校用打字机对抗AI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9B%9D%E5%B8%B8%E6%98%A5%E8%97%A4%E5%90%8D%E6%A0%A1%E7%94%A8%E6%89%93%E5%AD%97%E6%9C%BA%E5%AF%B9%E6%8A%97AI",
-          "source": "bilibili 热搜",
+          "title": "OpenAI发布Codex更新",
+          "url": "https://wallstreetcn.com/livenews/3089521",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 07时37分]"
-        },
-        {
-          "title": "据伊朗Press TV：伊朗伊斯兰革命卫队圣城旅司令smail Qaani就黎以停火发表声明。Qaani表示，黎巴嫩及地区人民应当知晓，这场战斗的胜利者是真主党。如果达成停火，那将是黎巴嫩“抵抗力量”的坚定立场以及伊朗支持的结果。",
-          "url": "https://flash.jin10.com/detail/20260417035226003800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时43分"
+          "time_info": "02时05分"
         },
         {
-          "title": "国际货币基金组织（IMF）总裁格奥尔基耶娃：各国应密切关注经济转型中的“赢家”与“输家”。 AI革命不应重蹈全球化时期的覆辙，当时许多失去工作的人从未能重新融入经济体系。 她担心如果人们相信冲突会很快结束，那么节能的意愿将会降低。",
-          "url": "https://wallstreetcn.com/livenews/3089507",
+          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
+          "url": "https://flash.jin10.com/detail/20260417030201225800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "OpenAI将投入超过200亿美元购买Cerebras芯片。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3089671",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时03分"
+        },
+        {
+          "title": "OpenAI：现在Codex可以使用Mac上的应用程序，连接到更多工具，创建图像，从以前的操作中学习，记住你喜欢的工作方式，并执行持续性和可重复性的任务。",
+          "url": "https://flash.jin10.com/detail/20260417012338631800",
+          "source": "金十数据",
+          "ranks": [
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -1842,7 +2119,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时37分"
         }
@@ -1890,45 +2167,6 @@
       ]
     },
     {
-      "keyword_group": "openai chatgpt",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI发布Codex更新",
-          "url": "https://wallstreetcn.com/livenews/3089521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "OpenAI：推出新模型GPT-Rosalind，旨在服务于生命科学研究。该模型最初将以研究预览版的形式提供给部分企业客户。",
-          "url": "https://flash.jin10.com/detail/20260417030201225800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "OpenAI：现在Codex可以使用Mac上的应用程序，连接到更多工具，创建图像，从以前的操作中学习，记住你喜欢的工作方式，并执行持续性和可重复性的任务。",
-          "url": "https://flash.jin10.com/detail/20260417012338631800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "CPU 英特尔",
       "match_count": 3,
       "titles": [
@@ -1938,11 +2176,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时35分 ~ 07时37分]"
+          "appearance_count": 5,
+          "time_info": "[06时35分 ~ 10时03分]"
         },
         {
           "title": "英特尔(INTC.O)涨幅达5%。",
