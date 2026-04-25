@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T01:08:42.601626+08:00",
-  "total_titles_processed": 383,
+  "generated_at": "2026-04-26T02:03:36.178085+08:00",
+  "total_titles_processed": 410,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "巴基斯坦迎来一贵客，美国激动坏了",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "视频丨五角大楼附近巴士相撞致23人伤，包括10名美国防部人员",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "美国富豪非洲打猎被5头大象踩死",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%E9%9D%9E%E6%B4%B2%E6%89%93%E7%8C%8E%E8%A2%AB5%E5%A4%B4%E5%A4%A7%E8%B1%A1%E8%B8%A9%E6%AD%BB",
           "source": "百度热搜",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "伊朗摧毁境内多个受美国和以色列支持的团体",
@@ -48,8 +49,90 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
+        },
+        {
+          "title": "美国富豪巨资非洲打猎被5头大象踩死",
+          "url": "https://www.toutiao.com/trending/7632014969789481001/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
+        },
+        {
+          "title": "美国防长称美军每年都应获和平奖遭网友批评",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33052404",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
+        },
+        {
+          "title": "美国为打击伊朗找理由 法律专家批“毫无说服力”",
+          "url": "https://wallstreetcn.com/livenews/3094393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
+        },
+        {
+          "title": "据以色列13频道：以色列总参谋长建议告知美国方面有必要恢复在伊朗的战斗。",
+          "url": "https://flash.jin10.com/detail/20260426015216463800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
+        },
+        {
+          "title": "据半岛电视台：美国财长贝森特称，伊斯兰革命卫队正试图将越来越多的资金转移到其海外账户中。",
+          "url": "https://flash.jin10.com/detail/20260426005604479800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "time_info": "[01时08分 ~ 02时03分]"
+        },
+        {
+          "title": "伊朗军方警告称，如果美国的非法海上封锁继续，将作出果断回应。",
+          "url": "https://flash.jin10.com/detail/20260426005112256800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 02时03分]"
+        },
+        {
+          "title": "美国众议院议员南希：通过《拯救美国法案》，捍卫我们的选举安全。",
+          "url": "https://flash.jin10.com/detail/20260426004628460800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 02时03分]"
         },
         {
           "title": "报道：伊巴会谈未获任何突破 美国访巴日期未定",
@@ -63,71 +146,40 @@
           "time_info": "00时04分"
         },
         {
-          "title": "据半岛电视台：美国财长贝森特称，伊斯兰革命卫队正试图将越来越多的资金转移到其海外账户中。",
-          "url": "https://flash.jin10.com/detail/20260426005604479800",
+          "title": "墨西哥安全内阁表示，在墨西哥发生的车祸中遇难的两名美国特工中，一名是以游客身份入境，另一名持有外交护照。",
+          "url": "https://flash.jin10.com/detail/20260426004157620800",
           "source": "金十数据",
           "ranks": [
-            4
+            9,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 02时03分]"
         },
         {
-          "title": "美国富豪巨资非洲打猎被5头大象踩死",
-          "url": "https://www.toutiao.com/trending/7632014969789481001/",
+          "title": "伊朗外交部长：尚未看到美国是否真正重视外交。",
+          "url": "https://flash.jin10.com/detail/20260426003813761800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 02时03分]"
+        },
+        {
+          "title": "美国为何害怕中国大蒜",
+          "url": "https://www.toutiao.com/trending/7632497198902693386/",
           "source": "今日头条",
           "ranks": [
-            26,
-            10
+            23,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
-        },
-        {
-          "title": "美国防长称美军每年都应获和平奖遭网友批评",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33052404",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
-        },
-        {
-          "title": "美国为打击伊朗找理由 法律专家批“毫无说服力”",
-          "url": "https://wallstreetcn.com/livenews/3094393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
-        },
-        {
-          "title": "伊朗军方警告称，如果美国的非法海上封锁继续，将作出果断回应。",
-          "url": "https://flash.jin10.com/detail/20260426005112256800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "美国众议院议员南希：通过《拯救美国法案》，捍卫我们的选举安全。",
-          "url": "https://flash.jin10.com/detail/20260426004628460800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "据新德里电视台：消息人士称，伊朗-美国第二轮谈判定于4月27日举行。",
@@ -141,37 +193,37 @@
           "time_info": "00时04分"
         },
         {
-          "title": "墨西哥安全内阁表示，在墨西哥发生的车祸中遇难的两名美国特工中，一名是以游客身份入境，另一名持有外交护照。",
-          "url": "https://flash.jin10.com/detail/20260426004157620800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "伊朗外交部长：尚未看到美国是否真正重视外交。",
-          "url": "https://flash.jin10.com/detail/20260426003813761800",
+          "title": "美国共和党参议员格雷厄姆：让我们继续封锁，开放海峡，必要时恢复军事行动，确保伊朗永远无法重蹈覆辙。",
+          "url": "https://flash.jin10.com/detail/20260426010857275800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时08分"
+          "time_info": "02时03分"
         },
         {
-          "title": "美国为何害怕中国大蒜",
-          "url": "https://www.toutiao.com/trending/7632497198902693386/",
-          "source": "今日头条",
+          "title": "美国共和党参议员格雷厄姆：美国和世界的首要任务是对霍尔木兹海峡建立牢固的控制，确保根据国际法的航行自由。为了实现这一目标，短期内可能需要美国的军事介入。",
+          "url": "https://flash.jin10.com/detail/20260426010745850800",
+          "source": "金十数据",
           "ranks": [
-            23
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时04分"
+          "time_info": "02时03分"
+        },
+        {
+          "title": "伊朗外长：美国是否真心实意进行谈判还有待观察",
+          "url": "https://flash.jin10.com/detail/20260426010310775800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时03分"
         },
         {
           "title": "美国对伊朗实施最大程度经济封锁",
@@ -199,19 +251,42 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
+        },
+        {
+          "title": "特朗普，已经压不住油价了",
+          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
+        },
+        {
+          "title": "“淡化”特朗普 美共和党调整中期选举策略",
+          "url": "https://wallstreetcn.com/livenews/3094397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "美国总统特朗普给一位身在伊斯兰堡的《纽约邮报》记者发了一条私信：“回家吧。”",
           "url": "https://flash.jin10.com/detail/20260426010033852800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 02时03分]"
         },
         {
           "title": "特朗普称已取消威特科夫和库什纳前往巴基斯坦的行程",
@@ -226,48 +301,28 @@
           "time_info": "[00时04分 ~ 01时08分]"
         },
         {
-          "title": "特朗普，已经压不住油价了",
-          "url": "https://news.ifeng.com/c/8sbbY2vrvZn",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
-        },
-        {
-          "title": "“淡化”特朗普 美共和党调整中期选举策略",
-          "url": "https://wallstreetcn.com/livenews/3094397",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
-        },
-        {
           "title": "美国总统特朗普：而且，我们掌握着所有筹码，他们却一无所有！如果他们想谈，只需打个电话就行了。",
           "url": "https://flash.jin10.com/detail/20260426003010655800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 02时03分]"
         },
         {
           "title": "美国总统特朗普：伊朗领导层内部正陷入严重的内讧与混乱之中。没人知道究竟谁说了算——就连他们自己也搞不清楚。",
           "url": "https://flash.jin10.com/detail/20260426002923524800",
           "source": "金十数据",
           "ranks": [
-            17
+            17,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 02时03分]"
         },
         {
           "title": "美国总统特朗普表示，尚未考虑恢复战争。",
@@ -276,7 +331,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -287,7 +342,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -298,7 +353,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -309,7 +364,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -320,7 +375,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -331,7 +386,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         },
@@ -342,7 +397,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时08分"
         }
@@ -360,8 +415,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "明查｜日本自卫队坦克炸膛涉“中国制造”？型号搞错了，且此“中国”非中国",
@@ -371,8 +426,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "日本坦克炸膛事故致3死，“太罕见了，几乎闻所未闻”",
@@ -382,8 +437,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "日本修订「武器出口三原则」核心条款，武器出口类型不再受限，此举会对全球经贸和日本经济产生何种影响？",
@@ -393,8 +448,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "日本大槌町山火逼近住宅区",
@@ -404,8 +459,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         }
       ]
     },
@@ -421,8 +476,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "沐曦股份携手FlagOS、上海人工智能实验室，完成DeepSeek-V4 Day 0适配",
@@ -432,8 +487,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "DeepSeek V4换芯片的背后",
@@ -443,8 +498,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "DeepSeek-V4和GPT-5.5实测对决",
@@ -472,8 +527,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "新一轮伊朗谈判，但股市已毫不在意，完全聚焦CPU、光通信等“AI瓶颈”",
@@ -484,8 +539,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "纳指、标普创新高、道琼斯下跌，英特尔涨超 23%，英伟达重上 5 万亿，伯里又开始做空，美股还能狂飙多久？",
@@ -494,9 +549,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时08分 ~ 02时03分]"
         },
         {
           "title": "英特尔财报大超预期盘前涨超30% 最新工作站CPU、GPU发布 高管预计缺货仍将持续",
@@ -506,8 +561,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         }
       ]
     },
@@ -523,8 +578,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "马上评｜为什么说“AI霸总”比“秀才”们更可怕",
@@ -535,8 +590,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "AI出图太逼真,二游圈炸锅",
@@ -546,8 +601,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "AI帮忙投资靠谱吗",
@@ -574,8 +629,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         },
         {
           "title": "黄金还能投吗？专家热议",
@@ -603,8 +658,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         }
       ]
     },
@@ -620,8 +675,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         }
       ]
     },
@@ -638,8 +693,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时04分 ~ 01时08分]"
+          "appearance_count": 3,
+          "time_info": "[00时04分 ~ 02时03分]"
         }
       ]
     }
