@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T19:42:36.954513+08:00",
-  "total_titles_processed": 1254,
+  "generated_at": "2026-04-27T21:28:17.445920+08:00",
+  "total_titles_processed": 1388,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 77,
+      "match_count": 78,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -120,11 +120,12 @@
             14,
             9,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 19时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 21时28分]"
         },
         {
           "title": "特朗普否认枪击事件与伊朗战争有关",
@@ -212,11 +213,12 @@
             20,
             27,
             28,
-            30
+            30,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时04分 ~ 19时42分]"
+          "appearance_count": 17,
+          "time_info": "[00时04分 ~ 21时28分]"
         },
         {
           "title": "华盛顿宴会厅恐惧之夜：男子携多种武器冲向安检点开火，特朗普踉跄撤离",
@@ -331,8 +333,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 19时42分]"
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 21时28分]"
         },
         {
           "title": "美国总统特朗普：伊朗知道协议应该包括什么，他们明白不能拥有核武器，否则就没有必要举行会议。",
@@ -403,6 +405,34 @@
           "time_info": "[02时04分 ~ 05时04分]"
         },
         {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 21时28分]"
+        },
+        {
+          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 21时28分]"
+        },
+        {
           "title": "特朗普接受CBS采访的节目将于7点播出，谈及枪击事件",
           "url": "https://flash.jin10.com/detail/20260427042646339800",
           "source": "金十数据",
@@ -414,6 +444,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时04分 ~ 07时05分]"
+        },
+        {
+          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
+          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时28分]"
         },
         {
           "title": "特朗普：枪击案嫌疑人留下字条",
@@ -515,32 +556,6 @@
           "time_info": "[12时06分 ~ 15时13分]"
         },
         {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 19时42分]"
-        },
-        {
-          "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058593",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 19时42分]"
-        },
-        {
           "title": "美国代理司法部长：拒绝置评美联储监察长对美联储翻修大楼（超支）问题的审查。 如果（美联储监察长的）自查没有涉及美联储的不当行为，（特朗普政府）就会（恢复刑事）调查。 不排除（特朗普政府）重新调查美联储的可能性。",
           "url": "https://wallstreetcn.com/livenews/3094509",
           "source": "华尔街见闻-快讯",
@@ -550,17 +565,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时04分 ~ 02时04分]"
-        },
-        {
-          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
-          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "晚宴枪声，这一次瞄准的不只是特朗普",
@@ -756,7 +760,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -860,6 +864,17 @@
           "time_info": "00时04分"
         },
         {
+          "title": "自导自演晚宴枪击事件？特朗普回应",
+          "url": "https://www.baidu.com/s?wd=%E8%87%AA%E5%AF%BC%E8%87%AA%E6%BC%94%E6%99%9A%E5%AE%B4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6%EF%BC%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "美国总统特朗普：涉嫌白宫记者晚宴枪击事件的家庭成员知道他面临困难。",
           "url": "https://flash.jin10.com/detail/20260426231700984800",
           "source": "金十数据",
@@ -951,7 +966,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "75 岁美国富豪猎人在非洲加蓬狩猎遭象群踩踏身亡，这次意外暴露了哪些问题？",
@@ -1115,6 +1130,18 @@
           "time_info": "[04时03分 ~ 07时05分]"
         },
         {
+          "title": "美国以涉伊朗为由制裁中企 中方表态",
+          "url": "https://www.toutiao.com/trending/7632821618738167818/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 21时28分]"
+        },
+        {
           "title": "伊朗称已成功摧毁三枚美国巨型钻地弹",
           "url": "https://www.cls.cn/detail/2356080",
           "source": "财联社热门",
@@ -1212,6 +1239,17 @@
           "time_info": "[03时27分 ~ 06时03分]"
         },
         {
+          "title": "外交部回应美国制裁中企：将坚决维护本国企业的合法权益",
+          "url": "https://www.cls.cn/detail/2356631",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 21时28分]"
+        },
+        {
           "title": "美国共和党众议员迈克尔·麦考尔：枪击事件引发对总统继任顺序安全的担忧。",
           "url": "https://flash.jin10.com/detail/20260427015000699800",
           "source": "金十数据",
@@ -1240,17 +1278,6 @@
           "time_info": "[03时27分 ~ 06时03分]"
         },
         {
-          "title": "美国以涉伊朗为由制裁中企 中方表态",
-          "url": "https://www.toutiao.com/trending/7632821618738167818/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 19时42分]"
-        },
-        {
           "title": "伊朗战争丨美国已收到伊朗谈判新方案，详情披露",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -1260,6 +1287,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时06分 ~ 17时36分]"
+        },
+        {
+          "title": "刺杀频发，美国进入“肉体消灭政治对手”的新时代？",
+          "url": "https://v.ifeng.com/c/8sfUke8wwXP",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时28分]"
+        },
+        {
+          "title": "CNN唏嘘：政治暴力日益加剧，正威胁美国民主的基本仪式",
+          "url": "https://news.ifeng.com/c/8sfTosNZKUu",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时28分]"
         },
         {
           "title": "晚宴枪声，释放了美国一个危险信号",
@@ -1272,17 +1321,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时06分 ~ 15时13分]"
-        },
-        {
-          "title": "外交部回应美国制裁中企：将坚决维护本国企业的合法权益",
-          "url": "https://www.cls.cn/detail/2356631",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 19时42分]"
         },
         {
           "title": "伊朗称已成功摧毁3枚美国巨型钻地弹",
@@ -1314,7 +1352,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1325,31 +1363,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
         {
-          "title": "刺杀频发，美国进入“肉体消灭政治对手”的新时代？",
-          "url": "https://v.ifeng.com/c/8sfUke8wwXP",
-          "source": "凤凰网",
+          "title": "美博主感叹：为何美国买不到中国车",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8D%9A%E4%B8%BB%E6%84%9F%E5%8F%B9%EF%BC%9A%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%9B%BD%E4%B9%B0%E4%B8%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6",
+          "source": "百度热搜",
           "ranks": [
-            2
+            15,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "CNN唏嘘：政治暴力日益加剧，正威胁美国民主的基本仪式",
-          "url": "https://news.ifeng.com/c/8sfTosNZKUu",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时28分]"
         },
         {
           "title": "A股前董事长疑涉美国性侵丑闻",
@@ -1437,7 +1465,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1464,17 +1492,6 @@
           "time_info": "00时04分"
         },
         {
-          "title": "美博主感叹：为何美国买不到中国车",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%8D%9A%E4%B8%BB%E6%84%9F%E5%8F%B9%EF%BC%9A%E4%B8%BA%E4%BD%95%E7%BE%8E%E5%9B%BD%E4%B9%B0%E4%B8%8D%E5%88%B0%E4%B8%AD%E5%9B%BD%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "美国已收到伊朗谈判新方案",
           "url": "https://www.toutiao.com/trending/7633275460994125363/",
           "source": "今日头条",
@@ -1497,6 +1514,17 @@
           "time_info": "12时06分"
         },
         {
+          "title": "美国FBI局长帕特尔：今天晚些时候将就枪击事件召开新闻发布会。",
+          "url": "https://wallstreetcn.com/livenews/3095020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "中方回应美国白宫记者晚宴枪击事件",
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E7%99%BD%E5%AE%AB%E8%AE%B0%E8%80%85%E6%99%9A%E5%AE%B4%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6",
           "source": "百度热搜",
@@ -1514,7 +1542,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1536,7 +1564,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
@@ -1544,7 +1572,7 @@
     },
     {
       "keyword_group": "DeepSeek",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -1693,6 +1721,17 @@
           "time_info": "[05时03分 ~ 08时03分]"
         },
         {
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 21时28分]"
+        },
+        {
           "title": "DeepSeek V4成OpenClaw默认模型",
           "url": "https://www.toutiao.com/trending/7632564309457141806/",
           "source": "今日头条",
@@ -1705,15 +1744,15 @@
           "time_info": "[01时08分 ~ 04时03分]"
         },
         {
-          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
-          "url": "https://www.cls.cn/detail/2356575",
-          "source": "财联社热门",
+          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
+          "url": "https://wallstreetcn.com/articles/3770936",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时36分 ~ 19时42分]"
+          "time_info": "[19时42分 ~ 21时28分]"
         },
         {
           "title": "DeepSeek 多位骨干离职去大厂，他们的去向透露出哪些信息？会对 DeepSeek 自身带来多大影响？",
@@ -1750,15 +1789,15 @@
           "time_info": "15时13分"
         },
         {
-          "title": "DeepSeek“吓崩”智谱和MiniMax，但摩根大通认为：V4打破算力束缚，是行业利好",
-          "url": "https://wallstreetcn.com/articles/3770936",
-          "source": "华尔街见闻",
+          "title": "DeepSeek V4哪些点被低估了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4%E5%93%AA%E4%BA%9B%E7%82%B9%E8%A2%AB%E4%BD%8E%E4%BC%B0%E4%BA%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "21时28分"
         },
         {
           "title": "DeepSeek调整API计费",
@@ -1841,7 +1880,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "白宫晚宴枪手系酒店住客？曾捐款哈里斯25美元，FBI正搜家",
@@ -1921,7 +1960,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1979,7 +2018,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -1990,7 +2029,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -2023,7 +2062,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -2045,7 +2084,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -2061,6 +2100,17 @@
           "time_info": "17时36分"
         },
         {
+          "title": "英镑兑美元GBP/USD短线走低逾15点，现报1.3549。",
+          "url": "https://flash.jin10.com/detail/20260427210007563800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "机构：预估2026年全球手机直连卫星市场规模将成长至76亿美元 年成长率约49%",
           "url": "https://flash.jin10.com/detail/20260427170356652800",
           "source": "金十数据",
@@ -2070,6 +2120,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "壳牌同意以136亿美元收购加拿大的ARC能源",
+          "url": "https://wallstreetcn.com/livenews/3095007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "布伦特原油日内涨幅达3.0%，报102.14美元/桶。",
@@ -2086,7 +2147,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "AI行情之后，市场开始面对真正的变量：能源价格上移",
@@ -2159,6 +2220,18 @@
           "time_info": "[00时04分 ~ 08时03分]"
         },
         {
+          "title": "AI海报杀疯,设计师饭碗被砸",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 21时28分]"
+        },
+        {
           "title": "加拿大曼尼托巴省拟禁止未成年人使用社交媒体及AI聊天机器人",
           "url": "https://flash.jin10.com/detail/20260427010358748800",
           "source": "金十数据",
@@ -2174,16 +2247,43 @@
           "time_info": "[02时04分 ~ 06时03分]"
         },
         {
-          "title": "AI海报杀疯,设计师饭碗被砸",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353780&amp;topic_name=AI%E6%B5%B7%E6%8A%A5%E6%9D%80%E7%96%AF%2C%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%A5%AD%E7%A2%97%E8%A2%AB%E7%A0%B8",
-          "source": "贴吧",
+          "title": "歌手 AI海报",
+          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
             2,
-            1
+            8,
+            26
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时13分 ~ 19时42分]"
+          "time_info": "[17时36分 ~ 21时28分]"
+        },
+        {
+          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
+          "url": "https://www.zhihu.com/question/2030297015276549260",
+          "source": "知乎",
+          "ranks": [
+            20,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 21时28分]"
+        },
+        {
+          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
+          "url": "https://wallstreetcn.com/articles/3770953",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 21时28分]"
         },
         {
           "title": "就在下周四！科技四巨头同日财报，暴涨的AI面临“验证时刻”",
@@ -2199,16 +2299,16 @@
           "time_info": "[12时06分 ~ 17时36分]"
         },
         {
-          "title": "歌手 AI海报",
-          "url": "https://s.weibo.com/weibo?q=%E6%AD%8C%E6%89%8B%20AI%E6%B5%B7%E6%8A%A5&t=31&band_rank=2&Refer=top",
+          "title": "被AI骗去毒蛇窝徒步",
+          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=6&Refer=top",
           "source": "微博",
           "ranks": [
-            2,
-            8
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时36分 ~ 19时42分]"
+          "time_info": "[19时42分 ~ 21时28分]"
         },
         {
           "title": "GPT-Image-2 图片很难一眼看出 AI 味，颠覆了有图有真相的认知，那普通人怎样才能鉴别真假？",
@@ -2222,30 +2322,6 @@
           "time_info": "12时06分"
         },
         {
-          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
-          "url": "https://www.zhihu.com/question/2030297015276549260",
-          "source": "知乎",
-          "ranks": [
-            20,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 19时42分]"
-        },
-        {
-          "title": "时薪100元的新工种：把iPhone绑在脑门上，替AI蒸馏自己",
-          "url": "https://wallstreetcn.com/articles/3770953",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 19时42分]"
-        },
-        {
           "title": "LEMAIRE被指辱华后致歉：未能充分考虑文化差异与敏感性",
           "url": "https://m.thepaper.cn/newsDetail_forward_33058387",
           "source": "澎湃新闻",
@@ -2257,15 +2333,15 @@
           "time_info": "[17时36分 ~ 19时42分]"
         },
         {
-          "title": "被AI骗去毒蛇窝徒步",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%ABAI%E9%AA%97%E5%8E%BB%E6%AF%92%E8%9B%87%E7%AA%9D%E5%BE%92%E6%AD%A5&t=31&band_rank=6&Refer=top",
-          "source": "微博",
+          "title": "彻底失控！AI恐惧演变物理暗杀：老黄随身带5个保镖，奥特曼们沦为靶子",
+          "url": "https://wallstreetcn.com/articles/3770976",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "21时28分"
         },
         {
           "title": "太空“拥堵”催生新基建——商业航天如何迈向“AI智驾”？",
@@ -2321,6 +2397,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "AI短剧 融脸",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E8%9E%8D%E8%84%B8&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     },
@@ -2341,6 +2428,20 @@
           "time_info": "[00时04分 ~ 12时06分]"
         },
         {
+          "title": "日本2025年“孤独死”人数超2.2万人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33058987",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时06分 ~ 21时28分]"
+        },
+        {
           "title": "日本2025年孤独死人数超2.2万人",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC2025%E5%B9%B4%E5%AD%A4%E7%8B%AC%E6%AD%BB%E4%BA%BA%E6%95%B0%E8%B6%852.2%E4%B8%87%E4%BA%BA",
           "source": "百度热搜",
@@ -2352,20 +2453,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时08分 ~ 05时04分]"
-        },
-        {
-          "title": "日本2025年“孤独死”人数超2.2万人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33058987",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时06分 ~ 19时42分]"
         },
         {
           "title": "中方：绝不允许日本军国主义死灰复燃",
@@ -2528,6 +2615,155 @@
       ]
     },
     {
+      "keyword_group": "openai chatgpt",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "微软(MSFT.O)：OpenAI产品将优先在Azure上发布。",
+          "url": "https://flash.jin10.com/detail/20260427211114444800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "微软(MSFT.O)：与OpenAI将继续深化合作伙伴关系。",
+          "url": "https://flash.jin10.com/detail/20260427211024958800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "微软与OpenAI修订合作协议：微软将不再向OpenAI支付收入分成，微软的OpenAI许可现将转为非独家许可",
+          "url": "https://wallstreetcn.com/livenews/3095041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "OpenAI：现在可以向任何云服务提供商的客户提供所有产品。",
+          "url": "https://flash.jin10.com/detail/20260427210816439800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "OpenAI和亚马逊云服务(AWS)高管将于4月28日举办客户活动。（The Information）",
+          "url": "https://flash.jin10.com/detail/20260427210717594800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "微软(MSFT.O)：将继续作为OpenAI的主要云合作伙伴，并将在2032年前继续持有OpenAI知识产权的许可。",
+          "url": "https://flash.jin10.com/detail/20260427210624388800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "微软(MSFT.O)：OpenAI现在可以在任何云服务提供商上提供其所有产品。",
+          "url": "https://flash.jin10.com/detail/20260427210554063800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "微软(MSFT.O)盘前跌2%，其将不再向OpenAI支付收入分成。",
+          "url": "https://flash.jin10.com/detail/20260427210457057800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "微软(MSFT.O)：这是微软与OpenAI合作伙伴关系的下一阶段。",
+          "url": "https://flash.jin10.com/detail/20260427210435844800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "高通(QCOM.O)盘前涨10%，此前分析师爆料称公司正在与OpenAI合作开发智能手机处理器。",
+          "url": "https://flash.jin10.com/detail/20260427170928667800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
+          "title": "微软(MSFT.O)获得的OpenAI授权现在将变为非独家性质。",
+          "url": "https://flash.jin10.com/detail/20260427210310494800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "OpenAI宣布修订协议，以简化与微软(MSFT.O)的合作关系。",
+          "url": "https://flash.jin10.com/detail/20260427210243059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "微软(MSFT.O)将不再向OpenAI支付收入分成，来自OpenAI收入分成支付的安排将持续至2030年。",
+          "url": "https://flash.jin10.com/detail/20260427210208357800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
       "match_count": 9,
       "titles": [
@@ -2555,24 +2791,25 @@
           "time_info": "[00时04分 ~ 01时09分]"
         },
         {
+          "title": "黄金被扣30年将按正常时效处理",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%A2%AB%E6%89%A330%E5%B9%B4%E5%B0%86%E6%8C%89%E6%AD%A3%E5%B8%B8%E6%97%B6%E6%95%88%E5%A4%84%E7%90%86%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 21时28分]"
+        },
+        {
           "title": "全球央行进入“无援区”！国际现货黄金深度僵局下在等待什么？| Live分析更新中",
           "url": "https://flash.jin10.com/detail/20260427193011642800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "黄金被扣30年将按正常时效处理",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E8%A2%AB%E6%89%A330%E5%B9%B4%E5%B0%86%E6%8C%89%E6%AD%A3%E5%B8%B8%E6%97%B6%E6%95%88%E5%A4%84%E7%90%86%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         },
@@ -2636,7 +2873,7 @@
     },
     {
       "keyword_group": "大模型",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "壁仞科技率先完成中国移动九天35B大模型预适配",
@@ -2651,28 +2888,22 @@
           "time_info": "[00时04分 ~ 06时03分]"
         },
         {
+          "title": "国产开源大模型下载量破100亿次",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BA%A7%E5%BC%80%E6%BA%90%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%B8%8B%E8%BD%BD%E9%87%8F%E7%A0%B4100%E4%BA%BF%E6%AC%A1%23&t=31&band_rank=3&Refer=top",
+          "source": "微博",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
           "title": "国产开源大模型密集迭代升级 国产开源大模型下载量破100亿次",
           "url": "https://wallstreetcn.com/livenews/3094869",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时36分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "openai chatgpt",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高通(QCOM.O)盘前涨10%，此前分析师爆料称公司正在与OpenAI合作开发智能手机处理器。",
-          "url": "https://flash.jin10.com/detail/20260427170928667800",
-          "source": "金十数据",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 1,
