@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-02T19:42:10.788764+08:00",
-  "total_titles_processed": 1271,
+  "generated_at": "2026-05-02T20:58:21.737681+08:00",
+  "total_titles_processed": 1357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 106,
+      "match_count": 107,
       "titles": [
         {
           "title": "伊朗转交新方案，“放宽谈判条件”，特朗普称“不满意”，但“倾向于不打击”",
@@ -16,8 +16,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时59分 ~ 19时42分]"
+          "appearance_count": 10,
+          "time_info": "[11时59分 ~ 20时58分]"
+        },
+        {
+          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
+          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时59分 ~ 20时58分]"
         },
         {
           "title": "【早报】白宫：与伊朗的敌对行动已经“结束”；特朗普：下周对欧盟输美汽车和卡车加征25%关税",
@@ -29,8 +40,22 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时39分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[08时39分 ~ 20时58分]"
+        },
+        {
+          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
+          "url": "https://www.cls.cn/detail/2362040",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            5,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时08分 ~ 20时58分]"
         },
         {
           "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
@@ -48,15 +73,20 @@
           "time_info": "[00时52分 ~ 16时06分]"
         },
         {
-          "title": "伊朗战争会再次影响访华行程吗？特朗普答凤凰记者问",
-          "url": "https://news.ifeng.com/c/8snAXIe1Bbr",
-          "source": "凤凰网",
+          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            15,
+            12,
+            10,
+            9,
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 9,
-          "time_info": "[11时59分 ~ 19时42分]"
+          "time_info": "[14时08分 ~ 20时58分]"
         },
         {
           "title": "总统能上太空吗？特朗普现场发问，NASA局长：可以安排",
@@ -70,34 +100,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 11时59分]"
-        },
-        {
-          "title": "美伊局势追踪：特朗普“不满”伊朗最新谈判方案 白宫称敌对行动已“结束”",
-          "url": "https://www.cls.cn/detail/2362040",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时08分 ~ 19时42分]"
-        },
-        {
-          "title": "规避“60天期限”，特朗普致函国会称与伊朗敌对行动已“结束”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091461",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时08分 ~ 19时42分]"
         },
         {
           "title": "屡遭暗杀还不考虑穿防弹衣？特朗普：穿着显胖",
@@ -125,6 +127,17 @@
           "time_info": "[00时52分 ~ 07时14分]"
         },
         {
+          "title": "特朗普支持率低迷，共和党冲刺“重划选区”",
+          "url": "https://news.ifeng.com/c/8snecDmwXXq",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时06分 ~ 20时58分]"
+        },
+        {
           "title": "顶住特朗普压力，美国两大能源巨头拒绝提高石油产量",
           "url": "https://wallstreetcn.com/articles/3771461",
           "source": "华尔街见闻",
@@ -149,15 +162,16 @@
           "time_info": "[08时39分 ~ 16时06分]"
         },
         {
-          "title": "特朗普支持率低迷，共和党冲刺“重划选区”",
-          "url": "https://news.ifeng.com/c/8snecDmwXXq",
-          "source": "凤凰网",
+          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
+          "url": "https://wallstreetcn.com/articles/3771467",
+          "source": "华尔街见闻",
           "ranks": [
+            9,
             7
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时06分 ~ 19时42分]"
+          "time_info": "[17时39分 ~ 20时58分]"
         },
         {
           "title": "资深共和党官员理查德·沃尔特斯（Richard Walters）有望加入白宫 ，担任特朗普政府的副幕僚长。",
@@ -171,18 +185,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时14分 ~ 08时39分]"
-        },
-        {
-          "title": "特朗普：将于下周对欧盟输美汽车和卡车加征25%关税",
-          "url": "https://wallstreetcn.com/articles/3771467",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 19时42分]"
         },
         {
           "title": "特朗普告诉国会，伊朗战争已“终止”，美国参议院少数党领袖舒默对此回应称：“这真是胡说八道。 这是一场非法战争，每一天共和党人继续同谋并允许其继续，都是在让生命处于危险之中，混乱加剧，物价上涨，而美国人却在为此买单。 ”",
@@ -323,6 +325,17 @@
           "time_info": "[06时12分 ~ 08时39分]"
         },
         {
+          "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33092022",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 20时58分]"
+        },
+        {
           "title": "美国总统特朗普称，他不需要国会授权即可对伊朗采取军事行动，理由是已达成停火协议。特朗普在给美国国会的信中写道：自2026年4月7日以来，美军与伊朗之间未发生交火。始于2026年2月28日的敌对行动已经结束。",
           "url": "https://flash.jin10.com/detail/20260502023926278800",
           "source": "金十数据",
@@ -358,6 +371,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "古巴外长回应特朗普威胁：毫无理由 古巴人民不会接受恐吓",
+          "url": "https://flash.jin10.com/detail/20260502202654435800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "美国总统特朗普：对伊朗行动不需要授权。",
           "url": "https://flash.jin10.com/detail/20260502023643781800",
           "source": "金十数据",
@@ -382,6 +406,18 @@
           "time_info": "[05时13分 ~ 06时12分]"
         },
         {
+          "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
+          "url": "https://wallstreetcn.com/livenews/3098148",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时58分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-02）",
           "url": "https://flash.jin10.com/detail/20260502182311552800",
           "source": "金十数据",
@@ -392,6 +428,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时45分 ~ 19时42分]"
+        },
+        {
+          "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
+          "url": "https://wallstreetcn.com/livenews/3098147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时58分]"
         },
         {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”、告知国会与伊战事已“结束”",
@@ -415,17 +463,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "美军拦截并登上伊朗油轮 特朗普戏称“我们简直就像海盗”",
-          "url": "https://wallstreetcn.com/livenews/3098148",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "特朗普回应伊朗赴美踢世界杯：我没意见",
@@ -471,17 +508,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "特朗普威胁提高汽车关税，欧盟：将“保留所有选项”",
-          "url": "https://wallstreetcn.com/livenews/3098147",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "据华尔街日报：特朗普政府已于当地时间周四终止了对精神航空的救助计划。美国商务部长卢特尼克已将精神航空首席执行官转介至美国交通部，以寻求帮助以结束该航空公司的运营。",
@@ -576,6 +602,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时09分 ~ 16时06分]"
+        },
+        {
+          "title": "特朗普威胁提高汽车关税 欧盟：将“保留所有选项”",
+          "url": "https://flash.jin10.com/detail/20260502185755702800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时58分]"
         },
         {
           "title": "伊朗战争丨特朗普：说我们没赢，这是叛国",
@@ -730,17 +768,6 @@
           "time_info": "[07时14分 ~ 08时39分]"
         },
         {
-          "title": "规避《战争权力法》？特朗普称对伊行动结束，但仍有法律争议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33092022",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
-        },
-        {
           "title": "特朗普：我认为将近400艘油轮被困在霍尔木兹海峡",
           "url": "https://wallstreetcn.com/livenews/3098057",
           "source": "华尔街见闻-快讯",
@@ -818,17 +845,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "特朗普威胁提高汽车关税 欧盟：将“保留所有选项”",
-          "url": "https://flash.jin10.com/detail/20260502185755702800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "伊朗经调解方转交谈判新方案，特朗普称“不满意”，美军最大航母“福特”号离开中东",
@@ -1241,7 +1257,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 83,
+      "match_count": 87,
       "titles": [
         {
           "title": "王毅 4 月 30 日同美国国务卿鲁比奥通电话，哪些信息值得关注？",
@@ -1267,8 +1283,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时39分 ~ 19时42分]"
+          "appearance_count": 11,
+          "time_info": "[08时39分 ~ 20时58分]"
         },
         {
           "title": "以色列 24 小时接收 6500 吨装备，称或「很快需要」恢复对伊军事行动，美国将扮演怎样的角色？",
@@ -1321,6 +1337,17 @@
           "time_info": "[00时52分 ~ 07时14分]"
         },
         {
+          "title": "五角大楼上演“抓马内斗”，昔日“越南难民”今成美国海军掌门人",
+          "url": "https://news.ifeng.com/c/8snfLKxL2Qm",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 20时58分]"
+        },
+        {
           "title": "美国人正在逃离美国",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%AD%A3%E5%9C%A8%E9%80%83%E7%A6%BB%E7%BE%8E%E5%9B%BD",
           "source": "百度热搜",
@@ -1369,17 +1396,6 @@
           "time_info": "[17时39分 ~ 19时42分]"
         },
         {
-          "title": "五角大楼上演“抓马内斗”，昔日“越南难民”今成美国海军掌门人",
-          "url": "https://news.ifeng.com/c/8snfLKxL2Qm",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 19时42分]"
-        },
-        {
           "title": "美国军官将出任德国陆军要职",
           "url": "https://www.toutiao.com/trending/7634284854422618175/",
           "source": "今日头条",
@@ -1392,6 +1408,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[16时06分 ~ 19时42分]"
+        },
+        {
+          "title": "美国警告立陶宛",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%AB%8B%E9%99%B6%E5%AE%9B%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            23,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 20时58分]"
         },
         {
           "title": "美国4月对亚洲液化天然气出口激增",
@@ -1486,17 +1516,16 @@
           "time_info": "[17时39分 ~ 19时42分]"
         },
         {
-          "title": "美国警告立陶宛",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%AD%A6%E5%91%8A%E7%AB%8B%E9%99%B6%E5%AE%9B%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "美国人正在逃离美国",
+          "url": "https://www.toutiao.com/trending/7634486645609709594/",
+          "source": "今日头条",
           "ranks": [
-            20,
-            23,
-            29
+            1,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 20时58分]"
         },
         {
           "title": "美国防长下令：从德国撤出5000名驻军",
@@ -1511,17 +1540,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时12分 ~ 11时59分]"
-        },
-        {
-          "title": "美国人正在逃离美国",
-          "url": "https://www.toutiao.com/trending/7634486645609709594/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时42分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（5月1日），美国科技股七巨头（Magnificent 7）指数涨1.01%，报215.12点，早盘曾达到216.83点——突破4月27日所创收盘历史最高位215.24点，本周累计上涨0.91%。 “超大”市值科技股指数涨1.26%，报426.01点，突破2025年10月29日所创收盘历史最高位422.72点，刷新盘中历史高位至428.31点，本周累涨1.08%。",
@@ -1749,6 +1767,17 @@
           "time_info": "[03时04分 ~ 04时14分]"
         },
         {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至3月31日的股权投资总公允价值中，61%集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。",
+          "url": "https://flash.jin10.com/detail/20260502201859997800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "美国务院批准向以色列等中东四国出售武器",
           "url": "https://flash.jin10.com/detail/20260502080453258800",
           "source": "金十数据",
@@ -1759,6 +1788,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时39分 ~ 11时59分]"
+        },
+        {
+          "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
+          "url": "https://wallstreetcn.com/livenews/3098146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时58分]"
         },
         {
           "title": "伊朗外长称仍愿同美国进行外交对话",
@@ -1783,6 +1824,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时06分 ~ 17时40分]"
+        },
+        {
+          "title": "商务部公布关于美国对5家中国企业实施涉伊朗石油制裁措施的阻断禁令",
+          "url": "https://flash.jin10.com/detail/20260502190454277800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时58分]"
         },
         {
           "title": "伊朗放宽与美国恢复和谈的条件。（华尔街日报）",
@@ -1821,6 +1874,18 @@
           "time_info": "[03时04分 ~ 04时14分]"
         },
         {
+          "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
+          "url": "https://flash.jin10.com/detail/20260502190209854800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时42分 ~ 20时58分]"
+        },
+        {
           "title": "美国5月1日当周总钻井数 547，前值 544。",
           "url": "https://wallstreetcn.com/livenews/3097991",
           "source": "华尔街见闻-快讯",
@@ -1833,15 +1898,26 @@
           "time_info": "[01时55分 ~ 03时04分]"
         },
         {
-          "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
-          "url": "https://wallstreetcn.com/livenews/3098146",
+          "title": "美国交通部长达菲：联合航空、达美航空、捷蓝航空和西南航空均对需要重新预订被取消航班的精神航空客户限制票价。",
+          "url": "https://flash.jin10.com/detail/20260502201534267800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "北约发言人：正向美国了解驻德美军撤出计划细节",
+          "url": "https://wallstreetcn.com/livenews/3098156",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "20时58分"
         },
         {
           "title": "美国联合航空为精神航空的客户和员工提供支持。",
@@ -1904,6 +1980,17 @@
           "time_info": "[01时55分 ~ 03时04分]"
         },
         {
+          "title": "美国交通部长达菲：我们正在采取行动为精神航空的客户和员工提供救助。",
+          "url": "https://flash.jin10.com/detail/20260502201524492800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，美国民主党人正在私下寻求华尔街资金，以备2028年总统竞选。",
           "url": "https://flash.jin10.com/detail/20260502090041694800",
           "source": "金十数据",
@@ -1939,17 +2026,6 @@
           "time_info": "[17时39分 ~ 17时40分]"
         },
         {
-          "title": "商务部公布关于美国对5家中国企业实施涉伊朗石油制裁措施的阻断禁令",
-          "url": "https://flash.jin10.com/detail/20260502190454277800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
           "title": "伊朗外长：美国是霍尔木兹海峡不安全局势的主要根源。",
           "url": "https://wallstreetcn.com/livenews/3097965",
           "source": "华尔街见闻-快讯",
@@ -1959,17 +2035,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
-        },
-        {
-          "title": "商务部新闻发言人就阻断美国对5家中国企业实施涉伊朗石油制裁措施答记者问",
-          "url": "https://flash.jin10.com/detail/20260502190209854800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
         },
         {
           "title": "民调：超六成美国人认为对伊朗动武是错误",
@@ -2239,7 +2304,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 39,
+      "match_count": 49,
       "titles": [
         {
           "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
@@ -2250,8 +2315,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 19时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 20时58分]"
         },
         {
           "title": "美股收盘，道指初步收跌0.31%、标普500指数涨0.29%、纳指涨0.89%。因Q1财报靓丽，苹果(AAPL.O)收涨3.24%、闪迪(SNDK.O)涨8.25%。英特尔(INTC.O)涨5.44%，收盘价为99.62美元创下新高。",
@@ -2286,11 +2351,12 @@
           "ranks": [
             5,
             9,
-            13
+            13,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 19时42分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 20时58分]"
         },
         {
           "title": "油轮期货指数ETF收涨6.64%，报174.18美元，突破4月9日所创收盘历史最高位169.97美元、逼近当天所创盘中历史最高位179.8999美元，本周累计上涨24.62%。",
@@ -2502,6 +2568,17 @@
           "time_info": "[04时14分 ~ 05时13分]"
         },
         {
+          "title": "截至3月31日，伯克希尔哈撒韦公司61%的股票投资总公允价值集中于美国运通、苹果、美国银行、雪佛龙和可口可乐。 截至3月31日，伯克希尔哈撒韦旗下的Pacificorp公司因野火预估累计损失约29亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098157",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "比特币涨超2%，美股盘初曾逼近7.9万美元，狗狗币最近七天涨超10%",
           "url": "https://wallstreetcn.com/livenews/3097992",
           "source": "华尔街见闻-快讯",
@@ -2558,6 +2635,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时59分"
+        },
+        {
+          "title": "伯克希尔哈撒韦现金储备激增至创纪录的3970亿美元",
+          "url": "https://wallstreetcn.com/livenews/3098155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "LME期铜收涨10美元，报12996美元/吨。 LME期铝收涨48美元，报3522美元/吨。 LME期锌收跌16美元，报3344美元/吨。 LME期铅收跌6美元，报1949美元/吨。 LME期镍收跌103美元，报19365美元/吨。 LME期锡收涨209美元，报49423美元/吨。 LME期钴收平，报56290美元/吨。",
@@ -2631,6 +2719,17 @@
           "time_info": "[19时41分 ~ 19时42分]"
         },
         {
+          "title": "伯克希尔哈撒韦现金储备激增至创纪录的3970亿美元",
+          "url": "https://flash.jin10.com/detail/20260502201440514800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "巴克莱：上调2026年布伦特原油价格预期至100美元/桶。",
           "url": "https://wallstreetcn.com/livenews/3098050",
           "source": "华尔街见闻-快讯",
@@ -2640,6 +2739,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
+        },
+        {
+          "title": "伯克希尔哈撒韦第一季度运营利润为113.5亿美元，同比增长18%。 第一季度净利润101.1亿美元，去年同期为46亿美元。 第一季度保险承保业务运营收入17.2亿美元，同比增长29% 第一季度保险投资业务运营收入26.8亿美元，同比下降7.4% 第一季度伯克希尔哈撒韦能源公司运营收入11.1亿美元，同比增长1.5% 第一季度投资净亏损为12.40亿美元，去年同期亏损为50.38亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)：截至2026年3月31日，保险浮存金约为1,769亿美元。",
+          "url": "https://flash.jin10.com/detail/20260502201034113800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N)2026年一季度末持有的固定收益证券投资公允价值达176.69亿美元（上年同期为178.16亿美元），其中，对美债、外国债券、企业债券的投资公允价值分别为38.8亿美元，123.91亿美元，11.9亿美元。",
+          "url": "https://flash.jin10.com/detail/20260502200842876800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "钻井数据公布后，WTI原油报103.01美元/桶，短线波动不大。",
@@ -2653,6 +2785,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "伯克希尔哈撒韦B(BRK.B.N)2026年Q1EPS 4.68美元，上年同期为2.13美元。",
+          "url": "https://flash.jin10.com/detail/20260502200654821800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "报道：WildFire Energy股东正寻求按逾40亿美元出售该美国页岩油运营商",
           "url": "https://wallstreetcn.com/livenews/3098018",
           "source": "华尔街见闻-快讯",
@@ -2664,6 +2807,28 @@
           "time_info": "04时14分"
         },
         {
+          "title": "伯克希尔哈撒韦A(BRK.A.N)2026年Q1EPS 7072美元，上年同期为3200美元。",
+          "url": "https://flash.jin10.com/detail/20260502200642515800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N)2026年第一季度投资净收益-12.4亿美元，而上年同期为-50.38亿美元。",
+          "url": "https://flash.jin10.com/detail/20260502200520138800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "布伦特原油期货本周涨超9%，周四一度逼近115美元",
           "url": "https://wallstreetcn.com/livenews/3098015",
           "source": "华尔街见闻-快讯",
@@ -2673,6 +2838,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时14分"
+        },
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N)一季度运营利润为113.46亿美元，同比增长18%。",
+          "url": "https://flash.jin10.com/detail/20260502200329171800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "布伦特原油期货跌2美元/桶，伊朗提出和平建议。",
@@ -2722,11 +2898,12 @@
             9,
             13,
             14,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 19时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 20时58分]"
         },
         {
           "title": "日本押注一次性纸质无人机",
@@ -2738,11 +2915,12 @@
             17,
             21,
             22,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 19时42分]"
+          "appearance_count": 18,
+          "time_info": "[00时52分 ~ 20时58分]"
         },
         {
           "title": "狼终于来了！日本两年来首度干预，日元飙升，油价、美股和美债“联动”",
@@ -2757,6 +2935,22 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时52分 ~ 11时59分]"
+        },
+        {
+          "title": "UP主揭秘日本阴阳菜单",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E6%97%A5%E6%9C%AC%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            23,
+            9,
+            19,
+            27,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时08分 ~ 20时58分]"
         },
         {
           "title": "日本战犯竟称侵华是为了管教兄弟",
@@ -2774,31 +2968,17 @@
           "time_info": "[14时08分 ~ 19时42分]"
         },
         {
-          "title": "UP主揭秘日本阴阳菜单",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E6%97%A5%E6%9C%AC%E9%98%B4%E9%98%B3%E8%8F%9C%E5%8D%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            23,
-            9,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时08分 ~ 19时42分]"
-        },
-        {
           "title": "小孩曾卓君卫冕日本EVO",
           "url": "https://search.bilibili.com/all?keyword=%E5%B0%8F%E5%AD%A9%E6%9B%BE%E5%8D%93%E5%90%9B%E5%8D%AB%E5%86%95%E6%97%A5%E6%9C%ACEVO",
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            1
+            1,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时06分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[16时06分 ~ 20时58分]"
         },
         {
           "title": "赶在假期前“第二次干预汇市”？市场甚至猜测“日本不止拉高日元，还砸了油价”",
@@ -2807,11 +2987,24 @@
           "ranks": [
             10,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时39分 ~ 19时42分]"
+          "appearance_count": 6,
+          "time_info": "[17时39分 ~ 20时58分]"
+        },
+        {
+          "title": "日本地震",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时45分 ~ 20时58分]"
         },
         {
           "title": "日本战犯竟称侵华是为了“管教兄弟”",
@@ -2824,6 +3017,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时08分 ~ 17时40分]"
+        },
+        {
+          "title": "日本首相高市早苗：旨在与越南及其他国家合作开展AI技术研发。 致力于推动印太地区的数字化基础设施建设。",
+          "url": "https://wallstreetcn.com/livenews/3098138",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            8,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 20时58分]"
         },
         {
           "title": "朝鲜代表：日本谈和平安全可笑至极",
@@ -2839,16 +3046,17 @@
           "time_info": "[04时14分 ~ 07时14分]"
         },
         {
-          "title": "日本地震",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87&t=31&band_rank=15&Refer=top",
-          "source": "微博",
+          "title": "日本本州岛发生5.7级地震 震源深度60公里",
+          "url": "https://wallstreetcn.com/livenews/3098143",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15,
-            2
+            3,
+            7,
+            16
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时42分]"
+          "time_info": "[18时45分 ~ 20时58分]"
         },
         {
           "title": "原日本央行行长黑田东彦：实现了2%这一通胀目标。 有鉴于此，日本无需实施财政宽松、也无需放宽货币政策。 日本央行4月28日对加息选项保持克制是正确的。（日本读卖新闻）",
@@ -2875,19 +3083,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时09分 ~ 17时40分]"
-        },
-        {
-          "title": "日本首相高市早苗：旨在与越南及其他国家合作开展AI技术研发。 致力于推动印太地区的数字化基础设施建设。",
-          "url": "https://wallstreetcn.com/livenews/3098138",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 19时42分]"
         },
         {
           "title": "日本采购的俄罗斯原油将于2日抵达",
@@ -2940,18 +3135,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时40分 ~ 19时42分]"
-        },
-        {
-          "title": "日本本州岛发生5.7级地震 震源深度60公里",
-          "url": "https://wallstreetcn.com/livenews/3098143",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时42分]"
         },
         {
           "title": "5.4万亿日元干预前，日本财长曾警告交易员“手机不离身”，干预将成新常态？",
@@ -3108,15 +3291,32 @@
           "time_info": "[00时52分 ~ 18时45分]"
         },
         {
+          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
+          "url": "https://www.cls.cn/detail/2362027",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时08分 ~ 20时58分]"
+        },
+        {
           "title": "赛道挤爆,AI短剧收益不够电费",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353950&amp;topic_name=%E8%B5%9B%E9%81%93%E6%8C%A4%E7%88%86%2CAI%E7%9F%AD%E5%89%A7%E6%94%B6%E7%9B%8A%E4%B8%8D%E5%A4%9F%E7%94%B5%E8%B4%B9",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时08分 ~ 19时42分]"
+          "appearance_count": 9,
+          "time_info": "[14时08分 ~ 20时58分]"
         },
         {
           "title": "网警提醒：警惕AI伪造骗局",
@@ -3126,8 +3326,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时08分 ~ 19时42分]"
+          "appearance_count": 9,
+          "time_info": "[14时08分 ~ 20时58分]"
         },
         {
           "title": "网警发布五一AI防骗指南",
@@ -3137,23 +3337,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时08分 ~ 19时42分]"
-        },
-        {
-          "title": "国产AI芯片龙头集体迎来业绩兑现 销售规模全线高增",
-          "url": "https://www.cls.cn/detail/2362027",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时08分 ~ 19时42分]"
+          "appearance_count": 9,
+          "time_info": "[14时08分 ~ 20时58分]"
         },
         {
           "title": "女子被AI误导闯入毒蛇窝，AI道歉承认“和送死没有区别”",
@@ -3175,8 +3360,22 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时06分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[16时06分 ~ 20时58分]"
+        },
+        {
+          "title": "专访｜赵又廷：别让AI取代我就行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时06分 ~ 20时58分]"
         },
         {
           "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗，那么真正的李白，底牌是什么？",
@@ -3190,20 +3389,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时39分 ~ 16时06分]"
-        },
-        {
-          "title": "专访｜赵又廷：别让AI取代我就行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33091903",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时06分 ~ 19时42分]"
         },
         {
           "title": "女子被AI误导闯入毒蛇窝",
@@ -3259,6 +3444,18 @@
           "time_info": "[16时06分 ~ 18时45分]"
         },
         {
+          "title": "ai情头",
+          "url": "https://s.weibo.com/weibo?q=ai%E6%83%85%E5%A4%B4&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 20时58分]"
+        },
+        {
           "title": "网警发布五一AI防骗指南",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E5%8F%91%E5%B8%83%E4%BA%94%E4%B8%80AI%E9%98%B2%E9%AA%97%E6%8C%87%E5%8D%97%23&t=31&band_rank=3&Refer=top",
           "source": "微博",
@@ -3279,17 +3476,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时08分 ~ 14时09分]"
-        },
-        {
-          "title": "ai情头",
-          "url": "https://s.weibo.com/weibo?q=ai%E6%83%85%E5%A4%B4&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
         },
         {
           "title": "假设 AI 蒸馏出了「李白的所有创作规律」，然后生成了十万首新诗。那么真正的李白，底牌是什么？",
@@ -3434,11 +3620,12 @@
             9,
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时59分 ~ 19时42分]"
+          "appearance_count": 10,
+          "time_info": "[11时59分 ~ 20时58分]"
         },
         {
           "title": "女子15年前买的金条完全不含黄金",
@@ -3746,8 +3933,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 20时58分]"
         },
         {
           "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
@@ -3778,8 +3965,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时06分 ~ 19时42分]"
+          "appearance_count": 7,
+          "time_info": "[16时06分 ~ 20时58分]"
         },
         {
           "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
@@ -3804,11 +3991,12 @@
           "url": "https://wallstreetcn.com/articles/3771481",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时41分 ~ 19时42分]"
+          "appearance_count": 3,
+          "time_info": "[19时41分 ~ 20时58分]"
         },
         {
           "title": "美股收盘：三大内存股收创纪录 标普纳指连两日刷新高",
@@ -3818,8 +4006,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 20时58分]"
         }
       ]
     },
