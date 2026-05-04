@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T04:01:56.990210+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-05-05T05:15:31.681482+08:00",
+  "total_titles_processed": 534,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗战争丨美军称两艘悬挂美国旗商船通过霍尔木兹，伊朗否认",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "商务部出手,美国禁令失效",
@@ -37,8 +37,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "幕后外交密集进行，伊朗：已收到美国回应，正在审查",
@@ -48,8 +48,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "伊朗：发射两枚导弹击中美国军舰",
@@ -59,8 +59,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -90,11 +90,12 @@
           "url": "https://wallstreetcn.com/livenews/3098614",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时15分]"
         },
         {
           "title": "伊朗军事官员：阿联酋石油设施起火是美国军事冒险所致",
@@ -103,7 +104,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -125,9 +126,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美国国务院领事事务局：我们对阿联酋的旅行警告建议仍维持在三级。",
+          "url": "https://flash.jin10.com/detail/20260505044117014800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周一（5月4日），美国科技股七巨头（Magnificent 7）指数跌0.16%，报214.77点，整体呈现出三波V形走势，北京时间00:08刷新日低至213点。 “超大”市值科技股指数跌0.59%，报423.52点。",
+          "url": "https://wallstreetcn.com/livenews/3098638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "专家解析美国从德国撤军五千人",
+          "url": "https://www.douyin.com/hot/2488488",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国纽约联储主席（在职时享有FOMC永久投票权，号称美联储三把手）威廉姆斯：在伊朗战争造成不确定性期间，利率政策准备就绪。 劳动力市场数据值得持续的密切关注。 剔除进口、能源的基础通胀迄今是稳定的。 基本假设是，2026年通胀大约为3%，2027年为2%；长期通胀预期被牢牢锚定。 预计2026年GDP将增长2%-2.25%，失业率为4.25%-4.50%。",
@@ -158,9 +192,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "市场消息：马士基表示，其一艘悬挂美国国旗的汽车运输船经霍尔木兹海峡离开海湾。",
+          "url": "https://flash.jin10.com/detail/20260505042155807800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美联储威廉姆斯：美国劳动力增长发生了巨大变化。",
@@ -180,7 +225,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -191,7 +236,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -229,13 +274,24 @@
           "time_info": "00时29分"
         },
         {
+          "title": "美国特勤局：美国特勤局工作人员已抵达华盛顿特区第15街和独立大道交汇处发生的一起涉及警察的枪击事件现场。有一人被执法人员开枪击中；目前伤情不明。",
+          "url": "https://flash.jin10.com/detail/20260505041314020800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "Man Group的CEO Robyn Grew：欧洲承受的经济痛苦比美国更加糟糕。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/3098588",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -257,7 +313,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -268,7 +324,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -290,7 +346,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -309,7 +365,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 30,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -320,8 +376,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -331,8 +387,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "事关霍尔木兹海峡，特朗普预告4日上午启动，伊朗发出警告",
@@ -342,8 +398,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
@@ -354,8 +410,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "美财长保证特朗普访华不会再推迟",
@@ -365,8 +421,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "特朗普又有新绰号：NACHO",
@@ -376,8 +432,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "特朗普称将审查伊朗提出的结束冲突新方案",
@@ -388,8 +444,31 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普：美方击沉7艘伊朗小型船只",
+          "url": "https://wallstreetcn.com/livenews/3098612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普称美国与伊朗处于“迷你战争”状态",
+          "url": "https://flash.jin10.com/detail/20260505050012247800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "特朗普呼吁韩国加入霍尔木兹海峡行动",
@@ -414,15 +493,15 @@
           "time_info": "02时02分"
         },
         {
-          "title": "特朗普：美方击沉7艘伊朗小型船只",
-          "url": "https://wallstreetcn.com/livenews/3098612",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：我们的关税经过了更充分的检验，更加有力，也稍微复杂一些。它们让我们的国家变得非常富裕。",
+          "url": "https://flash.jin10.com/detail/20260505045117367800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "05时15分"
         },
         {
           "title": "美媒：特朗普政府考虑对新AI模型引入政府监管",
@@ -431,7 +510,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -442,9 +521,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美国总统特朗普：我已经在采取其他关税措施了。",
+          "url": "https://flash.jin10.com/detail/20260505042903484800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "特朗普宣称：伊朗若攻击美国船只，将会被“炸飞”",
@@ -458,13 +548,24 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美国总统特朗普：我讨厌不得不返还关税。",
+          "url": "https://flash.jin10.com/detail/20260505042844950800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "美国总统特朗普：一枚伊朗导弹进入阿联酋，但并未造成巨大损失。（ABC）",
           "url": "https://wallstreetcn.com/livenews/3098605",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -475,9 +576,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美国总统特朗普：数亿桶石油正从委内瑞拉流出。",
+          "url": "https://flash.jin10.com/detail/20260505042014116800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国总统特朗普：国防部长赫格塞思和参谋长联席会议主席丹·凯恩将于明日上午（北京时间周二晚上）举行新闻发布会。",
@@ -524,6 +636,39 @@
           "time_info": "02时02分"
         },
         {
+          "title": "美国总统特朗普谈及伊朗问题，宣称：进展非常顺利。 一旦战争结束，燃油价格就会迅速下跌。",
+          "url": "https://wallstreetcn.com/livenews/3098621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "美国总统特朗普：重申伊朗不能拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3098620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "美国总统特朗普：称赞伊朗战争期间的股市上涨。",
+          "url": "https://wallstreetcn.com/livenews/3098619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "学者：特朗普2.0经济政策逻辑与趋势",
           "url": "https://www.toutiao.com/trending/7636043656511622662/",
           "source": "今日头条",
@@ -541,7 +686,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -560,7 +705,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 17,
+      "match_count": 28,
       "titles": [
         {
           "title": "据伊朗国家媒体报道，伊朗高级军官称，伊朗无意针对阿联酋。 WTI原油5分钟内下跌0.85美元/桶，报105.42美元/桶。 纽约金5分钟内上涨5.8美元/盎司，报4520.4美元/盎司。",
@@ -574,13 +719,24 @@
           "time_info": "00时29分"
         },
         {
+          "title": "纽约期金跌2.5%，一度逼近4500美元",
+          "url": "https://wallstreetcn.com/livenews/3098646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "周一（5月4日）纽约尾盘，ICE美元指数涨0.25%，报98.401点，日内交投区间为97.970-98.536点。 彭博美元指数涨0.14%，报1195.00点，日内交投区间为1190.48-1196.80点。",
           "url": "https://wallstreetcn.com/livenews/3098611",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -602,7 +758,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -613,9 +769,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "莱迪斯半导体一季度营收1.709亿美元，分析师预期1.649亿美元。 预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美国财政部：将季度借款预期提高至1890亿美元，之前在2月份预计为1090亿美元。 维持6月末现金余额预期在9000亿美元不变。",
@@ -624,7 +791,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -640,15 +807,48 @@
           "time_info": "02时02分"
         },
         {
+          "title": "马斯克将支付150万美元，来了结美国SEC针对推特的案件",
+          "url": "https://wallstreetcn.com/livenews/3098637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。 一季度月活用户数6.31亿，分析师预期6.3047亿。 预计二季度营收11.3亿-11.5亿美元，分析师预期11.2亿美元。 Pinterest美股盘后涨15%。",
+          "url": "https://wallstreetcn.com/livenews/3098635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
           "title": "特朗普在社交媒体上发布了一张其政府于2025年8月买入英特尔(INTC.O)后截至目前的收益曲线图，并配文称：“我在过去8个月让美国赚了450亿美元！”",
           "url": "https://flash.jin10.com/detail/20260505031046499800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "Palantir一季度营收16.3亿美元，分析师预期15.4亿美元。 一季度调整后每股收益（EPS）为0.33美元，分析师预期0.28美元。 一季度调整后EBITDA为9.903亿美元，分析师预期8.867亿美元。 预计全年营收76.5亿-76.6亿美元，公司原本预计71.8亿-72.0亿美元。 Palantir美股盘后涨2%。",
+          "url": "https://wallstreetcn.com/livenews/3098634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "阿联酋外交部声明称，阿联酋保留对伊朗袭击做出回应的“全部及合法权利”。 伊朗的袭击标志着局势严重升级，并对该国的安全构成直接威胁。 WTI原油5分钟内上涨0.51美元/桶，报105.53美元/桶。",
@@ -660,6 +860,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "福泰制药（VRTX）一季度调整后每股收益（EPS）为4.47美元，分析师预期4.19美元。 维持全年总收入预期在129.5亿-131亿美元不变，分析师预期130.4亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "纽元兑美元NZD/USD日内跌幅达0.50%，现报0.5869。",
@@ -690,7 +901,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -704,6 +915,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "派拉蒙天舞（PSKY）一季度营收73.5亿美元，分析师预期72.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "彭博美元指数涨0.3%，刷新日高。",
@@ -723,7 +945,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -734,9 +956,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "美元指数4日上涨",
+          "url": "https://flash.jin10.com/detail/20260505041640994800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了11个对手方的6.18亿美元。",
@@ -748,12 +981,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：如果战争持续到2027年，且油价达到每桶125美元，我们必须预期会有“更糟糕的结果”。",
+          "url": "https://flash.jin10.com/detail/20260505041619284800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "法庭纪录显示，和解协议要求埃隆·马斯克的可撤销信托支付150万美元的民事罚款。",
+          "url": "https://flash.jin10.com/detail/20260505041041738800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        },
+        {
+          "title": "周一（5月4日）纽约尾盘，美元兑日元涨0.03%，报157.06日元，日内交投区间为157.30-155.72日元，北京时间11:44出现一波瞬间的跳水行情、11:54刷新日低，02:51从157.20日元附近跳水至156.60日元下方。 欧元兑日元跌0.20%，报183.78日元，出现两次短线跳水行情；英镑兑日元跌0.33%，报212.656日元，也出现两次短线跳水行情。",
+          "url": "https://wallstreetcn.com/livenews/3098616",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
@@ -765,8 +1031,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
+        },
+        {
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
+          "ranks": [
+            11,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
@@ -776,8 +1054,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "美国豪赌AI,取代人类科学家",
@@ -787,8 +1065,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -798,8 +1076,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
@@ -811,8 +1089,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
@@ -823,30 +1101,31 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
-        },
-        {
-          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
-          "url": "https://www.zhihu.com/question/2034643547668862086",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "Boehly：还没有发现AI造成软件之外的行业“疲软”。",
           "url": "https://wallstreetcn.com/livenews/3098613",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时15分]"
+        },
+        {
+          "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
+          "url": "https://wallstreetcn.com/livenews/3098642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "05时15分"
         },
         {
           "title": "美国白宫考虑在发布人工智能模型前对其进行审查。 白宫上周与多家科技公司讨论了若干AI计划。（纽约时报）",
@@ -855,7 +1134,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         },
@@ -869,6 +1148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "被AI抢走工作的人在忙什么",
+          "url": "https://www.toutiao.com/trending/7636039859584372251/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
         }
       ]
     },
@@ -886,8 +1176,8 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "金价银价又大跌了",
@@ -895,11 +1185,12 @@
           "source": "微博",
           "ranks": [
             22,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "阿联酋称，防空系统正针对另外一轮空袭做出响应。 WTI原油5分钟内上涨0.53美元/桶，报105.81美元/桶；布伦特原油5分钟内上涨0.54美元/桶，报114.45美元/桶。 标普500日内跌幅达0.5%，报7193.42。 现货黄金5分钟内下跌7.2美元/盎司，报4520.09美元/盎司；纽约金5分钟内下跌6.29美元/盎司，报4530.9美元/盎司。",
@@ -948,7 +1239,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
         }
@@ -966,19 +1257,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         },
         {
           "title": "中方：日本已具备提取武器级钚能力",
           "url": "https://www.toutiao.com/trending/7635753985706508334/",
           "source": "今日头条",
           "ranks": [
-            17
+            17,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时01分 ~ 05时15分]"
         }
       ]
     },
@@ -1030,8 +1322,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时29分 ~ 04时01分]"
+          "appearance_count": 4,
+          "time_info": "[00时29分 ~ 05时15分]"
         }
       ]
     },
@@ -1064,8 +1356,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 05时15分]"
         }
       ]
     }
