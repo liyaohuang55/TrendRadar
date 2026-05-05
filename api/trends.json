@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T13:27:46.342454+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-05-05T15:32:25.834408+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "幕后外交密集进行，伊朗：已收到美国回应，正在审查",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 15时32分]"
         },
         {
           "title": "商务部出手,美国禁令失效",
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            12
+            12,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 15时32分]"
         },
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -47,11 +48,26 @@
           "url": "https://www.toutiao.com/trending/7635981615012793894/",
           "source": "今日头条",
           "ranks": [
-            6
+            6,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 15时32分]"
+        },
+        {
+          "title": "专家解析美国从德国撤军五千人",
+          "url": "https://www.douyin.com/hot/2488488",
+          "source": "抖音",
+          "ranks": [
+            9,
+            10,
+            21,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
+          "time_info": "[05时15分 ~ 15时32分]"
         },
         {
           "title": "伊朗战争丨美军称两艘悬挂美国旗商船通过霍尔木兹，伊朗否认",
@@ -65,19 +81,6 @@
           "time_info": "[00时29分 ~ 05时15分]"
         },
         {
-          "title": "专家解析美国从德国撤军五千人",
-          "url": "https://www.douyin.com/hot/2488488",
-          "source": "抖音",
-          "ranks": [
-            9,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时15分 ~ 13时27分]"
-        },
-        {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
           "url": "https://www.cls.cn/detail/2362134",
           "source": "财联社热门",
@@ -87,6 +90,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 02时02分]"
+        },
+        {
+          "title": "美军称两艘悬挂美国国旗的商船已通过霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33097546",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 15时32分]"
         },
         {
           "title": "古巴代表：古巴愿同美国展开对话 但反对外部干预",
@@ -252,18 +267,6 @@
           "time_info": "[06时33分 ~ 07时49分]"
         },
         {
-          "title": "美军称两艘悬挂美国国旗的商船已通过霍尔木兹海峡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33097546",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 13时27分]"
-        },
-        {
           "title": "据伊朗国家电视台：伊朗军事官员称，阿联酋富查伊拉港发生的事件是由于美国军方的冒险行为，美方试图在霍尔木兹海峡创造非法船只通行的通道。",
           "url": "https://flash.jin10.com/detail/20260505031853079800",
           "source": "金十数据",
@@ -295,6 +298,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "美国司法部放弃上诉、转而申请撤销传票裁定，但难以带来鲍威尔要的确定性",
+          "url": "https://wallstreetcn.com/articles/3771549",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "据CBS报道，美国国防部官员周一透露，两名在摩洛哥失踪的美军士兵中的一人曾跳入水中试图营救另一名失踪士兵。截至周一，搜救行动仍在进行中。",
@@ -424,7 +438,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -537,12 +551,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：一架美国空军的KC-135R加油机从阿联酋的扎菲尔空军基地起飞，在波斯湾上空发出了紧急代码7700。（发送此代码意味着存在需要紧急降落的紧急情况）",
+          "url": "https://flash.jin10.com/detail/20260505144436809800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -553,8 +578,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 15时32分]"
         },
         {
           "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
@@ -563,11 +588,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 15时32分]"
         },
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -626,6 +652,18 @@
           "time_info": "[00时29分 ~ 06时33分]"
         },
         {
+          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
+          "url": "https://wallstreetcn.com/articles/3771548",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 15时32分]"
+        },
+        {
           "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
           "url": "https://wallstreetcn.com/livenews/3098668",
           "source": "华尔街见闻-快讯",
@@ -663,6 +701,19 @@
           "time_info": "[06时33分 ~ 10时13分]"
         },
         {
+          "title": "日本怂恿特朗普访华途中访日",
+          "url": "https://www.toutiao.com/trending/7635392980899069998/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            17,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时13分 ~ 15时32分]"
+        },
+        {
           "title": "特朗普：美国正从委内瑞拉攫取“数亿桶石油”",
           "url": "https://wallstreetcn.com/livenews/3098663",
           "source": "华尔街见闻-快讯",
@@ -674,18 +725,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时33分 ~ 10时13分]"
-        },
-        {
-          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
-          "url": "https://wallstreetcn.com/articles/3771548",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时13分 ~ 13时27分]"
         },
         {
           "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
@@ -709,6 +748,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
+          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时32分]"
         },
         {
           "title": "特朗普称美国与伊朗处于“迷你战争”状态",
@@ -735,16 +785,16 @@
           "time_info": "[04时01分 ~ 05时15分]"
         },
         {
-          "title": "日本怂恿特朗普访华途中访日",
-          "url": "https://www.toutiao.com/trending/7635392980899069998/",
-          "source": "今日头条",
+          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
+          "url": "https://wallstreetcn.com/articles/3771561",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            17
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时13分 ~ 13时27分]"
+          "time_info": "[13时27分 ~ 15时32分]"
         },
         {
           "title": "美国总统特朗普：我们的关税经过了更充分的检验，更加有力，也稍微复杂一些。它们让我们的国家变得非常富裕。",
@@ -757,6 +807,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时33分]"
+        },
+        {
+          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
+          "url": "https://www.cls.cn/detail/2362745",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时32分]"
         },
         {
           "title": "特朗普呼吁韩国加入霍尔木兹海峡行动",
@@ -817,28 +879,6 @@
           "time_info": "[06时33分 ~ 07时49分]"
         },
         {
-          "title": "特朗普要用卡塔尔送的豪华飞机当“空军一号”，国内舆论炸了",
-          "url": "https://news.ifeng.com/c/8ssQTax2qM1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "“停火协议”完了？特朗普“刻意淡化”，阿联酋谴责，伊朗军方警告、外长抨击“自由计划”",
-          "url": "https://wallstreetcn.com/articles/3771561",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
           "title": "美媒：特朗普政府考虑对新AI模型引入政府监管",
           "url": "https://flash.jin10.com/detail/20260505031822902800",
           "source": "金十数据",
@@ -848,17 +888,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
-        },
-        {
-          "title": "美伊局势追踪：霍尔木兹博弈升级 特朗普警告将伊朗“从地球表面抹去”",
-          "url": "https://www.cls.cn/detail/2362745",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
         },
         {
           "title": "美国总统特朗普称利率过高，继续批评即将任期届满的美联储主席鲍威尔。",
@@ -905,6 +934,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "西媒：特朗普反复威胁让欧洲厌倦",
+          "url": "https://www.toutiao.com/trending/7635632412416671798/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "美国总统特朗普：数亿桶石油正从委内瑞拉流出。",
           "url": "https://flash.jin10.com/detail/20260505042014116800",
           "source": "金十数据",
@@ -947,6 +987,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普称从德国撤军规模将远超 5000 人，欧盟称美军从德撤出时机令人意外，呼吁加强北约支柱，如何解读？",
+          "url": "https://www.zhihu.com/question/2034655355435749696",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         },
         {
           "title": "美国总统特朗普：我们已击沉七艘小型船只。",
@@ -1062,7 +1113,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "纽约期金跌2.5%，一度逼近4500美元",
@@ -1138,6 +1189,29 @@
           "time_info": "10时13分"
         },
         {
+          "title": "现货白银日内涨幅扩大至1%，报73.41美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3098728",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "贝莱德5000万美元领衔18家基石认购，AI药物递送第一股剂泰科技启动公开招股",
+          "url": "https://wallstreetcn.com/livenews/3098714",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时32分]"
+        },
+        {
           "title": "WTI原油期货日内走低2.02美元，现报104.40美元/桶，跌幅1.90%。",
           "url": "https://flash.jin10.com/detail/20260505100119079800",
           "source": "金十数据",
@@ -1161,24 +1235,25 @@
           "time_info": "[05时15分 ~ 06时33分]"
         },
         {
+          "title": "澳洲联储：消费者和商业信心调查的下降与实际活动仅弱相关。海湾冲突是加剧通胀和经济增长前景的冲击。 预计第二季度CPI为4.8%，第四季度为4.0%，2027年第二季度为2.4%，2028年第二季度为2.5%。 基本预测假设进一步加息60个基点至4.7%，布伦特原油年底跌至82.3美元，2027年底为75.7美元。 目前尚无明显证据表明国内经济和消费者需求会因冲突而显著变化。 未来两年经济增长预期低于潜在水平。",
+          "url": "https://wallstreetcn.com/livenews/3098711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时32分]"
+        },
+        {
           "title": "泰国总理：泰国内阁批准122亿美元紧急借款法令。",
           "url": "https://flash.jin10.com/detail/20260505131028314800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
-          "title": "贝莱德5000万美元领衔18家基石认购，AI药物递送第一股剂泰科技启动公开招股",
-          "url": "https://wallstreetcn.com/livenews/3098714",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -1195,6 +1270,17 @@
           "time_info": "[05时15分 ~ 06时33分]"
         },
         {
+          "title": "现货白银日内涨幅达1.00%，现报73.44美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260505151853988800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
           "title": "周一（5月4日）纽约尾盘，ICE美元指数涨0.25%，报98.401点，日内交投区间为97.970-98.536点。 彭博美元指数涨0.14%，报1195.00点，日内交投区间为1190.48-1196.80点。",
           "url": "https://wallstreetcn.com/livenews/3098611",
           "source": "华尔街见闻-快讯",
@@ -1204,6 +1290,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时01分"
+        },
+        {
+          "title": "印度2000万美元报价世界杯转播权被拒",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A62000%E4%B8%87%E7%BE%8E%E5%85%83%E6%8A%A5%E4%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AC%E6%92%AD%E6%9D%83%E8%A2%AB%E6%8B%92%23&t=31&band_rank=27&Refer=top",
+          "source": "微博",
+          "ranks": [
+            27,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时32分]"
         },
         {
           "title": "Pinterest Inc.一季度营收10.1亿美元，分析师预期9.657亿美元。 一季度月活用户数6.31亿，分析师预期6.3047亿。 预计二季度营收11.3亿-11.5亿美元，分析师预期11.2亿美元。 Pinterest美股盘后涨15%。",
@@ -1216,6 +1314,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时33分]"
+        },
+        {
+          "title": "汇丰控股：第一季税前利润为94亿美元，净利息收入为89亿美元；预计2026年银行业务净利息收入约460亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3098707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时32分]"
+        },
+        {
+          "title": "曝印度2千万美元买世界杯转播权被拒",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%8D%B0%E5%BA%A62%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AC%E6%92%AD%E6%9D%83%E8%A2%AB%E6%8B%92",
+          "source": "百度热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时32分]"
         },
         {
           "title": "市场消息：Meta Platforms(META.O)正在为位于得克萨斯州埃尔帕索的一座数据中心制定融资方案，该方案的总额可能约为130亿美元。据知情人士透露，摩根士丹利和摩根大通正在主导这一进程。",
@@ -1262,24 +1384,13 @@
           "time_info": "04时01分"
         },
         {
-          "title": "澳洲联储：消费者和商业信心调查的下降与实际活动仅弱相关。海湾冲突是加剧通胀和经济增长前景的冲击。 预计第二季度CPI为4.8%，第四季度为4.0%，2027年第二季度为2.4%，2028年第二季度为2.5%。 基本预测假设进一步加息60个基点至4.7%，布伦特原油年底跌至82.3美元，2027年底为75.7美元。 目前尚无明显证据表明国内经济和消费者需求会因冲突而显著变化。 未来两年经济增长预期低于潜在水平。",
-          "url": "https://wallstreetcn.com/livenews/3098711",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
           "title": "港股汇丰控股(00005.HK)午后直线下挫，现跌超4%；消息面上，公司在港交所公布一季度财报，第一季度除税后利润为73.94亿美元，去年同期为75.7亿美元，净利息收入为89亿美元。",
           "url": "https://flash.jin10.com/detail/20260505130435621800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -1304,17 +1415,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        },
-        {
-          "title": "汇丰控股：第一季税前利润为94亿美元，净利息收入为89亿美元；预计2026年银行业务净利息收入约460亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3098707",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
         },
         {
           "title": "特朗普在社交媒体上发布了一张其政府于2025年8月买入英特尔(INTC.O)后截至目前的收益曲线图，并配文称：“我在过去8个月让美国赚了450亿美元！”",
@@ -1460,17 +1560,6 @@
           "time_info": "05时15分"
         },
         {
-          "title": "曝印度2千万美元买世界杯转播权被拒",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E5%8D%B0%E5%BA%A62%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AC%E6%92%AD%E6%9D%83%E8%A2%AB%E6%8B%92",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
-        },
-        {
           "title": "美联储在固定利率逆回购操作中总计接纳了11个对手方的6.18亿美元。",
           "url": "https://flash.jin10.com/detail/20260505011745661800",
           "source": "金十数据",
@@ -1499,7 +1588,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -1521,7 +1610,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         },
@@ -1535,23 +1624,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
-        },
-        {
-          "title": "印度2000万美元报价世界杯转播权被拒",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A62000%E4%B8%87%E7%BE%8E%E5%85%83%E6%8A%A5%E4%BB%B7%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AC%E6%92%AD%E6%9D%83%E8%A2%AB%E6%8B%92%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
@@ -1564,8 +1642,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 15时32分]"
         },
         {
           "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
@@ -1576,23 +1654,12 @@
             1,
             4,
             5,
-            18
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 13时27分]"
-        },
-        {
-          "title": "美国豪赌AI,取代人类科学家",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 15时32分]"
         },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
@@ -1602,11 +1669,25 @@
             11,
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 15时32分]"
+        },
+        {
+          "title": "美国豪赌AI,取代人类科学家",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353983&amp;topic_name=%E7%BE%8E%E5%9B%BD%E8%B1%AA%E8%B5%8CAI%2C%E5%8F%96%E4%BB%A3%E4%BA%BA%E7%B1%BB%E7%A7%91%E5%AD%A6%E5%AE%B6",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 15时32分]"
         },
         {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
@@ -1620,8 +1701,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 15时32分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -1629,11 +1710,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 15时32分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
@@ -1673,6 +1755,30 @@
           "time_info": "[04时01分 ~ 05时15分]"
         },
         {
+          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771556",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时32分]"
+        },
+        {
+          "title": "中国移动将推出AI-eSIM产品",
+          "url": "https://wallstreetcn.com/livenews/3098701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时32分]"
+        },
+        {
           "title": "被AI抢走工作的人在忙什么",
           "url": "https://www.toutiao.com/trending/7636039859584372251/",
           "source": "今日头条",
@@ -1685,15 +1791,15 @@
           "time_info": "[05时15分 ~ 07时49分]"
         },
         {
-          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771556",
+          "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
+          "url": "https://wallstreetcn.com/articles/3771568",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "15时32分"
         },
         {
           "title": "美国白宫考虑在发布人工智能模型前对其进行审查。 白宫上周与多家科技公司讨论了若干AI计划。（纽约时报）",
@@ -1707,15 +1813,15 @@
           "time_info": "04时01分"
         },
         {
-          "title": "中国移动将推出AI-eSIM产品",
-          "url": "https://wallstreetcn.com/livenews/3098701",
-          "source": "华尔街见闻-快讯",
+          "title": "AI在偷我们的东西 我们决定毒死它",
+          "url": "https://s.weibo.com/weibo?q=AI%E5%9C%A8%E5%81%B7%E6%88%91%E4%BB%AC%E7%9A%84%E4%B8%9C%E8%A5%BF%20%E6%88%91%E4%BB%AC%E5%86%B3%E5%AE%9A%E6%AF%92%E6%AD%BB%E5%AE%83&t=31&band_rank=16&Refer=top",
+          "source": "微博",
           "ranks": [
-            14
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "15时32分"
         },
         {
           "title": "Fujairah：阿联酋政府正设法控制石油设施的火情。",
@@ -1732,7 +1838,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "金价银价又大跌了",
@@ -1826,12 +1932,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "黄金看涨期权进少退多，现价附近呈现多空分歧",
+          "url": "https://flash.jin10.com/detail/20260505144628000800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "专坑国人,日本阴阳菜单被扒",
@@ -1839,11 +1956,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 13时27分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 15时32分]"
         },
         {
           "title": "中国就日本核突破向联合国发警告",
@@ -1855,6 +1973,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "年号制度曾在东亚被长期实行，为什么当今除日本以外的其它国家不再使用年号了？",
+          "url": "https://www.zhihu.com/question/2034120492668469316",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时32分]"
         },
         {
           "title": "中方：日本已具备提取武器级钚能力",
@@ -1869,15 +1998,16 @@
           "time_info": "[04时01分 ~ 05时15分]"
         },
         {
-          "title": "年号制度曾在东亚被长期实行，为什么当今除日本以外的其它国家不再使用年号了？",
-          "url": "https://www.zhihu.com/question/2034120492668469316",
-          "source": "知乎",
+          "title": "中方特别点名：高度警惕日本",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E7%89%B9%E5%88%AB%E7%82%B9%E5%90%8D%EF%BC%9A%E9%AB%98%E5%BA%A6%E8%AD%A6%E6%83%95%E6%97%A5%E6%9C%AC",
+          "source": "百度热搜",
           "ranks": [
-            13
+            25,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时32分]"
         },
         {
           "title": "日本首相高市早苗：随着越南对日本食品的关注度上升，我希望能将更多高品质、富有魅力的日本食品送到越南家庭中。",
@@ -1902,15 +2032,15 @@
           "time_info": "10时13分"
         },
         {
-          "title": "中方特别点名：高度警惕日本",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E7%89%B9%E5%88%AB%E7%82%B9%E5%90%8D%EF%BC%9A%E9%AB%98%E5%BA%A6%E8%AD%A6%E6%83%95%E6%97%A5%E6%9C%AC",
+          "title": "日本15岁以下儿童人数创新低",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC15%E5%B2%81%E4%BB%A5%E4%B8%8B%E5%84%BF%E7%AB%A5%E4%BA%BA%E6%95%B0%E5%88%9B%E6%96%B0%E4%BD%8E",
           "source": "百度热搜",
           "ranks": [
-            25
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时27分"
+          "time_info": "15时32分"
         }
       ]
     },
@@ -1936,7 +2066,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         }
@@ -1972,6 +2102,63 @@
       ]
     },
     {
+      "keyword_group": "股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年05月05日（周二）全球股市指数-欧洲市场（盘初）",
+          "url": "https://flash.jin10.com/detail/20260505151908517800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "金十图示：2026年05月04日（周一）全球股市指数-欧洲市场",
+          "url": "https://flash.jin10.com/detail/20260504235902134800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "CPU 英特尔",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果正考虑与英特尔和三星合作，为其生产主要设备芯片。",
+          "url": "https://wallstreetcn.com/livenews/3098704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时27分 ~ 15时32分]"
+        },
+        {
+          "title": "苹果或与英特尔三星合作",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%88%96%E4%B8%8E%E8%8B%B1%E7%89%B9%E5%B0%94%E4%B8%89%E6%98%9F%E5%90%88%E4%BD%9C%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "显卡 英伟达",
       "match_count": 2,
       "titles": [
@@ -1993,7 +2180,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时27分"
         }
@@ -2038,23 +2225,6 @@
       ]
     },
     {
-      "keyword_group": "股市",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年05月04日（周一）全球股市指数-欧洲市场",
-          "url": "https://flash.jin10.com/detail/20260504235902134800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "内存 存储颗粒",
       "match_count": 1,
       "titles": [
@@ -2065,28 +2235,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时02分 ~ 13时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "CPU 英特尔",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果正考虑与英特尔和三星合作，为其生产主要设备芯片。",
-          "url": "https://wallstreetcn.com/livenews/3098704",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时27分"
+          "appearance_count": 8,
+          "time_info": "[02时02分 ~ 15时32分]"
         }
       ]
     }
