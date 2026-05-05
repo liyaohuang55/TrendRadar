@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-05T07:49:48.408321+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-05-05T10:13:54.510133+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 41,
+      "match_count": 46,
       "titles": [
         {
           "title": "【早报】伊朗公布伊方最新谈判方案；商务部发布禁令阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
         },
         {
           "title": "商务部出手,美国禁令失效",
@@ -26,19 +26,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
         },
         {
           "title": "幕后外交密集进行，伊朗：已收到美国回应，正在审查",
           "url": "https://news.ifeng.com/c/8srXoK6rymX",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
         },
         {
           "title": "伊朗：发射两枚导弹击中美国军舰",
@@ -71,8 +72,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时15分 ~ 07时49分]"
+          "appearance_count": 4,
+          "time_info": "[05时15分 ~ 10时13分]"
         },
         {
           "title": "商务部发布禁令，阻断美国对5家中国企业实施涉伊朗石油制裁措施",
@@ -84,6 +85,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 02时02分]"
+        },
+        {
+          "title": "古巴代表：古巴愿同美国展开对话 但反对外部干预",
+          "url": "https://flash.jin10.com/detail/20260505100347856800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "美国2/3年期国债收益率涨10个基点。",
@@ -133,6 +145,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "市场消息：韩国产业部长将会见卢特尼克，讨论美国投资相关议题。",
+          "url": "https://flash.jin10.com/detail/20260505100046549800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "美国国务院领事事务局：我们对阿联酋的旅行警告建议仍维持在三级。",
           "url": "https://flash.jin10.com/detail/20260505044117014800",
           "source": "金十数据",
@@ -167,6 +190,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时49分]"
+        },
+        {
+          "title": "美国共和党参议员格雷厄姆：我们无需在伊朗派遣地面部队。",
+          "url": "https://flash.jin10.com/detail/20260505100033715800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "美联储威廉姆斯：当存在极大不确定性时，FOMC更容易出现持异议。 美国劳动力增长已经出现巨大的转变。",
@@ -221,7 +255,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -243,7 +277,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -279,6 +313,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时33分"
+        },
+        {
+          "title": "美国最高法院裁定路易斯安那州选区重划立即生效",
+          "url": "https://wallstreetcn.com/livenews/3098684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "美国参议院民主党成员Warren：参议院不应当在下周全体表决凯文·沃什的美联储主席提名资格。",
@@ -336,13 +381,24 @@
           "time_info": "04时01分"
         },
         {
+          "title": "美军称两艘悬挂美国国旗的商船已通过霍尔木兹海峡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33097546",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "美国飞行员工会主席：美联航提出的合并构想展现出“远见卓识”",
           "url": "https://flash.jin10.com/detail/20260505064644511800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -471,7 +527,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "回应特朗普“引导行动”！伊朗发射导弹击退美国军舰，油价应声大涨，美股期货跳水",
@@ -482,8 +538,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
+        },
+        {
+          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
+          "url": "https://www.cls.cn/detail/2362404",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
         },
         {
           "title": "“非军事”疏通霍尔木兹海峡？特朗普祭出新招“4日启动引导行动”，伊朗“干涉视为违反停火协议”",
@@ -502,18 +570,6 @@
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
-        },
-        {
-          "title": "【早报】特朗普：伊朗的“新提议”不可接受；余额宝收益率跌破1%",
-          "url": "https://www.cls.cn/detail/2362404",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -554,6 +610,19 @@
           "time_info": "[00时29分 ~ 06时33分]"
         },
         {
+          "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
+          "url": "https://wallstreetcn.com/livenews/3098668",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 10时13分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：美国与伊朗处于“迷你战争”状态",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -565,16 +634,30 @@
           "time_info": "[06时33分 ~ 07时49分]"
         },
         {
-          "title": "伊朗外长：特朗普的霍尔木兹海峡“自由计划”是“僵局计划”",
-          "url": "https://wallstreetcn.com/livenews/3098668",
+          "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
+          "url": "https://wallstreetcn.com/livenews/3098664",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            6
+            4,
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时49分]"
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 10时13分]"
+        },
+        {
+          "title": "特朗普：美国正从委内瑞拉攫取“数亿桶石油”",
+          "url": "https://wallstreetcn.com/livenews/3098663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 10时13分]"
         },
         {
           "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
@@ -595,7 +678,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -610,18 +693,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时33分]"
-        },
-        {
-          "title": "特朗普拒绝确认美伊停火协议是否仍然有效",
-          "url": "https://wallstreetcn.com/livenews/3098664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时49分]"
         },
         {
           "title": "特朗普：美方击沉7艘伊朗小型船只",
@@ -648,16 +719,15 @@
           "time_info": "[05时15分 ~ 06时33分]"
         },
         {
-          "title": "特朗普：美国正从委内瑞拉攫取“数亿桶石油”",
-          "url": "https://wallstreetcn.com/livenews/3098663",
-          "source": "华尔街见闻-快讯",
+          "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
+          "url": "https://wallstreetcn.com/articles/3771548",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            10
+            4
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "特朗普呼吁韩国加入霍尔木兹海峡行动",
@@ -680,6 +750,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "日本怂恿特朗普访华途中访日",
+          "url": "https://www.toutiao.com/trending/7635392980899069998/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "美国总统特朗普：我已经在采取其他关税措施了。",
@@ -784,6 +865,17 @@
           "time_info": "05时15分"
         },
         {
+          "title": "特朗普未明言伊朗违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3098681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "美国总统特朗普：国防部长赫格塞思和参谋长联席会议主席丹·凯恩将于明日上午（北京时间周二晚上）举行新闻发布会。",
           "url": "https://flash.jin10.com/detail/20260505011949161800",
           "source": "金十数据",
@@ -823,7 +915,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -878,7 +970,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -919,7 +1011,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "纽约期金跌2.5%，一度逼近4500美元",
@@ -935,6 +1027,43 @@
           "time_info": "[05时15分 ~ 07时49分]"
         },
         {
+          "title": "WTI原油期货跌1.3%，报105.11美元，市场评估霍尔木兹海峡通行对供应面的影响。",
+          "url": "https://wallstreetcn.com/livenews/3098661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            11,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 10时13分]"
+        },
+        {
+          "title": "亚太盘初，美国三大股指期货涨约0.1%。 WTI原油期货涨0.20%，暂报105.29美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3098660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            12,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时33分 ~ 10时13分]"
+        },
+        {
+          "title": "曝印度2千万美元买世界杯转播权被拒",
+          "url": "https://www.toutiao.com/trending/7635140491135287305/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "据伊朗国家媒体报道，伊朗高级军官称，伊朗无意针对阿联酋。 WTI原油5分钟内下跌0.85美元/桶，报105.42美元/桶。 纽约金5分钟内上涨5.8美元/盎司，报4520.4美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3098557",
           "source": "华尔街见闻-快讯",
@@ -946,16 +1075,26 @@
           "time_info": "00时29分"
         },
         {
-          "title": "WTI原油期货跌1.3%，报105.11美元，市场评估霍尔木兹海峡通行对供应面的影响。",
-          "url": "https://wallstreetcn.com/livenews/3098661",
-          "source": "华尔街见闻-快讯",
+          "title": "印尼盾在早盘交易中进一步下跌，兑美元汇率创下17390的历史新低。",
+          "url": "https://flash.jin10.com/detail/20260505100307602800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            11
+            2
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时49分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "WTI原油期货日内走低2.02美元，现报104.40美元/桶，跌幅1.90%。",
+          "url": "https://flash.jin10.com/detail/20260505100119079800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "莱迪斯半导体一季度营收1.709亿美元，分析师预期1.649亿美元。 预计二季度营收1.75亿-1.95亿美元，分析师预期1.71亿美元。",
@@ -968,18 +1107,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时15分 ~ 06时33分]"
-        },
-        {
-          "title": "亚太盘初，美国三大股指期货涨约0.1%。 WTI原油期货涨0.20%，暂报105.29美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3098660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时33分 ~ 07时49分]"
         },
         {
           "title": "马斯克将支付150万美元，来了结美国SEC针对推特的案件",
@@ -1023,7 +1150,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -1276,30 +1403,32 @@
       "match_count": 12,
       "titles": [
         {
-          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
-          "url": "https://www.zhihu.com/question/2034643547668862086",
-          "source": "知乎",
-          "ranks": [
-            11,
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
-        },
-        {
           "title": "豆包测试付费版本，三档订阅曝光，AI进入“分层收费”时代",
           "url": "https://wallstreetcn.com/articles/3771537",
           "source": "华尔街见闻",
           "ranks": [
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
+        },
+        {
+          "title": "豆包付费版本曝光，每月 68-500 元三档，你愿意付费吗？国产 AI 推付费服务是一种趋势吗？",
+          "url": "https://www.zhihu.com/question/2034643547668862086",
+          "source": "知乎",
+          "ranks": [
+            11,
+            1,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
         },
         {
           "title": "达里欧：未来两年“风险极高”，“AI、美债和地缘”合成风暴，投资者择时不会成功",
@@ -1310,8 +1439,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
         },
         {
           "title": "美国豪赌AI,取代人类科学家",
@@ -1321,8 +1450,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
         },
         {
           "title": "AI主播上电视,虚拟人抢饭碗?",
@@ -1332,8 +1461,21 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
+        },
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
         },
         {
           "title": "马上评｜AI替岗，还是“科技向善”吗",
@@ -1346,20 +1488,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
-        },
-        {
-          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
-          "url": "https://www.cls.cn/detail/2362279",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
         },
         {
           "title": "周一（5月4日），美股信息科技指数涨1.34%，报355.01点。 人工智能（AI）赢家指数涨1.15%，报367.81点。 AI软件先驱指数涨2.05%，报101.76点。",
@@ -1424,7 +1554,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "金价银价又大跌了",
@@ -1465,15 +1595,48 @@
           "time_info": "[00时29分 ~ 02时02分]"
         },
         {
+          "title": "港股铜业股盘初回调，江西铜业股份(00358.HK)跌超4.5%，中国有色矿业(01258.HK)跌超3.8%，五矿资源(01208.HK)、中国黄金国际(02099.HK)均跌超2%。",
+          "url": "https://flash.jin10.com/detail/20260505094637498800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "现货黄金向上触及4540美元/盎司，日内涨0.36%。纽约期金站上4550美元/盎司，日内涨0.37%。",
+          "url": "https://flash.jin10.com/detail/20260505093734108800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日维持不变，当前持仓量为1035.768吨。",
           "url": "https://flash.jin10.com/detail/20260505062642307800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
+        },
+        {
+          "title": "恒生指数、恒生科技指数开盘快速下挫，现均跌超1%，药明生物(02269.HK)跌超4%，舜宇光学科技(02382.HK)跌近3.5%，紫金矿业(02899.HK)、老铺黄金(06181.HK)、地平线机器人(09660.HK)、零跑汽车(09863.HK)均跌超3%。",
+          "url": "https://flash.jin10.com/detail/20260505093314264800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         },
         {
           "title": "金价跌2%，布油涨穿114美元，阿联酋称伊朗袭击Fujairah",
@@ -1490,7 +1653,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "专坑国人,日本阴阳菜单被扒",
@@ -1500,8 +1663,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
         },
         {
           "title": "中国就日本核突破向联合国发警告",
@@ -1510,7 +1673,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         },
@@ -1525,6 +1688,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 05时15分]"
+        },
+        {
+          "title": "日本首相高市早苗：随着越南对日本食品的关注度上升，我希望能将更多高品质、富有魅力的日本食品送到越南家庭中。",
+          "url": "https://flash.jin10.com/detail/20260505093802164800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
+        },
+        {
+          "title": "为什么日本玩家痴迷抽卡手游，而欧美玩家更愿意为买断制单机一次性付费？",
+          "url": "https://www.zhihu.com/question/2024638246068520346",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时13分"
         }
       ]
     },
@@ -1540,8 +1725,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 07时49分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 10时13分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁格雷格·布罗克曼表示，他在OpenAI的持股目前价值接近300亿美元，使其成为持股规模较大的个人股东之一。",
@@ -1606,8 +1791,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时29分 ~ 07时49分]"
+          "appearance_count": 7,
+          "time_info": "[00时29分 ~ 10时13分]"
         }
       ]
     },
@@ -1641,8 +1826,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时02分 ~ 07时49分]"
+          "appearance_count": 6,
+          "time_info": "[02时02分 ~ 10时13分]"
         }
       ]
     },
@@ -1657,7 +1842,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时49分"
         }
