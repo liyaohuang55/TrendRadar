@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T13:43:03.312487+08:00",
-  "total_titles_processed": 989,
+  "generated_at": "2026-05-06T16:15:37.323174+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 64,
+      "match_count": 66,
       "titles": [
         {
           "title": "美国军舰强行“疏导”霍尔木兹海峡，成功了吗？",
@@ -50,11 +50,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             6,
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时16分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[10时16分 ~ 16时15分]"
         },
         {
           "title": "市场消息：伊拉克候任总理告知伊朗总统，巴格达可以协助在伊朗与美国之间发挥调解作用。",
@@ -376,6 +377,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "美国8岁男童钓鱼时遇海狸袭击",
+          "url": "https://www.toutiao.com/trending/7636596180037681193/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "美国国务卿鲁比奥：黎巴嫩的问题是黎巴嫩真主党。",
           "url": "https://flash.jin10.com/detail/20260506033138777800",
           "source": "金十数据",
@@ -547,7 +559,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -602,7 +614,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -627,6 +639,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "美媒：通过霍尔木兹海峡的美国商船上有美军",
+          "url": "https://wallstreetcn.com/livenews/3099196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "两艘美国船只被困在霍尔木兹海峡南部靠近阿曼的附近海域。",
@@ -668,7 +691,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -701,7 +724,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -731,8 +754,20 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "全球存储巨头集体狂飙：美光和海力士市值站上7000亿美元 三星升破1万亿",
+          "url": "https://www.cls.cn/detail/2363338",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
+        },
         {
           "title": "周二（5月5日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8270元，较周一纽约尾盘涨36点，日内整体交投于6.8360-6.8255元区间。",
           "url": "https://wallstreetcn.com/livenews/3098947",
@@ -779,17 +814,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
-        },
-        {
-          "title": "全球存储巨头集体狂飙：美光和海力士市值站上7000亿美元 三星升破1万亿",
-          "url": "https://www.cls.cn/detail/2363338",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "沙特一季度财政赤字1257亿里亚尔（折合335亿美元），逼近全年赤字440亿美元的预期。 一季度总体开支3867亿里亚尔，同比增长20%；一季度财政收入2610亿里亚尔。",
@@ -864,9 +888,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
+        },
+        {
+          "title": "突破4.5美元！霍尔木兹复航遥遥无期 美国汽油涨势难抑",
+          "url": "https://www.cls.cn/detail/2363445",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "美元兑日元日内跌超1.50%，现报155.49。",
@@ -875,7 +910,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -924,6 +959,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "WTI原油失守99美元/桶，日内跌幅4.52%。WTI原油期货日内大跌4.00%，现报98.15美元/桶。",
+          "url": "https://flash.jin10.com/detail/20260506155946525800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "AMD美股盘后涨幅扩大至15.24%，最高达到409.40美元。",
           "url": "https://wallstreetcn.com/livenews/3098968",
           "source": "华尔街见闻-快讯",
@@ -935,13 +981,35 @@
           "time_info": "07时44分"
         },
         {
+          "title": "美国汽油价格触及4.50美元，接近历史新高",
+          "url": "https://flash.jin10.com/detail/20260506155941000800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "布伦特原油日内跌幅达3%，报106.38美元/桶；WTI原油日内跌幅达3.5%，报98.57美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3099213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "美元/日元短线跳水，日内跌超1%，最低至156.27。",
           "url": "https://wallstreetcn.com/livenews/3099122",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -963,7 +1031,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -977,6 +1045,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时57分"
+        },
+        {
+          "title": "WTI原油跌破99美元/桶，报98.98美元/桶，日内跌超3%。",
+          "url": "https://wallstreetcn.com/livenews/3099203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "埃克森美孚勘探副总裁John Ardill：就供应中断而言，中东冲突的全面影响尚未完全显现。 深度学习人工智能（AI）使公司在圭亚那解读地震数据的时间从数月缩短至数天。 新技术正助力埃克森美孚去开发过去曾被忽视的石油资源。 埃克森美孚预计将在年底前确定特立尼达和多巴哥勘探前景的可行性。 美国阿拉斯加的生产成本高于二叠纪盆地和圭亚那，这构成了挑战。 阿拉斯加石油生产的盈亏平衡点约为每桶 45 美元，而其他地区则为 30 美元。",
@@ -1073,7 +1152,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1103,7 +1182,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "特朗普关税退款引质疑，“简直令人抓狂”",
@@ -1189,6 +1268,28 @@
           "time_info": "[03时03分 ~ 07时44分]"
         },
         {
+          "title": "伊朗战争丨伊媒：特朗普暂停这一计划是为掩盖失败",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
+        },
+        {
+          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
+          "url": "https://news.ifeng.com/c/8su3Btl2lle",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
+        },
+        {
           "title": "美伊开火争夺霍尔木兹主导、特朗普威胁“炸飞”，停火以来阿联酋首次遭袭，伊称未计划袭阿",
           "url": "https://wallstreetcn.com/articles/3771548",
           "source": "华尔街见闻",
@@ -1198,17 +1299,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时10分 ~ 03时03分]"
-        },
-        {
-          "title": "伊朗战争丨伊媒：特朗普暂停这一计划是为掩盖失败",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "特朗普承认自己曾“不得不”常买中国货",
@@ -1223,15 +1313,40 @@
           "time_info": "[10时16分 ~ 13时43分]"
         },
         {
-          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
-          "url": "https://news.ifeng.com/c/8su3Btl2lle",
-          "source": "凤凰网",
+          "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
+          "url": "https://www.cls.cn/detail/2363248",
+          "source": "财联社热门",
           "ranks": [
-            5
+            12,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
+        },
+        {
+          "title": "特朗普称暂停自由计划行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
+        },
+        {
+          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
+          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
         },
         {
           "title": "伊朗战争丨特朗普：霍尔木兹海峡“自由行动”将暂停",
@@ -1245,17 +1360,6 @@
           "time_info": "07时44分"
         },
         {
-          "title": "特朗普称暂停自由计划行动",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
           "title": "美国宣布对伊“攻势结束”，特朗普突然叫停“自由计划”",
           "url": "https://flash.jin10.com/detail/20260506071632515800",
           "source": "金十数据",
@@ -1265,17 +1369,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
-        },
-        {
-          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
-          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "据华尔街日报：特朗普施压美国食品药品监督管理局（FDA）局长批准调味电子烟，敦促监管机构为年轻“让美国再次伟大”选民的电子烟议程扫清障碍。",
@@ -1298,17 +1391,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        },
-        {
-          "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
-          "url": "https://www.cls.cn/detail/2363248",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "特朗普称暂停“自由计划”行动",
@@ -1339,7 +1421,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1355,6 +1437,17 @@
           "time_info": "07时44分"
         },
         {
+          "title": "特朗普称暂停“自由计划”行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33100608",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "特朗普：伊朗“知道什么不该做”",
           "url": "https://flash.jin10.com/detail/20260506001604342800",
           "source": "金十数据",
@@ -1364,6 +1457,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "外交部：中美双方就特朗普总统访华事保持着沟通",
+          "url": "https://wallstreetcn.com/livenews/3099207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "法院文件显示，美国联邦航空管理局承包商因对美国总统特朗普发出威胁被起诉。",
@@ -1394,7 +1498,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -1430,6 +1534,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "民主党人要求特朗普政府披露以色列核武的“公开秘密”",
+          "url": "https://wallstreetcn.com/livenews/3099190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "特朗普放话让伊朗二选一",
@@ -1517,15 +1632,28 @@
           "time_info": "[01时10分 ~ 07时44分]"
         },
         {
+          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
+          "url": "https://wallstreetcn.com/articles/3771608",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
+        },
+        {
           "title": "大学生用AI把家乡拖鞋卖到海外",
           "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8AI%E6%8A%8A%E5%AE%B6%E4%B9%A1%E6%8B%96%E9%9E%8B%E5%8D%96%E5%88%B0%E6%B5%B7%E5%A4%96",
           "source": "百度热搜",
           "ranks": [
-            1
+            1,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
         },
         {
           "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
@@ -1538,17 +1666,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时10分 ~ 04时08分]"
-        },
-        {
-          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
-          "url": "https://wallstreetcn.com/articles/3771608",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "Meta正在打造一款AI Agent（人工智能智能体），名叫Hatch和一款Instagram内的购物工具代理。（The Information）",
@@ -1722,9 +1839,168 @@
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "日本网红店翻车,食客集体中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 16时15分]"
+        },
+        {
+          "title": "视频丨中方在联合国点名日本，呼吁国际社会警惕其涉核消极动向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33098751",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 10时16分]"
+        },
+        {
+          "title": "日本战后首次在境外发射进攻型导弹",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%88%98%E5%90%8E%E9%A6%96%E6%AC%A1%E5%9C%A8%E5%A2%83%E5%A4%96%E5%8F%91%E5%B0%84%E8%BF%9B%E6%94%BB%E5%9E%8B%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
+        },
+        {
+          "title": "日本被曝几乎有造核武器的所有条件",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%87%A0%E4%B9%8E%E6%9C%89%E9%80%A0%E6%A0%B8%E6%AD%A6%E5%99%A8%E7%9A%84%E6%89%80%E6%9C%89%E6%9D%A1%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
+        },
+        {
+          "title": "战后首次！日本在菲律宾军演发射进攻型导弹",
+          "url": "https://news.ifeng.com/c/8sty62eKGy1",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
+        },
+        {
+          "title": "日本在菲律宾军演发射88式导弹",
+          "url": "https://www.toutiao.com/trending/7636119989522677766/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
+        },
+        {
+          "title": "日本参议员：对俄制裁损害日本国家利益",
+          "url": "https://wallstreetcn.com/livenews/3098896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时08分]"
+        },
+        {
+          "title": "日本坦克究竟有多奇葩",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9D%A6%E5%85%8B%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%A5%87%E8%91%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "新华社批日本慰灵甲级战犯",
+          "url": "https://search.bilibili.com/all?keyword=%E6%96%B0%E5%8D%8E%E7%A4%BE%E6%89%B9%E6%97%A5%E6%9C%AC%E6%85%B0%E7%81%B5%E7%94%B2%E7%BA%A7%E6%88%98%E7%8A%AF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "日本参议员：对俄制裁损害日本国家利益",
+          "url": "https://flash.jin10.com/detail/20260506022228306800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "2名中国游客日本登山食物耗尽",
+          "url": "https://s.weibo.com/weibo?q=%232%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A5%E6%9C%AC%E7%99%BB%E5%B1%B1%E9%A3%9F%E7%89%A9%E8%80%97%E5%B0%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "日本在美菲军演中发射88式导弹，系战后首次境外发射进攻型导弹",
+          "url": "https://wallstreetcn.com/livenews/3099106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌",
       "match_count": 11,
       "titles": [
+        {
+          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
+          "url": "https://www.cls.cn/detail/2363224",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
+        },
         {
           "title": "谷歌(GOOG.O)首席科学家警告称，欧盟监管机构的数据共享方式未能有效保护欧洲人的隐私。",
           "url": "https://flash.jin10.com/detail/20260506024845206800",
@@ -1769,17 +2045,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 04时08分]"
-        },
-        {
-          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
-          "url": "https://www.cls.cn/detail/2363224",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)也在与EQT讨论获取谷歌的人工智能模型。",
@@ -1850,129 +2115,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "日本网红店翻车,食客集体中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 13时43分]"
-        },
-        {
-          "title": "视频丨中方在联合国点名日本，呼吁国际社会警惕其涉核消极动向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33098751",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时10分 ~ 10时16分]"
-        },
-        {
-          "title": "日本战后首次在境外发射进攻型导弹",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%88%98%E5%90%8E%E9%A6%96%E6%AC%A1%E5%9C%A8%E5%A2%83%E5%A4%96%E5%8F%91%E5%B0%84%E8%BF%9B%E6%94%BB%E5%9E%8B%E5%AF%BC%E5%BC%B9",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "日本参议员：对俄制裁损害日本国家利益",
-          "url": "https://wallstreetcn.com/livenews/3098896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时08分]"
-        },
-        {
-          "title": "日本被曝几乎有造核武器的所有条件",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%87%A0%E4%B9%8E%E6%9C%89%E9%80%A0%E6%A0%B8%E6%AD%A6%E5%99%A8%E7%9A%84%E6%89%80%E6%9C%89%E6%9D%A1%E4%BB%B6",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "战后首次！日本在菲律宾军演发射进攻型导弹",
-          "url": "https://news.ifeng.com/c/8sty62eKGy1",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "日本在菲律宾军演发射88式导弹",
-          "url": "https://www.toutiao.com/trending/7636119989522677766/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
-        },
-        {
-          "title": "日本参议员：对俄制裁损害日本国家利益",
-          "url": "https://flash.jin10.com/detail/20260506022228306800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "2名中国游客日本登山食物耗尽",
-          "url": "https://s.weibo.com/weibo?q=%232%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A5%E6%9C%AC%E7%99%BB%E5%B1%B1%E9%A3%9F%E7%89%A9%E8%80%97%E5%B0%BD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "日本在美菲军演中发射88式导弹，系战后首次境外发射进攻型导弹",
-          "url": "https://wallstreetcn.com/livenews/3099106",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
-      "match_count": 8,
+      "match_count": 11,
       "titles": [
         {
           "title": "巴菲特谈为人处事“黄金法则”：你希望别人怎么待你，你就怎样待别人，照此行事没见过谁不快乐的",
@@ -2014,6 +2158,17 @@
           "time_info": "10时16分"
         },
         {
+          "title": "上海黄金交易所5月6日（周三）交易行情",
+          "url": "https://flash.jin10.com/detail/20260506160107895800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "金价涨超0.7%，自4500美元附近反弹",
           "url": "https://wallstreetcn.com/livenews/3098945",
           "source": "华尔街见闻-快讯",
@@ -2038,6 +2193,28 @@
           "time_info": "[06时52分 ~ 07时44分]"
         },
         {
+          "title": "现货铂金价格上涨近3%，至2011.80 美元/盎司。 现货钯金价格上涨3%，至1530.33 美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3099223",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "现货黄金向上触及4680美元/盎司，日内涨2.72%。",
+          "url": "https://flash.jin10.com/detail/20260506155950720800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
           "title": "现在“抄底”黄金是捡漏吗",
           "url": "https://www.toutiao.com/trending/7636550911220780586/",
           "source": "今日头条",
@@ -2055,7 +2232,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时43分"
         },
@@ -2074,8 +2251,21 @@
     },
     {
       "keyword_group": "CPU 英特尔",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时16分 ~ 16时15分]"
+        },
         {
           "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3771589",
@@ -2090,16 +2280,17 @@
           "time_info": "[01时10分 ~ 05时57分]"
         },
         {
-          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
-          "url": "https://www.cls.cn/detail/2363187",
-          "source": "财联社热门",
+          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
+          "source": "澎湃新闻",
           "ranks": [
-            5,
-            3
+            20,
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时16分 ~ 13时43分]"
+          "appearance_count": 4,
+          "time_info": "[06时52分 ~ 16时15分]"
         },
         {
           "title": "苹果正考虑与英特尔和三星合作，为其生产主要设备芯片",
@@ -2115,18 +2306,6 @@
           "time_info": "[06时52分 ~ 10时16分]"
         },
         {
-          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时52分 ~ 13时43分]"
-        },
-        {
           "title": "AMD电话会：服务器CPU市场增速将超35%，CPU比例推向1:1，预计下半年出货Meta芯片",
           "url": "https://wallstreetcn.com/articles/3771601",
           "source": "华尔街见闻",
@@ -2134,8 +2313,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时42分 ~ 13时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时42分 ~ 16时15分]"
+        },
+        {
+          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
+          "url": "https://www.cls.cn/detail/2363503",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "美股盘前，AMD大涨超16%，公司Q1营收超预期增长38%，二季度指引超预期；存储芯片概念股延续涨势，美光科技涨超5%，闪迪涨超6%。英特尔涨超5%，苹果正考虑与英特尔和三星合作，为其生产主要设备芯片。",
+          "url": "https://wallstreetcn.com/livenews/3099222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "“芯荒”制约iPhone销量？苹果据称考虑让英特尔、三星代工设备处理器",
@@ -2174,7 +2375,7 @@
     },
     {
       "keyword_group": "openai chatgpt",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI推出GPT-5.5 Instant",
@@ -2220,6 +2421,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        },
+        {
+          "title": "郭明錤：OpenAI智能体手机冲击明年量产 目标两年出货3000万部",
+          "url": "https://www.cls.cn/detail/2363135",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         },
         {
           "title": "OpenAI总裁：预计今年将在算力上花费500亿美元",
@@ -2304,8 +2516,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时10分 ~ 13时43分]"
+          "appearance_count": 10,
+          "time_info": "[01时10分 ~ 16时15分]"
         }
       ]
     }
