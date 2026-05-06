@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-05-06T10:16:29.843914+08:00",
-  "total_titles_processed": 798,
+  "generated_at": "2026-05-06T13:43:03.312487+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 60,
+      "match_count": 64,
       "titles": [
+        {
+          "title": "美国军舰强行“疏导”霍尔木兹海峡，成功了吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33098897",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 13时43分]"
+        },
         {
           "title": "美国军舰强行“疏导”霍尔木兹海峡，成功了吗？",
           "url": "https://news.ifeng.com/c/8sshQBgxBF3",
@@ -19,20 +33,6 @@
           "time_info": "[01时10分 ~ 07时44分]"
         },
         {
-          "title": "美国军舰强行“疏导”霍尔木兹海峡，成功了吗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33098897",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 10时16分]"
-        },
-        {
           "title": "商务部出手,美国禁令失效",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353987&amp;topic_name=%E5%95%86%E5%8A%A1%E9%83%A8%E5%87%BA%E6%89%8B%2C%E7%BE%8E%E5%9B%BD%E7%A6%81%E4%BB%A4%E5%A4%B1%E6%95%88",
           "source": "贴吧",
@@ -43,6 +43,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时10分 ~ 10时16分]"
+        },
+        {
+          "title": "Anthropic为何成了美国安全威胁",
+          "url": "https://search.bilibili.com/all?keyword=Anthropic%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 13时43分]"
         },
         {
           "title": "市场消息：伊拉克候任总理告知伊朗总统，巴格达可以协助在伊朗与美国之间发挥调解作用。",
@@ -243,17 +255,6 @@
           "time_info": "[05时57分 ~ 06时52分]"
         },
         {
-          "title": "Anthropic为何成了美国安全威胁",
-          "url": "https://search.bilibili.com/all?keyword=Anthropic%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
           "title": "三位消息人士称，第二艘悬挂美国国旗驶离霍尔木兹海峡的商船是CS Anthem号化学品运输船。",
           "url": "https://flash.jin10.com/detail/20260506034023614800",
           "source": "金十数据",
@@ -271,7 +272,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -540,6 +541,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "美国得州一购物中心发生枪击致2死3伤",
+          "url": "https://wallstreetcn.com/livenews/3099118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "美国国务卿鲁比奥：不存在对古巴的石油封锁。",
           "url": "https://flash.jin10.com/detail/20260506032645431800",
           "source": "金十数据",
@@ -582,6 +594,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "古巴外长驳斥美国务卿“古巴未受石油封锁”言论",
+          "url": "https://wallstreetcn.com/livenews/3099109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "欧洲委员会：欧盟贸易专员塞夫科维奇呼吁美国迅速恢复双方达成的特恩伯里关税条款。",
@@ -634,9 +657,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "美国关闭驻巴基斯坦白沙瓦领事馆",
+          "url": "https://wallstreetcn.com/livenews/3099107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "俄罗斯外长与美国国务卿通话",
@@ -645,7 +679,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -661,13 +695,24 @@
           "time_info": "03时03分"
         },
         {
+          "title": "古巴外长：几小时前，美国国务卿表示不存在对古巴的石油封锁。他选择了撒谎，他与总统和白宫发言人相矛盾。",
+          "url": "https://flash.jin10.com/detail/20260506125221967800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "拒绝美国干涉 巴拿马议员抵华交流",
           "url": "https://www.toutiao.com/trending/7635450589283844122/",
           "source": "今日头条",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -686,7 +731,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 27,
+      "match_count": 33,
       "titles": [
         {
           "title": "周二（5月5日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8270元，较周一纽约尾盘涨36点，日内整体交投于6.8360-6.8255元区间。",
@@ -734,6 +779,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "全球存储巨头集体狂飙：美光和海力士市值站上7000亿美元 三星升破1万亿",
+          "url": "https://www.cls.cn/detail/2363338",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "沙特一季度财政赤字1257亿里亚尔（折合335亿美元），逼近全年赤字440亿美元的预期。 一季度总体开支3867亿里亚尔，同比增长20%；一季度财政收入2610亿里亚尔。",
@@ -802,6 +858,28 @@
           "time_info": "04时08分"
         },
         {
+          "title": "文件显示：越南通过政府债券拍卖筹集2.09亿美元。",
+          "url": "https://flash.jin10.com/detail/20260506132130309800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "美元兑日元日内跌超1.50%，现报155.49。",
+          "url": "https://wallstreetcn.com/livenews/3099128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "市场消息：美国国务院批准向加拿大潜在销售C-17维护保障服务及相关设备，估计金额为5.4亿美元。",
           "url": "https://flash.jin10.com/detail/20260506022018556800",
           "source": "金十数据",
@@ -830,7 +908,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -857,15 +935,37 @@
           "time_info": "07时44分"
         },
         {
+          "title": "美元/日元短线跳水，日内跌超1%，最低至156.27。",
+          "url": "https://wallstreetcn.com/livenews/3099122",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "我们在开发 VR 独立游戏，快三年了，累计年底投入 45 万美元，内容是打丧尸，类似亚利桑那阳光，还能坚持吗？",
           "url": "https://www.zhihu.com/question/2033300815583122067",
           "source": "知乎",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
+        },
+        {
+          "title": "美元/日元短线走低约120点，跌破157.00关口，日内跌幅扩大至0.8%。",
+          "url": "https://wallstreetcn.com/livenews/3099121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "Strategy一季度营收1.243亿美元，IBES预期0.0494亿美元。 一季度每股收益（EPS）为38.25美元，IBES预期美股亏损0.17美元。 一季度运营亏损包含数字资产未实现的亏损144.6亿美元。 MSTR美股盘后跌1.3%，报184.46美元。",
@@ -951,7 +1051,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -965,6 +1065,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "美元兑日元USD/JPY日内跌超1.50%，现报155.49。",
+          "url": "https://flash.jin10.com/detail/20260506124954067800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "由于数据中心电力需求激增，美国电力公司AEP将资本计划提高至780亿美元",
@@ -984,7 +1095,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         }
@@ -992,8 +1103,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "特朗普关税退款引质疑，“简直令人抓狂”",
+          "url": "https://news.ifeng.com/c/8ssZ4l2GedD",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 13时43分]"
+        },
         {
           "title": "美媒：美伊冲突久拖不决，特朗普访华时的筹码将被削弱",
           "url": "https://news.ifeng.com/c/8ssc3KTyNbr",
@@ -1029,17 +1151,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时10分 ~ 07时44分]"
-        },
-        {
-          "title": "特朗普关税退款引质疑，“简直令人抓狂”",
-          "url": "https://news.ifeng.com/c/8ssZ4l2GedD",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 10时16分]"
         },
         {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
@@ -1089,6 +1200,40 @@
           "time_info": "[01时10分 ~ 03时03分]"
         },
         {
+          "title": "伊朗战争丨伊媒：特朗普暂停这一计划是为掩盖失败",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "特朗普承认自己曾“不得不”常买中国货",
+          "url": "https://www.cls.cn/detail/2363024",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 13时43分]"
+        },
+        {
+          "title": "伊朗怎样才算违反停火？特朗普避而不谈",
+          "url": "https://news.ifeng.com/c/8su3Btl2lle",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
           "title": "伊朗战争丨特朗普：霍尔木兹海峡“自由行动”将暂停",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -1100,6 +1245,17 @@
           "time_info": "07时44分"
         },
         {
+          "title": "特朗普称暂停自由计划行动",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E6%9A%82%E5%81%9C%E8%87%AA%E7%94%B1%E8%AE%A1%E5%88%92%E8%A1%8C%E5%8A%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
           "title": "美国宣布对伊“攻势结束”，特朗普突然叫停“自由计划”",
           "url": "https://flash.jin10.com/detail/20260506071632515800",
           "source": "金十数据",
@@ -1109,6 +1265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "以媒：特朗普近日一度考虑恢复空袭伊朗",
+          "url": "https://news.ifeng.com/c/8stlzh9o2wc",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "据华尔街日报：特朗普施压美国食品药品监督管理局（FDA）局长批准调味电子烟，敦促监管机构为年轻“让美国再次伟大”选民的电子烟议程扫清障碍。",
@@ -1133,6 +1300,17 @@
           "time_info": "03时03分"
         },
         {
+          "title": "美伊局势追踪：特朗普称暂停“自由计划”行动 对于战争状态双方各执一词",
+          "url": "https://www.cls.cn/detail/2363248",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
           "title": "特朗普称暂停“自由计划”行动",
           "url": "https://wallstreetcn.com/livenews/3098974",
           "source": "华尔街见闻-快讯",
@@ -1144,17 +1322,6 @@
           "time_info": "07时44分"
         },
         {
-          "title": "特朗普承认自己曾“不得不”常买中国货",
-          "url": "https://www.cls.cn/detail/2363024",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
           "title": "特朗普：与伊朗方面取得进展，“自由计划”将在短期内暂停",
           "url": "https://flash.jin10.com/detail/20260506065604697800",
           "source": "金十数据",
@@ -1164,6 +1331,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "伊朗媒体称特朗普暂停“自由计划”是为掩盖失败",
+          "url": "https://wallstreetcn.com/livenews/3099125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         },
         {
           "title": "美国总统特朗普：“自由计划”将暂停一段时间。",
@@ -1210,6 +1388,17 @@
           "time_info": "01时10分"
         },
         {
+          "title": "古巴外长：鲁比奥非常清楚，就是他本人建议特朗普对古巴人民施加的犯罪石油封锁。",
+          "url": "https://flash.jin10.com/detail/20260506125307419800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
           "title": "特朗普：德黑兰“应该挥舞白旗投降”",
           "url": "https://wallstreetcn.com/livenews/3098841",
           "source": "华尔街见闻-快讯",
@@ -1249,7 +1438,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         }
@@ -1257,7 +1446,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -1328,6 +1517,17 @@
           "time_info": "[01时10分 ~ 07时44分]"
         },
         {
+          "title": "大学生用AI把家乡拖鞋卖到海外",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%A7%E5%AD%A6%E7%94%9F%E7%94%A8AI%E6%8A%8A%E5%AE%B6%E4%B9%A1%E6%8B%96%E9%9E%8B%E5%8D%96%E5%88%B0%E6%B5%B7%E5%A4%96",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
           "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3771556",
           "source": "华尔街见闻",
@@ -1338,6 +1538,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时10分 ~ 04时08分]"
+        },
+        {
+          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
+          "url": "https://wallstreetcn.com/articles/3771608",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "Meta正在打造一款AI Agent（人工智能智能体），名叫Hatch和一款Instagram内的购物工具代理。（The Information）",
@@ -1460,7 +1671,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -1512,7 +1723,7 @@
     },
     {
       "keyword_group": "谷歌",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌(GOOG.O)首席科学家警告称，欧盟监管机构的数据共享方式未能有效保护欧洲人的隐私。",
@@ -1558,6 +1769,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时03分 ~ 04时08分]"
+        },
+        {
+          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
+          "url": "https://www.cls.cn/detail/2363224",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
         },
         {
           "title": "市场消息：Alphabet(GOOG.O)也在与EQT讨论获取谷歌的人工智能模型。",
@@ -1628,9 +1850,343 @@
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "日本网红店翻车,食客集体中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 13时43分]"
+        },
+        {
+          "title": "视频丨中方在联合国点名日本，呼吁国际社会警惕其涉核消极动向",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33098751",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 10时16分]"
+        },
+        {
+          "title": "日本战后首次在境外发射进攻型导弹",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%88%98%E5%90%8E%E9%A6%96%E6%AC%A1%E5%9C%A8%E5%A2%83%E5%A4%96%E5%8F%91%E5%B0%84%E8%BF%9B%E6%94%BB%E5%9E%8B%E5%AF%BC%E5%BC%B9",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "日本参议员：对俄制裁损害日本国家利益",
+          "url": "https://wallstreetcn.com/livenews/3098896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时03分 ~ 04时08分]"
+        },
+        {
+          "title": "日本被曝几乎有造核武器的所有条件",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E8%A2%AB%E6%9B%9D%E5%87%A0%E4%B9%8E%E6%9C%89%E9%80%A0%E6%A0%B8%E6%AD%A6%E5%99%A8%E7%9A%84%E6%89%80%E6%9C%89%E6%9D%A1%E4%BB%B6",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "战后首次！日本在菲律宾军演发射进攻型导弹",
+          "url": "https://news.ifeng.com/c/8sty62eKGy1",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "日本在菲律宾军演发射88式导弹",
+          "url": "https://www.toutiao.com/trending/7636119989522677766/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "日本参议员：对俄制裁损害日本国家利益",
+          "url": "https://flash.jin10.com/detail/20260506022228306800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时03分"
+        },
+        {
+          "title": "2名中国游客日本登山食物耗尽",
+          "url": "https://s.weibo.com/weibo?q=%232%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A5%E6%9C%AC%E7%99%BB%E5%B1%B1%E9%A3%9F%E7%89%A9%E8%80%97%E5%B0%BD%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "日本在美菲军演中发射88式导弹，系战后首次境外发射进攻型导弹",
+          "url": "https://wallstreetcn.com/livenews/3099106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "巴菲特谈为人处事“黄金法则”：你希望别人怎么待你，你就怎样待别人，照此行事没见过谁不快乐的",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33097949",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时10分 ~ 10时16分]"
+        },
+        {
+          "title": "金价跳水是机会还是坑",
+          "url": "https://www.toutiao.com/trending/7636354274716290614/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            5,
+            17,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时10分 ~ 06时52分]"
+        },
+        {
+          "title": "现货黄金向上触及4630美元/盎司，日内涨1.62%。",
+          "url": "https://flash.jin10.com/detail/20260506100833851800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "金价涨超0.7%，自4500美元附近反弹",
+          "url": "https://wallstreetcn.com/livenews/3098945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时57分 ~ 06时52分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.714吨，当前持仓量为1034.054吨。",
+          "url": "https://flash.jin10.com/detail/20260506061702400800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时44分]"
+        },
+        {
+          "title": "现在“抄底”黄金是捡漏吗",
+          "url": "https://www.toutiao.com/trending/7636550911220780586/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "现货黄金日内大涨100美元",
+          "url": "https://flash.jin10.com/detail/20260506131106115800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
+        },
+        {
+          "title": "抓住晨起后的黄金时间 做好这几件事",
+          "url": "https://www.baidu.com/s?wd=%E6%8A%93%E4%BD%8F%E6%99%A8%E8%B5%B7%E5%90%8E%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E9%97%B4+%E5%81%9A%E5%A5%BD%E8%BF%99%E5%87%A0%E4%BB%B6%E4%BA%8B",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "CPU 英特尔",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
+          "url": "https://wallstreetcn.com/articles/3771589",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时10分 ~ 05时57分]"
+        },
+        {
+          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
+          "url": "https://www.cls.cn/detail/2363187",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 13时43分]"
+        },
+        {
+          "title": "苹果正考虑与英特尔和三星合作，为其生产主要设备芯片",
+          "url": "https://wallstreetcn.com/articles/3771570",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 10时16分]"
+        },
+        {
+          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 13时43分]"
+        },
+        {
+          "title": "AMD电话会：服务器CPU市场增速将超35%，CPU比例推向1:1，预计下半年出货Meta芯片",
+          "url": "https://wallstreetcn.com/articles/3771601",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 13时43分]"
+        },
+        {
+          "title": "“芯荒”制约iPhone销量？苹果据称考虑让英特尔、三星代工设备处理器",
+          "url": "https://www.cls.cn/detail/2362826",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
+        },
+        {
+          "title": "AMD(AMD.O)：预计公司第二季度CPU收入增长超过70%。",
+          "url": "https://flash.jin10.com/detail/20260506051116763800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        },
+        {
+          "title": "AMD(AMD.O)：预计到2030年，CPU市场年增长超过35%。",
+          "url": "https://flash.jin10.com/detail/20260506051104656800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai chatgpt",
       "match_count": 7,
       "titles": [
+        {
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 13时43分]"
+        },
         {
           "title": "OpenAI：GPT-5.5 Instant从今天开始向所有ChatGPT用户推出。",
           "url": "https://wallstreetcn.com/livenews/3098871",
@@ -1677,24 +2233,13 @@
           "time_info": "04时08分"
         },
         {
-          "title": "OpenAI推出GPT-5.5 Instant",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
           "title": "OpenAI或加速手机开发",
           "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -1708,249 +2253,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "巴菲特谈为人处事“黄金法则”：你希望别人怎么待你，你就怎样待别人，照此行事没见过谁不快乐的",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33097949",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 10时16分]"
-        },
-        {
-          "title": "金价跳水是机会还是坑",
-          "url": "https://www.toutiao.com/trending/7636354274716290614/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            5,
-            17,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 06时52分]"
-        },
-        {
-          "title": "现货黄金向上触及4630美元/盎司，日内涨1.62%。",
-          "url": "https://flash.jin10.com/detail/20260506100833851800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "金价涨超0.7%，自4500美元附近反弹",
-          "url": "https://wallstreetcn.com/livenews/3098945",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时57分 ~ 06时52分]"
-        },
-        {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少1.714吨，当前持仓量为1034.054吨。",
-          "url": "https://flash.jin10.com/detail/20260506061702400800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时52分 ~ 07时44分]"
-        },
-        {
-          "title": "现在“抄底”黄金是捡漏吗",
-          "url": "https://www.toutiao.com/trending/7636550911220780586/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "抓住晨起后的黄金时间 做好这几件事",
-          "url": "https://www.baidu.com/s?wd=%E6%8A%93%E4%BD%8F%E6%99%A8%E8%B5%B7%E5%90%8E%E7%9A%84%E9%BB%84%E9%87%91%E6%97%B6%E9%97%B4+%E5%81%9A%E5%A5%BD%E8%BF%99%E5%87%A0%E4%BB%B6%E4%BA%8B",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "CPU 英特尔",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "美伊局势暂趋缓和，美股期指齐涨，半导体股走强，英特尔涨超4%，WTI油价跌超2%",
-          "url": "https://wallstreetcn.com/articles/3771589",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时10分 ~ 05时57分]"
-        },
-        {
-          "title": "苹果正考虑与英特尔和三星合作，为其生产主要设备芯片",
-          "url": "https://wallstreetcn.com/articles/3771570",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时52分 ~ 10时16分]"
-        },
-        {
-          "title": "美股收盘：标普、纳指再创新高 美光、英特尔涨幅均超10%",
-          "url": "https://www.cls.cn/detail/2363187",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "“芯荒”制约iPhone销量？苹果据称考虑让英特尔、三星代工设备处理器",
-          "url": "https://www.cls.cn/detail/2362826",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        },
-        {
-          "title": "AMD(AMD.O)：预计公司第二季度CPU收入增长超过70%。",
-          "url": "https://flash.jin10.com/detail/20260506051116763800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        },
-        {
-          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
-          "title": "AMD(AMD.O)：预计到2030年，CPU市场年增长超过35%。",
-          "url": "https://flash.jin10.com/detail/20260506051104656800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "日本网红店翻车,食客集体中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 10时16分]"
-        },
-        {
-          "title": "视频丨中方在联合国点名日本，呼吁国际社会警惕其涉核消极动向",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33098751",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时10分 ~ 10时16分]"
-        },
-        {
-          "title": "日本参议员：对俄制裁损害日本国家利益",
-          "url": "https://wallstreetcn.com/livenews/3098896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时03分 ~ 04时08分]"
-        },
-        {
-          "title": "日本参议员：对俄制裁损害日本国家利益",
-          "url": "https://flash.jin10.com/detail/20260506022228306800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时03分"
-        },
-        {
-          "title": "2名中国游客日本登山食物耗尽",
-          "url": "https://s.weibo.com/weibo?q=%232%E5%90%8D%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%97%A5%E6%9C%AC%E7%99%BB%E5%B1%B1%E9%A3%9F%E7%89%A9%E8%80%97%E5%B0%BD%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时57分"
         }
       ]
     },
@@ -1998,11 +2300,12 @@
             19,
             12,
             24,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 10时16分]"
+          "appearance_count": 9,
+          "time_info": "[01时10分 ~ 13时43分]"
         }
       ]
     }
