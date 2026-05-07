@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T18:40:50.877565+08:00",
-  "total_titles_processed": 1285,
+  "generated_at": "2026-05-07T20:50:03.718798+08:00",
+  "total_titles_processed": 1428,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 60,
+      "match_count": 68,
       "titles": [
         {
           "title": "伊朗高层回击美媒：所谓的“和谈进展”只是美国的愿望清单，而非现实",
@@ -15,11 +15,26 @@
             9,
             8,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时44分 ~ 18时40分]"
+          "appearance_count": 8,
+          "time_info": "[07时44分 ~ 20时50分]"
+        },
+        {
+          "title": "历史上的今天｜当地时间1999年5月7日晚，以美国为首的北约野蛮轰炸中国驻南联盟大使馆",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33063769",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 20时50分]"
         },
         {
           "title": "伊朗确认前往美国参加世界杯：将在开赛前14天抵美",
@@ -31,19 +46,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时45分 ~ 07时45分]"
-        },
-        {
-          "title": "历史上的今天｜当地时间1999年5月7日晚，以美国为首的北约野蛮轰炸中国驻南联盟大使馆",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33063769",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            11,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 18时40分]"
         },
         {
           "title": "Anthropic为何成了美国安全威胁",
@@ -92,6 +94,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "美国一季度非农单位劳动力成本初值 2.3%，预期2.6%，前值由4.40%修正为4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3100008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "美联储古尔斯比：受人口老龄化与移民限制的双重影响，美国可能正步入劳动力短缺时代。",
           "url": "https://flash.jin10.com/detail/20260507040746583800",
           "source": "金十数据",
@@ -126,6 +139,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时21分]"
+        },
+        {
+          "title": "美国4月25日当周续请失业救济人数 176.6万人，预期180万人，前值由178.5万人修正为177.6万人。",
+          "url": "https://wallstreetcn.com/livenews/3100006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "美国民主党议员要求政府披露“以色列核武详情”",
@@ -174,6 +198,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "美国5月2日当周首次申请失业救济人数 20万人，预期20.5万人，前值由18.9万人修正为19万人。",
+          "url": "https://wallstreetcn.com/livenews/3100005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "美国：考虑利用军事基地地下的石油资源来补充战略储备",
           "url": "https://wallstreetcn.com/livenews/3099596",
           "source": "华尔街见闻-快讯",
@@ -184,6 +219,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时45分 ~ 07时45分]"
+        },
+        {
+          "title": "报道：美伊已就缓解美国海上封锁达成共识，以换取霍尔木兹“逐步开放”",
+          "url": "https://wallstreetcn.com/articles/3771733",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
         },
         {
           "title": "美国商务部长就爱泼斯坦案闭门作证",
@@ -222,6 +268,17 @@
           "time_info": "[05时39分 ~ 06时45分]"
         },
         {
+          "title": "伊朗国防部：美国需与以色列划清界限",
+          "url": "https://www.toutiao.com/trending/7636412979739181098/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
+        },
+        {
           "title": "美国芝加哥联储主席Goolsbee（2027年FOMC票委）：如果人们将未来预期的收入提前用于当前消费，很容易导致经济过热。 如果人工智能真如宣传的那样出色，那将是“一件好事”，但美联储仍需警惕经济过热。",
           "url": "https://wallstreetcn.com/livenews/3099509",
           "source": "华尔街见闻-快讯",
@@ -239,7 +296,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -277,6 +334,17 @@
           "time_info": "07时45分"
         },
         {
+          "title": "消息人士透露，沙特将限制美国使用其基地及领空，直至美方“针对伊朗的袭击提供妥善保护”。",
+          "url": "https://flash.jin10.com/detail/20260507202144396800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "伊朗最高领袖军事顾问：美国必须赔偿伊朗损失",
           "url": "https://wallstreetcn.com/livenews/3099507",
           "source": "华尔街见闻-快讯",
@@ -308,6 +376,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美国至5月2日当周初请失业金人数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260507202000000800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "美国新反恐战略称将优先打击西半球贩毒集团",
@@ -360,7 +439,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -382,7 +461,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -393,7 +472,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -448,7 +527,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -569,7 +648,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -629,6 +708,17 @@
           "time_info": "02时21分"
         },
         {
+          "title": "李强会见美国国会参议员代表团",
+          "url": "https://wallstreetcn.com/livenews/3099977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "消息人士称，美国空军计划在7月4日前将卡塔尔赠送的喷气式飞机交付，作为“空军一号”使用。",
           "url": "https://flash.jin10.com/detail/20260507035908341800",
           "source": "金十数据",
@@ -657,7 +747,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -679,7 +769,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
@@ -687,7 +777,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 54,
+      "match_count": 60,
       "titles": [
         {
           "title": "2026美加墨世界杯转播权涨到3亿美元，央视选择拒绝",
@@ -727,6 +817,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时01分 ~ 07时45分]"
+        },
+        {
+          "title": "世界杯中国赞助商已投入超5亿美元",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9E%E5%8A%A9%E5%95%86%E5%B7%B2%E6%8A%95%E5%85%A5%E8%B6%855%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 20时50分]"
         },
         {
           "title": "美国军方希望开发一种成本低于25万美元的拦截器。（华尔街日报）",
@@ -783,7 +885,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -853,7 +955,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -870,17 +972,6 @@
           "time_info": "[05时39分 ~ 06时45分]"
         },
         {
-          "title": "世界杯中国赞助商已投入超5亿美元",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%AD%E5%9B%BD%E8%B5%9E%E5%8A%A9%E5%95%86%E5%B7%B2%E6%8A%95%E5%85%A5%E8%B6%855%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
           "title": "Scale AI获美国防部价值5亿美元的合同",
           "url": "https://flash.jin10.com/detail/20260507050033181800",
           "source": "金十数据",
@@ -890,6 +981,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时39分"
+        },
+        {
+          "title": "布伦特原油失守97美元/桶，日内跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3100004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "WTI原油开盘跌0.5%，现报96.64美元/桶。",
@@ -972,6 +1074,17 @@
           "time_info": "10时25分"
         },
         {
+          "title": "现货白银日内涨5%，现报81.21美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3099998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "国家外汇管理局：4月末我国外汇储备规模为34105亿美元",
           "url": "https://wallstreetcn.com/livenews/3099864",
           "source": "华尔街见闻-快讯",
@@ -1044,9 +1157,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "纽约期银突破82美元/盎司，日内涨6.08%。",
+          "url": "https://flash.jin10.com/detail/20260507201631938800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "周三（5月6日）纽约尾盘，欧元兑美元涨0.51%，报1.1752，英镑兑美元涨0.41%，报1.3594，美元兑瑞郎跌0.57%，报0.7784。 商品货币对中，澳元兑美元涨0.78%，纽元兑美元涨1.21%，美元兑加元涨0.10%。",
@@ -1148,6 +1272,17 @@
           "time_info": "05时39分"
         },
         {
+          "title": "WTI原油向下触及92美元/桶，日内跌5.25%。",
+          "url": "https://flash.jin10.com/detail/20260507201338385800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "Western Midstream签署16亿美元协议，来扩张美国二叠纪盆地业务",
           "url": "https://wallstreetcn.com/livenews/3099563",
           "source": "华尔街见闻-快讯",
@@ -1165,7 +1300,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1223,6 +1358,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "麦当劳第一季度营收为65.2亿美元，预估64.7亿美元。 第一季度全球可比销售增长3.8%，预估3.95%。 第一季度调整后每股收益为2.83美元，预估2.74美元。 第一季度美国可比销售增长3.9%，预估4.21%。 麦当劳盘前涨近4%。",
+          "url": "https://wallstreetcn.com/livenews/3099973",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "现货白银日内涨幅扩大至1.00%，现报78.12美元/盎司。",
@@ -1286,9 +1432,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
+        },
+        {
+          "title": "现货白银站上81美元/盎司，为4月17日以来首次，日内涨4.74%。",
+          "url": "https://flash.jin10.com/detail/20260507200107539800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         },
         {
           "title": "布伦特原油日内跌幅达1.5%，报99.7美元/桶；WTI原油日内跌幅达2.0%，报93.17美元/桶。",
@@ -1305,7 +1462,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "中方再回应特朗普访华",
@@ -1363,6 +1520,18 @@
           "time_info": "[02时21分 ~ 10时25分]"
         },
         {
+          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
+          "url": "https://news.ifeng.com/c/8svZidpLu1e",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时25分 ~ 20时50分]"
+        },
+        {
           "title": "【早报】油价大幅跳水！特朗普：美伊“很有可能”达成协议；以军在停火期间突袭贝鲁特",
           "url": "https://www.cls.cn/detail/2364367",
           "source": "财联社热门",
@@ -1373,6 +1542,31 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时44分 ~ 16时27分]"
+        },
+        {
+          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
+          "url": "https://wallstreetcn.com/articles/3771687",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 20时50分]"
+        },
+        {
+          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
+          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 20时50分]"
         },
         {
           "title": "伊朗战争丨特朗普预估美伊“一周”达成协议",
@@ -1386,16 +1580,15 @@
           "time_info": "[06时45分 ~ 07时45分]"
         },
         {
-          "title": "为特朗普庆生，白宫将举办“自由250”格斗赛",
-          "url": "https://news.ifeng.com/c/8svZidpLu1e",
-          "source": "凤凰网",
+          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
+          "url": "https://www.zhihu.com/question/2035667399110653049",
+          "source": "知乎",
           "ranks": [
-            7,
-            5
+            8
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时25分 ~ 18时40分]"
+          "time_info": "[16时27分 ~ 20时50分]"
         },
         {
           "title": "伊朗战争丨特朗普突然叫停“自由计划”内幕披露",
@@ -1407,30 +1600,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时45分 ~ 16时27分]"
-        },
-        {
-          "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
-          "url": "https://wallstreetcn.com/articles/3771687",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 18时40分]"
-        },
-        {
-          "title": "美全力以赴，赶在7月4日前改好卡塔尔赠送的特朗普专机",
-          "url": "https://news.ifeng.com/c/8svoq7iNUv4",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 18时40分]"
         },
         {
           "title": "特朗普称暂停自由计划行动",
@@ -1467,15 +1636,15 @@
           "time_info": "02时21分"
         },
         {
-          "title": "为什么特朗普、孙宇晨、傅盛纷纷入局 AI 中转站卖 Token 了？",
-          "url": "https://www.zhihu.com/question/2035667399110653049",
-          "source": "知乎",
+          "title": "巴基斯坦消息人士称美伊接近达成停战谅解备忘录，特朗普：有可能下周达成协议",
+          "url": "https://wallstreetcn.com/articles/3771704",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时27分 ~ 18时40分]"
+          "time_info": "[20时49分 ~ 20时50分]"
         },
         {
           "title": "美国总统特朗普：我们将攫取伊朗的浓缩铀。",
@@ -1529,7 +1698,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1639,7 +1808,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1694,7 +1863,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1734,329 +1903,8 @@
       ]
     },
     {
-      "keyword_group": "日本",
-      "match_count": 26,
-      "titles": [
-        {
-          "title": "战后日本军演首次在境外发射进攻性导弹，外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33101670",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            14,
-            15,
-            16,
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时01分 ~ 16时27分]"
-        },
-        {
-          "title": "异环横扫海外,掀翻日本游戏圈",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354037&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%A8%AA%E6%89%AB%E6%B5%B7%E5%A4%96%2C%E6%8E%80%E7%BF%BB%E6%97%A5%E6%9C%AC%E6%B8%B8%E6%88%8F%E5%9C%88",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时01分 ~ 13时45分]"
-        },
-        {
-          "title": "美菲军演中日本发射 88 式导弹，系战后日本首次在境外发射进攻型导弹，会带来哪些风险？暴露了其什么野心？",
-          "url": "https://www.zhihu.com/question/2035352930782372640",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时45分]"
-        },
-        {
-          "title": "日本坦克究竟有多奇葩",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9D%A6%E5%85%8B%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%A5%87%E8%91%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            24,
-            30,
-            22,
-            23,
-            13,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时01分 ~ 13时45分]"
-        },
-        {
-          "title": "日本网红店翻车,食客集体中毒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时01分 ~ 07时45分]"
-        },
-        {
-          "title": "高市早苗下跪看清日本丑恶嘴脸",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%84%B8%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 10时25分]"
-        },
-        {
-          "title": "中方回应二战后日本首次境外发射进攻型导弹，敦促日本在军事安全领域恪守承诺、谨言慎行，如何看待日本此举？",
-          "url": "https://www.zhihu.com/question/2035387121423364410",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时25分 ~ 18时40分]"
-        },
-        {
-          "title": "麻辣烫日本火爆被年轻女性当成药膳",
-          "url": "https://www.toutiao.com/trending/7636222872004231204/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 10时25分]"
-        },
-        {
-          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
-          "url": "https://www.cls.cn/detail/2364594",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时45分 ~ 18时40分]"
-        },
-        {
-          "title": "高市早苗下跪让人看清日本丑恶嘴脸",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E8%AE%A9%E4%BA%BA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%84%B8",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 13时45分]"
-        },
-        {
-          "title": "Anthropic自夸Q1年化收入暴涨80倍 日本疑似连续干预汇市 | 环球市场",
-          "url": "https://www.cls.cn/detail/2364390",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 16时27分]"
-        },
-        {
-          "title": "日媒：贝森特下周将访问日本 与金融当局讨论日元疲软问题",
-          "url": "https://flash.jin10.com/detail/20260507041205252800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时39分]"
-        },
-        {
-          "title": "据日经新闻：美国财长贝森特将于下周二分别与日本首相高市早苗、日本财务大臣片山皋月和日本央行行长植田和男进行会谈。贝森特下周将讨论日元疲软问题，除了货币问题，议程还将涵盖经济安全主题，如稀土和能源采购。",
-          "url": "https://flash.jin10.com/detail/20260507040712574800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时39分]"
-        },
-        {
-          "title": "美国财政部长贝森特下周将在日本讨论日元疲软问题。 贝森特将于下周二分别与日本首相高市早苗、外相片山皋月、日本央行行长植田和男会谈。 除货币问题外，议程还将涵盖稀土和能源采购等经济安全议题。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/3099558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 05时39分]"
-        },
-        {
-          "title": "MSCI亚太地区(除日本)股指触及纪录新高，最新上涨1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3099695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "中方回应日本多地爆发示威活动",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 18时40分]"
-        },
-        {
-          "title": "日本放话“全方位”狙击日元投机，美财长贝森特下周抵日谈汇率",
-          "url": "https://flash.jin10.com/detail/20260507100653589800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "日本10年期国债收益率下降3个基点，至2.470%。",
-          "url": "https://flash.jin10.com/detail/20260507133443620800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "日本警察接警后5小时才破门 发现3具尸体",
-          "url": "https://www.toutiao.com/trending/7636199167459164211/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时45分 ~ 16时27分]"
-        },
-        {
-          "title": "日本的信息茧房有多严重",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%9A%84%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 18时40分]"
-        },
-        {
-          "title": "麻辣烫日本火爆被年轻女性当成药膳",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%97%A5%E6%9C%AC%E7%81%AB%E7%88%86%E8%A2%AB%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%E5%BD%93%E6%88%90%E8%8D%AF%E8%86%B3%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时27分 ~ 18时40分]"
-        },
-        {
-          "title": "麻辣烫席卷日本,被樱花妹当药膳",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354070&amp;topic_name=%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%B8%AD%E5%8D%B7%E6%97%A5%E6%9C%AC%2C%E8%A2%AB%E6%A8%B1%E8%8A%B1%E5%A6%B9%E5%BD%93%E8%8D%AF%E8%86%B3",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "MSCI亚太（不含日本）指数创下历史新高，最新上涨1.3%。",
-          "url": "https://flash.jin10.com/detail/20260507095944278800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "日本街头疑现芬太尼丧尸",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E7%96%91%E7%8E%B0%E8%8A%AC%E5%A4%AA%E5%B0%BC%E4%B8%A7%E5%B0%B8%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "麻辣烫日本爆火 被年轻女性当药膳",
-          "url": "https://www.baidu.com/s?wd=%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%97%A5%E6%9C%AC%E7%88%86%E7%81%AB+%E8%A2%AB%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%E5%BD%93%E8%8D%AF%E8%86%B3",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "日本东证指数扩大涨幅，现涨2.5%。",
-          "url": "https://wallstreetcn.com/livenews/3099650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "马上评｜当AI收费遇到“搜黎元洪给出范伟”",
@@ -2189,6 +2037,17 @@
           "time_info": "[04时31分 ~ 05时39分]"
         },
         {
+          "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
+          "url": "https://wallstreetcn.com/articles/3771688",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
+        },
+        {
           "title": "三角洲如何忽悠AI送礼",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
           "source": "bilibili 热搜",
@@ -2211,6 +2070,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时25分 ~ 13时45分]"
+        },
+        {
+          "title": "AI时代三星怎么更猛了",
+          "url": "https://www.toutiao.com/trending/7637076739255963187/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
         },
         {
           "title": "歌手2026 AI歌手",
@@ -2369,8 +2239,344 @@
       ]
     },
     {
+      "keyword_group": "日本",
+      "match_count": 27,
+      "titles": [
+        {
+          "title": "战后日本军演首次在境外发射进攻性导弹，外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33101670",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            14,
+            15,
+            16,
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时01分 ~ 16时27分]"
+        },
+        {
+          "title": "异环横扫海外,掀翻日本游戏圈",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354037&amp;topic_name=%E5%BC%82%E7%8E%AF%E6%A8%AA%E6%89%AB%E6%B5%B7%E5%A4%96%2C%E6%8E%80%E7%BF%BB%E6%97%A5%E6%9C%AC%E6%B8%B8%E6%88%8F%E5%9C%88",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时01分 ~ 13时45分]"
+        },
+        {
+          "title": "美菲军演中日本发射 88 式导弹，系战后日本首次在境外发射进攻型导弹，会带来哪些风险？暴露了其什么野心？",
+          "url": "https://www.zhihu.com/question/2035352930782372640",
+          "source": "知乎",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时45分]"
+        },
+        {
+          "title": "日本坦克究竟有多奇葩",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%9D%A6%E5%85%8B%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%A5%87%E8%91%A9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            24,
+            30,
+            22,
+            23,
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时01分 ~ 13时45分]"
+        },
+        {
+          "title": "日本网红店翻车,食客集体中毒",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354013&amp;topic_name=%E6%97%A5%E6%9C%AC%E7%BD%91%E7%BA%A2%E5%BA%97%E7%BF%BB%E8%BD%A6%2C%E9%A3%9F%E5%AE%A2%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时01分 ~ 07时45分]"
+        },
+        {
+          "title": "AI“点燃”日本股市？日经225大涨近6%创新高，史上首次升破62000点！",
+          "url": "https://www.cls.cn/detail/2364594",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时45分 ~ 20时50分]"
+        },
+        {
+          "title": "中方回应日本多地爆发示威活动",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%A4%9A%E5%9C%B0%E7%88%86%E5%8F%91%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 20时50分]"
+        },
+        {
+          "title": "高市早苗下跪看清日本丑恶嘴脸",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%84%B8%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 10时25分]"
+        },
+        {
+          "title": "中方回应二战后日本首次境外发射进攻型导弹，敦促日本在军事安全领域恪守承诺、谨言慎行，如何看待日本此举？",
+          "url": "https://www.zhihu.com/question/2035387121423364410",
+          "source": "知乎",
+          "ranks": [
+            13,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时25分 ~ 18时40分]"
+        },
+        {
+          "title": "日本的信息茧房有多严重",
+          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E7%9A%84%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E6%9C%89%E5%A4%9A%E4%B8%A5%E9%87%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时27分 ~ 20时50分]"
+        },
+        {
+          "title": "日本街头疑现芬太尼丧尸",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%A1%97%E5%A4%B4%E7%96%91%E7%8E%B0%E8%8A%AC%E5%A4%AA%E5%B0%BC%E4%B8%A7%E5%B0%B8%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 20时50分]"
+        },
+        {
+          "title": "麻辣烫日本火爆被年轻女性当成药膳",
+          "url": "https://www.toutiao.com/trending/7636222872004231204/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时44分 ~ 10时25分]"
+        },
+        {
+          "title": "麻辣烫席卷日本,被樱花妹当药膳",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354070&amp;topic_name=%E9%BA%BB%E8%BE%A3%E7%83%AB%E5%B8%AD%E5%8D%B7%E6%97%A5%E6%9C%AC%2C%E8%A2%AB%E6%A8%B1%E8%8A%B1%E5%A6%B9%E5%BD%93%E8%8D%AF%E8%86%B3",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 20时50分]"
+        },
+        {
+          "title": "高市早苗下跪让人看清日本丑恶嘴脸",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8B%E8%B7%AA%E8%AE%A9%E4%BA%BA%E7%9C%8B%E6%B8%85%E6%97%A5%E6%9C%AC%E4%B8%91%E6%81%B6%E5%98%B4%E8%84%B8",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时25分 ~ 13时45分]"
+        },
+        {
+          "title": "Anthropic自夸Q1年化收入暴涨80倍 日本疑似连续干预汇市 | 环球市场",
+          "url": "https://www.cls.cn/detail/2364390",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时25分 ~ 16时27分]"
+        },
+        {
+          "title": "麻辣烫日本爆火 被年轻女性当药膳",
+          "url": "https://www.baidu.com/s?wd=%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%97%A5%E6%9C%AC%E7%88%86%E7%81%AB+%E8%A2%AB%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%E5%BD%93%E8%8D%AF%E8%86%B3",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 20时50分]"
+        },
+        {
+          "title": "日媒：贝森特下周将访问日本 与金融当局讨论日元疲软问题",
+          "url": "https://flash.jin10.com/detail/20260507041205252800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时39分]"
+        },
+        {
+          "title": "据日经新闻：美国财长贝森特将于下周二分别与日本首相高市早苗、日本财务大臣片山皋月和日本央行行长植田和男进行会谈。贝森特下周将讨论日元疲软问题，除了货币问题，议程还将涵盖经济安全主题，如稀土和能源采购。",
+          "url": "https://flash.jin10.com/detail/20260507040712574800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时39分]"
+        },
+        {
+          "title": "美国财政部长贝森特下周将在日本讨论日元疲软问题。 贝森特将于下周二分别与日本首相高市早苗、外相片山皋月、日本央行行长植田和男会谈。 除货币问题外，议程还将涵盖稀土和能源采购等经济安全议题。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3099558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时31分 ~ 05时39分]"
+        },
+        {
+          "title": "MSCI亚太地区(除日本)股指触及纪录新高，最新上涨1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3099695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "中方回应日本多地爆发示威活动",
+          "url": "https://www.toutiao.com/trending/7637029173445381651/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时49分 ~ 20时50分]"
+        },
+        {
+          "title": "日本放话“全方位”狙击日元投机，美财长贝森特下周抵日谈汇率",
+          "url": "https://flash.jin10.com/detail/20260507100653589800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "日本10年期国债收益率下降3个基点，至2.470%。",
+          "url": "https://flash.jin10.com/detail/20260507133443620800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "日本警察接警后5小时才破门 发现3具尸体",
+          "url": "https://www.toutiao.com/trending/7636199167459164211/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 16时27分]"
+        },
+        {
+          "title": "麻辣烫日本火爆被年轻女性当成药膳",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%97%A5%E6%9C%AC%E7%81%AB%E7%88%86%E8%A2%AB%E5%B9%B4%E8%BD%BB%E5%A5%B3%E6%80%A7%E5%BD%93%E6%88%90%E8%8D%AF%E8%86%B3%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 18时40分]"
+        },
+        {
+          "title": "MSCI亚太（不含日本）指数创下历史新高，最新上涨1.3%。",
+          "url": "https://flash.jin10.com/detail/20260507095944278800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        },
+        {
+          "title": "日本东证指数扩大涨幅，现涨2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3099650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价 黄金",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
@@ -2380,8 +2586,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时45分 ~ 18时40分]"
+          "appearance_count": 9,
+          "time_info": "[06时45分 ~ 20时50分]"
         },
         {
           "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
@@ -2470,7 +2676,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -2497,6 +2703,28 @@
           "time_info": "16时27分"
         },
         {
+          "title": "美国总统特朗普：真材实料——黄金——位于迈阿密多拉尔。由伟大的美国爱国者们打造。",
+          "url": "https://flash.jin10.com/detail/20260507201615968800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "黄金行情直播中",
+          "url": "https://flash.jin10.com/detail/20260507201608888800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
           "title": "黄金和原油后市将如何走",
           "url": "https://www.toutiao.com/trending/7636971945400995374/",
           "source": "今日头条",
@@ -2517,6 +2745,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时25分"
+        },
+        {
+          "title": "挂单报告：国际现货黄金高位震荡 国际现货白银此处多单集中",
+          "url": "https://flash.jin10.com/detail/20260507200254845800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月7日（周四）晚盘盘初上涨0.41%报1038.51元/克；<br/>上海黄金交易所白银T+D 5月7日（周四）晚盘盘初上涨3.21%报19897.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260507200125931800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
         }
       ]
     },
@@ -2537,8 +2787,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时21分 ~ 18时40分]"
+          "appearance_count": 12,
+          "time_info": "[02时21分 ~ 20时50分]"
         },
         {
           "title": "和英伟达“站在光里”！康宁拟十倍扩产光连接产能",
@@ -2561,11 +2811,24 @@
             15,
             22,
             24,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时01分 ~ 18时40分]"
+          "appearance_count": 14,
+          "time_info": "[01时01分 ~ 20时50分]"
+        },
+        {
+          "title": "RTX306012GB 显卡将于 6 月复产、 7 月开卖，它在当前市场还有竞争力吗？",
+          "url": "https://www.zhihu.com/question/2034785301671960934",
+          "source": "知乎",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 20时50分]"
         },
         {
           "title": "英伟达宣布与康宁建立长期合作关系",
@@ -2578,17 +2841,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时44分 ~ 10时25分]"
-        },
-        {
-          "title": "RTX306012GB 显卡将于 6 月复产、 7 月开卖，它在当前市场还有竞争力吗？",
-          "url": "https://www.zhihu.com/question/2034785301671960934",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "纳斯达克100指数涨幅扩大至2%，成分股AMD涨18.2%，Arm控股涨14.4%，拉姆研究涨7.7%，阿斯麦ADR涨6.6%，拼多多涨6.3%，英伟达涨5.4%，思科跌3.2%，路透跌3.6%，VRSK跌4.8%，Workday跌5.1%，能源股Diamondback Energy跌6.3%。 纳指涨1.9%，标普涨超1.4%，道指涨700点短暂地重返5万点整数位心理关口上方、涨幅扩大至1.4%。半导体指数涨4.1%，生物科技指数涨2.1%，罗素2000指数涨1.3%。 利弗莫尔中概股龙头指数涨幅扩大至5%。",
@@ -2769,9 +3021,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时40分 ~ 20时50分]"
         }
       ]
     },
@@ -2798,7 +3050,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
@@ -2823,6 +3075,23 @@
       ]
     },
     {
+      "keyword_group": "跨境电商",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "飞书深诺Meetsocial完成对4KMILES的战略并购，补齐跨境电商全链路关键拼图",
+          "url": "https://wallstreetcn.com/livenews/3099983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "新突破",
       "match_count": 1,
       "titles": [
@@ -2833,7 +3102,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
