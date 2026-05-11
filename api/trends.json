@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-11T07:45:28.463893+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-05-11T10:38:18.186683+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 40,
+      "match_count": 50,
       "titles": [
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -15,11 +15,12 @@
             6,
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "“虎妈”时代结束？美国Beta型妈妈正在重新定义成功",
@@ -42,8 +43,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "伊朗已回应美国提出的结束战争方案",
@@ -211,6 +212,18 @@
           "time_info": "[03时57分 ~ 05时43分]"
         },
         {
+          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
+          "url": "https://www.cls.cn/detail/2367370",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 10时38分]"
+        },
+        {
           "title": "专家警告：伊朗与美国全面和平协议“遥遥无期”",
           "url": "https://flash.jin10.com/detail/20260511013416424800",
           "source": "金十数据",
@@ -233,6 +246,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时43分 ~ 06时41分]"
+        },
+        {
+          "title": "伊朗战争丨伊方已拒绝美国提出的方案",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "美国能源部长对美国全国广播公司（NBC）表示，下一阶段我们对伊朗不排除任何选项，包括军事手段。",
@@ -385,18 +409,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "【早报】伊朗回应美国所提结束战争方案，美称“完全不可接受”；全球芯片LOF、中韩半导体ETF华泰柏瑞停牌1小时",
-          "url": "https://www.cls.cn/detail/2367370",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -407,9 +420,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美国“人形机器人格斗大赛”上演中国德比：宇树PK众擎",
+          "url": "https://news.ifeng.com/c/8t1c0Vp6Gi5",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "伊朗官媒：伊朗已拒绝美国方案",
@@ -429,9 +453,53 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "美国卫生与公众服务部：抵达每个设施后，每位乘客都将接受临床评估，并获得适当的护理和支持。此次空运将把乘客送至内布拉斯加大学医学中心的ASPR区域新兴特殊病原体治疗中心。",
+          "url": "https://flash.jin10.com/detail/20260511100642830800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "美国卫生与公众服务部：目前有一名乘客出现轻微症状，另有一名乘客的安第斯病毒PCR检测结果为弱阳性。",
+          "url": "https://flash.jin10.com/detail/20260511100533826800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "美国卫生与公众服务部：全部17人目前正在返回美国的途中，其中两名乘客在飞机的生物防护单元内。",
+          "url": "https://flash.jin10.com/detail/20260511100435610800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "伊媒：伊朗已拒绝美国提出的方案",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E5%AA%92%EF%BC%9A%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%8B%92%E7%BB%9D%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E6%96%B9%E6%A1%88",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "伊媒：伊朗已拒绝美国提出的方案",
@@ -440,7 +508,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -454,6 +522,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美国卫生与公众服务部：正在协助国务院将“洪迪厄斯”号邮轮上的17名美国公民运送回国。",
+          "url": "https://flash.jin10.com/detail/20260511100402422800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "伊朗已回应美国提出的结束战争方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33152346",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "美国能源部长：目标不是移除伊朗的浓缩铀，而是结束伊朗的核计划。",
@@ -489,6 +579,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "伊朗已拒绝美国提出的方案",
+          "url": "https://www.toutiao.com/trending/7638407573187612223/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "美国能源部长对美国哥伦比亚广播公司（CBS）表示，目前对伊朗的经济压力正在急剧加大。",
           "url": "https://flash.jin10.com/detail/20260510232859495800",
           "source": "金十数据",
@@ -498,12 +599,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美国人形机器人格斗大赛上演中国德比",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%A0%BC%E6%96%97%E5%A4%A7%E8%B5%9B%E4%B8%8A%E6%BC%94%E4%B8%AD%E5%9B%BD%E5%BE%B7%E6%AF%94",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 37,
       "titles": [
         {
           "title": "美国总统特朗普宣称：伊朗一直在与美国和全世界“耍花招”。 伊朗将再也笑不出来。",
@@ -629,6 +741,61 @@
           "time_info": "[04时43分 ~ 05时43分]"
         },
         {
+          "title": "外交部官宣特朗普访华日期",
+          "url": "https://www.toutiao.com/trending/7638433306853281331/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE5%E6%9C%8813%E6%97%A5%E8%87%B315%E6%97%A5%E8%AE%BF%E5%8D%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "中方宣布特朗普访华日期",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AE%A3%E5%B8%83%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%97%A5%E6%9C%9F%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "特朗普5月13日至15日访华",
+          "url": "https://www.douyin.com/hot/2494766",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "美国共和党参议员Roger Wicker敦促特朗普重启疏导霍尔木兹海峡受困船只的“自由计划”行动。",
           "url": "https://flash.jin10.com/detail/20260511062819908800",
           "source": "金十数据",
@@ -651,6 +818,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时43分 ~ 05时43分]"
+        },
+        {
+          "title": "美国总统特朗普将于 5 月 13 日至 15 日访华，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2037095315845664890",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "据以色列第i24频道：以色列总理内塔尼亚胡离开在死海举行的德鲁兹派与切尔克斯派地方领导人会议，他向与会者表示，必须赶回耶路撒冷接听美国总统特朗普的紧急来电。",
@@ -689,6 +867,17 @@
           "time_info": "[02时54分 ~ 03时57分]"
         },
         {
+          "title": "伊朗知情人士：特朗普不满意反而更好",
+          "url": "https://news.ifeng.com/c/8t246befcan",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "美国驻联合国大使：特朗普在回归战争之前给予外交一切机会。",
           "url": "https://flash.jin10.com/detail/20260511010532862800",
           "source": "金十数据",
@@ -719,7 +908,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
         },
@@ -796,6 +985,61 @@
           "time_info": "[03时57分 ~ 04时43分]"
         },
         {
+          "title": "美国总统特朗普将对中国进行国事访问",
+          "url": "https://wallstreetcn.com/articles/3771944",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "伊朗回应“提议30天内撤销石油制裁”，特朗普称“完全不可接受”，内塔尼亚胡“美以对伊朗的军事行动尚未结束”",
+          "url": "https://wallstreetcn.com/articles/3771940",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "美国总统特朗普将对中国进行国事访问",
+          "url": "https://www.cls.cn/detail/2367458",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "美国总统特朗普将于5月13日至15日访华",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33154395",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "联盟裂痕空前！特朗普打出“撤军牌”、冷落海湾盟友",
+          "url": "https://flash.jin10.com/detail/20260511100245542800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
           "title": "特朗普级战列舰能建成吗",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%88%98%E5%88%97%E8%88%B0%E8%83%BD%E5%BB%BA%E6%88%90%E5%90%97",
           "source": "bilibili 热搜",
@@ -805,12 +1049,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时45分"
+        },
+        {
+          "title": "美国总统特朗普将对中国进行国事访问",
+          "url": "https://wallstreetcn.com/livenews/3101245",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "又偷?中国孩子善举被日本认领",
@@ -820,8 +1075,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "国乒女团逆转日本队 实现7连冠",
@@ -872,6 +1127,33 @@
           "time_info": "[00时47分 ~ 06时41分]"
         },
         {
+          "title": "国乒男团3比0大胜日本",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23%E6%AF%940%E5%A4%A7%E8%83%9C%E6%97%A5%E6%9C%AC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[02时54分 ~ 10时38分]"
+        },
+        {
+          "title": "国乒男团3比0大胜日本",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23%E6%AF%940%E5%A4%A7%E8%83%9C%E6%97%A5%E6%9C%AC%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26,
+            22,
+            2,
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时45分 ~ 10时38分]"
+        },
+        {
           "title": "孙颖莎独得2分！中国女团逆转日本，世乒赛团体赛七连冠",
           "url": "https://m.thepaper.cn/newsDetail_forward_33152120",
           "source": "澎湃新闻",
@@ -883,8 +1165,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "陪看：国乒男团决战日本队",
@@ -915,11 +1197,12 @@
           "url": "https://v.ifeng.com/c/8t0z5johSNm",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "惊悚一幕!日本街头惊现丧尸",
@@ -930,33 +1213,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时45分]"
-        },
-        {
-          "title": "国乒男团3比0大胜日本",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23%E6%AF%940%E5%A4%A7%E8%83%9C%E6%97%A5%E6%9C%AC%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            22,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时45分 ~ 07时45分]"
-        },
-        {
-          "title": "国乒男团3比0大胜日本",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A23%E6%AF%940%E5%A4%A7%E8%83%9C%E6%97%A5%E6%9C%AC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时54分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "中国男团vs日本",
@@ -1019,6 +1277,41 @@
           "time_info": "[00时47分 ~ 04时43分]"
         },
         {
+          "title": "世乒赛男团决赛，中国队 3:0 战胜日本队斩获 12 连冠，怎样评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2036926263068025844",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 10时38分]"
+        },
+        {
+          "title": "国乒男团3-0横扫日本队实现12连冠",
+          "url": "https://www.toutiao.com/trending/7638396927788191295/",
+          "source": "今日头条",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 10时38分]"
+        },
+        {
+          "title": "中国男乒3-0日本 实现12连冠",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%B9%923-0%E6%97%A5%E6%9C%AC+%E5%AE%9E%E7%8E%B012%E8%BF%9E%E5%86%A0",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 10时38分]"
+        },
+        {
           "title": "陪看世乒赛中国VS日本",
           "url": "https://search.bilibili.com/all?keyword=%E9%99%AA%E7%9C%8B%E4%B8%96%E4%B9%92%E8%B5%9B%E4%B8%AD%E5%9B%BDVS%E6%97%A5%E6%9C%AC",
           "source": "bilibili 热搜",
@@ -1030,48 +1323,60 @@
           "time_info": "[00时47分 ~ 01时45分]"
         },
         {
-          "title": "国乒男团3-0横扫日本队实现12连冠",
-          "url": "https://www.toutiao.com/trending/7638396927788191295/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "中国男乒3-0日本 实现12连冠",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E4%B9%923-0%E6%97%A5%E6%9C%AC+%E5%AE%9E%E7%8E%B012%E8%BF%9E%E5%86%A0",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
-          "title": "世乒赛男团决赛，中国队 3:0 战胜日本队斩获 12 连冠，怎样评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2036926263068025844",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时45分"
-        },
-        {
           "title": "3比0战胜日本，中国队实现世乒赛男团12连冠",
           "url": "https://m.thepaper.cn/newsDetail_forward_33153395",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时45分 ~ 10时38分]"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：美国财长贝森特将访问日本，5月12日将会见日本首相高市早苗。",
+          "url": "https://wallstreetcn.com/livenews/3101297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时45分"
+          "time_info": "10时38分"
+        },
+        {
+          "title": "软银公司：计划从2027财年起在日本堺市开始生产电池单元和储能系统（ESS），目标在2028财年前后实现量产。",
+          "url": "https://wallstreetcn.com/livenews/3101290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "水谷隼称日本队必须好好研究孙颖莎",
+          "url": "https://www.toutiao.com/trending/7637859841176862783/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "七连冠！国乒女团逆转日本",
+          "url": "https://www.toutiao.com/trending/7637484035215736859/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "中国女团vs日本",
@@ -1088,7 +1393,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "世界杯中国转播费3亿腰斩到1.5亿美元",
@@ -1191,9 +1496,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "现货白银日内涨幅扩大至1%，现报81.15美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260511100427885800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         },
         {
           "title": "消息人士：人工智能芯片公司Cerebras Systems拟将IPO发行价区间上调至每股150至160美元，并计划发行3000万股股票。若按指导区间上限定价，IPO融资规模可能达到48亿美元。",
@@ -1205,12 +1521,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时41分"
+        },
+        {
+          "title": "韩元兑美元日内跌幅扩大至0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3101255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8467，创2023年3月24日以来新高，上调35点；上一交易日中间价6.8502，上一交易日官方收盘价6.8017，上日夜盘报收6.8005。",
+          "url": "https://wallstreetcn.com/livenews/3101248",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
@@ -1246,11 +1584,12 @@
             8,
             5,
             9,
-            21
+            21,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "字节再加码！全球AI资本开支持续上修 算力步入全链通胀",
@@ -1258,11 +1597,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "GAI新歌太费口红",
@@ -1277,8 +1617,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "妈妈的AI在岁月里具象",
@@ -1303,8 +1643,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 05时43分]"
+          "appearance_count": 9,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "AI正在污染我们的判断力",
@@ -1318,12 +1658,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 07时45分]"
+        },
+        {
+          "title": "给淘宝AI试穿评个夯",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%99%E6%B7%98%E5%AE%9DAI%E8%AF%95%E7%A9%BF%E8%AF%84%E4%B8%AA%E5%A4%AF%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "Jefferies：中国AI、苹果及特斯拉供应链二季度有望获正贝塔收益",
+          "url": "https://wallstreetcn.com/livenews/3101247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "历史的回归：德意志银行谈黄金、美元与货币未来",
@@ -1334,8 +1696,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "如何看待一季度中国黄金消费量303吨",
@@ -1392,9 +1754,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时45分"
+        },
+        {
+          "title": "A股贵金属板块震荡走低，赤峰黄金跌超3%，山金国际、中金黄金、山东黄金、晓程科技、四川黄金跟跌。",
+          "url": "https://flash.jin10.com/detail/20260511100535529800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
@@ -1411,11 +1784,12 @@
             5,
             4,
             3,
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "周末要闻汇总：DeepSeek据悉拟募资最高500亿元人民币；证监会查处2起财务造假案件",
@@ -1423,11 +1797,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "DeepSeek睁眼,开放识图模式",
@@ -1438,8 +1813,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时47分 ~ 07时45分]"
+          "appearance_count": 11,
+          "time_info": "[00时47分 ~ 10时38分]"
         },
         {
           "title": "Kimi与DeepSeek到底谁更值钱",
@@ -1458,7 +1833,7 @@
     },
     {
       "keyword_group": "openai chatgpt",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "当OpenAI和Anthropic下场“抢生意”，Palantir的真对手来了",
@@ -1470,6 +1845,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "OpenAI允许员工出售价值至多3000万美元的股票。去年10月，超过600名OpenAI员工出售了股票，总共获利66亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3101246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股市",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年05月11日（周一）亚太市场股市指数（盘初）",
+          "url": "https://flash.jin10.com/detail/20260511102811363800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
+        },
+        {
+          "title": "随着韩国KOSPI指数持续走强，韩国股市总市值今日首次突破7000万亿韩元大关。",
+          "url": "https://flash.jin10.com/detail/20260511100947236800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时38分"
         }
       ]
     },
