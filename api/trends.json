@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T02:02:26.168046+08:00",
-  "total_titles_processed": 417,
+  "generated_at": "2026-05-13T04:04:56.697285+08:00",
+  "total_titles_processed": 498,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 25,
+      "match_count": 35,
       "titles": [
         {
           "title": "通胀烫得发红！美国4月CPI同比3.8%创近三年新高，核心CPI涨幅扩大至2.8%",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "美国4月CPI超预期升温 通胀近3年来首次完全吞噬工资增长",
@@ -28,8 +28,55 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "世界杯将至，伊朗队仍在等待入境美国",
+          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "美国4月CPI同比升3.8% 三大期指集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2369380",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "美国街头突发无差别枪击！男子当街开火砸车",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33161027",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "美国富豪遇仙人跳,被讹12亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354172&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%E9%81%87%E4%BB%99%E4%BA%BA%E8%B7%B3%2C%E8%A2%AB%E8%AE%B912%E4%BA%BF",
+          "source": "贴吧",
+          "ranks": [
+            25,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "通胀“核弹”今晚引爆！美国CPI恐创近三年来最高？",
@@ -54,50 +101,26 @@
           "time_info": "00时02分"
         },
         {
-          "title": "世界杯将至，伊朗队仍在等待入境美国",
-          "url": "https://news.ifeng.com/c/8t4Ge0tB5EZ",
-          "source": "凤凰网",
+          "title": "“狂怒”可能变“重锤”，美国拟用改名规避战争授权时限问题",
+          "url": "https://flash.jin10.com/detail/20260513031104835800",
+          "source": "金十数据",
           "ranks": [
-            8
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
-          "title": "美国4月CPI同比升3.8% 三大期指集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2369380",
-          "source": "财联社热门",
+          "title": "美国就马里兰州基桥坍塌事件提起刑事诉讼，印度公司等被推上被告席",
+          "url": "https://wallstreetcn.com/livenews/3102480",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
-        },
-        {
-          "title": "美国街头突发无差别枪击！男子当街开火砸车",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33161027",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
-        },
-        {
-          "title": "美国富豪遇仙人跳,被讹12亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354172&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%AF%8C%E8%B1%AA%E9%81%87%E4%BB%99%E4%BA%BA%E8%B7%B3%2C%E8%A2%AB%E8%AE%B912%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "沃什的美联储预期主席提名资格在美国参议院通过程序性投票，还需全体表决才能得到确认。",
@@ -106,7 +129,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -117,7 +140,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -155,6 +178,17 @@
           "time_info": "00时02分"
         },
         {
+          "title": "据Politico：美国副总统万斯将聘请Cliff Sims担任国家安全顾问。",
+          "url": "https://flash.jin10.com/detail/20260513025310570800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
           "title": "美国纽约联储：学生贷款问题在一季度恶化。",
           "url": "https://wallstreetcn.com/livenews/3102396",
           "source": "华尔街见闻-快讯",
@@ -172,7 +206,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -183,9 +217,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "声明显示：美国联邦通信委员会无线电信局与航天局批准EchoStar向SpaceX出售约65兆赫频谱。",
+          "url": "https://flash.jin10.com/detail/20260513025035185800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "美国至5月12日1年期国债竞拍-投标倍数 3.41，前值3.21。",
@@ -205,7 +250,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -243,15 +288,59 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美国原油期货收涨约4.2%",
+          "url": "https://wallstreetcn.com/livenews/3102464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
           "title": "伊朗外交部副部长：美国的矛盾做法显然不是谈判，而是以外交辞令延续胁迫政策。",
           "url": "https://flash.jin10.com/detail/20260513011954494800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "【伊朗：与美谈判先决条件是结束战事和解除封锁霍尔木兹海峡】伊朗外交部发言人巴加埃表示，结束战事和解除对霍尔木兹海峡的封锁是同美国进行任何谈判的先决条件。巴加埃还表示，美国要求的是伊朗“彻底投降”，而不是真正的对话。他还指出，封锁霍尔木兹海峡的责任在于美国，根据国际法，海上封锁构成战争行为。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3102462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗已通知巴基斯坦，美国的海上封锁加剧了与华盛顿谈判的信任危机。",
+          "url": "https://flash.jin10.com/detail/20260513022537073800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "伊朗对美国提出的五项谈判先决条件包括战争损害赔偿。",
+          "url": "https://wallstreetcn.com/livenews/3102457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "CBOT小麦期货上涨，美国农业部（USDA）预计美国冬小麦产量将锐减25%。",
@@ -260,9 +349,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "美国4月CPI调整意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD4%E6%9C%88CPI%E8%B0%83%E6%95%B4%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "报道：美国纽约市长让步，在修订版预算计划中放弃原定的房产税上调方案",
@@ -282,169 +382,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "特朗普访华",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
         },
         {
-          "title": "马斯克库克随特朗普访华",
-          "url": "https://www.cls.cn/detail/2369414",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
-        },
-        {
-          "title": "特朗普访华有哪些重要议题",
-          "url": "https://www.toutiao.com/trending/7638916562564792363/",
-          "source": "今日头条",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
-        },
-        {
-          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
-        },
-        {
-          "title": "美国总统特朗普：非常期待中国之行",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
-          "source": "澎湃新闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
-        },
-        {
-          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
-          "url": "https://wallstreetcn.com/articles/3772005",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
-        },
-        {
-          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
-          "url": "https://news.ifeng.com/c/8t4CJqYob72",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
-        },
-        {
-          "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33162926",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
-        },
-        {
-          "title": "美国上诉法庭暂时叫停贸易法庭对总统特朗普10%关税的判决。",
-          "url": "https://wallstreetcn.com/livenews/3102441",
+          "title": "EIA上调美国汽油价格预期，预计霍尔木兹5月下旬前受阻",
+          "url": "https://wallstreetcn.com/livenews/3102452",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
-          "url": "https://www.zhihu.com/question/2037161087863353508",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "特朗普赞赏格里芬，并警告美国纽约市长不要通过征税“把人赶走”",
-          "url": "https://wallstreetcn.com/livenews/3102390",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        },
-        {
-          "title": "市场消息：美国上诉法院暂时阻止贸易法院对特朗普根据第122条征收10%关税的裁决。上诉法院正在权衡美国政府提出的更长时间暂停该关税裁决的请求。",
-          "url": "https://flash.jin10.com/detail/20260513011601571800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "特朗普政府预计：与伊朗战争相关的原油停产规模将在5月达到峰值，约为1,080万桶/日",
-          "url": "https://wallstreetcn.com/livenews/3102420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "04时04分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "一图看懂｜特朗普时隔9年再访华，回顾中美元首历次会晤",
@@ -455,8 +412,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "周二（5月12日）纽约尾盘，美元兑日元涨0.25%，报157.58日元，日内交投区间为156.78-157.76日元，北京时间13:54出现一波瞬间跳水行情、13:56刷新日低。 欧元兑日元跌0.09%，报185.03日元，13:48刷新日高至185.46日元后跳水、13:56刷新日低至184.74日元；英镑兑日元跌0.29%，报213.324日元，亚太午盘也显著跳水。",
+          "url": "https://wallstreetcn.com/livenews/3102482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "俄罗斯央行：俄罗斯出口商在四月份的外汇销售额为73亿美元。",
@@ -487,7 +455,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -503,15 +471,37 @@
           "time_info": "00时02分"
         },
         {
+          "title": "美元指数在美国CPI通胀数据发布日涨0.3%",
+          "url": "https://wallstreetcn.com/livenews/3102476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
           "title": "美国加州州长纽森：数据显示，加州仍然是美国旅游的首选州——2025年旅游经济活动创下1589亿美元的纪录。 这一显著成就证明了我们在特朗普造成的国际旅游低迷中展现出的韧性。",
           "url": "https://flash.jin10.com/detail/20260513013010433800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "周二（5月12日）纽约尾盘，ICE原糖期货涨0.47%，ICE白糖期货涨0.91%。 ICE阿拉比卡咖啡期货跌0.42%，咖啡“C”期货跌0.37%。罗布斯塔咖啡期货跌0.31%。 纽约可可期货跌2.36%，报4598美元/吨。伦敦可可期货跌1.26%。 芝加哥WCE双低油菜籽期货涨1.40%。 ICE棉花期货跌1.82%，刷新日低至86.18美分。",
+          "url": "https://wallstreetcn.com/livenews/3102474",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "美国财政部拍卖420亿美元10年期国债，得标利率4.468%（4月8日为4.282%），投标倍数2.40（前次为2.43）。",
@@ -520,9 +510,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "在岸人民币兑美元（CNY）北京时间03:00收报6.7955元，较夜盘收盘涨8点。成交量427.34亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3102470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "美国至5月11日已落实355亿美元关税退款",
@@ -531,7 +532,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -542,7 +543,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -578,6 +579,204 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "中美元首北京会晤 三个特殊时间点",
+          "url": "https://www.toutiao.com/trending/7638867764131843622/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "特朗普访华",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "马斯克库克随特朗普访华",
+          "url": "https://www.cls.cn/detail/2369414",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "特朗普访华有哪些重要议题",
+          "url": "https://www.toutiao.com/trending/7638916562564792363/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "中美关系的潜力、张力、角力｜谁在“只有特朗普”的对华政策决策圈中发挥作用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33156316",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "美国总统特朗普：非常期待中国之行",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33160584",
+          "source": "澎湃新闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "特朗普对古巴无能狂怒：几个月了，为啥他们还没政权崩溃",
+          "url": "https://news.ifeng.com/c/8t4CJqYob72",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "特朗普访华期间是否会讨论台湾和香港有关问题？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33162926",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "僵局难解：伊朗称美坚持“不合理要求”，特朗普称伊方回应愚蠢、停火协议“岌岌可危”",
+          "url": "https://wallstreetcn.com/articles/3772005",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 02时02分]"
+        },
+        {
+          "title": "美国上诉法庭暂时叫停贸易法庭对总统特朗普10%关税的判决。",
+          "url": "https://wallstreetcn.com/livenews/3102441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "美国总统特朗普时隔九年再度对中国进行国事访问，双方可能会就哪些问题进行磋商？较上次访华会有什么变化？",
+          "url": "https://www.zhihu.com/question/2037161087863353508",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "特朗普赞赏格里芬，并警告美国纽约市长不要通过征税“把人赶走”",
+          "url": "https://wallstreetcn.com/livenews/3102390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "市场消息：美国上诉法院暂时阻止贸易法院对特朗普根据第122条征收10%关税的裁决。上诉法院正在权衡美国政府提出的更长时间暂停该关税裁决的请求。",
+          "url": "https://flash.jin10.com/detail/20260513011601571800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "特朗普政府预计：与伊朗战争相关的原油停产规模将在5月达到峰值，约为1,080万桶/日",
+          "url": "https://wallstreetcn.com/livenews/3102420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国总统特朗普：要么伊拉克做正确的事，要么让我们来搞定。",
+          "url": "https://wallstreetcn.com/livenews/3102454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        },
+        {
+          "title": "美国总统特朗普：食品药品管理局（FDA）局长Makary正在离开。",
+          "url": "https://wallstreetcn.com/livenews/3102453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         }
       ]
     },
@@ -593,19 +792,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
           "url": "https://wallstreetcn.com/articles/3772081",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "论文严查AI使用率是否合理",
@@ -613,11 +813,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             17,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -625,11 +826,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            20
+            20,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
@@ -638,9 +840,21 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时04分]"
+        },
+        {
+          "title": "Ai 时代，现在还有人在坚持古法编程吗？",
+          "url": "https://www.zhihu.com/question/2031495233876251385",
+          "source": "知乎",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时04分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850527&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/TpZPvYZMP1EK1cVx4hCcI.jpg/lite\" height=\"120\"/></a>",
@@ -660,18 +874,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "Ai 时代，现在还有人在坚持古法编程吗？",
-          "url": "https://www.zhihu.com/question/2031495233876251385",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         },
@@ -682,7 +885,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
         }
@@ -690,7 +893,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "专家谈美财长访日：目的是压榨日本油水，且一定不会空手而归",
@@ -700,8 +903,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "日本实施汇率干预后，日美财长首次面对面会谈",
@@ -711,8 +914,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "中企有意收购墨西哥日产工厂，日本慌了",
@@ -722,8 +925,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        },
+        {
+          "title": "日本爆发数十年来最大规模反战抗议",
+          "url": "https://www.toutiao.com/trending/7638409176152490022/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "一包黑白薯片戳穿日本经济大国骗局",
@@ -732,9 +946,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "日本尼得科公司被曝大规模造假",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%B0%BC%E5%BE%97%E7%A7%91%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%9B%9D%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%80%A0%E5%81%87",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         },
         {
           "title": "世乒男团3:0力克日本夺冠",
@@ -761,37 +986,31 @@
       ]
     },
     {
-      "keyword_group": "谷歌",
-      "match_count": 2,
+      "keyword_group": "金价 黄金",
+      "match_count": 5,
       "titles": [
         {
-          "title": "谷歌：已与SpaceX及其他公司就未来的Suncatcher发射进行讨论。",
-          "url": "https://flash.jin10.com/detail/20260513012751322800",
+          "title": "印度政府调整黄金和白银进口关税。",
+          "url": "https://flash.jin10.com/detail/20260513032711352800",
           "source": "金十数据",
           "ranks": [
-            11
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "04时04分"
         },
         {
-          "title": "SpaceX与谷歌谈判火箭发射协议，双方可能在太空计算领域形成既合作又竞争的复杂关系",
-          "url": "https://wallstreetcn.com/livenews/3102418",
+          "title": "印度政府命令：修订黄金、白银进口关税。",
+          "url": "https://wallstreetcn.com/livenews/3102479",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 2,
-      "titles": [
+          "time_info": "04时04分"
+        },
         {
           "title": "现货黄金短线下挫逾20美元，日内跌幅扩大至2%，现报4640.33美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3102401",
@@ -813,6 +1032,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 5月12日（周二）晚盘收盘下跌0.73%报1025.9元/克；<br/>上海黄金交易所白银T+D 5月12日（周二）晚盘收盘下跌0.28%报20912.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260513023055198800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌：已与SpaceX及其他公司就未来的Suncatcher发射进行讨论。",
+          "url": "https://flash.jin10.com/detail/20260513012751322800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "SpaceX与谷歌谈判火箭发射协议，双方可能在太空计算领域形成既合作又竞争的复杂关系",
+          "url": "https://wallstreetcn.com/livenews/3102418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     },
@@ -857,8 +1115,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
         },
         {
           "title": "英伟达IC基板核心供应商再创新高 豪言未来5年营业利润翻5倍",
@@ -866,11 +1124,29 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 02时02分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 04时04分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "openai chatgpt",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI仅通过承诺向供应商采购就赚取了数十亿美元。 微软在OpenAI相关方面收入超过300亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3102458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时04分"
         }
       ]
     },
