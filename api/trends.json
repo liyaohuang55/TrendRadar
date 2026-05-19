@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-20T05:15:37.882607+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-05-20T06:44:00.210345+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 27,
+      "match_count": 32,
       "titles": [
         {
           "title": "美国67岁水手海上遇险发信号弹求救，竟引发加州今年最大山火",
@@ -15,8 +15,32 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
+        },
+        {
+          "title": "美国一男子用霰弹枪对住宅门开火",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E7%94%A8%E9%9C%B0%E5%BC%B9%E6%9E%AA%E5%AF%B9%E4%BD%8F%E5%AE%85%E9%97%A8%E5%BC%80%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            19,
+            29
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "time_info": "[05时15分 ~ 06时44分]"
+        },
+        {
+          "title": "风暴暴击前夕，美国得州州长紧急调高全州应急响应级别",
+          "url": "https://wallstreetcn.com/livenews/3106252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时44分]"
         },
         {
           "title": "美国国务院：鲁比奥将于5月22日访问瑞典，参加北约外长会议。",
@@ -41,15 +65,16 @@
           "time_info": "03时47分"
         },
         {
-          "title": "风暴暴击前夕，美国得州州长紧急调高全州应急响应级别",
-          "url": "https://wallstreetcn.com/livenews/3106252",
+          "title": "美国电网运营商PJM Interconnection LLC.针对5月20日发布最大化发电应急/负荷管理警告。",
+          "url": "https://wallstreetcn.com/livenews/3106250",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            3,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时44分]"
         },
         {
           "title": "美国国务院：鲁比奥将讨论北约联盟增加国防投资和分担负担的必要性。",
@@ -63,6 +88,30 @@
           "time_info": "01时36分"
         },
         {
+          "title": "行业周报：美国上周API原油库存骤降超900万桶",
+          "url": "https://wallstreetcn.com/livenews/3106249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时44分]"
+        },
+        {
+          "title": "美国至5月15日当周API投产原油量 -7.8万桶/日，前值18.8万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260520043554271800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时44分]"
+        },
+        {
           "title": "美国国务院：美国国务卿鲁比奥将于5月23日至26日访问印度，讨论能源安全、贸易和防务合作。",
           "url": "https://flash.jin10.com/detail/20260520010110366800",
           "source": "金十数据",
@@ -74,70 +123,75 @@
           "time_info": "01时36分"
         },
         {
-          "title": "美国电网运营商PJM Interconnection LLC.针对5月20日发布最大化发电应急/负荷管理警告。",
-          "url": "https://wallstreetcn.com/livenews/3106250",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "行业周报：美国上周API原油库存骤降超900万桶",
-          "url": "https://wallstreetcn.com/livenews/3106249",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美国至5月15日当周API投产原油量 -7.8万桶/日，前值18.8万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260520043554271800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
           "title": "美国至5月15日当周API成品油进口 28.2万桶/日，前值-31.7万桶/日。",
           "url": "https://flash.jin10.com/detail/20260520043547009800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时44分]"
         },
         {
           "title": "美国至5月15日当周API原油进口 -8.8万桶，前值33.7万桶。",
           "url": "https://flash.jin10.com/detail/20260520043537471800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时44分]"
         },
         {
           "title": "美国至5月15日当周API取暖油库存 18万桶，前值-11.6万桶。",
           "url": "https://flash.jin10.com/detail/20260520043528797800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时44分]"
+        },
+        {
+          "title": "美国至5月15日当周API库欣原油库存 -142.8万桶，前值-175.5万桶。",
+          "url": "https://flash.jin10.com/detail/20260520043518635800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时44分]"
+        },
+        {
+          "title": "美国至5月15日当周API精炼油库存 -104.7万桶，预期-125.2万桶，前值-31.9万桶。",
+          "url": "https://flash.jin10.com/detail/20260520043503788800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时44分]"
+        },
+        {
+          "title": "美国参议院推进新法案：除非获得国会批准，否则将叫停美国对伊朗的军事打击",
+          "url": "https://wallstreetcn.com/livenews/3106272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时15分"
+          "time_info": "06时44分"
         },
         {
           "title": "提醒：北京时间04:30，美国石油协会（API）将发布行业版原油库存周报，非API会员最早可在04:32前后获得数据详情。",
@@ -146,31 +200,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
         {
-          "title": "美国至5月15日当周API库欣原油库存 -142.8万桶，前值-175.5万桶。",
-          "url": "https://flash.jin10.com/detail/20260520043518635800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美国至5月15日当周API精炼油库存 -104.7万桶，预期-125.2万桶，前值-31.9万桶。",
-          "url": "https://flash.jin10.com/detail/20260520043503788800",
-          "source": "金十数据",
+          "title": "美股七巨头收盘播报｜周二（5月19日），美国科技股七巨头（Magnificent 7）指数跌1.16%，报223.24点。 “超大”市值科技股指数跌1.50%，报440.54点。",
+          "url": "https://wallstreetcn.com/livenews/3106269",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时15分"
+          "time_info": "06时44分"
         },
         {
           "title": "美国至5月15日当周API汽油库存 -579.5万桶，预期-211万桶，前值50.2万桶。",
@@ -179,7 +222,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -190,7 +233,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -204,6 +247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "春末酷热致美国最大电网承压，错峰检修期遭遇断电危机",
+          "url": "https://wallstreetcn.com/livenews/3106265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "据华尔街日报：三名美国官员称，美方在印度洋扣押了一艘与伊朗有关的油轮。",
@@ -223,7 +277,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -245,7 +299,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -261,15 +315,26 @@
           "time_info": "01时36分"
         },
         {
-          "title": "美国一男子用霰弹枪对住宅门开火",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E7%94%A8%E9%9C%B0%E5%BC%B9%E6%9E%AA%E5%AF%B9%E4%BD%8F%E5%AE%85%E9%97%A8%E5%BC%80%E7%81%AB",
-          "source": "百度热搜",
+          "title": "伊朗：美国关于伊朗学校位于巡航导弹基地内的说法毫无根据。",
+          "url": "https://wallstreetcn.com/livenews/3106260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "伊朗方面表示，美国关于其击中的伊朗学校位于巡航导弹基地内的说法毫无根据。",
+          "url": "https://flash.jin10.com/detail/20260520051106036800",
+          "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时15分"
+          "time_info": "06时44分"
         },
         {
           "title": "美国监管机构公布重塑银行评级流程的计划",
@@ -278,7 +343,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -300,7 +365,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         }
@@ -308,18 +373,19 @@
     },
     {
       "keyword_group": "谷歌",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
           "url": "https://www.cls.cn/detail/2375879",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
         },
         {
           "title": "谷歌I/O大会要点总结",
@@ -332,6 +398,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时47分 ~ 05时15分]"
+        },
+        {
+          "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://wallstreetcn.com/livenews/3106251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时44分]"
+        },
+        {
+          "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
+          "url": "https://flash.jin10.com/detail/20260520043717324800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时44分]"
         },
         {
           "title": "谷歌搜索宣布大改版 AI模式与代理助手全面嵌入",
@@ -356,28 +446,6 @@
           "time_info": "01时36分"
         },
         {
-          "title": "英伟达：与谷歌云助力下一波人工智能开发者。",
-          "url": "https://wallstreetcn.com/livenews/3106251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：与谷歌云助力下一波人工智能开发者。",
-          "url": "https://flash.jin10.com/detail/20260520043717324800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
           "title": "谷歌CEO Pichai：AI概览功能月活用户数25亿。 Gemini APP月活用户数一年翻倍，至超过9亿。 公司一个月处理3200万亿Token。 今年夏季，在美国推出“Ask YouTube”AI搜索功能。 “Docs Live”允许用户创作利用语音指令来创建Docs。",
           "url": "https://wallstreetcn.com/livenews/3106187",
           "source": "华尔街见闻-快讯",
@@ -387,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时36分"
+        },
+        {
+          "title": "周二（5月19日），美股人工智能（AI）赢家指数跌0.51%，报375.45点，北京时间01:00也曾转涨。 成分股Fluence Energy收跌8.34%，维谛技术控股跌5.03%，核电股Oklo跌4.58%，CoreWeave跌3.82%跌幅第四大，甲骨文跌2.76%，高意公司Coherent跌2.54%跌幅第十大，谷歌A跌2.34%。 Lumentum则收涨0.58%表现第九，美光科技涨2.52%，Arm控股涨3.73%，闪迪涨3.77%，迈威尔科技涨4.35%，Astera Labs涨13.40%。",
+          "url": "https://wallstreetcn.com/livenews/3106271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
@@ -439,7 +518,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -510,6 +589,17 @@
           "time_info": "03时47分"
         },
         {
+          "title": "谷歌高管坚持其“登月级”清洁能源愿景绝不动摇",
+          "url": "https://wallstreetcn.com/livenews/3106253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
           "title": "谷歌发布通用购物车Universal Intelligent Shopping Cart，今年夏季将在美国推出。 将出现在搜索与Gemini APP。",
           "url": "https://wallstreetcn.com/livenews/3106204",
           "source": "华尔街见闻-快讯",
@@ -557,18 +647,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
           "url": "https://m.thepaper.cn/newsDetail_forward_33198546",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
         },
         {
           "title": "探秘美国1美元房子长什么样",
@@ -577,11 +668,12 @@
           "ranks": [
             20,
             25,
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
         },
         {
           "title": "彭博美元指数涨超0.3%",
@@ -742,6 +834,28 @@
           "time_info": "03时47分"
         },
         {
+          "title": "周二（5月19日）纽约尾盘（周三北京时间04:59），离岸人民币（CNH）兑美元报6.8169元，较周一纽约尾盘跌176点，日内整体交投于6.7961-6.82元区间，周一、周二呈现出冲高回落走势。",
+          "url": "https://wallstreetcn.com/livenews/3106257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
+          "title": "现货白银跌超5%，一度逼近73美元",
+          "url": "https://wallstreetcn.com/livenews/3106256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
           "title": "根据行业组织Unicon的估计，高管教育项目市场未来十年规模预计将超过12亿美元。",
           "url": "https://wallstreetcn.com/livenews/3106206",
           "source": "华尔街见闻-快讯",
@@ -759,7 +873,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -789,7 +903,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 17,
       "titles": [
         {
           "title": "原定周二对伊朗攻击！特朗普应海湾三国请求推迟，内塔尼亚胡连续两晚开会备战",
@@ -799,8 +913,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
         },
         {
           "title": "为啥特朗普抛涉台“四不”说法？鲁比奥用大白话解释了",
@@ -810,8 +924,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
         },
         {
           "title": "美防长公开学特朗普讲话，现场一阵哄堂大笑",
@@ -821,8 +935,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
         },
         {
           "title": "赖清德暗怼特朗普后心虚了",
@@ -848,15 +962,37 @@
           "time_info": "[03时47分 ~ 05时15分]"
         },
         {
+          "title": "美国参议院推进迫使特朗普从伊朗撤军的法案 共和党议员倒戈",
+          "url": "https://flash.jin10.com/detail/20260520060344604800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
           "title": "科学家弃用最糟气候情景预测，引发特朗普发文嘲讽",
           "url": "https://wallstreetcn.com/livenews/3106241",
           "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "美国总统特朗普：呼吁国会山出台铁路安全法案（立法草案）。",
+          "url": "https://wallstreetcn.com/livenews/3106268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "美国总统特朗普在得克萨斯州共和党参议院初选中支持肯·帕克斯顿。",
@@ -870,15 +1006,37 @@
           "time_info": "01时36分"
         },
         {
+          "title": "白宫：美国总统特朗普今天签署关于银行业的命令。",
+          "url": "https://wallstreetcn.com/livenews/3106266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
           "title": "特朗普政府拟缩减北约危机响应部队 要求欧洲接棒安全主导权",
           "url": "https://flash.jin10.com/detail/20260520042923533800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "美国总统特朗普：强烈敦促国会将我在2023年强力支持的《铁路安全法案》纳入《地面运输再授权法案》。我要求所有共和党人本周在交通委员会将该法案作为修正案提出时投赞成票。",
+          "url": "https://flash.jin10.com/detail/20260520053745499800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "据美国财经媒体Semafor：特朗普放弃要求银行收集公民身份信息的计划。",
@@ -887,9 +1045,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
+        },
+        {
+          "title": "白宫：美国总统特朗普签署行政命令，旨在保护美国金融系统免受非法活动的影响。",
+          "url": "https://flash.jin10.com/detail/20260520053143326800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "市场消息：信函显示，美国民主党参议员华纳表示特朗普的手机制造存在误导性声明，对该公司的商业行为表示质疑。",
@@ -937,11 +1106,12 @@
           "ranks": [
             2,
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
         },
         {
           "title": "日本央行行长植田和男：将与政府密切合作应对日本国债市场情况。",
@@ -1057,7 +1227,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -1067,8 +1237,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
         },
         {
           "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
@@ -1079,8 +1249,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
         },
         {
           "title": "赢!米哈游携千亿进军AI行业",
@@ -1090,8 +1260,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
         },
         {
           "title": "莫奈钓出嘉豪哥,真迹变AI",
@@ -1101,8 +1271,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
         },
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -1112,8 +1282,31 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
+        },
+        {
+          "title": "中专生花10天手搓AI短片火遍全网",
+          "url": "https://www.toutiao.com/trending/7640988449969864731/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "time_info": "[05时15分 ~ 06时44分]"
+        },
+        {
+          "title": "报道：SpaceX计划在美国IPO后30天内收购AI编程初创公司Cursor",
+          "url": "https://wallstreetcn.com/livenews/3106274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "印度为何押注AI和芯片产业",
@@ -1126,6 +1319,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时36分 ~ 03时47分]"
+        },
+        {
+          "title": "周二（5月19日），美股AI软件先驱指数跌0.12%，报107.31点，高开高走之际、北京时间21:52刷新日高至110.81点，随后回吐涨幅，23:25以来大致持平。 成分股甲骨文收跌2.76%，铿腾电子跌2.27%，ServiceNOW、微软至少跌1.44%，新思科技跌0.91%，GitLab涨1.47%，Datadog涨3.03%，Snowflake涨3.23%。",
+          "url": "https://wallstreetcn.com/livenews/3106273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         },
         {
           "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
@@ -1145,18 +1349,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "中专生花10天手搓AI短片火遍全网",
-          "url": "https://www.toutiao.com/trending/7640988449969864731/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         }
@@ -1164,8 +1357,33 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "摩根大通：黄金牛市未结束！下调年底目标至6000美元，但白银神话正在破灭",
+          "url": "https://wallstreetcn.com/articles/3772585",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
+        },
+        {
+          "title": "黄金直线跳水原因找到了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
+        },
         {
           "title": "通胀担忧高企，美债收益率持续攀升，美股存储概念股转涨，现货黄金日内跌2%",
           "url": "https://wallstreetcn.com/articles/3772605",
@@ -1178,28 +1396,15 @@
           "time_info": "[01时36分 ~ 05时15分]"
         },
         {
-          "title": "摩根大通：黄金牛市未结束！下调年底目标至6000美元，但白银神话正在破灭",
-          "url": "https://wallstreetcn.com/articles/3772585",
+          "title": "通胀担忧高企，美债收益率飙升至多年高位，标普、纳指三连跌，黄金一度跌超2%",
+          "url": "https://wallstreetcn.com/articles/3772605",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
-        },
-        {
-          "title": "黄金直线跳水原因找到了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%9B%B4%E7%BA%BF%E8%B7%B3%E6%B0%B4%E5%8E%9F%E5%9B%A0%E6%89%BE%E5%88%B0%E4%BA%86%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "appearance_count": 2,
+          "time_info": "[06时43分 ~ 06时44分]"
         },
         {
           "title": "华尔街警告：美股“黄金时代”结束",
@@ -1214,15 +1419,27 @@
           "time_info": "[01时36分 ~ 05时15分]"
         },
         {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少2吨，当前持仓量为1036.851吨。",
+          "url": "https://flash.jin10.com/detail/20260520062059567800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
+        },
+        {
           "title": "黄金ETF收跌超1.6%，领跌美股大类资产类ETF，布油基金涨2%",
           "url": "https://wallstreetcn.com/livenews/3106248",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时15分 ~ 06时44分]"
         },
         {
           "title": "上海黄金交易所黄金T+D 5月19日（周二）晚盘收盘下跌0.97%报988.87元/克；<br/>上海黄金交易所白银T+D 5月19日（周二）晚盘收盘下跌2.51%报18258.0元/千克。",
@@ -1234,6 +1451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
+        },
+        {
+          "title": "周二（5月19日）纽约尾盘，现货黄金下跌1.83%，报4482.85美元/盎司，全天持续走低，北京时间20:59出现一波加速下跌行情，整体交投区间为4589.22-4464.95美元。 COMEX黄金期货跌1.57%，报4486.30美元/盎司，日内交投于4593.20-4467.10美元，逼近3月30日盘中低点4444.70美元、3月23日底部4128.50美元，彭博数据显示，200日均线已经上移至4415.83美元，5月7日左右，50日均线已经跌穿100日均线（目前分别报4719.72美元、4828.61美元）。",
+          "url": "https://wallstreetcn.com/livenews/3106255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时44分"
         }
       ]
     },
@@ -1242,6 +1470,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
+          "url": "https://www.cls.cn/detail/2375756",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
+        },
+        {
           "title": "DeepSeek最新回应",
           "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%9C%80%E6%96%B0%E5%9B%9E%E5%BA%94%23&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -1249,18 +1490,6 @@
             19,
             4,
             25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
-        },
-        {
-          "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
-          "url": "https://www.cls.cn/detail/2375756",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -1279,7 +1508,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         },
@@ -1325,7 +1554,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时15分"
         }
@@ -1361,8 +1590,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时36分 ~ 05时15分]"
+          "appearance_count": 5,
+          "time_info": "[01时36分 ~ 06时44分]"
         }
       ]
     }
