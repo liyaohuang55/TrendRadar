@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T05:28:04.162728+08:00",
-  "total_titles_processed": 448,
+  "generated_at": "2026-05-25T06:29:50.364922+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "美国务卿：有关霍尔木兹海峡，未来几小时可能会有好消息",
@@ -15,8 +15,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "美国政府宣布在美外国人申请绿卡须返回原籍国，此举将带来哪些影响？",
@@ -26,11 +26,12 @@
             3,
             14,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "内塔尼亚胡：以色列与美国在伊朗核问题上保持一致",
@@ -40,11 +41,12 @@
             3,
             4,
             12,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "美国官员：今天不会签订伊朗协议",
@@ -54,11 +56,12 @@
             8,
             9,
             17,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：应当将伊朗协议交由国会山审议。（CNN）",
@@ -72,6 +75,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 04时02分]"
+        },
+        {
+          "title": "白宫顾问哈塞特：结束伊朗战争或为美联储降息创造空间，美国可能会“负通胀”",
+          "url": "https://wallstreetcn.com/livenews/3108519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时02分 ~ 06时29分]"
         },
         {
           "title": "据福克斯新闻援引美国官员：德黑兰已初步同意协议框架，我们已完成95%的谈判内容，目前正就具体措辞进行磋商。",
@@ -96,6 +112,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时02分 ~ 05时28分]"
+        },
+        {
+          "title": "美国务卿：美伊协议草案获多国支持",
+          "url": "https://flash.jin10.com/detail/20260525045543891800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时29分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：美伊若达成潜在协议可能导致能源价格大幅下跌，并为美联储降息创造空间。他还指出，近期的通胀压力主要是由高能源成本推动的。",
@@ -133,6 +161,18 @@
           "time_info": "[04时02分 ~ 05时28分]"
         },
         {
+          "title": "美国国务卿鲁比奥：美国坚定支持黎巴嫩合法政府，帮助其恢复权威，建设更美好的未来。真主党的暴力威胁和推翻行为绝不允许成功。一个恐怖组织绑架整个国家的时代即将结束。",
+          "url": "https://flash.jin10.com/detail/20260525044121215800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时29分]"
+        },
+        {
           "title": "伊朗最高领袖顾问表示，如果再次遭遇攻击，伊朗将打破美国海军的封锁，并退出《不扩散核武器条约》。",
           "url": "https://flash.jin10.com/detail/20260525002112387800",
           "source": "金十数据",
@@ -144,27 +184,15 @@
           "time_info": "01时02分"
         },
         {
-          "title": "美国务卿：美伊协议草案获多国支持",
-          "url": "https://flash.jin10.com/detail/20260525045543891800",
+          "title": "美国10年期国债期货上涨12个基点，30年期国债期货上涨17个基点。",
+          "url": "https://flash.jin10.com/detail/20260525060454737800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "白宫顾问哈塞特：结束伊朗战争或为美联储降息创造空间，美国可能会“负通胀”",
-          "url": "https://wallstreetcn.com/livenews/3108519",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时02分 ~ 05时28分]"
+          "time_info": "06时29分"
         },
         {
           "title": "据大宗商品数据分析公司Kpler的预测数据，印度在5月份从美国进口的液化石油气（LPG）和液化天然气（LNG）数量预计将创下历史新高，这进一步突显了美国对印度能源安全的关键意义。（彭博）",
@@ -189,17 +217,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时36分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国坚定支持黎巴嫩合法政府，帮助其恢复权威，建设更美好的未来。真主党的暴力威胁和推翻行为绝不允许成功。一个恐怖组织绑架整个国家的时代即将结束。",
-          "url": "https://flash.jin10.com/detail/20260525044121215800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
         },
         {
           "title": "黎巴嫩真主党秘书长：美国最近的制裁将使我们更加坚定，黎巴嫩政府应该对此采取立场。",
@@ -369,8 +386,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "特朗普访华让印度有点傻眼了，鲁比奥“收拾烂摊子”",
@@ -380,8 +397,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "中东再传利好！特朗普：美伊协议基本谈成 霍尔木兹海峡将开放",
@@ -392,8 +409,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "白宫附近传出数十声枪响！特朗普当时正在白宫内，特勤局：枪手被执法人员击中，送医后身亡",
@@ -404,8 +421,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "特朗普一季度做了3711笔证券交易",
@@ -415,11 +432,42 @@
             28,
             16,
             10,
-            19
+            19,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
+        },
+        {
+          "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
+          "url": "https://wallstreetcn.com/livenews/3108525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6,
+            14,
+            19,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时29分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我与美国总统特朗普都认为，与伊朗达成的任何协议必须包含消除核威胁。 这意味着必须拆除伊朗的核浓缩设施，并将其领土内的所有已浓缩核材料全部运出。 特朗普重申，以色列拥有在所有战线（包括在黎巴嫩）捍卫自身安全、抵御威胁的合法权利。 我的政策与特朗普总统的政策一样，保持坚定不移，伊朗绝不能拥有核武器。",
+          "url": "https://wallstreetcn.com/livenews/3108523",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            8,
+            16,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "1季度做了3711笔交易！高频交易、先买后吹——这是“白宫股神”特朗普的交易策略",
@@ -433,34 +481,6 @@
           "time_info": "[01时02分 ~ 04时02分]"
         },
         {
-          "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
-          "url": "https://wallstreetcn.com/livenews/3108525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时28分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我与美国总统特朗普都认为，与伊朗达成的任何协议必须包含消除核威胁。 这意味着必须拆除伊朗的核浓缩设施，并将其领土内的所有已浓缩核材料全部运出。 特朗普重申，以色列拥有在所有战线（包括在黎巴嫩）捍卫自身安全、抵御威胁的合法权利。 我的政策与特朗普总统的政策一样，保持坚定不移，伊朗绝不能拥有核武器。",
-          "url": "https://wallstreetcn.com/livenews/3108523",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            8,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时28分]"
-        },
-        {
           "title": "特朗普告诉美方代表：不要急于达成协议",
           "url": "https://wallstreetcn.com/livenews/3108518",
           "source": "华尔街见闻-快讯",
@@ -468,11 +488,24 @@
             11,
             12,
             20,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 5,
+          "time_info": "[01时02分 ~ 06时29分]"
+        },
+        {
+          "title": "特朗普：美伊协议“尚未完全谈妥”",
+          "url": "https://wallstreetcn.com/livenews/3108545",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时29分]"
         },
         {
           "title": "据以色列第13频道：内塔尼亚胡在安全会议中表示“对美国总统特朗普的影响力有限”。",
@@ -488,14 +521,15 @@
         },
         {
           "title": "特朗普：美伊协议“尚未完全谈妥”",
-          "url": "https://wallstreetcn.com/livenews/3108545",
-          "source": "华尔街见闻-快讯",
+          "url": "https://flash.jin10.com/detail/20260525035821576800",
+          "source": "金十数据",
           "ranks": [
-            5
+            16,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时29分]"
         },
         {
           "title": "以媒：特朗普向以方保证与伊朗协议将解除其核计划",
@@ -541,17 +575,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时02分"
-        },
-        {
-          "title": "特朗普：美伊协议“尚未完全谈妥”",
-          "url": "https://flash.jin10.com/detail/20260525035821576800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时28分"
         }
       ]
     },
@@ -568,8 +591,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -578,11 +601,12 @@
           "ranks": [
             24,
             26,
-            28
+            28,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时35分 ~ 05时28分]"
+          "appearance_count": 7,
+          "time_info": "[02时35分 ~ 06时29分]"
         },
         {
           "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
@@ -591,11 +615,12 @@
           "ranks": [
             1,
             6,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时36分 ~ 05时28分]"
+          "appearance_count": 4,
+          "time_info": "[02时36分 ~ 06时29分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -634,19 +659,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
           "url": "https://www.cls.cn/detail/2379922",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
@@ -656,8 +682,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
@@ -667,14 +693,14 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
         }
       ]
     },
     {
       "keyword_group": "日本",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "朝鲜击败日本队，李在明发文祝贺",
@@ -684,8 +710,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
         },
         {
           "title": "日本被曝正大肆囤积军火",
@@ -697,23 +723,74 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时02分]"
+        },
+        {
+          "title": "日本监管机构敦促企业将现金用于增长而非股东回报",
+          "url": "https://flash.jin10.com/detail/20260525051051051800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年05月25日（周一）黄金ETF持仓报告",
+          "url": "https://flash.jin10.com/detail/20260525060643592800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "现货黄金日内涨幅达1.00%，现报4552.92美元/盎司。纽约期银日内涨幅扩大至2.00%，现报77.77美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260525060458075800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时29分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美元兑日元USD/JPY跌破159，日内跌0.25%。",
           "url": "https://flash.jin10.com/detail/20260525050625522800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时29分]"
+        },
+        {
+          "title": "布伦特原油期货日内跌幅扩大至4.4%，报每桶99美元。",
+          "url": "https://wallstreetcn.com/livenews/3108552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时28分"
+          "time_info": "06时29分"
         }
       ]
     },
@@ -729,8 +806,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时02分 ~ 05时28分]"
+          "appearance_count": 8,
+          "time_info": "[01时02分 ~ 06时29分]"
         }
       ]
     }
