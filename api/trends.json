@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T19:35:03.688136+08:00",
-  "total_titles_processed": 1126,
+  "generated_at": "2026-05-25T22:44:14.450542+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
@@ -110,7 +110,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -479,7 +479,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 27,
       "titles": [
         {
           "title": "特朗普称美伊协议基本谈成，内容包括开放霍尔木兹海峡，伊媒称将继续由伊朗“管理”，以媒称“对以非常不利”",
@@ -542,6 +542,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时02分 ~ 07时34分]"
+        },
+        {
+          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
+          "url": "https://wallstreetcn.com/articles/3773010",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时34分 ~ 22时44分]"
         },
         {
           "title": "白宫顾问哈塞特：美国总统特朗普现在考虑的是，本周是否准备本周与伊朗达成协议。 “所有炼油厂”可能在1-2个月获得所需的石油（供应）。",
@@ -613,15 +625,26 @@
           "time_info": "[05时28分 ~ 07时34分]"
         },
         {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
+          "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
+          "url": "https://v.ifeng.com/c/8tPourOxMbK",
+          "source": "凤凰网",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
+          "title": "特朗普称伊朗核谈判“进展顺利”，协议似乎即将达成。",
+          "url": "https://wallstreetcn.com/livenews/3108939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "“史诗狂怒”变“史诗尴尬”，专家质疑特朗普对伊战事成果",
@@ -743,9 +766,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
+        },
+        {
+          "title": "美国正边缘化以色列：内塔尼亚胡私下坦言无力干预特朗普决策",
+          "url": "https://flash.jin10.com/detail/20260525213109463800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "特朗普要求中东多国与以色列建交",
+          "url": "https://wallstreetcn.com/livenews/3108912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         },
         {
           "title": "特朗普：与伊朗的协议要伟大且有意义 否则不会有任何协议",
@@ -754,7 +799,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         }
@@ -762,7 +807,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "朝鲜击败日本队，李在明发文祝贺",
@@ -780,22 +825,71 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E5%81%9C%E6%AD%A2%E5%90%91%E6%97%A5%E6%9C%AC%E5%87%BA%E5%8F%A3%E9%87%8D%E7%A8%80%E5%9C%9F",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[19时34分 ~ 22时44分]"
         },
         {
           "title": "中方回应停止向日本出口重稀土",
           "url": "https://www.toutiao.com/trending/7643714981686414884/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时34分 ~ 22时44分]"
+        },
+        {
+          "title": "日本福岛核废区野猪变“超级猪”",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E5%8C%BA%E9%87%8E%E7%8C%AA%E5%8F%98%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时34分 ~ 22时44分]"
+        },
+        {
+          "title": "日本福岛核废区野猪变成“超级猪”",
+          "url": "https://www.toutiao.com/trending/7643218879619989554/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时34分 ~ 22时44分]"
+        },
+        {
+          "title": "中国暂停向日本出口部分稀土产品，外交部：依法依规，制止日本拥核企图",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33227433",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时34分 ~ 22时44分]"
+        },
+        {
+          "title": "日本野猪变异,繁殖开外挂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354577&amp;topic_name=%E6%97%A5%E6%9C%AC%E9%87%8E%E7%8C%AA%E5%8F%98%E5%BC%82%2C%E7%B9%81%E6%AE%96%E5%BC%80%E5%A4%96%E6%8C%82",
+          "source": "贴吧",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
+          "time_info": "[22时43分 ~ 22时44分]"
         },
         {
           "title": "美以伊冲突后 首艘日本油轮经霍尔木兹海峡抵日",
@@ -809,26 +903,15 @@
           "time_info": "10时52分"
         },
         {
-          "title": "日本福岛核废区野猪变“超级猪”",
-          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%BA%9F%E5%8C%BA%E9%87%8E%E7%8C%AA%E5%8F%98%E2%80%9C%E8%B6%85%E7%BA%A7%E7%8C%AA%E2%80%9D",
-          "source": "百度热搜",
+          "title": "福岛核区日本野猪变超级猪",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%B2%9B%E6%A0%B8%E5%8C%BA%E6%97%A5%E6%9C%AC%E9%87%8E%E7%8C%AA%E5%8F%98%E8%B6%85%E7%BA%A7%E7%8C%AA%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
-        },
-        {
-          "title": "日本福岛核废区野猪变成“超级猪”",
-          "url": "https://www.toutiao.com/trending/7643218879619989554/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
+          "time_info": "[22时43分 ~ 22时44分]"
         },
         {
           "title": "日本7-Eleven创始人铃木敏文逝世",
@@ -843,15 +926,15 @@
           "time_info": "[10时52分 ~ 15时10分]"
         },
         {
-          "title": "中国暂停向日本出口部分稀土产品，外交部：依法依规，制止日本拥核企图",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33227433",
-          "source": "澎湃新闻",
+          "title": "“渡边太太”重返战场！AI牛市引爆日本散户狂欢，日股日均成交额飙破10万亿日元",
+          "url": "https://wallstreetcn.com/articles/3773034",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
+          "time_info": "[22时43分 ~ 22时44分]"
         },
         {
           "title": "2026Combo Breaker《街霸 6》决赛曾卓君 3:0 击败日本选手夺冠，如何评价这场比赛？",
@@ -904,7 +987,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -926,7 +1009,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时35分"
         },
@@ -944,170 +1027,8 @@
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "中美元首会晤是否谈及日本？外交部回应",
-          "url": "https://news.ifeng.com/c/8tPnms8zvLU",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
-        },
-        {
-          "title": "美元兑日元USD/JPY跌破159，日内跌0.25%。",
-          "url": "https://flash.jin10.com/detail/20260525050625522800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时29分]"
-        },
-        {
-          "title": "布伦特原油期货日内跌幅扩大至4.4%，报每桶99美元。",
-          "url": "https://wallstreetcn.com/livenews/3108552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时29分 ~ 07时34分]"
-        },
-        {
-          "title": "现货白银站上78美元/盎司，日内涨3.41%。",
-          "url": "https://flash.jin10.com/detail/20260525070428948800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "现货白银日内涨幅达3%，现报77.71美元/盎司。",
-          "url": "https://flash.jin10.com/detail/20260525064806759800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "纽元兑美元NZD/USD日内涨幅扩大至0.50%，现报0.5878。",
-          "url": "https://flash.jin10.com/detail/20260525064641711800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "霍尔木兹断航暗藏巨大商机，瑞士贸易商冒险运油斩获6000万美元毛利！",
-          "url": "https://flash.jin10.com/detail/20260525191535267800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "美元指数DXY跌破99，日内跌0.33%。",
-          "url": "https://flash.jin10.com/detail/20260525063241130800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时34分"
-        },
-        {
-          "title": "分析师：伊朗协议进展可能引发美元仓位大幅逆转",
-          "url": "https://flash.jin10.com/detail/20260525103809610800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "据消息人士透露，印度银行业正寻求印度央行提供套期保值成本补贴，以筹集美元资金。",
-          "url": "https://flash.jin10.com/detail/20260525191025208800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        },
-        {
-          "title": "人民币兑美元中间价报6.8318，上调55点；上一交易日中间价6.8373，上一交易日官方收盘价6.7947，上日夜盘报收6.7978。",
-          "url": "https://wallstreetcn.com/livenews/3108600",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "在中美元首会晤期间，日本是否成为双方讨论的话题？中方回应",
-          "url": "https://wallstreetcn.com/livenews/3108715",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        },
-        {
-          "title": "泰铢兑美元升至32.400，为5月15日以来的最高水平。",
-          "url": "https://flash.jin10.com/detail/20260525101355777800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "美元兑瑞士法郎下跌0.45%，报0.7816，创11日来新低。",
-          "url": "https://flash.jin10.com/detail/20260525145243519800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -1161,19 +1082,32 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[19时34分 ~ 22时44分]"
         },
         {
           "title": "摩根大通中国峰会：将“大消费”作为“AI和机器人”配置的资金来源",
           "url": "https://wallstreetcn.com/articles/3773014",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
+          "appearance_count": 4,
+          "time_info": "[19时34分 ~ 22时44分]"
+        },
+        {
+          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
+          "url": "https://www.cls.cn/detail/2380739",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时34分 ~ 22时44分]"
         },
         {
           "title": "券商晨会精华：看好AI产业链与算力网建设",
@@ -1188,15 +1122,26 @@
           "time_info": "[10时52分 ~ 15时10分]"
         },
         {
-          "title": "【每日收评】科创50指数放量涨近6%，芯片产业链卷土重来，AI硬件反复活跃",
-          "url": "https://www.cls.cn/detail/2380739",
+          "title": "对话中邮资管张戬：基于账户负债属性平衡票息与波段，哑铃策略锚定“六张网”、AI及高安全三大方向",
+          "url": "https://www.cls.cn/detail/2380627",
           "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时34分 ~ 19时35分]"
+          "time_info": "[22时43分 ~ 22时44分]"
+        },
+        {
+          "title": "戛纳电影节「抵制 AI」、毕业典礼嘘声四起，海外「反 AI」浪潮反映了何种社会心态？",
+          "url": "https://www.zhihu.com/question/2040478565859381749",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -1264,12 +1209,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "九安医疗：不涉及AI业务单独收费，糖尿病照护业务收入占比低",
+          "url": "https://wallstreetcn.com/livenews/3108907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "美伊协议前景缓和通胀担忧，金价反弹超1%",
@@ -1307,6 +1263,17 @@
           "time_info": "[06时29分 ~ 07时34分]"
         },
         {
+          "title": "中东和平曙光压低油价与美元，金价走高",
+          "url": "https://flash.jin10.com/detail/20260525221031558800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
           "title": "特朗普称美伊协议基本谈成，油价跳水，美股期货、黄金齐涨、日经强势涨破65000点",
           "url": "https://wallstreetcn.com/articles/3773010",
           "source": "华尔街见闻",
@@ -1316,6 +1283,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时10分"
+        },
+        {
+          "title": "黄金高开后陷入震荡，多空谁先亮底牌？从青铜到王者，免费测你的交易阶段 ><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260525220040372800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        },
+        {
+          "title": "金价跳空高开",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时43分 ~ 22时44分]"
         },
         {
           "title": "现货黄金突破4560美元/盎司，日内涨1.17%。",
@@ -1382,6 +1371,179 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时52分"
+        },
+        {
+          "title": "黄金高开多头反抽，多头还有多少续涨空间？今晚会否延续？金十VIP正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260525212614799800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "中美元首会晤是否谈及日本？外交部回应",
+          "url": "https://news.ifeng.com/c/8tPnms8zvLU",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时34分 ~ 22时44分]"
+        },
+        {
+          "title": "美元兑日元USD/JPY跌破159，日内跌0.25%。",
+          "url": "https://flash.jin10.com/detail/20260525050625522800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时28分 ~ 06时29分]"
+        },
+        {
+          "title": "布伦特原油期货日内跌幅扩大至4.4%，报每桶99美元。",
+          "url": "https://wallstreetcn.com/livenews/3108552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时29分 ~ 07时34分]"
+        },
+        {
+          "title": "现货白银站上78美元/盎司，日内涨3.41%。",
+          "url": "https://flash.jin10.com/detail/20260525070428948800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "现货白银日内涨幅达3%，现报77.71美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260525064806759800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "纽元兑美元NZD/USD日内涨幅扩大至0.50%，现报0.5878。",
+          "url": "https://flash.jin10.com/detail/20260525064641711800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "霍尔木兹断航暗藏巨大商机，瑞士贸易商冒险运油斩获6000万美元毛利！",
+          "url": "https://flash.jin10.com/detail/20260525191535267800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "美元指数DXY跌破99，日内跌0.33%。",
+          "url": "https://flash.jin10.com/detail/20260525063241130800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时34分"
+        },
+        {
+          "title": "分析师：伊朗协议进展可能引发美元仓位大幅逆转",
+          "url": "https://flash.jin10.com/detail/20260525103809610800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "据消息人士透露，印度银行业正寻求印度央行提供套期保值成本补贴，以筹集美元资金。",
+          "url": "https://flash.jin10.com/detail/20260525191025208800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "人民币兑美元中间价报6.8318，上调55点；上一交易日中间价6.8373，上一交易日官方收盘价6.7947，上日夜盘报收6.7978。",
+          "url": "https://wallstreetcn.com/livenews/3108600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "在中美元首会晤期间，日本是否成为双方讨论的话题？中方回应",
+          "url": "https://wallstreetcn.com/livenews/3108715",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时10分"
+        },
+        {
+          "title": "泰铢兑美元升至32.400，为5月15日以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260525101355777800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时52分"
+        },
+        {
+          "title": "美元兑瑞士法郎下跌0.45%，报0.7816，创11日来新低。",
+          "url": "https://flash.jin10.com/detail/20260525145243519800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时10分"
         }
       ]
     },
@@ -1434,11 +1596,12 @@
             12,
             14,
             20,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时02分 ~ 19时35分]"
+          "appearance_count": 15,
+          "time_info": "[01时02分 ~ 22时44分]"
         },
         {
           "title": "DeepSeek宣布降价，算力租赁概念股放量大跌，多家上市公司回应",
