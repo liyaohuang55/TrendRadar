@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-29T07:51:53.087490+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-05-29T10:42:09.592876+08:00",
+  "total_titles_processed": 722,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "能源通胀加剧，美国4月PCE物价指数同比3.8%创三年新高，核心指数同比加速至3.3%",
@@ -13,11 +13,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
+        },
+        {
+          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2384590",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
         },
         {
           "title": "美国日资造纸厂爆炸事故死亡人数升至11人，部分污染物进入河流",
@@ -45,16 +58,17 @@
           "time_info": "[02时01分 ~ 07时51分]"
         },
         {
-          "title": "美国4月PCE同比升3.8% 美股期指走低 Snowflake盘前大涨38% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2384590",
-          "source": "财联社热门",
+          "title": "中国在不断的兴修水坝，而美国却拆了 1000 多座水坝，这是为什么？",
+          "url": "https://www.zhihu.com/question/1958158273766200160",
+          "source": "知乎",
           "ranks": [
-            11,
-            10
+            14,
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
+          "appearance_count": 4,
+          "time_info": "[06时31分 ~ 10时42分]"
         },
         {
           "title": "美国公司用离体「缸中之脑」测试药物，宣称其「既非生也非死」，有伦理风险吗？对药物研究有何作用？",
@@ -81,6 +95,17 @@
           "time_info": "[06时31分 ~ 07时51分]"
         },
         {
+          "title": "美国蓝色起源公司火箭当地时间28日晚在发动机点火测试中发生爆炸。（新华社）",
+          "url": "https://wallstreetcn.com/livenews/3111073",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "美国副总统万斯：美国仍可能对德黑兰的核计划造成重大挫折。",
           "url": "https://flash.jin10.com/detail/20260529060953367800",
           "source": "金十数据",
@@ -93,16 +118,15 @@
           "time_info": "[06时31分 ~ 07时51分]"
         },
         {
-          "title": "中国在不断的兴修水坝，而美国却拆了 1000 多座水坝，这是为什么？",
-          "url": "https://www.zhihu.com/question/1958158273766200160",
-          "source": "知乎",
+          "title": "美国迎来“娃娃炒股”金融实验：千万新生儿一出生就开始买ETF",
+          "url": "https://www.cls.cn/detail/2384749",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时31分 ~ 07时51分]"
+          "time_info": "[10时41分 ~ 10时42分]"
         },
         {
           "title": "美国官员表示，在伊朗布什尔附近并没有美国飞机被击落。",
@@ -135,7 +159,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -182,7 +206,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -193,7 +217,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -292,7 +316,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -336,7 +360,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -531,7 +555,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 25,
+      "match_count": 34,
       "titles": [
         {
           "title": "伦敦金失守4400美元，银行积存金限制未“松绑”",
@@ -568,13 +592,24 @@
           "time_info": "04时32分"
         },
         {
+          "title": "印尼盾兑美元下跌0.3%，至历史新低。",
+          "url": "https://wallstreetcn.com/livenews/3111071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "信达生物和辉瑞签署价值高达105亿美元的肿瘤药物开发协议",
           "url": "https://flash.jin10.com/detail/20260529071655517800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -585,9 +620,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "登顶全球最值钱AI创企！Anthropic官宣估值升至9650亿美元",
+          "url": "https://www.cls.cn/detail/2384760",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了7个对手方的11.63亿美元。",
@@ -599,6 +645,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "Anthropic官宣估值升至9650亿美元",
+          "url": "https://www.baidu.com/s?wd=Anthropic%E5%AE%98%E5%AE%A3%E4%BC%B0%E5%80%BC%E5%8D%87%E8%87%B39650%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
+        },
+        {
+          "title": "Anthropic官宣估值升至9650亿美元",
+          "url": "https://www.toutiao.com/trending/7645082951465569834/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
         },
         {
           "title": "戴尔(DELL.N)预计2027财年Q2营收440亿-450亿美元。",
@@ -643,6 +711,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时32分"
+        },
+        {
+          "title": "WTI原油跌破90美元/桶，日内跌1.17%。",
+          "url": "https://flash.jin10.com/detail/20260529100324057800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "Autodesk将按大约36亿美元现金收购Maintainx。",
@@ -700,6 +779,17 @@
           "time_info": "02时02分"
         },
         {
+          "title": "信达生物港股一度涨逾10%，创近一年来最大盘中涨幅。此前公司与辉瑞签署一项价值高达105亿美元的全球协议，用于开发抗癌药物。",
+          "url": "https://wallstreetcn.com/livenews/3111046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "美国国务院：美国政府计划承诺出资1350万美元支持肯尼亚的埃博拉防范工作。",
           "url": "https://flash.jin10.com/detail/20260529053030699800",
           "source": "金十数据",
@@ -755,6 +845,17 @@
           "time_info": "04时32分"
         },
         {
+          "title": "SpaceX据称将IPO估值目标下调到至少1.8万亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3111037",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "纽约期金日内涨1％，现报4526.58美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3110863",
           "source": "华尔街见闻-快讯",
@@ -788,6 +889,28 @@
           "time_info": "04时32分"
         },
         {
+          "title": "报道称SpaceX IPO目标估值调降至至少1.8万亿美元",
+          "url": "https://flash.jin10.com/detail/20260529094517781800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "人民币兑美元中间价创2023年2月14日以来新高",
+          "url": "https://wallstreetcn.com/livenews/3111029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
           "title": "美国投资公司协会（ICI）：货币市场基金规模增至7.785万亿美元，连续第四周增长。",
           "url": "https://flash.jin10.com/detail/20260529030623155800",
           "source": "金十数据",
@@ -813,7 +936,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "高盛重磅预测：AI下半场将从芯片转向人形机器人",
@@ -824,8 +947,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
         },
         {
           "title": "AI会带来怎样的社会变革",
@@ -834,24 +957,12 @@
           "ranks": [
             10,
             8,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
-        },
-        {
-          "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
-          "url": "https://www.cls.cn/detail/2384259",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
         },
         {
           "title": "三星罢工的众生相，捅破AI时代“不患寡而患不均”这层窗户纸",
@@ -861,8 +972,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
         },
         {
           "title": "AI改写黑袍纠察队结局",
@@ -873,6 +984,43 @@
             15,
             18,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
+        },
+        {
+          "title": "AI大行其道,古法PS吧没落",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354633&amp;topic_name=AI%E5%A4%A7%E8%A1%8C%E5%85%B6%E9%81%93%2C%E5%8F%A4%E6%B3%95PS%E5%90%A7%E6%B2%A1%E8%90%BD",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
+        },
+        {
+          "title": "小说AI直出?8u评论区吵翻",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
+          "source": "贴吧",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
+        },
+        {
+          "title": "【每日收评】创业板指探底回升涨近2%，AI硬件方向再迎爆发",
+          "url": "https://www.cls.cn/detail/2384259",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            10
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -890,28 +1038,6 @@
           "time_info": "[02时01分 ~ 07时51分]"
         },
         {
-          "title": "AI大行其道,古法PS吧没落",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354633&amp;topic_name=AI%E5%A4%A7%E8%A1%8C%E5%85%B6%E9%81%93%2C%E5%8F%A4%E6%B3%95PS%E5%90%A7%E6%B2%A1%E8%90%BD",
-          "source": "贴吧",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
-        },
-        {
-          "title": "小说AI直出?8u评论区吵翻",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354649&amp;topic_name=%E5%B0%8F%E8%AF%B4AI%E7%9B%B4%E5%87%BA%3F8u%E8%AF%84%E8%AE%BA%E5%8C%BA%E5%90%B5%E7%BF%BB",
-          "source": "贴吧",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
-        },
-        {
           "title": "野生vs养殖,AI大战鲤鱼图",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354618&amp;topic_name=%E9%87%8E%E7%94%9Fvs%E5%85%BB%E6%AE%96%2CAI%E5%A4%A7%E6%88%98%E9%B2%A4%E9%B1%BC%E5%9B%BE",
           "source": "贴吧",
@@ -921,6 +1047,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时01分 ~ 07时51分]"
+        },
+        {
+          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
+          "url": "https://www.cls.cn/detail/2384785",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 10时42分]"
         },
         {
           "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
@@ -947,6 +1085,41 @@
           "time_info": "[02时01分 ~ 06时31分]"
         },
         {
+          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
+          "url": "https://www.cls.cn/detail/2384768",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 10时42分]"
+        },
+        {
+          "title": "你们有没有跟 AI 吵过架，是因为什么事情才跟它吵起来的？是它的认知或者观点跟你的不一样吗？",
+          "url": "https://www.zhihu.com/question/2033211575792841118",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 10时42分]"
+        },
+        {
+          "title": "92岁老艺术家手搓AI写了封情书",
+          "url": "https://www.douyin.com/hot/2515594",
+          "source": "抖音",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时51分 ~ 10时42分]"
+        },
+        {
           "title": "广东90后女生用AI接了400万大单",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C90%E5%90%8E%E5%A5%B3%E7%94%9F%E7%94%A8AI%E6%8E%A5%E4%BA%86400%E4%B8%87%E5%A4%A7%E5%8D%95%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -959,26 +1132,37 @@
           "time_info": "[02时01分 ~ 04时32分]"
         },
         {
-          "title": "【早报】美股AI应用软件板块大爆发；中国首款4nm智驾芯片发布",
-          "url": "https://www.cls.cn/detail/2384785",
-          "source": "财联社热门",
+          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
+          "url": "https://wallstreetcn.com/articles/3773387",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
         },
         {
-          "title": "美股收盘：标普、纳指连涨6日续创新高 AI软硬件牛股接力暴涨",
-          "url": "https://www.cls.cn/detail/2384768",
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
+        },
+        {
+          "title": "三星出货业界首款HBM4E样品 Anthropic登顶全球最值钱AI创企 | 环球市场",
+          "url": "https://www.cls.cn/detail/2384804",
           "source": "财联社热门",
           "ranks": [
-            5
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
         },
         {
           "title": "AI算力需求增加，多家公司加速布局高端电子电路铜箔领域",
@@ -987,7 +1171,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -998,9 +1182,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "港股AI应用板块拉升，深演智能(02723.HK)涨超30%，智谱(02513.HK)涨超10%，MINIMAX-W(00100.HK)涨超6%。",
+          "url": "https://flash.jin10.com/detail/20260529095647162800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
         },
         {
           "title": "欧盟严阵以待，将与Anthropic就获取Mythos AI模型展开谈判",
@@ -1025,28 +1220,6 @@
           "time_info": "04时32分"
         },
         {
-          "title": "你们有没有跟 AI 吵过架，是因为什么事情才跟它吵起来的？是它的认知或者观点跟你的不一样吗？",
-          "url": "https://www.zhihu.com/question/2033211575792841118",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "92岁老艺术家手搓AI写了封情书",
-          "url": "https://www.douyin.com/hot/2515594",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
           "title": "教皇利奥十四世发布AI通谕，撼动硅谷权力格局",
           "url": "https://wallstreetcn.com/livenews/3110902",
           "source": "华尔街见闻-快讯",
@@ -1061,8 +1234,20 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美伊达成 60 天停火备忘录框架，霍尔木兹海峡恢复无限制通航，油价跳水，黄金转涨，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2043458312344187663",
+          "source": "知乎",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时32分 ~ 10时42分]"
+        },
         {
           "title": "黄金为什么暴涨暴跌",
           "url": "https://www.toutiao.com/trending/7644938884576448042/",
@@ -1112,16 +1297,15 @@
           "time_info": "[02时01分 ~ 04时32分]"
         },
         {
-          "title": "美伊达成 60 天停火备忘录框架，霍尔木兹海峡恢复无限制通航，油价跳水，黄金转涨，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2043458312344187663",
-          "source": "知乎",
+          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
+          "url": "https://wallstreetcn.com/articles/3773313",
+          "source": "华尔街见闻",
           "ranks": [
-            6,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[04时32分 ~ 07时51分]"
+          "time_info": "[07时51分 ~ 10时42分]"
         },
         {
           "title": "美伊停火传言搅动市场，美股收创新高，半导体指数涨1%，黄金深V反转",
@@ -1133,17 +1317,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
-        },
-        {
-          "title": "美伊停火传言搅动市场，美股三大指数收创新高，黄金深V反转，原油震荡走平",
-          "url": "https://wallstreetcn.com/articles/3773313",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
         },
         {
           "title": "美国芝商所下调黄金与白银期货合约保证金",
@@ -1158,13 +1331,24 @@
           "time_info": "[06时31分 ~ 07时51分]"
         },
         {
+          "title": "金价又跌麻了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%88%E8%B7%8C%E9%BA%BB%E4%BA%86%23&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
+        },
+        {
           "title": "黄金牛市还在吗？关键在4370美元这一“生死线”",
           "url": "https://wallstreetcn.com/articles/3773338",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -1175,7 +1359,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -1197,7 +1381,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
         },
@@ -1215,21 +1399,128 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
+      "keyword_group": "日本",
+      "match_count": 10,
       "titles": [
         {
-          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
-          "url": "https://wallstreetcn.com/articles/3773275",
-          "source": "华尔街见闻",
+          "title": "美将在日本部署中程导弹系统，这次“不走了？",
+          "url": "https://news.ifeng.com/c/8tVAfhosRsO",
+          "source": "凤凰网",
           "ranks": [
             3,
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
         },
+        {
+          "title": "礼遇拉满，日本高调示好菲律宾，野心瞄准两大要道",
+          "url": "https://news.ifeng.com/c/8tV90nBVXG6",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
+        },
+        {
+          "title": "国防部：日本“新型军国主义”大有成为东亚“祸源”之势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33254413",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
+        },
+        {
+          "title": "日本迎来坏消息",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%8E%E6%9D%A5%E5%9D%8F%E6%B6%88%E6%81%AF%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
+        },
+        {
+          "title": "日本4月失业率将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260529072000001800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        },
+        {
+          "title": "菲总统日本国会演说：双方关系已达历史顶峰",
+          "url": "https://news.ifeng.com/c/8tVh63HVoHa",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
+        },
+        {
+          "title": "为什么语文课本有其他国家的篇章但是不选取日本的文学作品呢？是因为日本的文学底蕴不深厚吗？",
+          "url": "https://www.zhihu.com/question/339280132",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时41分 ~ 10时42分]"
+        },
+        {
+          "title": "媒体：对日本祛魅的不止中国游客",
+          "url": "https://www.toutiao.com/trending/7644160361419456539/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时01分 ~ 02时02分]"
+        },
+        {
+          "title": "东京通胀意外降温至四年低位，但仍挡不住日本央行6月加息？",
+          "url": "https://flash.jin10.com/detail/20260529100157446800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        },
+        {
+          "title": "日本10年期国债收益率下行5.5个基点至2.64%。",
+          "url": "https://wallstreetcn.com/livenews/3111030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 5,
+      "titles": [
         {
           "title": "美媒称美伊达成60天谅解备忘录延长停火、需特朗普最终批准，拟规定霍尔木兹“无限制”通航",
           "url": "https://wallstreetcn.com/articles/3773378",
@@ -1237,7 +1528,31 @@
           "ranks": [
             7,
             6,
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
+        },
+        {
+          "title": "特朗普调侃赫格塞思：他热衷战争",
+          "url": "https://v.ifeng.com/c/8tSottvMqyW",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
+        },
+        {
+          "title": "特朗普称对谈判进程“不满意”、“不在意中选”，对“浓缩铀、制裁、霍尔木兹海峡”等划出红线，伊朗回应“不会退缩”",
+          "url": "https://wallstreetcn.com/articles/3773275",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -1255,17 +1570,6 @@
           "time_info": "[02时01分 ~ 07时51分]"
         },
         {
-          "title": "特朗普调侃赫格塞思：他热衷战争",
-          "url": "https://v.ifeng.com/c/8tSottvMqyW",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
-        },
-        {
           "title": "据知情人士透露，美国与伊朗达成了关于60天停火的谅解备忘录（MoU），但仍需特朗普批准。（路透）",
           "url": "https://wallstreetcn.com/livenews/3110862",
           "source": "华尔街见闻-快讯",
@@ -1275,69 +1579,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "日本",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美将在日本部署中程导弹系统，这次“不走了？",
-          "url": "https://news.ifeng.com/c/8tVAfhosRsO",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
-        },
-        {
-          "title": "礼遇拉满，日本高调示好菲律宾，野心瞄准两大要道",
-          "url": "https://news.ifeng.com/c/8tV90nBVXG6",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
-        },
-        {
-          "title": "国防部：日本“新型军国主义”大有成为东亚“祸源”之势",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33254413",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
-        },
-        {
-          "title": "日本4月失业率将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260529072000001800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        },
-        {
-          "title": "媒体：对日本祛魅的不止中国游客",
-          "url": "https://www.toutiao.com/trending/7644160361419456539/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
         }
       ]
     },
@@ -1419,11 +1660,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时01分 ~ 07时51分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 10时42分]"
         }
       ]
     },
