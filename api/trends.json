@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-06T01:11:45.146070+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-06-06T03:16:16.095582+08:00",
+  "total_titles_processed": 385,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 19,
+      "match_count": 24,
       "titles": [
         {
           "title": "炸裂！美国5月非农新增就业17.2万人，超过预期近一倍，失业率维持在4.3%",
@@ -15,30 +15,91 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
         },
         {
           "title": "美国通胀预期大幅升温！穆迪警告：美联储恐被迫加息",
           "url": "https://www.cls.cn/detail/2391910",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
         },
         {
           "title": "中方回应美国制裁古巴国家主席",
           "url": "https://news.ifeng.com/c/8tiaWzY4gsI",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "美国5月非农延续“爆表”节奏 美联储降息选项被彻底扫下台面",
+          "url": "https://www.cls.cn/detail/2392300",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "美国外卖机器人被当街暴打，该厂商曾称其要替代人工快递员，这一现象反映了哪些问题？",
+          "url": "https://www.zhihu.com/question/2045939490523276303",
+          "source": "知乎",
+          "ranks": [
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "美国如何一次性解决 36 万亿美债问题？",
+          "url": "https://www.zhihu.com/question/6607165102",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "美国疯狂全球抢铜",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%96%AF%E7%8B%82%E5%85%A8%E7%90%83%E6%8A%A2%E9%93%9C",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "俄乌释放和谈信号之际，美国众议院通过援乌法案施压俄罗斯",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33315101",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
         },
         {
           "title": "美国至6月5日当周天然气钻井总数 124口，前值125口。",
@@ -52,6 +113,41 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美国股市继续下跌，纳指一度跌穿4%。",
+          "url": "https://flash.jin10.com/detail/20260606025059524800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美国6月5日当周石油钻井数 431，前值 429。",
+          "url": "https://wallstreetcn.com/livenews/3115274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "美国6月5日当周总钻井数 563，前值 562。",
+          "url": "https://wallstreetcn.com/livenews/3115273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
           "title": "美国至6月5日当周总钻井总数 563口，前值562口。",
           "url": "https://flash.jin10.com/detail/20260606010139184800",
           "source": "金十数据",
@@ -63,15 +159,16 @@
           "time_info": "01时11分"
         },
         {
-          "title": "美国6月5日当周石油钻井数 431，前值 429。",
-          "url": "https://wallstreetcn.com/livenews/3115274",
+          "title": "美国6月5日当周天然气钻井数 124，前值 125。",
+          "url": "https://wallstreetcn.com/livenews/3115272",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4,
+            29
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 2,
+          "time_info": "[01时11分 ~ 03时16分]"
         },
         {
           "title": "美国至6月5日当周石油钻井总数 431口，前值429口。",
@@ -85,48 +182,26 @@
           "time_info": "01时11分"
         },
         {
-          "title": "美国6月5日当周总钻井数 563，前值 562。",
-          "url": "https://wallstreetcn.com/livenews/3115273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "美国6月5日当周天然气钻井数 124，前值 125。",
-          "url": "https://wallstreetcn.com/livenews/3115272",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士：美国多州考虑提起诉讼 以阻止派拉蒙对华纳兄弟的收购",
+          "url": "https://flash.jin10.com/detail/20260606024548780800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "03时16分"
         },
         {
-          "title": "美国外卖机器人被当街暴打，该厂商曾称其要替代人工快递员，这一现象反映了哪些问题？",
-          "url": "https://www.zhihu.com/question/2045939490523276303",
-          "source": "知乎",
+          "title": "美国白宫：在120天内，国防部、国家情报总监办公室（DNI）以及所有包含情报体系（IC）部门的机构负责人，将审查并更新采购流程，以确保从多个供应商引入人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260606023340196800",
+          "source": "金十数据",
           "ranks": [
-            4
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "美国5月非农延续“爆表”节奏 美联储降息选项被彻底扫下台面",
-          "url": "https://www.cls.cn/detail/2392300",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "03时16分"
         },
         {
           "title": "美国至6月5日当周石油钻井总数将于十分钟后公布。",
@@ -151,15 +226,15 @@
           "time_info": "01时11分"
         },
         {
-          "title": "美国如何一次性解决 36 万亿美债问题？",
-          "url": "https://www.zhihu.com/question/6607165102",
-          "source": "知乎",
+          "title": "美国白宫：美国将在90天内发布《自主化武器系统指令》的更新版本。",
+          "url": "https://flash.jin10.com/detail/20260606023202624800",
+          "source": "金十数据",
           "ranks": [
-            9
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "03时16分"
         },
         {
           "title": "美国两年期国债收益率涨13个基点，报4.17%。",
@@ -184,28 +259,6 @@
           "time_info": "01时11分"
         },
         {
-          "title": "美国疯狂全球抢铜",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E7%96%AF%E7%8B%82%E5%85%A8%E7%90%83%E6%8A%A2%E9%93%9C",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "俄乌释放和谈信号之际，美国众议院通过援乌法案施压俄罗斯",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33315101",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
           "title": "美国2年期国债收益率延续涨势，上涨13个基点至4.17%。",
           "url": "https://flash.jin10.com/detail/20260606003204216800",
           "source": "金十数据",
@@ -215,30 +268,53 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "美国多个州正在酝酿一份诉讼，希望借机阻挠派拉蒙天舞（Paramount SkyDance）与华纳兄弟探索公司（WBD）之间的并购交易。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3115281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "在这件事上，特朗普宣布要花7亿美元",
+          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "WTI 7月原油期货收跌2.50美元，跌幅2.69%，报90.54美元/桶。 中东Abu Dhabi Murban原油期货跌2.49%，报91.17美元/桶，本周冲高回落累涨1.24%。 NYMEX 7月天然气期货收报3.2290美元/百万英热单位。 NYMEX 7月汽油期货收报3.0459美元/加仑，NYMEX 7月取暖油期货收报3.5874美元/加仑。",
+          "url": "https://wallstreetcn.com/livenews/3115301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
         {
           "title": "美国国务院表示，已批准一项“可能的军售”，计划向意大利出售两栖突击车辆及相关装备，总价值约3060万美元。",
           "url": "https://flash.jin10.com/detail/20260606005444239800",
           "source": "金十数据",
           "ranks": [
             4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "在这件事上，特朗普宣布要花7亿美元",
-          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
-          "source": "凤凰网",
-          "ranks": [
-            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -256,6 +332,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "现货白银向下触及68美元/盎司，日内跌7.96%。",
+          "url": "https://flash.jin10.com/detail/20260606024237553800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
           "title": "LME期铜收跌412美元，报13520美元/吨。 LME期铝收跌74美元，报3592美元/吨。 LME期锌收跌58美元，报3530美元/吨。 LME期铅收跌12美元，报2005美元/吨。 LME期镍收跌108美元，报18581美元/吨。 LME期锡收跌2809美元，报52935美元/吨。 LME期钴收平，报56290美元/吨。",
           "url": "https://wallstreetcn.com/livenews/3115270",
           "source": "华尔街见闻-快讯",
@@ -265,6 +352,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        },
+        {
+          "title": "消息人士：SpaceX的IPO认购需求约为路演初期750亿美元募资规模的两倍。",
+          "url": "https://flash.jin10.com/detail/20260606023646884800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "据英国金融时报，Meta Platforms考虑股权融资，通过发行新股筹集数百亿美元。 Meta跌幅扩大还至6%。",
+          "url": "https://wallstreetcn.com/livenews/3115295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "Meta考虑对消费者AI智能体工具收费每个月200美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3115292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "比特币跌穿6万美元整数位心理关口，为2024年10月份以来首次",
@@ -366,6 +486,17 @@
           "time_info": "01时11分"
         },
         {
+          "title": "美国国务院：美国将向埃博拉疫情应对工作追加约3800万美元资金支持。",
+          "url": "https://flash.jin10.com/detail/20260606021505859800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
           "title": "彭博美元指数涨0.5%，创最近两个月最大盘中涨幅。",
           "url": "https://wallstreetcn.com/livenews/3115251",
           "source": "华尔街见闻-快讯",
@@ -386,157 +517,92 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
-          "url": "https://wallstreetcn.com/articles/3773915",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
         },
         {
-          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
-          "url": "https://wallstreetcn.com/articles/3773843",
-          "source": "华尔街见闻",
+          "title": "据The Information：Meta Platforms(META.O)正考虑推出每月200美元的消费级人工智能代理工具。",
+          "url": "https://flash.jin10.com/detail/20260606020547795800",
+          "source": "金十数据",
           "ranks": [
-            4
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "03时16分"
         },
         {
-          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
-          "url": "https://wallstreetcn.com/articles/3773946",
-          "source": "华尔街见闻",
+          "title": "周五（6月5日），美联储隔夜逆回购协议（RRP）使用规模为7.61亿美元（交易对手5家），上个交易日报11.22亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3115276",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
-          "url": "https://www.cls.cn/detail/2391959",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
-          "url": "https://wallstreetcn.com/articles/3773907",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "严防作弊!高考期间AI搜题关停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "马上评｜该对AI外呼骚扰电话出手了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
-          "url": "https://www.cls.cn/detail/2391915",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "黄金",
-          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "男子偷走百万黄金 留下半瓶可乐",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91+%E7%95%99%E4%B8%8B%E5%8D%8A%E7%93%B6%E5%8F%AF%E4%B9%90",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "母亲把黄金藏水壶被女儿当废品卖了",
-          "url": "https://www.toutiao.com/trending/7647722605785612351/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        },
-        {
-          "title": "最灿烂不一定要许多钻石黄金",
-          "url": "https://www.douyin.com/hot/2523543",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "03时16分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
+          "url": "https://www.zhihu.com/question/2045446455956091852",
+          "source": "知乎",
+          "ranks": [
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "美国特使Witkoff和特朗普女婿库什纳在田纳西州召集核专家。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3115298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美国总统特朗普的阿拉斯加石油租赁许可拍卖仅仅招揽到两个竞标人。",
+          "url": "https://wallstreetcn.com/livenews/3115296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署了关于国家安全领域人工智能建设的指令。",
+          "url": "https://flash.jin10.com/detail/20260606023014587800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
         {
           "title": "伊朗最高领袖顾问：伊美谈判因冻结资产而陷入僵局，否认最高领袖与特朗普的会晤",
           "url": "https://wallstreetcn.com/livenews/3115260",
@@ -549,15 +615,26 @@
           "time_info": "01时11分"
         },
         {
-          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
-          "url": "https://www.zhihu.com/question/2045446455956091852",
-          "source": "知乎",
+          "title": "美国总统特朗普：房利美和房地美IPO并非不可能，但也不着急。",
+          "url": "https://wallstreetcn.com/livenews/3115290",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "03时16分"
+        },
+        {
+          "title": "据Axios报道，美国总统特使威特科夫和特朗普女婿库什纳于周四前往田纳西州的国家实验室，与核专家举行会议。",
+          "url": "https://flash.jin10.com/detail/20260606022353185800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         },
         {
           "title": "美国总统特朗普：我要求情报主管Bill Pulte解雇该部门的员工。 美国最大的情报办公室“太庞大了”。（华尔街日报）",
@@ -571,15 +648,301 @@
           "time_info": "01时11分"
         },
         {
-          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
-          "source": "澎湃新闻",
+          "title": "美国总统特朗普：所有大型AI公司都将前来白宫，也许就在下周。 将讨论民众如何从AI获利。",
+          "url": "https://wallstreetcn.com/livenews/3115289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "特朗普：希望看到利率下调 但将把决策权交给沃什",
+          "url": "https://flash.jin10.com/detail/20260606022303993800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美国总统特朗普：对于汽油价格，我们有很多替代方案。 人们认为，油桶会变得更昂贵。 在美国的介入下，大量石油流出霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3115287",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "美国总统特朗普：如果情报主管Pulte裁员，我并不会介意。",
+          "url": "https://wallstreetcn.com/livenews/3115286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "特朗普：将把利率决策交由沃什负责",
+          "url": "https://wallstreetcn.com/livenews/3115282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "罕见！“AI巨头”呼吁全球暂停AI开发，警告模型正逐步具备“自我升级”能力",
+          "url": "https://wallstreetcn.com/articles/3773915",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落失守半年线，TMT产业链遭深幅回调，物理AI概念逆势活跃",
+          "url": "https://www.cls.cn/detail/2391959",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "Anthropic：高昂的计算成本是推动IPO的主因，呼吁全球暂缓前沿AI研发",
+          "url": "https://wallstreetcn.com/articles/3773907",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "非农大超预期，美债收益率全线拉升，纳指重挫3.2%，AI剧烈回调，WTI原油下跌3.3%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时15分 ~ 03时16分]"
+        },
+        {
+          "title": "严防作弊!高考期间AI搜题关停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354901&amp;topic_name=%E4%B8%A5%E9%98%B2%E4%BD%9C%E5%BC%8A%21%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4AI%E6%90%9C%E9%A2%98%E5%85%B3%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "马上评｜该对AI外呼骚扰电话出手了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33316001",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "【每日收评】创业板指放量跌超3%，多只AI硬件权重遭遇重挫，机器人概念逆势爆发",
+          "url": "https://www.cls.cn/detail/2391915",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价 黄金",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "男子偷走百万黄金 留下半瓶可乐",
+          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E5%81%B7%E8%B5%B0%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91+%E7%95%99%E4%B8%8B%E5%8D%8A%E7%93%B6%E5%8F%AF%E4%B9%90",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "母亲把黄金藏水壶被女儿当废品卖了",
+          "url": "https://www.toutiao.com/trending/7647722605785612351/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "最灿烂不一定要许多钻石黄金",
+          "url": "https://www.douyin.com/hot/2523543",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "现货黄金回吐2026年稍早涨幅，美国5月非农就业报告推高投资者对美联储加息的预期。 金价跌约3.5%，在北京时间02:33刷新日低至4319.19美元——跌穿2025年12月31日底部4319.37美元，2026年3月23日曾跌至4099.17美元。",
+          "url": "https://wallstreetcn.com/livenews/3115302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "现货黄金回吐年内涨幅",
+          "url": "https://flash.jin10.com/detail/20260606023916949800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月5日（周五）晚盘收盘下跌2.49%报947.77元/克；<br/>上海黄金交易所白银T+D 6月5日（周五）晚盘收盘下跌6.49%报16420.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260606023036211800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        },
+        {
+          "title": "美国证券交易委员会（SEC）文件显示，SpaceX已在当地时间2026年6月5日与谷歌签署云服务协议，以获取算力支持。",
+          "url": "https://flash.jin10.com/detail/20260606024743263800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "市场消息：SpaceX与谷歌(GOOG.O)达成云服务协议。合作协议涉及11万块英伟达GPU、CPU以及内存。",
+          "url": "https://flash.jin10.com/detail/20260606024718460800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "据英国金融时报：Meta Platforms(META.O)正在考虑在与谷歌(GOOG.O)达成一项重大交易后，进行大规模股权融资。Meta可能出售数百亿美元的新股，以为其人工智能基础设施融资。",
+          "url": "https://flash.jin10.com/detail/20260606021701992800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时16分"
         }
       ]
     },
@@ -634,8 +997,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
         },
         {
           "title": "日本宅男去世满屋收藏变垃圾",
@@ -645,25 +1008,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
-          "url": "https://www.zhihu.com/question/2045932866278895886",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时11分"
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
         }
       ]
     },
@@ -679,8 +1025,25 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时11分 ~ 03时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "股市",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国股市扩大跌幅，纳指跌3.6%，标普500指数跌2.16%，道指跌1%。",
+          "url": "https://flash.jin10.com/detail/20260606023022377800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时11分"
+          "time_info": "03时16分"
         }
       ]
     }
