@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T06:53:13.178417+08:00",
-  "total_titles_processed": 549,
+  "generated_at": "2026-06-05T08:02:19.346660+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 39,
+      "match_count": 41,
       "titles": [
         {
           "title": "蹭上SpaceX、登月概念 美国太空电池创企Solidion暴涨超200%",
@@ -17,8 +17,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
         },
         {
           "title": "中国机器人亮相美国达人秀",
@@ -28,11 +28,12 @@
             12,
             21,
             11,
-            16
+            16,
+            22
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
         },
         {
           "title": "巴西总统称美国不买就卖给别国",
@@ -41,11 +42,12 @@
           "ranks": [
             17,
             16,
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
         },
         {
           "title": "商务部回应美国对华实施贸易限制",
@@ -53,11 +55,12 @@
           "source": "抖音",
           "ranks": [
             18,
-            13
+            13,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 06时53分]"
+          "appearance_count": 4,
+          "time_info": "[05时11分 ~ 08时02分]"
         },
         {
           "title": "美国法官罕见公开回应关税案，警告称上诉可能冲击退税进程",
@@ -128,6 +131,30 @@
           "time_info": "03时21分"
         },
         {
+          "title": "美国小企业招聘计划降至2020年5月以来最低",
+          "url": "https://wallstreetcn.com/livenews/3114656",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 08时02分]"
+        },
+        {
+          "title": "报道：美国将允许银行把客户的移民身份纳入考量",
+          "url": "https://wallstreetcn.com/livenews/3114649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 08时02分]"
+        },
+        {
           "title": "泽连斯基承认乌问题并非美国优先事项",
           "url": "https://www.toutiao.com/trending/7646954126164787263/",
           "source": "今日头条",
@@ -157,7 +184,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -182,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "古巴国家主席回应美国制裁",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%A4%E5%B7%B4%E5%9B%BD%E5%AE%B6%E4%B8%BB%E5%B8%AD%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81",
+          "source": "百度热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "美国财长贝森特：应延长或永久化企业投资税收抵免。",
@@ -217,17 +255,6 @@
           "time_info": "00时50分"
         },
         {
-          "title": "美国小企业招聘计划降至2020年5月以来最低",
-          "url": "https://wallstreetcn.com/livenews/3114656",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
           "title": "乌克兰总统泽连斯基：乌克兰已准备好在谈判期间停火；美国可以监测停火情况。",
           "url": "https://flash.jin10.com/detail/20260605023725556800",
           "source": "金十数据",
@@ -256,7 +283,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -278,18 +305,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "报道：美国将允许银行把客户的移民身份纳入考量",
-          "url": "https://wallstreetcn.com/livenews/3114649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -347,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "美国宣布安泰雷斯微型核反应堆成功达到“临界”状态",
+          "url": "https://wallstreetcn.com/livenews/3114661",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "美国华盛顿特区智库Bipartisan Policy Center：美国恐将在2027年年中之前触及债务上限。",
@@ -451,7 +478,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 40,
       "titles": [
         {
           "title": "美众议院通过决议，限制特朗普对伊动武权力",
@@ -571,13 +598,25 @@
           "time_info": "[05时11分 ~ 06时53分]"
         },
         {
+          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
+          "url": "https://wallstreetcn.com/livenews/3114655",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 08时02分]"
+        },
+        {
           "title": "美国总统特朗普宣布将于6月24日在华盛顿特区举行庆典，庆祝美国建国250周年。",
           "url": "https://flash.jin10.com/detail/20260605055248462800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -588,7 +627,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -610,7 +649,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -626,15 +665,15 @@
           "time_info": "05时11分"
         },
         {
-          "title": "特朗普：乐见“普泽会”，俄乌会“妥协”",
-          "url": "https://wallstreetcn.com/livenews/3114655",
-          "source": "华尔街见闻-快讯",
+          "title": "泽连斯基提议与普京举行会晤 特朗普称黎以和平谈判取得一定进展 | 环球市场",
+          "url": "https://www.cls.cn/detail/2391265",
+          "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时53分"
+          "time_info": "08时02分"
         },
         {
           "title": "美国总统特朗普：我们将处理好古巴问题。",
@@ -725,13 +764,24 @@
           "time_info": "05时11分"
         },
         {
+          "title": "特朗普：愿见伊朗新最高领袖，“他在某些圈子里口碑不错”",
+          "url": "https://flash.jin10.com/detail/20260605071426390800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "据CNN：特朗普确认将于下周一在纽约出席尼克斯队的NBA总决赛比赛。",
           "url": "https://flash.jin10.com/detail/20260605045725566800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -742,7 +792,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -882,8 +932,45 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
+          "url": "https://www.cls.cn/detail/2390870",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
+        },
+        {
+          "title": "男子AI写歌月收入十几万",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            13,
+            19,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
+        },
+        {
+          "title": "AI脸泛滥成灾,建模师没活了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
+        },
         {
           "title": "网友称对 AI 脸生理性厌恶，你有同感吗？为什么会出现这种现象？",
           "url": "https://www.zhihu.com/question/2045546609027408734",
@@ -898,52 +985,31 @@
           "time_info": "[00时50分 ~ 06时53分]"
         },
         {
-          "title": "【焦点复盘】科创50冲高回落涨0.69%，AI硬件端强者恒强，大消费板块遭重挫",
-          "url": "https://www.cls.cn/detail/2390870",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
-        },
-        {
-          "title": "男子AI写歌月收入十几万",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90AI%E5%86%99%E6%AD%8C%E6%9C%88%E6%94%B6%E5%85%A5%E5%8D%81%E5%87%A0%E4%B8%87%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
-        },
-        {
-          "title": "AI脸泛滥成灾,建模师没活了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354826&amp;topic_name=AI%E8%84%B8%E6%B3%9B%E6%BB%A5%E6%88%90%E7%81%BE%2C%E5%BB%BA%E6%A8%A1%E5%B8%88%E6%B2%A1%E6%B4%BB%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
-        },
-        {
           "title": "好怕现实中也有人长AI这样",
           "url": "https://s.weibo.com/weibo?q=%E5%A5%BD%E6%80%95%E7%8E%B0%E5%AE%9E%E4%B8%AD%E4%B9%9F%E6%9C%89%E4%BA%BA%E9%95%BFAI%E8%BF%99%E6%A0%B7&t=31&band_rank=14&Refer=top",
           "source": "微博",
           "ranks": [
             14,
             11,
-            15
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时21分 ~ 08时02分]"
+        },
+        {
+          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
+          "url": "https://wallstreetcn.com/articles/3773858",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7,
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[03时21分 ~ 06时53分]"
+          "time_info": "[05时11分 ~ 08时02分]"
         },
         {
           "title": "AI 动画公司能否在一年内替代大部分传统动画公司？",
@@ -984,18 +1050,6 @@
           "time_info": "[00时50分 ~ 05时11分]"
         },
         {
-          "title": "博通AI指引“不够炸裂”引发抛售，华尔街却喊错杀：真正爆发点在2028年",
-          "url": "https://wallstreetcn.com/articles/3773858",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时11分 ~ 06时53分]"
-        },
-        {
           "title": "AI交易降温，纳指收跌，道指创历史新高，博通大跌超12%，金银反弹",
           "url": "https://wallstreetcn.com/articles/3773843",
           "source": "华尔街见闻",
@@ -1011,11 +1065,23 @@
           "url": "https://wallstreetcn.com/livenews/3114667",
           "source": "华尔街见闻-快讯",
           "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 08时02分]"
+        },
+        {
+          "title": "AI交易降温，纳指走V仍收跌，道指创新高，博通大跌超12%，原油下挫，金银反弹",
+          "url": "https://wallstreetcn.com/articles/3773843",
+          "source": "华尔街见闻",
+          "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时53分"
+          "time_info": "08时02分"
         },
         {
           "title": "Anthropic呼吁全球暂缓前沿AI研发",
@@ -1030,6 +1096,17 @@
           "time_info": "[05时11分 ~ 06时53分]"
         },
         {
+          "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
+          "url": "https://www.cls.cn/detail/2391272",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "桥水达利欧：随着财富转化为现金，AI泡沫终将破裂",
           "url": "https://wallstreetcn.com/articles/3773802",
           "source": "华尔街见闻",
@@ -1039,6 +1116,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时50分 ~ 03时21分]"
+        },
+        {
+          "title": "猎鹰崛起AI先导片",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 08时02分]"
         },
         {
           "title": "高盛CEO：AI或将遏制银行工程师队伍的剧烈扩张",
@@ -1058,7 +1147,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -1072,6 +1161,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "华尔街预计：SpaceX旗下AI业务收入到2030年将飙升100倍",
+          "url": "https://wallstreetcn.com/livenews/3114666",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：随着时间的推移，AI可以压低通胀。 还没有看到AI大规模提升生产力。",
@@ -1116,23 +1216,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
-        },
-        {
-          "title": "猎鹰崛起AI先导片",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%8E%E9%B9%B0%E5%B4%9B%E8%B5%B7AI%E5%85%88%E5%AF%BC%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "史上最大IPO！SpaceX发行价135美元，6月12日上市，估值1.77万亿美元",
@@ -1140,11 +1229,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
         },
         {
           "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
@@ -1164,7 +1254,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -1190,6 +1280,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时11分 ~ 06时53分]"
+        },
+        {
+          "title": "日本5月外汇储备 13059亿美元，前值13830亿美元。",
+          "url": "https://flash.jin10.com/detail/20260605075002662800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "报道：数据中心零部件生产商Xnrgy考虑按100亿美元出售",
@@ -1220,7 +1321,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -1269,6 +1370,17 @@
           "time_info": "05时11分"
         },
         {
+          "title": "韩国4月未季调经常帐 282.9亿美元，前值373.271亿美元。",
+          "url": "https://flash.jin10.com/detail/20260605070002259800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "Quantinuum Inc.（QNT）美国IPO首日开盘报68美元，此前给出的IPO发行价为每股60美元。 这家获得霍尼韦尔（投资）支持的量子计算公司通过IPO募资16.8亿美元。",
           "url": "https://wallstreetcn.com/livenews/3114568",
           "source": "华尔街见闻-快讯",
@@ -1297,7 +1409,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
@@ -1322,6 +1434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "Ciena第二财季营收15.7亿美元，同比增长40%。 第二财季调整后每股收益（EPS）为1.64美元，同比增长290%。 上调全年营收预期至63亿美元+/-1亿美元，同比增幅指引区间的中位数为32%。 预计第三财季营收为16.25亿美元+/-0.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3114676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "周四（6月4日），美联储隔夜逆回购协议（RRP）使用规模为11.22亿美元（交易对手18家），上个交易日报20.62亿美元。",
@@ -1349,7 +1472,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
         {
           "title": "两日本人在吉林处理日军遗弃武器受伤",
@@ -1357,11 +1480,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
         },
         {
           "title": "两名日本人在吉林处理遗弃化学武器，手臂染毒",
@@ -1372,8 +1496,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
         },
         {
           "title": "日本扬言以综合国力应对中国军力",
@@ -1383,11 +1507,12 @@
             30,
             25,
             23,
-            20
+            20,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
         },
         {
           "title": "日本黑白包装零食已上线",
@@ -1397,8 +1522,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
         },
         {
           "title": "中方回应2名日本人处理日遗化武受伤",
@@ -1406,11 +1531,100 @@
           "source": "微博",
           "ranks": [
             30,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时21分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[03时21分 ~ 08时02分]"
+        },
+        {
+          "title": "日本4月所有家庭支出同比 -0.5%，预期 -1.5%，前值 -2.9%。",
+          "url": "https://wallstreetcn.com/livenews/3114683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "日本4月劳工现金收入同比 3.5%，预期 3.1%，前值 2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3114682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：始终准备在外汇市场上根据需要做出适当回应。",
+          "url": "https://flash.jin10.com/detail/20260605074452493800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：不会对外汇水平发表评论。",
+          "url": "https://flash.jin10.com/detail/20260605074431725800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "日本4月所有家庭支出月率 1.6%，预期0.8%，前值-1.3%。",
+          "url": "https://flash.jin10.com/detail/20260605073009618800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "日本4月所有家庭支出年率 -0.5%，预期-1.5%，前值-2.90%。",
+          "url": "https://flash.jin10.com/detail/20260605073003324800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "日本4月劳动现金收入年率 3.5%，预期3.1%，前值由2.70%修正为3.10%。",
+          "url": "https://flash.jin10.com/detail/20260605073002915800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "日本4月加班工资年率 4.2%，前值1.9%。",
+          "url": "https://flash.jin10.com/detail/20260605073002894800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "周四（6月4日），彭博电动汽车价格回报指数跌2.40%，报3937.65点，亚太早盘显著下挫，北京时间10:00以来平缓地持续下挫。 成分股中，文远知行、小马智行跌超8%，中创新航科技集团H股收跌6.09%跌幅第三大，在上涨的五只成分股里，浙江零跑科技H股收涨0.15%，日本电产株式会社东京股价收涨0.17%。",
@@ -1437,73 +1651,8 @@
       ]
     },
     {
-      "keyword_group": "金价 黄金",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "最灿烂不一定要许多钻石黄金",
-          "url": "https://www.douyin.com/hot/2523543",
-          "source": "抖音",
-          "ranks": [
-            29,
-            25,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
-        },
-        {
-          "title": "现货黄金涨0.9%，白银涨1.6%",
-          "url": "https://wallstreetcn.com/livenews/3114638",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 06时53分]"
-        },
-        {
-          "title": "女子7万购黄金镶钻手镯5天掉了5颗钻",
-          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%907%E4%B8%87%E8%B4%AD%E9%BB%84%E9%87%91%E9%95%B6%E9%92%BB%E6%89%8B%E9%95%AF5%E5%A4%A9%E6%8E%89%E4%BA%865%E9%A2%97%E9%92%BB",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时50分 ~ 03时21分]"
-        },
-        {
-          "title": "1.6T光模块量产 测试设备迎黄金时代",
-          "url": "https://www.toutiao.com/trending/7647497038082346523/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时50分"
-        },
-        {
-          "title": "上海黄金交易所黄金T+D 6月4日（周四）晚盘收盘上涨0.22%报976.65元/克；<br/>上海黄金交易所白银T+D 6月4日（周四）晚盘收盘上涨1.08%报17933.0元/千克。",
-          "url": "https://flash.jin10.com/detail/20260605023208957800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
@@ -1511,11 +1660,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
         },
         {
           "title": "纳斯达克100指数跌幅收窄至0.5%，成分股博通目前仍然跌14.5%，美光科技跌6.1%，Lumentum跌2.3%，特斯拉跌1.1%，谷歌A则涨3.5%，迈威尔科技/美满科技、Doordash涨3.9%。",
@@ -1527,6 +1677,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "据Business Insider：谷歌(GOOG.O)正悄然裁减其云部门员工。",
+          "url": "https://flash.jin10.com/detail/20260605064523592800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "谷歌公司：与Intersect在美国得州建设Meitner Energy Center。 其中，一个新数据中心的电力供应将来自Gray County和Roberts County。",
@@ -1553,8 +1714,73 @@
       ]
     },
     {
+      "keyword_group": "金价 黄金",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "最灿烂不一定要许多钻石黄金",
+          "url": "https://www.douyin.com/hot/2523543",
+          "source": "抖音",
+          "ranks": [
+            29,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
+        },
+        {
+          "title": "女子7万购黄金镶钻手镯5天掉了5颗钻",
+          "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%907%E4%B8%87%E8%B4%AD%E9%BB%84%E9%87%91%E9%95%B6%E9%92%BB%E6%89%8B%E9%95%AF5%E5%A4%A9%E6%8E%89%E4%BA%865%E9%A2%97%E9%92%BB",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时50分 ~ 08时02分]"
+        },
+        {
+          "title": "现货黄金涨0.9%，白银涨1.6%",
+          "url": "https://wallstreetcn.com/livenews/3114638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时53分]"
+        },
+        {
+          "title": "1.6T光模块量产 测试设备迎黄金时代",
+          "url": "https://www.toutiao.com/trending/7647497038082346523/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时50分"
+        },
+        {
+          "title": "上海黄金交易所黄金T+D 6月4日（周四）晚盘收盘上涨0.22%报976.65元/克；<br/>上海黄金交易所白银T+D 6月4日（周四）晚盘收盘上涨1.08%报17933.0元/千克。",
+          "url": "https://flash.jin10.com/detail/20260605023208957800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "openai chatgpt",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI：改善ChatGPT中的记忆合成，以优化新鲜度、连续性和相关性。",
@@ -1577,6 +1803,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时50分"
+        },
+        {
+          "title": "OpenAI的CEO Altman与美国总统特朗普谈论政府持股事宜。 美国官员就政府收购AI巨头们的股份开会。 佛蒙特州（vermont）独立议员即将给出的立法草案还建议，对OpenAI、Anthropic、马斯克旗下xAI、以及其他AI公司的股票征税50%。（Notus）",
+          "url": "https://wallstreetcn.com/livenews/3114670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         }
       ]
     },
@@ -1593,8 +1830,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
         },
         {
           "title": "并行科技：拟不超8163.35万元采购算力服务器及内存",
@@ -1610,25 +1847,8 @@
       ]
     },
     {
-      "keyword_group": "temu",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待拼多多旗下跨境电商 Temu 因违反欧盟关于销售非法产品的规定，被罚款 2 亿欧元？",
-          "url": "https://www.zhihu.com/question/2043475993025826848",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时50分 ~ 06时53分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "显卡 英伟达",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达又“带飞”一股：纳微半导体收涨19%，押注800V AI电源革命",
@@ -1641,6 +1861,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时50分 ~ 05时11分]"
+        },
+        {
+          "title": "英伟达、 AMD 、 Intel 三家显卡如何选择？",
+          "url": "https://www.zhihu.com/question/2034592188504478009",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "temu",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待拼多多旗下跨境电商 Temu 因违反欧盟关于销售非法产品的规定，被罚款 2 亿欧元？",
+          "url": "https://www.zhihu.com/question/2043475993025826848",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时50分 ~ 08时02分]"
         }
       ]
     },
