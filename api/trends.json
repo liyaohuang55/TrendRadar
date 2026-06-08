@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T09:40:28.218036+08:00",
-  "total_titles_processed": 793,
+  "generated_at": "2026-06-08T14:39:20.108316+08:00",
+  "total_titles_processed": 1016,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "学者：特朗普外交抑制了两极化阵营化",
@@ -28,8 +28,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 09时40分]"
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 14时39分]"
         },
         {
           "title": "据英国每日电讯报：美国总统特朗普考虑收购Chagos Islands。 美国官员们已经制定方案，并附加诸多选项。 美国正与英国讨论迪戈加西亚岛（Diego Garcia）的未来。",
@@ -43,6 +43,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时47分 ~ 04时45分]"
+        },
+        {
+          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
+          "url": "https://wallstreetcn.com/articles/3774049",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 14时39分]"
         },
         {
           "title": "特朗普称解冻伊朗资产或解除制裁不是协议先决条件",
@@ -242,15 +254,15 @@
           "time_info": "04时45分"
         },
         {
-          "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
-          "url": "https://wallstreetcn.com/articles/3774049",
+          "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
+          "url": "https://wallstreetcn.com/articles/3774055",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时40分"
+          "time_info": "14时39分"
         },
         {
           "title": "据AXIOS：特朗普表示他马上要给内塔尼亚胡打电话，告诉他不要进行反击。",
@@ -350,6 +362,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "美国总统特朗普：空袭不会有助于谈判成功。",
@@ -498,18 +521,19 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国被曝将来自以色列的间谍威胁升至最高级别",
           "url": "https://news.ifeng.com/c/8tlMXIdenux",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 09时40分]"
+          "appearance_count": 11,
+          "time_info": "[00时11分 ~ 14时39分]"
         },
         {
           "title": "美国拟动用伊朗被冻结资产赔偿海湾国家损失 或成停火谈判“新刺激”",
@@ -584,6 +608,18 @@
           "time_info": "[06时01分 ~ 07时12分]"
         },
         {
+          "title": "美以围绕伊朗战争分歧加剧之际，美国被曝将以色列间谍威胁升至最高级别",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329321",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 14时39分]"
+        },
+        {
           "title": "伊朗首席谈判代表/议长卡利巴夫：针对伊朗的海上封锁，以及美国今天对以色列大开绿灯的行为，已使美国和该政权（以色列）在区域内的基地与资产成为合法打击目标。正如以往一样，我们武装部队的手已经松开（已准备好随时出手）。 他们既不致力于停火，也不相信对话，而是通过海上封锁以及违反涉及黎巴嫩的相关协议，表明了他们唯一能听懂的只有实力的语言（强权语言）。",
           "url": "https://wallstreetcn.com/livenews/3115587",
           "source": "华尔街见闻-快讯",
@@ -630,24 +666,24 @@
           "time_info": "06时01分"
         },
         {
+          "title": "美银Hartnett：迎接“6月风暴”，美国CPI将“刺破泡沫”",
+          "url": "https://wallstreetcn.com/articles/3774051",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "韩国总统李在明：韩国将探讨与美国的双边核协议修订事宜。",
           "url": "https://flash.jin10.com/detail/20260608091301814800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "美以围绕伊朗战争分歧加剧之际，美国被曝将以色列间谍威胁升至最高级别",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329321",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -658,7 +694,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -680,9 +716,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "Gemini 美国大豆包",
+          "url": "https://s.weibo.com/weibo?q=Gemini%20%E7%BE%8E%E5%9B%BD%E5%A4%A7%E8%B1%86%E5%8C%85&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "市场消息：美国驻耶路撒冷大使馆已指示所有美国政府员工及其家属就地避难。",
@@ -694,6 +741,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "美国准备处决4名军方死囚",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%87%86%E5%A4%87%E5%A4%84%E5%86%B34%E5%90%8D%E5%86%9B%E6%96%B9%E6%AD%BB%E5%9B%9A",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "伊朗副外长加里巴巴迪就美国将伊朗资产用于支付对地区盟友战争赔偿的报道表示：地区国家政府没有资格要求赔偿。",
@@ -731,8 +789,158 @@
       ]
     },
     {
+      "keyword_group": "显卡 英伟达",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "节操换显卡,装机佬变汪汪队",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354921&amp;topic_name=%E8%8A%82%E6%93%8D%E6%8D%A2%E6%98%BE%E5%8D%A1%2C%E8%A3%85%E6%9C%BA%E4%BD%AC%E5%8F%98%E6%B1%AA%E6%B1%AA%E9%98%9F",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 09时40分]"
+        },
+        {
+          "title": "英伟达与海力士官宣多年合作计划，锁定先进存储供应，黄仁勋称“协议期限将超两年且有能力持续续约”",
+          "url": "https://wallstreetcn.com/articles/3774048",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 14时39分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：很高兴在韩国南部新万金（Saemangeum）建设英伟达产业。",
+          "url": "https://flash.jin10.com/detail/20260608141733355800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达与现代汽车讨论如何将人工智能融入未来制造系统。",
+          "url": "https://flash.jin10.com/detail/20260608141644704800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：将与现代在各类出行领域合作。",
+          "url": "https://flash.jin10.com/detail/20260608141630165800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "现代汽车集团执行主席：向英伟达CEO黄仁勋简要介绍了韩国的人工智能和机器人项目。",
+          "url": "https://flash.jin10.com/detail/20260608141615489800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "英伟达黄仁勋：英伟达与现代汽车扩大合作，涵盖自动驾驶汽车、机器人出租车和自主出行领域。 将与现代汽车在所有出行方式领域开展合作。 机器人产业化已非常接近，计划加速推进。 英伟达与现代汽车探讨如何将AI融入未来制造系统。",
+          "url": "https://wallstreetcn.com/livenews/3115907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "英伟达与SK海力士多年期技术合作 黄仁勋称存储短缺未见结束迹象",
+          "url": "https://www.cls.cn/detail/2393080",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：机器人产业化的时刻已经非常接近。",
+          "url": "https://flash.jin10.com/detail/20260608141548456800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "事关物理AI、机器人及AI工厂！英伟达与韩国斗山扩大合作",
+          "url": "https://www.cls.cn/detail/2393263",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：英伟达与现代汽车扩大在自动驾驶汽车、机器人出租车和自主出行领域的合作。",
+          "url": "https://flash.jin10.com/detail/20260608141017444800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "英伟达CEO访韩深化合作 与SK海力士、三星电子等科技公司高层会面",
+          "url": "https://flash.jin10.com/detail/20260607222604947800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        },
+        {
+          "title": "报道：英伟达与SK将宣布合作计划，黄仁勋称芯片短缺将持续数年",
+          "url": "https://wallstreetcn.com/livenews/3115546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗要求解冻240亿美元资产后，美国拟将伊朗资产用于海湾国家重建",
@@ -789,7 +997,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -844,7 +1052,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -855,15 +1063,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "韩元兑美元涨幅扩大至1.3%，创一个月来最大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3115875",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI冲击亚洲外包产业：印度菲律宾数百万岗位面临转型阵痛",
@@ -902,6 +1121,19 @@
           "time_info": "[00时11分 ~ 06时01分]"
         },
         {
+          "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
+          "url": "https://www.zhihu.com/question/1969653840065332479",
+          "source": "知乎",
+          "ranks": [
+            13,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时12分 ~ 14时39分]"
+        },
+        {
           "title": "AI如何写全国I卷高考作文",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A6%82%E4%BD%95%E5%86%99%E5%85%A8%E5%9B%BDI%E5%8D%B7%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87",
           "source": "bilibili 热搜",
@@ -914,16 +1146,26 @@
           "time_info": "[00时11分 ~ 04时45分]"
         },
         {
-          "title": "与 AI 进行对话时，礼貌性地说「请、麻烦、谢谢…」对交流有好处吗？",
-          "url": "https://www.zhihu.com/question/1969653840065332479",
-          "source": "知乎",
+          "title": "2025游戏安全白皮书：国内游戏黑产规模已超100亿人民币，AI成安全攻防核心变量",
+          "url": "https://wallstreetcn.com/livenews/3115913",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            4
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 09时40分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "AI云计算公司Nebius将在英国投资17亿英镑建设AI基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3115906",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "韩国总统李在明：我们将成为第一个在所有产业中全面整合AI的国家。 企业增长的红利必须延伸至小微企业以及每一个地区。 很快将公布一项大规模投资项目。 将决定如何最有效地利用芯片产业所产生的盈余税收。 将寻求修改《韩美核能合作协定》。 将培养芯片以外的下一代增长引擎。 将严厉打击操纵股价以及与房地产相关的犯罪行为。",
@@ -932,7 +1174,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -973,7 +1215,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "中国央行加速增持黄金！连续19个月增持，5月环比增加32万盎司",
@@ -985,6 +1227,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时11分 ~ 09时40分]"
+        },
+        {
+          "title": "韩股“过山车”！黄仁勋救场反弹后再跌超7%，油价飙升5%、黄金跌破4300",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "金十图示：2026年06月08日（周一）黄金ETF持仓报告",
@@ -1009,6 +1262,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
+          "url": "https://www.zhihu.com/question/2046542725336584487",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "现货黄金短线下挫20美元，最低至4311美元/盎司。",
           "url": "https://flash.jin10.com/detail/20260608060310057800",
           "source": "金十数据",
@@ -1020,15 +1284,37 @@
           "time_info": "07时12分"
         },
         {
+          "title": "金价跌回2025年，有金店每克跌近400元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329823",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 6月8日（周一）早盘盘初下跌2.36%报949.06元/克；<br/>上海黄金交易所白银T+D 6月8日（周一）早盘盘初下跌6.3%报16454.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260608090138759800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "金价跌回2025年，有金店每克跌近400元",
@@ -1045,7 +1331,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "日本10年期国债收益率上行4.5个基点至2.710%。",
@@ -1054,9 +1340,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "「石脑油危机」或致香蕉从日本人餐桌上消失，如何看待这场「蝴蝶效应」？暴露了日本供应链的什么问题？",
+          "url": "https://www.zhihu.com/question/2046989382947529171",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "日本市中心道路上车辆被火山灰覆盖",
@@ -1065,9 +1362,42 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "日本4月旅游收支顺差同比下降25.2%",
+          "url": "https://wallstreetcn.com/livenews/3115905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "日本樱岛火山喷发，大量火山灰飘到市中心",
+          "url": "https://v.ifeng.com/c/8tm0Z8tlaBV",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        },
+        {
+          "title": "日本4月旅游收支顺差同比下降25.2%",
+          "url": "https://flash.jin10.com/detail/20260608140729089800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "日本气象厅发布海啸预警",
@@ -1076,9 +1406,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：长期利率受多种因素影响，政府正在寻求进行适当的债务管理。",
+          "url": "https://flash.jin10.com/detail/20260608140252606800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         },
         {
           "title": "菲律宾强震 日本等多国发布海啸预警",
@@ -1087,7 +1428,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         },
@@ -1101,56 +1442,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "显卡 英伟达",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "节操换显卡,装机佬变汪汪队",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354921&amp;topic_name=%E8%8A%82%E6%93%8D%E6%8D%A2%E6%98%BE%E5%8D%A1%2C%E8%A3%85%E6%9C%BA%E4%BD%AC%E5%8F%98%E6%B1%AA%E6%B1%AA%E9%98%9F",
-          "source": "贴吧",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时11分 ~ 09时40分]"
-        },
-        {
-          "title": "英伟达与海力士官宣多年合作计划，锁定先进存储供应，黄仁勋称“协议期限将超两年且有能力持续续约”",
-          "url": "https://wallstreetcn.com/articles/3774048",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
-        },
-        {
-          "title": "英伟达CEO访韩深化合作 与SK海力士、三星电子等科技公司高层会面",
-          "url": "https://flash.jin10.com/detail/20260607222604947800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
-        },
-        {
-          "title": "报道：英伟达与SK将宣布合作计划，黄仁勋称芯片短缺将持续数年",
-          "url": "https://wallstreetcn.com/livenews/3115546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时11分"
         }
       ]
     },
@@ -1191,7 +1482,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
         }
@@ -1219,11 +1510,12 @@
           "url": "https://www.zhihu.com/question/2046537171251869369",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时40分 ~ 14时39分]"
         },
         {
           "title": "英伟达CEO黄仁勋：我们明天可能会发布一些公告。 明天将与三星副会长会面。 内存短缺问题将持续数年。",
@@ -1239,6 +1531,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
+          "url": "https://www.cls.cn/detail/2392919",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌",
       "match_count": 1,
       "titles": [
@@ -1248,11 +1557,29 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时11分 ~ 07时12分]"
+          "appearance_count": 10,
+          "time_info": "[00时11分 ~ 14时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "大模型",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "9款国内外主流AI大模型当“考生”写上海卷作文",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33329131",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时39分"
         }
       ]
     },
