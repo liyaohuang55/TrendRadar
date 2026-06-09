@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T00:30:59.429411+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-10T02:31:57.804169+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
         {
           "title": "央视披露：美国曾关闭GPS信号让中国船只失去方向，被迫接受美方登船检查，此后中国开启北斗系统自研之路",
@@ -15,52 +15,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
-        },
-        {
-          "title": "美国能源信息署（EIA）：现预计2026年全球石油需求将出现下滑，这与此前预测的微幅增长形成反转。",
-          "url": "https://flash.jin10.com/detail/20260610002234047800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "美国5月成屋销售超预期跑出年内最快增速，住宅建筑商股集体飙升",
-          "url": "https://wallstreetcn.com/livenews/3116950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "纽约联储调查：美国求职者前景预期恶化，通胀预期小幅回落，家庭财务前景创4年最差",
           "url": "https://wallstreetcn.com/articles/3774144",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
-        },
-        {
-          "title": "美国能源信息署（EIA）：现预计经合组织石油库存将降至2003年以来的最低水平。",
-          "url": "https://flash.jin10.com/detail/20260610002117699800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "释疑｜史上最贵世界杯？想去美国看场球，到底要花多少钱？",
@@ -70,30 +38,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
-        },
-        {
-          "title": "美国能源信息署（EIA）：霍尔木兹海峡的干扰迫使中东生产商在5月将产量较战前水平削减了超过1100万桶/日。",
-          "url": "https://flash.jin10.com/detail/20260610002102449800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "被美国国防部盯上 药明康德能做什么",
           "url": "https://www.toutiao.com/trending/7649328512267980331/",
           "source": "今日头条",
           "ranks": [
-            10
+            10,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "比亚迪、阿里等回应“被美国防部列入中国军工企业名单”：没有正当理由，无任何依据",
@@ -103,8 +61,64 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
+        },
+        {
+          "title": "美国5月成屋销售超预期跑出年内最快增速，住宅建筑商股集体飙升",
+          "url": "https://wallstreetcn.com/livenews/3116950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "time_info": "[00时30分 ~ 02时31分]"
+        },
+        {
+          "title": "美国能源信息署（EIA）：现预计2026年全球石油需求将出现下滑，这与此前预测的微幅增长形成反转。",
+          "url": "https://flash.jin10.com/detail/20260610002234047800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：现预计经合组织石油库存将降至2003年以来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260610002117699800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "美国能源部发出重磅警告：全球石油库存正加速滑向数十年历史低谷",
+          "url": "https://wallstreetcn.com/livenews/3116978",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国能源信息署（EIA）：霍尔木兹海峡的干扰迫使中东生产商在5月将产量较战前水平削减了超过1100万桶/日。",
+          "url": "https://flash.jin10.com/detail/20260610002102449800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
         },
         {
           "title": "美国能源部维持2026-27年布油价格预期不变，上调美国产量预期",
@@ -113,7 +127,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -124,9 +138,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "据纽约时报，美国与伊朗在磋商中聚焦于四个核问题。 美国认为，伊朗同意暂停铀浓缩活动15年。 标普500指数跌幅收窄至1.2%，道指跌幅不足0.5%，纳指跌2.1%，半导体指数跌幅也收窄至4.8%。",
+          "url": "https://wallstreetcn.com/livenews/3116971",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "美国能源信息署（EIA）：预计部分中东地区的石油产量中断状况将持续至2027年底，超出短期能源展望的预测范围。",
@@ -135,9 +160,31 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "据纽约时报：美国认为伊朗将同意暂停铀浓缩活动15年。",
+          "url": "https://flash.jin10.com/detail/20260610012552407800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "据纽约时报：美国与伊朗在谈判中聚焦四个核问题。",
+          "url": "https://flash.jin10.com/detail/20260610012447600800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "美国农业部在得州La Salle County新发现一例螺旋蝇（Screwworm）病例。",
@@ -146,7 +193,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -157,9 +204,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "据Axios报道，伊朗无人机击中美国直升机，并导致后者坠落。 美方的调查尚未确定该事件是否是（伊朗）故意的。 标普跌幅收窄至不足1.5%，纳指跌超2.5%。",
+          "url": "https://wallstreetcn.com/livenews/3116968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "美国能源信息署（EIA）：现在假设霍尔木兹海峡的石油运输将在2026年第三季度恢复。预计霍尔木兹海峡的交通在2027年初之前不会恢复到伊朗战争前的水平。",
@@ -168,7 +226,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -179,7 +237,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -190,9 +248,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "据Axios：一位美国高级官员表示，调查认定一架伊朗无人机撞击了这架直升机并导致其坠毁。该官员称，调查尚未确定此次撞击是否为蓄意行为，相关事宜仍在调查中。",
+          "url": "https://flash.jin10.com/detail/20260610010932100800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "美国能源信息署预计2026年全球石油需求为1.029亿桶/日，低于之前预测的1.042亿桶/日；预计2027年需求为1.053亿桶/日（之前预测为1.056亿桶/日）。",
@@ -201,7 +270,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -212,9 +281,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "美国三年期国债收益率在拍卖后保持稳定，最新下跌1.8个基点，报4.189% 。",
+          "url": "https://flash.jin10.com/detail/20260610010621307800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "美国6月EIA当年短期前景美国原油产量预期 1372万桶/日，前值1365万桶/日。",
@@ -223,7 +303,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -234,9 +314,202 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
+        },
+        {
+          "title": "Anthropic：Claude Mythos 5最初将通过“Glasswing项目”部署，并与美国政府合作，作为Claude Mythos预览版的升级版本。",
+          "url": "https://flash.jin10.com/detail/20260610010236188800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 16,
+      "titles": [
+        {
+          "title": "报道：腾讯的长期美元债和点心债发行总规模料接近47亿美元",
+          "url": "https://wallstreetcn.com/livenews/3116979",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "布伦特原油期货跌穿90美元心理关口，创4月17日以来新低，日内当前跌幅4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3116948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "周二（6月9日），韩元兑美元最终跌0.26%，报1530.87韩元，全天冲高回落、北京时间14:00曾刷新日高至1509.58韩元。",
+          "url": "https://wallstreetcn.com/livenews/3116975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "WTI原油日内跌幅达4.5%，报87.17美元/桶；布伦特原油日内跌幅达4.0%，报90.43美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3116944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "周二（6月9日），美联储隔夜逆回购协议（RRP）使用规模为5.77亿美元（交易对手13家），上个交易日报18.32亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3116970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "自IPO以来，CoreWeave创始人已疯狂套现23亿美元",
+          "url": "https://wallstreetcn.com/livenews/3116969",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美国财政部拍卖580亿美元三年期国债，得标利率4.192%（4月7日为3.897%），投标倍数2.64（前次为2.54）。",
+          "url": "https://wallstreetcn.com/livenews/3116965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的5.77亿美元。",
+          "url": "https://flash.jin10.com/detail/20260610011701885800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "布伦特原油回落至89美元/桶下方，日内跌4.74%。",
+          "url": "https://flash.jin10.com/detail/20260610000952000800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "LME期铜收平，报13615美元/吨。 LME期铝收跌56美元，报3548美元/吨。 LME期锌收涨18美元，报3556美元/吨。 LME期铅收跌6美元，报1984美元/吨。 LME期镍收跌277美元，报18064美元/吨。 LME期锡收涨223美元，报52502美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3116962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "Anthropic：Mythos 5与Fable 5模型定价为每100万输入tokens收费10美元，每100万输出tokens收费50美元。",
+          "url": "https://flash.jin10.com/detail/20260610010326234800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "Prosus于6月5日当周按均价40.7439欧元回购股票263.1597万股，合计超过1.072亿欧元（折合超1.245亿美元）。 Naspers同期按均价889.6830南非兰特回购90.5808万股，合计将近8.059亿兰特（折合将近0.495亿美元）。",
+          "url": "https://wallstreetcn.com/livenews/3116925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
+        },
+        {
+          "title": "秘鲁索尔兑美元涨超3%，投资者预计Fujimori有望在大选胜出。",
+          "url": "https://wallstreetcn.com/livenews/3116954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美股费城半导体指数狂泄超千点，纳斯达克100指数跌超3.5%，标普跌1.8%，道指跌0.8%，纳指跌3%。 现货白银日内跌幅达4.5%，报64.98美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3116953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "美元兑加元涨至1.3969，创12月以来新高，投资者关注布油跌穿90美元整数位心理关口。",
+          "url": "https://wallstreetcn.com/livenews/3116952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
+        },
+        {
+          "title": "布伦特原油期货跌穿90美元/桶整数位心理关口，创4月17日以来新低，日内当前跌幅4.5%。",
+          "url": "https://wallstreetcn.com/livenews/3116948",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     },
@@ -252,8 +525,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
@@ -263,8 +536,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
@@ -274,19 +547,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
           "url": "https://www.zhihu.com/question/2046196309359646371",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
@@ -296,8 +570,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "Meta：将针对欧盟的WhatsApp AI命令提出上诉。",
@@ -306,7 +580,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -317,7 +591,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         }
@@ -335,8 +609,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "日本多次跟监辽宁舰航母编队，国防部回应",
@@ -346,8 +620,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "外媒称美方请中国恢复对日本的稀土出口",
@@ -357,8 +631,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "中国为什么要对日本断供钨",
@@ -368,8 +642,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
+        },
+        {
+          "title": "中国海事巡航期间发现疑似日本飞机",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BA%8B%E5%B7%A1%E8%88%AA%E6%9C%9F%E9%97%B4%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "邱毅：日本拉着菲律宾在外制造纷争",
@@ -381,23 +667,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时29分 ~ 00时30分]"
-        },
-        {
-          "title": "中国海事巡航期间发现疑似日本飞机",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E6%B5%B7%E4%BA%8B%E5%B7%A1%E8%88%AA%E6%9C%9F%E9%97%B4%E5%8F%91%E7%8E%B0%E7%96%91%E4%BC%BC%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "跌跌不休!印度抛黄金救卢比",
@@ -407,8 +682,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
+        },
+        {
+          "title": "黄金跌懵了 接下来会发生什么",
+          "url": "https://www.toutiao.com/trending/7649378707429133865/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         },
         {
           "title": "金价到“底”了吗",
@@ -428,7 +714,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         },
@@ -439,65 +725,54 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时30分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
-      "match_count": 4,
+      "keyword_group": "谷歌",
+      "match_count": 3,
       "titles": [
         {
-          "title": "布伦特原油期货跌穿90美元心理关口，创4月17日以来新低，日内当前跌幅4.5%。",
-          "url": "https://wallstreetcn.com/livenews/3116948",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌(GOOG.O)Gemini：推出智能体风险监控功能。",
+          "url": "https://flash.jin10.com/detail/20260610020905007800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时30分"
+          "time_info": "02时31分"
         },
         {
-          "title": "WTI原油日内跌幅达4.5%，报87.17美元/桶；布伦特原油日内跌幅达4.0%，报90.43美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3116944",
+          "title": "俄亥俄州监管重拳落空！谷歌在上诉法院赢得决定性胜利，免受“公共事业级”严苛规管",
+          "url": "https://wallstreetcn.com/livenews/3116973",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时30分"
+          "time_info": "02时31分"
         },
         {
-          "title": "布伦特原油回落至89美元/桶下方，日内跌4.74%。",
-          "url": "https://flash.jin10.com/detail/20260610000952000800",
-          "source": "金十数据",
+          "title": "谷歌英伟达",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE&t=31&band_rank=14&Refer=top",
+          "source": "微博",
           "ranks": [
-            18
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时30分"
-        },
-        {
-          "title": "Prosus于6月5日当周按均价40.7439欧元回购股票263.1597万股，合计超过1.072亿欧元（折合超1.245亿美元）。 Naspers同期按均价889.6830南非兰特回购90.5808万股，合计将近8.059亿兰特（折合将近0.495亿美元）。",
-          "url": "https://wallstreetcn.com/livenews/3116925",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "time_info": "02时31分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普：美伊谈判进入“最后关头”",
@@ -507,19 +782,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
           "url": "https://www.cls.cn/detail/2395258",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
+        },
+        {
+          "title": "特朗普称伊朗击落一架美军阿帕奇直升机",
+          "url": "https://wallstreetcn.com/livenews/3116959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时31分"
         }
       ]
     },
@@ -535,19 +822,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         },
         {
           "title": "纳斯达克100指数跌幅扩大至3.22%，迈威尔科技跌超13%，Arm控股跌10.7%，Lumentum跌10.6%，高通跌9.2%，Strategy跌9.1%，AMD、美光、英特尔跌超7%，星巴克涨3%，CTAS涨3.3%。费城半导体跌7.25%。",
           "url": "https://wallstreetcn.com/livenews/3116951",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 02时31分]"
         }
       ]
     },
@@ -560,11 +848,12 @@
           "url": "https://wallstreetcn.com/articles/3774156",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时29分 ~ 00时30分]"
+          "appearance_count": 3,
+          "time_info": "[00时29分 ~ 02时31分]"
         }
       ]
     },
@@ -577,11 +866,12 @@
           "url": "https://wallstreetcn.com/livenews/3116949",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 02时31分]"
         }
       ]
     }
