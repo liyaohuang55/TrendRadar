@@ -1,11 +1,419 @@
 {
-  "generated_at": "2026-06-12T05:36:47.873021+08:00",
-  "total_titles_processed": 517,
+  "generated_at": "2026-06-12T07:19:11.863465+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 36,
+      "titles": [
+        {
+          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
+          "url": "https://wallstreetcn.com/articles/3774439",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
+        },
+        {
+          "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
+          "url": "https://wallstreetcn.com/articles/3774371",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2397555",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
+          "url": "https://news.ifeng.com/c/8tsLNrnEAQM",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普称取消打击伊朗行动",
+          "url": "https://news.ifeng.com/c/8tsig3GUtRk",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普称美伊协议进入最后定稿阶段，有望本周末签署",
+          "url": "https://news.ifeng.com/c/8tso5G96e80",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时18分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普称取消打击伊朗行动",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时19分]"
+        },
+        {
+          "title": "据华尔街日报：特朗普与盟友正制定计划以“抹除”弹劾记录。",
+          "url": "https://flash.jin10.com/detail/20260612070155257800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "美债价格于纽约中午短线飙涨，特朗普取消对伊朗的后续袭击计划",
+          "url": "https://wallstreetcn.com/livenews/3118414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普谈及伊朗问题，声称：基本完成。 我们得到了我们想要的一切。",
+          "url": "https://wallstreetcn.com/livenews/3118442",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "市场消息：卡塔尔埃米尔与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260612030527728800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "特朗普叫停对伊朗打击！称“未来几天”签和平协议，伊朗回应：还没结论！",
+          "url": "https://flash.jin10.com/detail/20260612064649190800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普将此前取消打击伊朗的帖子置顶。",
+          "url": "https://flash.jin10.com/detail/20260612064451567800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普称伊朗各方均已批准美伊协议",
+          "url": "https://flash.jin10.com/detail/20260612042328842800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "以方称特朗普承诺美伊协议将包括移除伊朗浓缩铀等内容",
+          "url": "https://wallstreetcn.com/livenews/3118398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "特朗普拒设协议截止日期：设了你们又会说我没按期完成",
+          "url": "https://flash.jin10.com/detail/20260612042246303800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "金十提示：美国总统特朗普结束白宫讲话。",
+          "url": "https://flash.jin10.com/detail/20260612042139765800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "据以色列第12频道记者报道，伊朗否认存在任何协议。以色列方面表示，并不存在这样的协议。 另据以色列i24News报道，两名以色列官员称，对特朗普的声明感到意外，需要等待伊朗方面公布相关内容，才能判断这一说法是否准确。",
+          "url": "https://wallstreetcn.com/livenews/3118352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "伊媒嘲讽特朗普再次TACO",
+          "url": "https://flash.jin10.com/detail/20260612024640276800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：考虑对肥料市场提供某种形式的帮助。",
+          "url": "https://flash.jin10.com/detail/20260612041838711800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "特朗普提名原SEC主席为美国国家情报总监",
+          "url": "https://wallstreetcn.com/livenews/3118350",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "【特朗普称伊朗各方均已批准美伊协议】美国总统特朗普谈及美伊协议称，据他了解，伊朗最高领袖已同意该协议，伊朗各方均已批准该协议。他还表示，这是一份非常有力、非常详尽的谅解备忘录。特朗普还称，伊朗将不会拥有核武器。特朗普表示，一旦签署谅解备忘录，霍尔木兹海峡将立即开放。他还称，哈尔克岛行动不在考虑之列。 此前，一名接近伊朗谈判团队的知情人士称，伊朗“尚未批准任何与美国达成的初步谅解备忘录文本”。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3118394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗协议“已经基本敲定”。（纽约邮报）",
+          "url": "https://wallstreetcn.com/livenews/3118348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "特朗普表示相信伊朗最高领袖已批准美伊协议",
+          "url": "https://wallstreetcn.com/livenews/3118393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "以色列：特朗普承诺伊朗将限制导弹生产及停止地区支持",
+          "url": "https://flash.jin10.com/detail/20260612041456892800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美媒：特朗普不满对伊打击“反响冷淡” 认为伊朗和媒体都没当回事",
+          "url": "https://flash.jin10.com/detail/20260611233949311800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时34分"
+        },
+        {
+          "title": "美国总统特朗普：普尔特将短暂担任国家情报总监。",
+          "url": "https://flash.jin10.com/detail/20260612041158684800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美债价格上涨、交易量激增，之前特朗普宣布取消对伊朗的打击计划",
+          "url": "https://wallstreetcn.com/livenews/3118346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "美国总统特朗普：我们在这场对抗伊朗的战争中取得了军事胜利。",
+          "url": "https://flash.jin10.com/detail/20260612040934547800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗人有机会重建他们的国家，伊朗已被严重摧毁。",
+          "url": "https://flash.jin10.com/detail/20260612040929676800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "分析人士：称特朗普声明并未改变局势",
+          "url": "https://flash.jin10.com/detail/20260612023118594800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "特朗普暗示协议即将达成，新兴市场货币与股票ETF集体大涨",
+          "url": "https://wallstreetcn.com/livenews/3118418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "特朗普：取消了对伊朗的打击计划，海上封锁照旧",
+          "url": "https://wallstreetcn.com/livenews/3118340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        },
+        {
+          "title": "特朗普：取消霍尔木兹海峡封锁是伊朗协议的一部分",
+          "url": "https://wallstreetcn.com/livenews/3118386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时36分"
+        },
+        {
+          "title": "美债价格于纽约中午短线飙涨，特朗普宣称取消对伊朗的后续袭击计划",
+          "url": "https://wallstreetcn.com/livenews/3118414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "伊朗国防部回应特朗普夺岛言论：敌人任何误判都将招致超乎想象的反击",
+          "url": "https://wallstreetcn.com/livenews/3118338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美国",
-      "match_count": 32,
+      "match_count": 35,
       "titles": [
         {
           "title": "美国五角大楼被封锁",
@@ -17,8 +425,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
           "title": "美国五角大楼被封锁",
@@ -27,23 +435,12 @@
           "ranks": [
             1,
             11,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
-        },
-        {
-          "title": "美国五角大楼被封锁",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E8%A2%AB%E5%B0%81%E9%94%81",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
           "title": "不吃美国这套，韩国对美国电商处以创纪录罚款",
@@ -53,21 +450,21 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
-          "title": "美国五角大楼发生「危险品事件」，部分区域被封锁，危险品处理小组介入处理，具体情况如何？",
-          "url": "https://www.zhihu.com/question/2048543465194120346",
-          "source": "知乎",
+          "title": "美国五角大楼被封锁",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E8%A2%AB%E5%B0%81%E9%94%81",
+          "source": "百度热搜",
           "ranks": [
-            7,
-            19,
-            18
+            12,
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
           "title": "“这些稀土，美国从中国拿不到”",
@@ -77,8 +474,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
           "title": "博主：美国把世界杯办成“闭门宴”",
@@ -87,7 +484,21 @@
           "ranks": [
             28,
             22,
-            19
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
+        },
+        {
+          "title": "美国五角大楼发生「危险品事件」，部分区域被封锁，危险品处理小组介入处理，具体情况如何？",
+          "url": "https://www.zhihu.com/question/2048543465194120346",
+          "source": "知乎",
+          "ranks": [
+            7,
+            19,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -133,7 +544,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -221,7 +632,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -254,7 +665,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -265,7 +676,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -276,7 +687,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -287,7 +698,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -298,7 +709,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -309,9 +720,31 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "SpaceX或被快速纳入指数遭美国参议员Warren质疑",
+          "url": "https://wallstreetcn.com/livenews/3118425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "周五亚太盘初，美国股指期货微幅上涨0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3118424",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "法院文件显示，委内瑞拉政府已聘请律师事务所格林伯格·特劳里格，代理其在美国法院针对水晶矿业公司的案件。",
@@ -347,6 +780,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "加拿大总理卡尼：“推迟密歇根-安大略”大桥开放是美国的请求。 加拿大寻求与墨西哥达成双边（贸易）协议。",
+          "url": "https://wallstreetcn.com/livenews/3118413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
           "title": "【美国五角大楼被封锁】美国有线电视新闻网11日援引消息人士的话报道说，五角大楼已被封锁，危险品处理小组正在赶往现场。五角大楼内人员已被疏散。（新华社）",
           "url": "https://wallstreetcn.com/livenews/3118278",
           "source": "华尔街见闻-快讯",
@@ -372,8 +816,21 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
+        {
+          "title": "韩国股市连续三日熔断，外资出逃 760 亿美元，股民被强平 3000 亿韩元，散户仍借钱抄底，当下是「底」吗？",
+          "url": "https://www.zhihu.com/question/2048187195110993970",
+          "source": "知乎",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 07时19分]"
+        },
         {
           "title": "数据中心成本担忧加剧，甲骨文资本开支超预期，新财年计划融资翻倍至400亿美元，盘后大跌｜财报见闻",
           "url": "https://wallstreetcn.com/articles/3774364",
@@ -403,7 +860,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -463,18 +920,6 @@
           "time_info": "03时31分"
         },
         {
-          "title": "韩国股市连续三日熔断，外资出逃 760 亿美元，股民被强平 3000 亿韩元，散户仍借钱抄底，当下是「底」吗？",
-          "url": "https://www.zhihu.com/question/2048187195110993970",
-          "source": "知乎",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 05时36分]"
-        },
-        {
           "title": "纽约联储：公开市场交易台计划于6月12日至7月13日期间进行约165亿美元的再投资购买操作。",
           "url": "https://flash.jin10.com/detail/20260612031114652800",
           "source": "金十数据",
@@ -525,7 +970,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -580,7 +1025,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -613,7 +1058,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -624,7 +1069,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -684,15 +1129,48 @@
           "time_info": "03时31分"
         },
         {
+          "title": "WTI原油跌破86美元/桶关口，报85.86美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3118423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
           "title": "Adobe（奥多比）第二财季营收66.2亿美元，分析师预期64.5亿美元。 第二财季调整后每股收益（EPS）为5.96美元，分析师预期5.83美元。 预计全年营收265亿-266亿美元，公司原本预计259亿-261亿美元。 预计全年调整后EPS为24.35-24.45美元，公司原本预计23.30-23.50美元。 预计第三财季营收66.7亿-67.2亿美元，分析师预期65.1亿美元。 预计第三财季调整后EPS为6.05-6.10美元，分析师预期5.77美元。",
           "url": "https://wallstreetcn.com/livenews/3118390",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "美元指数周四跌超0.2%，纽约中午跳水，南非兰特涨1.9%，巴西雷亚尔涨超1.7%",
+          "url": "https://wallstreetcn.com/livenews/3118421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "SpaceX募资750亿美元创史上最大IPO，太空概念股集体飙升",
+          "url": "https://wallstreetcn.com/livenews/3118420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "巴西雷亚尔兑美元涨1.4%，创最近两个月最佳盘中表现，美国总统特朗普取消打击伊朗的计划，称即将宣布签署协议的时间和地点。",
@@ -708,326 +1186,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 28,
-      "titles": [
-        {
-          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3774439",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
-        },
-        {
-          "title": "不断强调“接近协议”，如今又开启“强硬打击”，特朗普能打破美伊“不战不和”僵局吗？",
-          "url": "https://wallstreetcn.com/articles/3774371",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
-        },
-        {
-          "title": "特朗普威胁“猛烈打击”伊朗 美股、原油市场反应温和 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2397555",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
-        },
-        {
-          "title": "特朗普称自己“被当成傻瓜戏耍”，到底发生了什么？",
-          "url": "https://news.ifeng.com/c/8tsLNrnEAQM",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
-        },
-        {
-          "title": "美债价格于纽约中午短线飙涨，特朗普取消对伊朗的后续袭击计划",
-          "url": "https://wallstreetcn.com/livenews/3118414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "市场消息：卡塔尔埃米尔与美国总统特朗普通话。",
-          "url": "https://flash.jin10.com/detail/20260612030527728800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "特朗普称取消打击伊朗行动",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E8%A1%8C%E5%8A%A8%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "特朗普称伊朗各方均已批准美伊协议",
-          "url": "https://flash.jin10.com/detail/20260612042328842800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "以方称特朗普承诺美伊协议将包括移除伊朗浓缩铀等内容",
-          "url": "https://wallstreetcn.com/livenews/3118398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "特朗普拒设协议截止日期：设了你们又会说我没按期完成",
-          "url": "https://flash.jin10.com/detail/20260612042246303800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "金十提示：美国总统特朗普结束白宫讲话。",
-          "url": "https://flash.jin10.com/detail/20260612042139765800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "据以色列第12频道记者报道，伊朗否认存在任何协议。以色列方面表示，并不存在这样的协议。 另据以色列i24News报道，两名以色列官员称，对特朗普的声明感到意外，需要等待伊朗方面公布相关内容，才能判断这一说法是否准确。",
-          "url": "https://wallstreetcn.com/livenews/3118352",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "伊媒嘲讽特朗普再次TACO",
-          "url": "https://flash.jin10.com/detail/20260612024640276800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "美国总统特朗普：考虑对肥料市场提供某种形式的帮助。",
-          "url": "https://flash.jin10.com/detail/20260612041838711800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "特朗普提名原SEC主席为美国国家情报总监",
-          "url": "https://wallstreetcn.com/livenews/3118350",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "【特朗普称伊朗各方均已批准美伊协议】美国总统特朗普谈及美伊协议称，据他了解，伊朗最高领袖已同意该协议，伊朗各方均已批准该协议。他还表示，这是一份非常有力、非常详尽的谅解备忘录。特朗普还称，伊朗将不会拥有核武器。特朗普表示，一旦签署谅解备忘录，霍尔木兹海峡将立即开放。他还称，哈尔克岛行动不在考虑之列。 此前，一名接近伊朗谈判团队的知情人士称，伊朗“尚未批准任何与美国达成的初步谅解备忘录文本”。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3118394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗协议“已经基本敲定”。（纽约邮报）",
-          "url": "https://wallstreetcn.com/livenews/3118348",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "特朗普表示相信伊朗最高领袖已批准美伊协议",
-          "url": "https://wallstreetcn.com/livenews/3118393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "以色列：特朗普承诺伊朗将限制导弹生产及停止地区支持",
-          "url": "https://flash.jin10.com/detail/20260612041456892800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美媒：特朗普不满对伊打击“反响冷淡” 认为伊朗和媒体都没当回事",
-          "url": "https://flash.jin10.com/detail/20260611233949311800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时34分"
-        },
-        {
-          "title": "美国总统特朗普：普尔特将短暂担任国家情报总监。",
-          "url": "https://flash.jin10.com/detail/20260612041158684800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美债价格上涨、交易量激增，之前特朗普宣布取消对伊朗的打击计划",
-          "url": "https://wallstreetcn.com/livenews/3118346",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "美国总统特朗普：我们在这场对抗伊朗的战争中取得了军事胜利。",
-          "url": "https://flash.jin10.com/detail/20260612040934547800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗人有机会重建他们的国家，伊朗已被严重摧毁。",
-          "url": "https://flash.jin10.com/detail/20260612040929676800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "分析人士：称特朗普声明并未改变局势",
-          "url": "https://flash.jin10.com/detail/20260612023118594800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "特朗普：取消了对伊朗的打击计划，海上封锁照旧",
-          "url": "https://wallstreetcn.com/livenews/3118340",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        },
-        {
-          "title": "特朗普：取消霍尔木兹海峡封锁是伊朗协议的一部分",
-          "url": "https://wallstreetcn.com/livenews/3118386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
-        },
-        {
-          "title": "伊朗国防部回应特朗普夺岛言论：敌人任何误判都将招致超乎想象的反击",
-          "url": "https://wallstreetcn.com/livenews/3118338",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价 黄金",
-      "match_count": 11,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗局势骤然升级，原油大涨，科技股抛售拖累美股，盘后甲骨文跳水9%，黄金暴跌",
@@ -1037,8 +1197,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
+        },
+        {
+          "title": "四年来首次入熊，黄金背刺了所有相信它的人",
+          "url": "https://wallstreetcn.com/articles/3774419",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时31分 ~ 07时19分]"
         },
         {
           "title": "特朗普威胁发动新袭击，美股高开，甲骨文跌12%，英特尔涨10%，油价走低，黄金重回4080美元",
@@ -1053,16 +1225,15 @@
           "time_info": "[00时34分 ~ 05时36分]"
         },
         {
-          "title": "四年来首次入熊，黄金背刺了所有相信它的人",
-          "url": "https://wallstreetcn.com/articles/3774419",
+          "title": "特朗普再次“TACO”，原油暴跌，美股债大反弹，半导体指数大涨8%，黄金收复4200关口",
+          "url": "https://wallstreetcn.com/articles/3774389",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时31分 ~ 05时36分]"
+          "time_info": "[07时18分 ~ 07时19分]"
         },
         {
           "title": "黄金进入熊市",
@@ -1083,7 +1254,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -1097,6 +1268,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "现货黄金小幅拉升10美元，最新报4226美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260612064510182800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "博主：黄金正在从首饰变成资产",
@@ -1116,9 +1298,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        },
+        {
+          "title": "全球最大的黄金ETF SPDR Gold Trust持仓量为1013.640吨，较前一个交易日维持不变。",
+          "url": "https://flash.jin10.com/detail/20260612062549871800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "现货黄金日内涨超100美元",
@@ -1138,7 +1331,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
         },
@@ -1152,6 +1345,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时31分"
+        },
+        {
+          "title": "周末也开盘！ 芝商所拟推全天候交易的原油黄金合约",
+          "url": "https://flash.jin10.com/detail/20260612053142568800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "美国芝商所推出全天候交易的WTI原油与黄金合约",
+          "url": "https://wallstreetcn.com/livenews/3118411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -1159,18 +1374,6 @@
       "keyword_group": "AI",
       "match_count": 10,
       "titles": [
-        {
-          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
-          "url": "https://www.cls.cn/detail/2397230",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
-        },
         {
           "title": "一份研报引爆AI硬件“惊魂时刻”，CPO和800VDC故事要改写？",
           "url": "https://www.cls.cn/detail/2397553",
@@ -1180,8 +1383,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
+        },
+        {
+          "title": "【焦点复盘】科创50缩量收涨0.62%，AI上游涨价概念多点开花，机器人、物理AI板块遭重挫",
+          "url": "https://www.cls.cn/detail/2397230",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
           "title": "AI战略项目遇困之后，钉钉的“内忧”和“外患”",
@@ -1192,8 +1408,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
           "title": "抖音AI创作大赛来了",
@@ -1201,11 +1417,12 @@
           "source": "抖音",
           "ranks": [
             7,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
           "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
@@ -1216,8 +1433,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
           "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
@@ -1225,11 +1442,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
           "title": "超模女球迷爆火后出镜 自证不是AI",
@@ -1240,8 +1458,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
           "title": "华尔街激辩“Token经济学”：AI账单失控了吗？",
@@ -1252,8 +1470,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时31分 ~ 05时36分]"
+          "appearance_count": 4,
+          "time_info": "[03时31分 ~ 07时19分]"
         },
         {
           "title": "AI短片效果看到起鸡皮疙瘩了",
@@ -1261,11 +1479,12 @@
           "source": "微博",
           "ranks": [
             18,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时34分 ~ 03时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
           "title": "UP主做了个AI谢苗",
@@ -1274,9 +1493,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时36分 ~ 07时19分]"
         }
       ]
     },
@@ -1291,11 +1510,12 @@
           "ranks": [
             8,
             7,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
           "title": "日本准备出手：明知赢不过中国，成本高也要搞",
@@ -1305,8 +1525,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         },
         {
           "title": "轮奸犯踢世界杯日本足协沉默",
@@ -1326,9 +1546,37 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "显卡 英伟达",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达聘请Bruce Andrews负责政府事务。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3118444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "英伟达(NVDA.O)股东大会定于6月24日举行，个人可在线参与。",
+          "url": "https://flash.jin10.com/detail/20260612053302916800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -1345,8 +1593,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时34分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[00时34分 ~ 07时19分]"
         }
       ]
     },
@@ -1364,6 +1612,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "CPU 英特尔",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "消息人士：英伟达(NVDA.O)聘请资深说客Bruce Andrews担任其华盛顿特区政府事务负责人，Andrews曾担任商英特尔的政府事务负责人以及奥巴马政府官员。",
+          "url": "https://flash.jin10.com/detail/20260612060820533800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     }
