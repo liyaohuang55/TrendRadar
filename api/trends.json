@@ -1,33 +1,342 @@
 {
-  "generated_at": "2026-06-20T01:51:52.668374+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-20T03:42:09.047732+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美国",
-      "match_count": 12,
+      "keyword_group": "特朗普",
+      "match_count": 21,
       "titles": [
         {
-          "title": "美国联邦住房金融局局长Bill Pulte：房利美和房地美当前拥有雄厚的流动性。",
-          "url": "https://wallstreetcn.com/livenews/3122167",
+          "title": "特朗普和高市早苗因珍珠港发生争吵",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%A0%E7%8F%8D%E7%8F%A0%E6%B8%AF%E5%8F%91%E7%94%9F%E4%BA%89%E5%90%B5%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
+          "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
+          "url": "https://news.ifeng.com/c/8u5ipgperKS",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "万斯警告以色列：只有特朗普同情你们",
+          "url": "https://www.toutiao.com/trending/7652359820477693994/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "特朗普移动首款手机竟是中国制造",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%BB%E5%8A%A8%E9%A6%96%E6%AC%BE%E6%89%8B%E6%9C%BA%E7%AB%9F%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及委内瑞拉和古巴）委内瑞拉有石油。古巴没有。古巴有不错的地产和漂亮的海岸线。",
+          "url": "https://flash.jin10.com/detail/20260620030703523800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "美国总统特朗普：我的民调数据非常好。我能以25个百分点的优势击败他们推出的任何候选人。",
+          "url": "https://flash.jin10.com/detail/20260620030507766800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "美国总统特朗普：今天稍早与以色列对话。 （为了伊朗协议）要求以色列同意与黎巴嫩真主党停火。（NBC）",
+          "url": "https://wallstreetcn.com/livenews/3122171",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "美国总统特朗普周五早些时候与以色列进行了对话，要求他们同意与黎巴嫩真主党停火。（NBC新闻）",
+          "url": "https://wallstreetcn.com/livenews/3122163",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及七国集团）他们本应保留八国集团。如果那样的话，俄乌之间可能就不会发生战争了，但奥巴马不想让普京留在那里。以前是八国集团。如果当初保留下来，会好得多。",
+          "url": "https://flash.jin10.com/detail/20260620025928900800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "美国总统特朗普：（谈及拜登）我们曾有过一个连一段楼梯都走不上去的人，我不想谈这个，因为如果我稍微绊一下，他们就会说：“哦，这太糟糕了。”好吧，这种事是可能发生的。但你不能每次上台都绊倒。",
+          "url": "https://flash.jin10.com/detail/20260620025727223800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3122151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "美媒：特朗普周五与以色列通话 要求以方同意与真主党停火",
+          "url": "https://flash.jin10.com/detail/20260620010737139800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
         {
-          "title": "世界杯：美国vs澳大利亚",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E7%BE%8E%E5%9B%BDvs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A",
-          "source": "百度热搜",
+          "title": "特朗普：“我是老大”的言论只是在开玩笑 没想到传遍全世界",
+          "url": "https://flash.jin10.com/detail/20260620024147988800",
+          "source": "金十数据",
           "ranks": [
-            6
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "特朗普接受采访 谈及伊以、古巴、权力边界等问题",
+          "url": "https://flash.jin10.com/detail/20260620022213077800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "美国总统特朗普：不要将Anthropic视为国家安全威胁。",
+          "url": "https://flash.jin10.com/detail/20260620021254404800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "据AXIOS：美国总统特朗普表示，我们将能够控制以色列不攻击黎巴嫩。",
+          "url": "https://flash.jin10.com/detail/20260620021240794800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "据AXIOS：美国总统特朗普表示，（关于伊朗战争）这种事可能引发全球性大萧条，达成的协议避免了这一命运。",
+          "url": "https://flash.jin10.com/detail/20260620021212398800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "据AXIOS：美国总统特朗普表示，古巴非常希望进行对话。",
+          "url": "https://flash.jin10.com/detail/20260620021043624800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
+          "url": "https://flash.jin10.com/detail/20260619235405420800",
+          "source": "金十数据",
+          "ranks": [
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "市场消息：特朗普对伊朗协议定调，意在驳斥美国失败论。",
+          "url": "https://flash.jin10.com/detail/20260619235253993800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美国",
+      "match_count": 18,
+      "titles": [
+        {
+          "title": "世界杯：美国vs澳大利亚",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%EF%BC%9A%E7%BE%8E%E5%9B%BDvs%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "美国联邦住房金融局局长Bill Pulte：房利美和房地美当前拥有雄厚的流动性。",
+          "url": "https://wallstreetcn.com/livenews/3122167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "美国vs澳大利亚",
+          "url": "https://www.douyin.com/hot/2540896",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "美国和以色列还是盟友吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BB%A5%E8%89%B2%E5%88%97%E8%BF%98%E6%98%AF%E7%9B%9F%E5%8F%8B%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "伊朗足协正式投诉美国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E6%8A%95%E8%AF%89%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "美国vs澳大利亚",
+          "url": "https://www.toutiao.com/trending/7653179289428430345/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 03时42分]"
+        },
+        {
+          "title": "美国国务院：国务卿卢比奥今天与黎巴嫩总统AOUN通话。 黎巴嫩和以色列下一轮会谈将于6月23-25日举行。",
+          "url": "https://wallstreetcn.com/livenews/3122170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "伊朗外长：美国应对任何违反谅解备忘录条款的行为负责",
+          "url": "https://wallstreetcn.com/livenews/3122149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "美国联邦住房金融局局长普尔特：房利美和房地美目前流动性强劲。",
@@ -52,39 +361,6 @@
           "time_info": "01时51分"
         },
         {
-          "title": "美国vs澳大利亚",
-          "url": "https://www.douyin.com/hot/2540896",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "伊朗足协正式投诉美国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E6%8A%95%E8%AF%89%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美国和以色列还是盟友吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BB%A5%E8%89%B2%E5%88%97%E8%BF%98%E6%98%AF%E7%9B%9F%E5%8F%8B%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
           "title": "美国情报部门警告称，以色列可能破坏美伊协议",
           "url": "https://flash.jin10.com/detail/20260620000813534800",
           "source": "金十数据",
@@ -96,15 +372,15 @@
           "time_info": "01时51分"
         },
         {
-          "title": "伊朗外长：美国应对任何违反谅解备忘录条款的行为负责",
-          "url": "https://wallstreetcn.com/livenews/3122149",
-          "source": "华尔街见闻-快讯",
+          "title": "美国国务院：下一轮谈判定于6月23日至25日在华盛顿举行。",
+          "url": "https://flash.jin10.com/detail/20260620013933180800",
+          "source": "金十数据",
           "ranks": [
-            19
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "03时42分"
         },
         {
           "title": "市场消息：美国向盟友发布了一系列谈话要点，旨在将伊朗协议包装成一项政治胜利，尽管美国仅仅确保了霍尔木兹海峡的重新开放。",
@@ -116,6 +392,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥重申，美国全力支持黎巴嫩政府努力建立一个与所有邻国和平共处的完整主权国家。",
+          "url": "https://flash.jin10.com/detail/20260620013921994800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥重申需要解除对真主党的武装，并重新建立对黎巴嫩全境的控制。",
+          "url": "https://flash.jin10.com/detail/20260620013859498800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
+        },
+        {
+          "title": "美国国务院：美国国务卿鲁比奥今天与黎巴嫩总统奥恩进行了对话。",
+          "url": "https://flash.jin10.com/detail/20260620013847679800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
           "title": "欧洲STOXX 600个人护理、药品及食品杂货店指数跌超0.8%，刷新日低至155.50点下方。 在美国针对德国药品定价发起关税调查后，德国总理默茨预计，美国将继续遵守与欧洲的贸易承诺。 药品报销决定属于德国国内事务，如有需要，其政府将向美国提供相关信息。 6月18日美股盘后，美国对德国降低药品价格的努力提出批评，美国贸易代表格里尔指责德国“长期低价采购创新药品”。",
@@ -142,124 +451,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "特朗普和高市早苗因珍珠港发生争吵",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%A0%E7%8F%8D%E7%8F%A0%E6%B8%AF%E5%8F%91%E7%94%9F%E4%BA%89%E5%90%B5%23&t=31&band_rank=1&Refer=top",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "特朗普和高市早苗被爆在G7因珍珠港争吵",
-          "url": "https://news.ifeng.com/c/8u5cA2CLh6U",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美国总统特朗普周五早些时候与以色列进行了对话，要求他们同意与黎巴嫩真主党停火。（NBC新闻）",
-          "url": "https://wallstreetcn.com/livenews/3122163",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "特朗普发表疑似嘲讽言论，梅洛尼回应：震惊",
-          "url": "https://news.ifeng.com/c/8u5ipgperKS",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美媒：特朗普周五与以色列通话 要求以方同意与真主党停火",
-          "url": "https://flash.jin10.com/detail/20260620010737139800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "万斯警告以色列：只有特朗普同情你们",
-          "url": "https://www.toutiao.com/trending/7652359820477693994/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美国情报部门警告特朗普政府：以色列可能会破坏美国与伊朗的协议。（华盛顿邮报）",
-          "url": "https://wallstreetcn.com/livenews/3122151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "特朗普对伊朗协议定调 旨在驳斥美国失败论",
-          "url": "https://flash.jin10.com/detail/20260619235405420800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "市场消息：特朗普对伊朗协议定调，意在驳斥美国失败论。",
-          "url": "https://flash.jin10.com/detail/20260619235253993800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "特朗普移动首款手机竟是中国制造",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%BB%E5%8A%A8%E9%A6%96%E6%AC%BE%E6%89%8B%E6%9C%BA%E7%AB%9F%E6%98%AF%E4%B8%AD%E5%9B%BD%E5%88%B6%E9%80%A0%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美伊瑞士会谈生变，韩股收跌0.1%，印度IT股大跌，纳指期货跌1%，美元指数站上101关口",
@@ -269,74 +462,102 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "布伦特8月原油期货收报80.57美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3122166",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "LME期铜收跌96美元，报13595美元/吨。 LME期铝收涨10美元，报3396美元/吨。 LME期锌收跌82美元，报3556美元/吨。 LME期铅收跌30美元，报1954美元/吨。 LME期镍收跌262美元，报17580美元/吨。 LME期锡收跌360美元，报53293美元/吨。 LME期钴收平，报56290美元/吨。",
-          "url": "https://wallstreetcn.com/livenews/3122159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "2026 年，美元潮汐怎么玩不动了？",
           "url": "https://www.zhihu.com/question/2050766119007524198",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "布伦特8月原油期货收报80.57美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3122166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "如何看待 6 月 19 日人民币兑日元突破 23.8 、美元兑日元突破 161？",
           "url": "https://www.zhihu.com/question/2051265976675604351",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "布伦特原油日内涨幅达1.0%，报80.34美元/桶。",
-          "url": "https://wallstreetcn.com/livenews/3122153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "越南前女首富爱马仕包拍出44万美元",
           "url": "https://www.toutiao.com/trending/7652907945642135082/",
           "source": "今日头条",
           "ranks": [
-            20
+            20,
+            16
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "LME期铜收跌96美元，报13595美元/吨。 LME期铝收涨10美元，报3396美元/吨。 LME期锌收跌82美元，报3556美元/吨。 LME期铅收跌30美元，报1954美元/吨。 LME期镍收跌262美元，报17580美元/吨。 LME期锡收跌360美元，报53293美元/吨。 LME期钴收平，报56290美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3122159",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "布伦特原油日内涨幅达1.0%，报80.34美元/桶。",
+          "url": "https://wallstreetcn.com/livenews/3122153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "消息人士称，阿布扎比技术投资公司MGX正考虑以数十亿美元收购数据中心运营商DayOne。",
+          "url": "https://flash.jin10.com/detail/20260620024848847800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "03时42分"
+        },
+        {
+          "title": "马斯克：到那时，衡量事物的标准将不再是美元，而是质量与能量。",
+          "url": "https://flash.jin10.com/detail/20260620024815870800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时42分"
         },
         {
           "title": "ICE 7月汽油期货结算价为每吨905.00美元。",
@@ -363,19 +584,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "日本宣布：签证费涨到5倍",
           "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E5%AE%A3%E5%B8%83%EF%BC%9A%E7%AD%BE%E8%AF%81%E8%B4%B9%E6%B6%A8%E5%88%B05%E5%80%8D",
           "source": "百度热搜",
           "ranks": [
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "日本防相：“堤丰”导弹系统不会永久在日部署",
@@ -385,47 +607,50 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "日本签证费涨5倍",
           "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%AD%BE%E8%AF%81%E8%B4%B9%E6%B6%A85%E5%80%8D%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "春秋航空日本飞机在哈尔滨机场重着陆",
           "url": "https://www.baidu.com/s?wd=%E6%98%A5%E7%A7%8B%E8%88%AA%E7%A9%BA%E6%97%A5%E6%9C%AC%E9%A3%9E%E6%9C%BA%E5%9C%A8%E5%93%88%E5%B0%94%E6%BB%A8%E6%9C%BA%E5%9C%BA%E9%87%8D%E7%9D%80%E9%99%86",
           "source": "百度热搜",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "向鹏3-0零封日本全国冠军",
           "url": "https://www.baidu.com/s?wd=%E5%90%91%E9%B9%8F3-0%E9%9B%B6%E5%B0%81%E6%97%A5%E6%9C%AC%E5%85%A8%E5%9B%BD%E5%86%A0%E5%86%9B",
           "source": "百度热搜",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         }
       ]
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "霍尔木兹海峡重开提振股债，半导体指数收创新高，原油走V，美元两连涨，黄金承压",
@@ -435,8 +660,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "国际金价再跳水失守4200美元，国内金饰克价破1300元",
@@ -446,8 +671,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
+        },
+        {
+          "title": "沃什“鹰派首秀”，高盛下调黄金目标价，“如果今年真加息，金价会进一步下跌”",
+          "url": "https://wallstreetcn.com/articles/3775075",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时41分 ~ 03时42分]"
         },
         {
           "title": "金价银价双双下跌",
@@ -482,11 +718,12 @@
           "url": "https://www.cls.cn/detail/2404332",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -496,8 +733,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "中国大模型何时达「fable 级别」？马斯克与智谱 CEO 预测不同，你更认同谁？",
@@ -507,8 +744,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         }
       ]
     },
@@ -524,8 +761,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "EMIB+玻璃基板+金刚石......陈立武谈英特尔芯片业务：在材料层面寻求突破",
@@ -535,8 +772,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         }
       ]
     },
@@ -549,22 +786,41 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33412460",
           "source": "澎湃新闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
         },
         {
           "title": "美参议员桑德斯：对美国大型AI公司一次性征收50%股权税，设立主权财富基金",
           "url": "https://wallstreetcn.com/articles/3775053",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 03时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌旗下Deepmind高级研究科学家John Jumper决定离开公司，加入Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260620030401727800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时51分"
+          "time_info": "03时42分"
         }
       ]
     },
@@ -577,11 +833,12 @@
           "url": "https://wallstreetcn.com/livenews/3122142",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时51分"
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 03时42分]"
         }
       ]
     }
