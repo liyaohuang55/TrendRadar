@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T07:01:37.747523+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-06-23T08:15:07.804067+08:00",
+  "total_titles_processed": 591,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 08时15分]"
         },
         {
           "title": "伊朗代表团暂停伊美谈判，抗议特朗普威胁言论",
@@ -29,6 +29,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时05分 ~ 05时20分]"
+        },
+        {
+          "title": "特朗普威胁伊朗,美伊谈判暂停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 08时15分]"
         },
         {
           "title": "特朗普称伊朗将同意接受武器核查",
@@ -95,7 +107,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -120,17 +132,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时06分"
-        },
-        {
-          "title": "特朗普威胁伊朗,美伊谈判暂停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355324&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E4%BC%8A%E6%9C%97%2C%E7%BE%8E%E4%BC%8A%E8%B0%88%E5%88%A4%E6%9A%82%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
         },
         {
           "title": "特朗普政府将叙利亚比特币交易所XChange纳入制裁清单。",
@@ -301,8 +302,21 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
+        {
+          "title": "财政部：在政府采购活动中不得采购46家美国企业生产的产品",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33426362",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 08时15分]"
+        },
         {
           "title": "商务部公布将艾维奥克斯公司等 10 家美国实体列入出口管制管控名单，有哪些信息值得关注？",
           "url": "https://www.zhihu.com/question/2052316614541027284",
@@ -310,18 +324,6 @@
           "ranks": [
             13,
             16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 07时01分]"
-        },
-        {
-          "title": "财政部：在政府采购活动中不得采购46家美国企业生产的产品",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33426362",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
             19
           ],
           "is_new": false,
@@ -374,6 +376,17 @@
           "time_info": "05时20分"
         },
         {
+          "title": "美国暂时放松对伊朗石油制裁措施",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E6%9A%82%E6%97%B6%E6%94%BE%E6%9D%BE%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9F%B3%E6%B2%B9%E5%88%B6%E8%A3%81%E6%8E%AA%E6%96%BD",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
           "title": "美国副总统万斯：如果没有进展，伊朗的资金不会被解冻。",
           "url": "https://flash.jin10.com/detail/20260623014054479800",
           "source": "金十数据",
@@ -391,7 +404,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -501,7 +514,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -512,7 +525,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -564,7 +577,7 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "SpaceX股价大跌逾10%：上市后火速发债 披露逾1000亿美元现金储备",
@@ -572,22 +585,24 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 08时15分]"
         },
         {
           "title": "尽管波斯湾的石油流动性持续恢复，巴克莱仍维持2026年布伦特原油价格预测为每桶100美元。",
           "url": "https://flash.jin10.com/detail/20260623062825174800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时15分]"
         },
         {
           "title": "周一（6月22日），韩元兑美元最终跌0.40%，报1536.86韩元，日内绝大部分时间持稳于该水平附近。",
@@ -624,6 +639,29 @@
           "time_info": "[05时20分 ~ 07时01分]"
         },
         {
+          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
+          "url": "https://www.cls.cn/detail/2406127",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "120亿美元？伊朗否认将用解冻资金买美农产品",
+          "url": "https://wallstreetcn.com/livenews/3123047",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时15分]"
+        },
+        {
           "title": "美元指数22日上涨",
           "url": "https://flash.jin10.com/detail/20260623044110227800",
           "source": "金十数据",
@@ -646,15 +684,15 @@
           "time_info": "02时06分"
         },
         {
-          "title": "120亿美元？伊朗否认将用解冻资金买美农产品",
-          "url": "https://wallstreetcn.com/livenews/3123047",
-          "source": "华尔街见闻-快讯",
+          "title": "丹斯克银行：预计2026年剩余时间内布伦特原油均价将为每桶80美元",
+          "url": "https://flash.jin10.com/detail/20260623070127027800",
+          "source": "金十数据",
           "ranks": [
-            13
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "08时15分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的39.25亿美元。",
@@ -685,9 +723,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "历史性逆转！美国数十年来首允伊朗以美元卖油",
+          "url": "https://flash.jin10.com/detail/20260623064916486800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         },
         {
           "title": "SpaceX收跌16%，市值蒸发4000亿美元。",
@@ -699,34 +748,71 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时20分"
+        },
+        {
+          "title": "WTI原油向上触及75美元/桶，日内涨0.44%。",
+          "url": "https://flash.jin10.com/detail/20260623063504213800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "【焦点复盘】沪指放量长阳收复30日均线，全市场超200股涨逾10%，AI上游材料方向持续火爆",
           "url": "https://www.cls.cn/detail/2405734",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 08时15分]"
         },
         {
           "title": "规模腰斩后，半夏投资发声：坚守低估值内需资产，AI泡沫破裂的触发条件已经出现",
           "url": "https://wallstreetcn.com/articles/3775200",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 08时15分]"
+        },
+        {
+          "title": "米游AI女友上线,玩家有福了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 08时15分]"
+        },
+        {
+          "title": "物理AI第一股上市首日高开302%",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 08时15分]"
         },
         {
           "title": "美国FAA选用Air Space Intelligence打造AI空管工具",
@@ -739,17 +825,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时20分 ~ 07时01分]"
-        },
-        {
-          "title": "米游AI女友上线,玩家有福了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355325&amp;topic_name=%E7%B1%B3%E6%B8%B8AI%E5%A5%B3%E5%8F%8B%E4%B8%8A%E7%BA%BF%2C%E7%8E%A9%E5%AE%B6%E6%9C%89%E7%A6%8F%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
         },
         {
           "title": "高通接近达成一份协议，将收购AI芯片初创公司Modular。（彭博）",
@@ -767,44 +842,47 @@
           "url": "https://wallstreetcn.com/livenews/3123052",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时15分]"
         },
         {
           "title": "科技链从“数字”升级为“数智”，第四届链博会折射AI产业重心跃迁",
           "url": "https://wallstreetcn.com/livenews/3123050",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时15分]"
         },
         {
           "title": "甲骨文一年裁员2.1万人，称AI已取代部分岗位",
           "url": "https://wallstreetcn.com/livenews/3123049",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时15分]"
         },
         {
           "title": "物理AI第一股上市首日高开302%",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "url": "https://www.baidu.com/s?wd=%E7%89%A9%E7%90%86AI%E7%AC%AC%E4%B8%80%E8%82%A1%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E9%AB%98%E5%BC%80302%25",
+          "source": "百度热搜",
           "ranks": [
-            22
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
         },
         {
           "title": "报道：高通接近收购AI芯片初创公司Modular",
@@ -813,7 +891,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
@@ -824,24 +902,38 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "视频丨辽宁舰编队专业稳妥处置应对日本舰机滋扰挑衅，画面公布",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33428369",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 08时15分]"
+        },
+        {
+          "title": "钧正平评日本旭日旗现身世界杯看台",
+          "url": "https://www.baidu.com/s?wd=%E9%92%A7%E6%AD%A3%E5%B9%B3%E8%AF%84%E6%97%A5%E6%9C%AC%E6%97%AD%E6%97%A5%E6%97%97%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9C%8B%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时05分 ~ 08时15分]"
+        },
+        {
           "title": "央视直播世界杯日本 vs 突尼斯比赛收视率超 3%，这是什么水平？可能受哪些因素影响？",
           "url": "https://www.zhihu.com/question/2052060271871353728",
           "source": "知乎",
           "ranks": [
             9,
             14,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 07时01分]"
-        },
-        {
-          "title": "视频丨辽宁舰编队专业稳妥处置应对日本舰机滋扰挑衅，画面公布",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33428369",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
             18
           ],
           "is_new": false,
@@ -861,27 +953,28 @@
           "time_info": "[02时05分 ~ 05时20分]"
         },
         {
-          "title": "钧正平评日本旭日旗现身世界杯看台",
-          "url": "https://www.baidu.com/s?wd=%E9%92%A7%E6%AD%A3%E5%B9%B3%E8%AF%84%E6%97%A5%E6%9C%AC%E6%97%AD%E6%97%A5%E6%97%97%E7%8E%B0%E8%BA%AB%E4%B8%96%E7%95%8C%E6%9D%AF%E7%9C%8B%E5%8F%B0",
-          "source": "百度热搜",
+          "title": "泳装屈原!日本手游整狠活",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355298&amp;topic_name=%E6%B3%B3%E8%A3%85%E5%B1%88%E5%8E%9F%21%E6%97%A5%E6%9C%AC%E6%89%8B%E6%B8%B8%E6%95%B4%E7%8B%A0%E6%B4%BB",
+          "source": "贴吧",
           "ranks": [
-            29,
-            28
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时05分 ~ 05时20分]"
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 08时15分]"
         },
         {
           "title": "黑石集团总裁Jon Gray：投资日本（多个）数据中心。（日经新闻）",
           "url": "https://wallstreetcn.com/livenews/3123060",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时15分]"
         },
         {
           "title": "钧正平：日本铁了心走军国主义不归路",
@@ -893,17 +986,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时05分 ~ 02时06分]"
-        },
-        {
-          "title": "泳装屈原!日本手游整狠活",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355298&amp;topic_name=%E6%B3%B3%E8%A3%85%E5%B1%88%E5%8E%9F%21%E6%97%A5%E6%9C%AC%E6%89%8B%E6%B8%B8%E6%95%B4%E7%8B%A0%E6%B4%BB",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
         },
         {
           "title": "报道：日本财务大臣与贝森特紧急举行线上会议",
@@ -920,8 +1002,19 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "【早报】SpaceX三日暴跌23%；油价下挫、金价收涨；梅西梅开二度，加冕世界杯历史射手王",
+          "url": "https://www.cls.cn/detail/2406212",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
         {
           "title": "香港机场黄金劫案4人潜逃至内地",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%9C%BA%E5%9C%BA%E9%BB%84%E9%87%91%E5%8A%AB%E6%A1%884%E4%BA%BA%E6%BD%9C%E9%80%83%E8%87%B3%E5%86%85%E5%9C%B0%23&t=31&band_rank=26&Refer=top",
@@ -932,6 +1025,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时05分 ~ 07时01分]"
+        },
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.713吨，当前持仓量为1022.204吨。",
+          "url": "https://flash.jin10.com/detail/20260623062151398800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时01分 ~ 08时15分]"
         },
         {
           "title": "现货黄金涨约0.9%，亚太早盘一度突破4220美元",
@@ -946,15 +1051,26 @@
           "time_info": "[05时20分 ~ 07时01分]"
         },
         {
-          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加1.713吨，当前持仓量为1022.204吨。",
-          "url": "https://flash.jin10.com/detail/20260623062151398800",
+          "title": "金店老板称金价将跌到100美元",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E5%BA%97%E8%80%81%E6%9D%BF%E7%A7%B0%E9%87%91%E4%BB%B7%E5%B0%86%E8%B7%8C%E5%88%B0100%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
+        {
+          "title": "华尔街五大行罕见同调：黄金短期没戏！",
+          "url": "https://flash.jin10.com/detail/20260623074217257800",
           "source": "金十数据",
           "ranks": [
-            3
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时01分"
+          "time_info": "08时15分"
         },
         {
           "title": "美国商品期货交易委员会（CFTC）：6月16日当周，投机者所持COMEX黄金净多头头寸减少5,322手合约，至117,885手合约。 所持NYMEX汽油净多头头寸增加至67,676手合约。 所持NYMEX天然气净空头头寸减少至15,985手合约。",
@@ -971,8 +1087,30 @@
     },
     {
       "keyword_group": "谷歌",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "郭明錤：联发科赢得谷歌升级版TPU芯片订单",
+          "url": "https://wallstreetcn.com/livenews/3123077",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时15分"
+        },
+        {
+          "title": "OpenAI、Anthropic左右开弓挖人 谷歌遭遇近一年最惨一跌",
+          "url": "https://www.cls.cn/detail/2406155",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时14分 ~ 08时15分]"
+        },
         {
           "title": "谷歌Deepmind与24A构建研究领域的合作伙伴。 谷歌公司已经投资该公司。",
           "url": "https://wallstreetcn.com/livenews/3122970",
@@ -1049,8 +1187,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时05分 ~ 07时01分]"
+          "appearance_count": 7,
+          "time_info": "[02时05分 ~ 08时15分]"
         }
       ]
     }
