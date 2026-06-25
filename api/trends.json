@@ -1,11 +1,888 @@
 {
-  "generated_at": "2026-06-25T19:14:07.804967+08:00",
-  "total_titles_processed": 1263,
+  "generated_at": "2026-06-25T21:34:37.619729+08:00",
+  "total_titles_processed": 1416,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "美国",
+      "match_count": 78,
+      "titles": [
+        {
+          "title": "岚目镜观｜“我是谁？”：250岁的美国面临自我审判（上）",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33438057",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时29分 ~ 08时05分]"
+        },
+        {
+          "title": "美国“拉清单”，商务部：中方不得不进行反制",
+          "url": "https://news.ifeng.com/c/8uFIipRhCrV",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时34分]"
+        },
+        {
+          "title": "美国画饼，欧盟走过场，立陶宛挑衅中国最后却落得一地尴尬",
+          "url": "https://news.ifeng.com/c/8uFRcPy7a64",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时34分]"
+        },
+        {
+          "title": "高通承认：受制于美国，要为中国定制芯片",
+          "url": "https://news.ifeng.com/c/8uFFpyMCBmU",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时34分]"
+        },
+        {
+          "title": "伊朗：签谅解备忘录表明“美国战败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时29分 ~ 05时10分]"
+        },
+        {
+          "title": "如何看待本次美国世界杯场馆没有遮雨棚，比赛期间暴雨所有观众和媒体都被惨浇，不装顶棚是因为气候还是成本？",
+          "url": "https://www.zhihu.com/question/2052696986457827081",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时46分 ~ 12时42分]"
+        },
+        {
+          "title": "澳门APEC旅游部长会议开幕，美国自己缺席还怪上了中国",
+          "url": "https://news.ifeng.com/c/8uFMpMPmLTm",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时34分]"
+        },
+        {
+          "title": "过去两个月，美国一直在“玩”国民党",
+          "url": "https://news.ifeng.com/c/8uFRMtPmJ4I",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时34分]"
+        },
+        {
+          "title": "美国地质勘探局：委内瑞拉发生地震后，预计可能出现大量人员伤亡和大范围破坏。",
+          "url": "https://flash.jin10.com/detail/20260625074342619800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "诺和诺德美国主管Jamey Millar：选择GLP-1口服药而非注射剂的Medicare（美国联邦医疗保险）患者数量是选择后者的两倍。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3124170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时29分 ~ 03时12分]"
+        },
+        {
+          "title": "消息人士：美国将在北约峰会前推进向土耳其出售飞机发动机的计划",
+          "url": "https://flash.jin10.com/detail/20260625023601591800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "委内瑞拉发生7级左右地震，美国发布海啸预警",
+          "url": "https://wallstreetcn.com/livenews/3124267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "美国海啸警报：在委内瑞拉地震震中300公里范围内的沿海地区可能出现危险海啸波。",
+          "url": "https://flash.jin10.com/detail/20260625062437881800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 08时05分]"
+        },
+        {
+          "title": "委内瑞拉发生7级左右地震 美国发布海啸预警",
+          "url": "https://flash.jin10.com/detail/20260625062330435800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 08时05分]"
+        },
+        {
+          "title": "墨西哥延长对部分美国钢管进口的关税",
+          "url": "https://wallstreetcn.com/livenews/3124698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国海啸预警系统：委内瑞拉地震后，波多黎各和维尔京群岛面临海啸威胁。",
+          "url": "https://flash.jin10.com/detail/20260625062012085800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 08时05分]"
+        },
+        {
+          "title": "美国地质勘探局：委内瑞拉莫龙地区发生7.1级地震。",
+          "url": "https://flash.jin10.com/detail/20260625061828637800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 08时05分]"
+        },
+        {
+          "title": "美国海啸预警系统：在委内瑞拉沿海地震后发布海啸威胁警报。",
+          "url": "https://flash.jin10.com/detail/20260625061700386800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时46分 ~ 08时05分]"
+        },
+        {
+          "title": "美国至6月24日5年期国债竞拍-投标倍数 2.35，前值2.34。",
+          "url": "https://flash.jin10.com/detail/20260625010209087800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "阿里巴巴：已起诉美国防部",
+          "url": "https://news.ifeng.com/c/8uEiZz6FzIt",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美国至6月24日5年期国债竞拍-得标利率配置百分比 86.81%，前值75.22%。",
+          "url": "https://flash.jin10.com/detail/20260625010209065800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美国5月耐用品订单速评",
+          "url": "https://wallstreetcn.com/livenews/3124700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "委内瑞拉发生7级左右地震，美国发布海啸预警",
+          "url": "https://news.ifeng.com/c/8uEcsuaZvzw",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美国至6月24日5年期国债竞拍-得标利率 4.2%，前值4.18%。",
+          "url": "https://flash.jin10.com/detail/20260625010209056800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "受美国出口增长带动 英国汽车产量在5月首次回升",
+          "url": "https://flash.jin10.com/detail/20260625072621553800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美国海啸预警系统：委内瑞拉地震不再构成海啸威胁。",
+          "url": "https://flash.jin10.com/detail/20260625072009487800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美国5月PCE物价指数速评",
+          "url": "https://wallstreetcn.com/livenews/3124693",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国能源部长赖特：通过创新性的回补方式，战略石油储备（SPR）规模有望达到5亿桶。",
+          "url": "https://flash.jin10.com/detail/20260625005652576800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美国第一季度GDP增速由1.6%上修至2.1%",
+          "url": "https://flash.jin10.com/detail/20260625205844644800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "阿里巴巴已起诉美国国防部",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%B7%B2%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "美国能源部长赖特：预计在本届政府任期内能够将委内瑞拉的石油出口量提高至每天200万桶。",
+          "url": "https://flash.jin10.com/detail/20260625005637883800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "伊朗外长表示，意大利方面不认同北约秘书长有关美国使用军事基地的相关言论。",
+          "url": "https://flash.jin10.com/detail/20260625205822036800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国交通部：2026年头三个月美国国内机票价格上涨4.7%。",
+          "url": "https://flash.jin10.com/detail/20260625022212131800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "阿里巴巴证实：已起诉美国防部",
+          "url": "https://flash.jin10.com/detail/20260625064643362800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美国5月PCE重回“4字头”！高通胀下美联储紧缩压力恐上升",
+          "url": "https://flash.jin10.com/detail/20260625205704033800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国能源部长Wright：预计今年稍晚将前往委内瑞拉。",
+          "url": "https://wallstreetcn.com/livenews/3124161",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美国国家运输安全委员会（NTSB）：将在30天内初步形成特斯拉撞车事故的初步（调查）报告。 将调查驾驶员（对于驾车）的参与程度和（特斯拉的）自动驾驶技术。",
+          "url": "https://wallstreetcn.com/livenews/3124187",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "保护消费者免受数据中心成本影响的美国法案获推进",
+          "url": "https://wallstreetcn.com/livenews/3124253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "据美国USGS：委内瑞拉Moron西南方向16公里发生7.5级地震。",
+          "url": "https://wallstreetcn.com/livenews/3124286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美国5月个人收入环比 0.7%，预期 0.4%，前值 0%。",
+          "url": "https://wallstreetcn.com/livenews/3124687",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "鲁比奥称美国不会不惜一切代价同伊朗达成协议",
+          "url": "https://wallstreetcn.com/livenews/3124607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "美国5月PCE物价指数同比 4.1%，预期 4.1%，前值 3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3124686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国能源部长赖特：霍尔木兹恢复正常还需要几周时间。",
+          "url": "https://flash.jin10.com/detail/20260625004916753800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美国能源部长Wright：通过“创造性的”回填，战略石油储备（SPR）可能会达到5亿桶。",
+          "url": "https://wallstreetcn.com/livenews/3124158",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美联储理事库克并未置评美国经济前景或FOMC货币政策。",
+          "url": "https://wallstreetcn.com/livenews/3124184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "Hertz Global（HTZ）股价下跌41%，创该公司美国IPO以来最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3124224",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美国一季度个人消费支出(PCE)年化季环比终值 0.5%，预期 1.4%，初值 1.4%。",
+          "url": "https://wallstreetcn.com/livenews/3124685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "阿里巴巴对美国国防部提起诉讼",
+          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E6%8F%90%E8%B5%B7%E8%AF%89%E8%AE%BC",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美国5月个人消费支出(PCE)环比 -0.7%，预期 0.6%，前值 0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3124684",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国能源部长赖特：即使与伊朗没有达成协议，美国也将确保霍尔木兹海峡的石油流动。",
+          "url": "https://flash.jin10.com/detail/20260625004515852800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美国能源部长Wright：过去24小时，大约72艘船只通过霍尔木兹海峡。 霍尔木兹岛需要“几周时间”才能恢复正常秩序。",
+          "url": "https://wallstreetcn.com/livenews/3124156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "迄今最大规模：美国得州一农场确诊4例螺旋蝇病例",
+          "url": "https://wallstreetcn.com/livenews/3124281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美国5月实际个人消费支出(PCE)环比 0.3%，预期 0.2%，前值 0.1%。",
+          "url": "https://wallstreetcn.com/livenews/3124683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国一季度核心个人消费支出(PCE)物价指数年化季环比终值 4.4%，预期 4.4%，初值 4.4%。",
+          "url": "https://wallstreetcn.com/livenews/3124682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国能源部长赖特：伊朗将无法阻止霍尔木兹海峡的通行。",
+          "url": "https://flash.jin10.com/detail/20260625004326808800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "以色列已部分撤军？美国高调证实，但黎巴嫩称未见大规模动作！",
+          "url": "https://flash.jin10.com/detail/20260625184700978800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时14分"
+        },
+        {
+          "title": "美国初请失业金人数下降 裁员仍处低位",
+          "url": "https://flash.jin10.com/detail/20260625205206359800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "阿里巴巴证实：已起诉美国防部",
+          "url": "https://wallstreetcn.com/livenews/3124279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时05分"
+        },
+        {
+          "title": "美国5月核心PCE物价指数环比 0.3%，预期 0.3%，前值 0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3124681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国能源部长赖特：由于霍尔木兹海峡存在伊朗布设的水雷，石油运输恢复正常的时间有所推迟。",
+          "url": "https://flash.jin10.com/detail/20260625004322934800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美国5月核心PCE物价指数同比 3.41%，预期 3.4%，前值由 3.3% 修正为 3.29%。",
+          "url": "https://wallstreetcn.com/livenews/3124680",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国商品期货交易委员会（CFTC）起诉肯塔基州，指控当地州政府手伸得太长，触碰到归CFTC监管的预测市场行业。",
+          "url": "https://wallstreetcn.com/livenews/3124177",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "美国国会议员预测市场禁令获众议院关键委员会批准",
+          "url": "https://wallstreetcn.com/livenews/3124216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时10分"
+        },
+        {
+          "title": "美国一季度GDP平减指数年化季环比终值 3.6，预期 3.5，初值 3.5。",
+          "url": "https://wallstreetcn.com/livenews/3124679",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国七年期国债收益率跌10个基点，报4.27%。",
+          "url": "https://wallstreetcn.com/livenews/3124176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "美国一季度实际GDP年化季环比终值 2.1%，预期 1.6%，初值 1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3124677",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "据墨西哥《政府公报》，墨西哥将对美国碳钢管进口产品实施的反倾销税延长五年。",
+          "url": "https://flash.jin10.com/detail/20260625204907464800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "加拿大央行会议纪要：不利的美国墨西哥加拿大贸易协议（USMCA）评审结果可能会加重经济困境，其对就业和投资的影响可能会更广泛地波及加拿大整体经济。 USMCA谈判若能取得有利结果，将有助于恢复部分确定性，并有望提振投资。 一季度GDP数据中，最大的意外是政府开支。 经济表现疲软，处于供大于求的状态，劳动力市场存在闲置产能，但经济并未陷入衰退。 重申央行将看淡油价对通胀的短期影响。 委员们一致同意，如果通胀数据开始显示通胀压力正在蔓延的证据，这将表明有必要收紧货币政策。 管理委员会成员一致认为，货币政策需要保持灵活性，当前的经济形势给货币政策制定带来了两难困境。",
+          "url": "https://wallstreetcn.com/livenews/3124175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时12分"
+        },
+        {
+          "title": "美国5月PCE物价指数环比 0.4%，预期 0.5%，前值 0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3124678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国5月扣除运输类耐用品订单环比初值 1.3%，预期 0.5%，前值 1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3124676",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国6月20日当周首次申请失业救济人数 21.5万人，预期 22.5万人，前值 22.6万人。",
+          "url": "https://wallstreetcn.com/livenews/3124675",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国6月13日当周续请失业救济人数 182.1万人，预期 180.2万人，前值 181万人。",
+          "url": "https://wallstreetcn.com/livenews/3124674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "“美联储传声筒”Nick Timiraos：一些将美国PPI和CPI数据换算为5月PCE的预测人士预计，美国核心PCE将录得较强读数，并且与CPI之间的差距（分歧）较大，预计在周四公布时，核心PCE同比增速将达到3.4%。",
+          "url": "https://flash.jin10.com/detail/20260625045849924800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时46分"
+        },
+        {
+          "title": "美国国务卿卢比奥：霍尔木兹海峡不会收取费用。 （美国与伊朗的）技术团队将恢复对话，我相信会在6月30日（重新对话）。 技术性磋商是工作人员层面的。",
+          "url": "https://wallstreetcn.com/livenews/3124146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美国5月扣除飞机非国防资本耐用品订单环比初值 1.6%，预期 0.6%，前值 -1%。",
+          "url": "https://wallstreetcn.com/livenews/3124673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国少女遭性侵被囚烘干机",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%91%E5%A5%B3%E9%81%AD%E6%80%A7%E4%BE%B5%E8%A2%AB%E5%9B%9A%E7%83%98%E5%B9%B2%E6%9C%BA%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国5月耐用品订单环比初值 -4.5%，预期 -5%，前值 8%。",
+          "url": "https://wallstreetcn.com/livenews/3124672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "美国5月芝加哥联储全国活动指数 -0.1，前值 0.14。",
+          "url": "https://wallstreetcn.com/livenews/3124671",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
-      "match_count": 66,
+      "match_count": 70,
       "titles": [
         {
           "title": "GTA6开预购,80美元买空气",
@@ -18,8 +895,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时29分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[01时29分 ~ 21时34分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -31,6 +908,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时29分 ~ 06时46分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 21时34分]"
         },
         {
           "title": "布油3月以来首次失守75美元！霍尔木兹持续通航推低战事溢价",
@@ -47,17 +936,6 @@
           "time_info": "[05时09分 ~ 12时42分]"
         },
         {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 19时14分]"
-        },
-        {
           "title": "怎么看待《GTA6》标准版售价 79.99 美元，终极版售价 99.99 美元，价格高了还是低了?",
           "url": "https://www.zhihu.com/question/2053231216510374205",
           "source": "知乎",
@@ -69,13 +947,24 @@
           "time_info": "[19时13分 ~ 19时14分]"
         },
         {
+          "title": "现货钯金上涨3%，报每盎司1,201.05美元。",
+          "url": "https://flash.jin10.com/detail/20260625210602692800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "黑莓预计全年营收5.94亿美元至6.21亿美元，预估6.019亿美元。 预计全年调整后EBITDA 1.19亿美元至1.39亿美元。 预计全年经调整基本每股收益0.16美元至0.20美元，预估0.18美元。",
           "url": "https://wallstreetcn.com/livenews/3124628",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -138,6 +1027,17 @@
           "time_info": "[12时42分 ~ 16时20分]"
         },
         {
+          "title": "纽约期银日内涨幅达1.00%，现报58.68美元/盎司；纽约期金日内涨超1.00%，现报4049.00美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260625210314683800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "摩根大通将美光科技目标价从550美元上调至1540美元。 Susquehanna将美光科技目标价从1750美元上调至2000美元。 D.A. Davidson将美光科技目标价从1500美元上调至2000美元。",
           "url": "https://wallstreetcn.com/livenews/3124441",
           "source": "华尔街见闻-快讯",
@@ -147,6 +1047,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "现货白银日内涨幅达2.00%，现报58.62美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20260625210303401800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "WTI 7月原油期货收跌2.87美元，跌幅3.92%，报70.34美元/桶。 NYMEX 7月天然气期货收报3.2210美元/百万英热单位。 NYMEX 7月汽油期货收报2.8818美元/加仑，NYMEX 7月取暖油期货收报3.1762美元/加仑。",
@@ -204,6 +1115,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 08时05分]"
+        },
+        {
+          "title": "现货白银日内涨幅达1.0%，报58.03美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3124697",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "亚马逊(AMZN.O)：2010至2030年在印度累计投资将超880亿美元。",
@@ -300,7 +1222,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -454,7 +1376,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -553,7 +1475,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -597,7 +1519,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -608,7 +1530,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -718,7 +1640,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -748,7 +1670,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -783,8 +1705,33 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 21时34分]"
+        },
+        {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            19,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 21时34分]"
+        },
+        {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时20分 ~ 19时14分]"
+          "time_info": "[19时13分 ~ 21时34分]"
         },
         {
           "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
@@ -797,18 +1744,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时20分 ~ 19时14分]"
-        },
-        {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            19,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时42分 ~ 19时14分]"
         },
         {
           "title": "美国总统特朗普：进展非常顺利。",
@@ -831,6 +1766,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "美国白宫：特朗普将于7月3日出席在拉什莫尔山的活动。",
+          "url": "https://wallstreetcn.com/livenews/3124705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "美国总统特朗普：伊朗正在做出非常大的让步。",
@@ -878,17 +1824,6 @@
           "time_info": "05时10分"
         },
         {
-          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
-          "url": "https://www.cls.cn/detail/2408936",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
           "title": "美国总统特朗普：（关于英国首相潜在继任者伯纳姆）我听说他非常自由派，非常。因此，这意味着他可能不会开放北海。",
           "url": "https://flash.jin10.com/detail/20260625044044047800",
           "source": "金十数据",
@@ -928,7 +1863,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -1331,598 +2266,8 @@
       ]
     },
     {
-      "keyword_group": "美国",
-      "match_count": 52,
-      "titles": [
-        {
-          "title": "岚目镜观｜“我是谁？”：250岁的美国面临自我审判（上）",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33438057",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            16,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时29分 ~ 08时05分]"
-        },
-        {
-          "title": "伊朗：签谅解备忘录表明“美国战败”",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时29分 ~ 05时10分]"
-        },
-        {
-          "title": "美国“拉清单”，商务部：中方不得不进行反制",
-          "url": "https://news.ifeng.com/c/8uFIipRhCrV",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
-          "title": "如何看待本次美国世界杯场馆没有遮雨棚，比赛期间暴雨所有观众和媒体都被惨浇，不装顶棚是因为气候还是成本？",
-          "url": "https://www.zhihu.com/question/2052696986457827081",
-          "source": "知乎",
-          "ranks": [
-            8,
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时46分 ~ 12时42分]"
-        },
-        {
-          "title": "美国画饼，欧盟走过场，立陶宛挑衅中国最后却落得一地尴尬",
-          "url": "https://news.ifeng.com/c/8uFRcPy7a64",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
-          "title": "高通承认：受制于美国，要为中国定制芯片",
-          "url": "https://news.ifeng.com/c/8uFFpyMCBmU",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
-          "title": "美国地质勘探局：委内瑞拉发生地震后，预计可能出现大量人员伤亡和大范围破坏。",
-          "url": "https://flash.jin10.com/detail/20260625074342619800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "诺和诺德美国主管Jamey Millar：选择GLP-1口服药而非注射剂的Medicare（美国联邦医疗保险）患者数量是选择后者的两倍。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3124170",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时29分 ~ 03时12分]"
-        },
-        {
-          "title": "消息人士：美国将在北约峰会前推进向土耳其出售飞机发动机的计划",
-          "url": "https://flash.jin10.com/detail/20260625023601591800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "委内瑞拉发生7级左右地震，美国发布海啸预警",
-          "url": "https://wallstreetcn.com/livenews/3124267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国海啸警报：在委内瑞拉地震震中300公里范围内的沿海地区可能出现危险海啸波。",
-          "url": "https://flash.jin10.com/detail/20260625062437881800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 08时05分]"
-        },
-        {
-          "title": "委内瑞拉发生7级左右地震 美国发布海啸预警",
-          "url": "https://flash.jin10.com/detail/20260625062330435800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 08时05分]"
-        },
-        {
-          "title": "澳门APEC旅游部长会议开幕，美国自己缺席还怪上了中国",
-          "url": "https://news.ifeng.com/c/8uFMpMPmLTm",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
-          "title": "过去两个月，美国一直在“玩”国民党",
-          "url": "https://news.ifeng.com/c/8uFRMtPmJ4I",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
-          "title": "美国海啸预警系统：委内瑞拉地震后，波多黎各和维尔京群岛面临海啸威胁。",
-          "url": "https://flash.jin10.com/detail/20260625062012085800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 08时05分]"
-        },
-        {
-          "title": "美国地质勘探局：委内瑞拉莫龙地区发生7.1级地震。",
-          "url": "https://flash.jin10.com/detail/20260625061828637800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 08时05分]"
-        },
-        {
-          "title": "美国海啸预警系统：在委内瑞拉沿海地震后发布海啸威胁警报。",
-          "url": "https://flash.jin10.com/detail/20260625061700386800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时46分 ~ 08时05分]"
-        },
-        {
-          "title": "美国至6月24日5年期国债竞拍-投标倍数 2.35，前值2.34。",
-          "url": "https://flash.jin10.com/detail/20260625010209087800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "阿里巴巴：已起诉美国防部",
-          "url": "https://news.ifeng.com/c/8uEiZz6FzIt",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "美国至6月24日5年期国债竞拍-得标利率配置百分比 86.81%，前值75.22%。",
-          "url": "https://flash.jin10.com/detail/20260625010209065800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "委内瑞拉发生7级左右地震，美国发布海啸预警",
-          "url": "https://news.ifeng.com/c/8uEcsuaZvzw",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "美国至6月24日5年期国债竞拍-得标利率 4.2%，前值4.18%。",
-          "url": "https://flash.jin10.com/detail/20260625010209056800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "受美国出口增长带动 英国汽车产量在5月首次回升",
-          "url": "https://flash.jin10.com/detail/20260625072621553800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "美国海啸预警系统：委内瑞拉地震不再构成海啸威胁。",
-          "url": "https://flash.jin10.com/detail/20260625072009487800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "美国能源部长赖特：通过创新性的回补方式，战略石油储备（SPR）规模有望达到5亿桶。",
-          "url": "https://flash.jin10.com/detail/20260625005652576800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "阿里巴巴已起诉美国国防部",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%B7%B2%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "美国能源部长赖特：预计在本届政府任期内能够将委内瑞拉的石油出口量提高至每天200万桶。",
-          "url": "https://flash.jin10.com/detail/20260625005637883800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国交通部：2026年头三个月美国国内机票价格上涨4.7%。",
-          "url": "https://flash.jin10.com/detail/20260625022212131800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "阿里巴巴证实：已起诉美国防部",
-          "url": "https://flash.jin10.com/detail/20260625064643362800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "美国能源部长Wright：预计今年稍晚将前往委内瑞拉。",
-          "url": "https://wallstreetcn.com/livenews/3124161",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国国家运输安全委员会（NTSB）：将在30天内初步形成特斯拉撞车事故的初步（调查）报告。 将调查驾驶员（对于驾车）的参与程度和（特斯拉的）自动驾驶技术。",
-          "url": "https://wallstreetcn.com/livenews/3124187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "保护消费者免受数据中心成本影响的美国法案获推进",
-          "url": "https://wallstreetcn.com/livenews/3124253",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "据美国USGS：委内瑞拉Moron西南方向16公里发生7.5级地震。",
-          "url": "https://wallstreetcn.com/livenews/3124286",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "鲁比奥称美国不会不惜一切代价同伊朗达成协议",
-          "url": "https://wallstreetcn.com/livenews/3124607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "美国能源部长赖特：霍尔木兹恢复正常还需要几周时间。",
-          "url": "https://flash.jin10.com/detail/20260625004916753800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国能源部长Wright：通过“创造性的”回填，战略石油储备（SPR）可能会达到5亿桶。",
-          "url": "https://wallstreetcn.com/livenews/3124158",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美联储理事库克并未置评美国经济前景或FOMC货币政策。",
-          "url": "https://wallstreetcn.com/livenews/3124184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "Hertz Global（HTZ）股价下跌41%，创该公司美国IPO以来最大单日跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3124224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "阿里巴巴对美国国防部提起诉讼",
-          "url": "https://www.baidu.com/s?wd=%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%E6%8F%90%E8%B5%B7%E8%AF%89%E8%AE%BC",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "美国能源部长赖特：即使与伊朗没有达成协议，美国也将确保霍尔木兹海峡的石油流动。",
-          "url": "https://flash.jin10.com/detail/20260625004515852800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国能源部长Wright：过去24小时，大约72艘船只通过霍尔木兹海峡。 霍尔木兹岛需要“几周时间”才能恢复正常秩序。",
-          "url": "https://wallstreetcn.com/livenews/3124156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "迄今最大规模：美国得州一农场确诊4例螺旋蝇病例",
-          "url": "https://wallstreetcn.com/livenews/3124281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "美国能源部长赖特：伊朗将无法阻止霍尔木兹海峡的通行。",
-          "url": "https://flash.jin10.com/detail/20260625004326808800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "以色列已部分撤军？美国高调证实，但黎巴嫩称未见大规模动作！",
-          "url": "https://flash.jin10.com/detail/20260625184700978800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "阿里巴巴证实：已起诉美国防部",
-          "url": "https://wallstreetcn.com/livenews/3124279",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时05分"
-        },
-        {
-          "title": "美国能源部长赖特：由于霍尔木兹海峡存在伊朗布设的水雷，石油运输恢复正常的时间有所推迟。",
-          "url": "https://flash.jin10.com/detail/20260625004322934800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        },
-        {
-          "title": "美国商品期货交易委员会（CFTC）起诉肯塔基州，指控当地州政府手伸得太长，触碰到归CFTC监管的预测市场行业。",
-          "url": "https://wallstreetcn.com/livenews/3124177",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "美国国会议员预测市场禁令获众议院关键委员会批准",
-          "url": "https://wallstreetcn.com/livenews/3124216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
-        {
-          "title": "美国七年期国债收益率跌10个基点，报4.27%。",
-          "url": "https://wallstreetcn.com/livenews/3124176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "加拿大央行会议纪要：不利的美国墨西哥加拿大贸易协议（USMCA）评审结果可能会加重经济困境，其对就业和投资的影响可能会更广泛地波及加拿大整体经济。 USMCA谈判若能取得有利结果，将有助于恢复部分确定性，并有望提振投资。 一季度GDP数据中，最大的意外是政府开支。 经济表现疲软，处于供大于求的状态，劳动力市场存在闲置产能，但经济并未陷入衰退。 重申央行将看淡油价对通胀的短期影响。 委员们一致同意，如果通胀数据开始显示通胀压力正在蔓延的证据，这将表明有必要收紧货币政策。 管理委员会成员一致认为，货币政策需要保持灵活性，当前的经济形势给货币政策制定带来了两难困境。",
-          "url": "https://wallstreetcn.com/livenews/3124175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "“美联储传声筒”Nick Timiraos：一些将美国PPI和CPI数据换算为5月PCE的预测人士预计，美国核心PCE将录得较强读数，并且与CPI之间的差距（分歧）较大，预计在周四公布时，核心PCE同比增速将达到3.4%。",
-          "url": "https://flash.jin10.com/detail/20260625045849924800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时46分"
-        },
-        {
-          "title": "美国国务卿卢比奥：霍尔木兹海峡不会收取费用。 （美国与伊朗的）技术团队将恢复对话，我相信会在6月30日（重新对话）。 技术性磋商是工作人员层面的。",
-          "url": "https://wallstreetcn.com/livenews/3124146",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "日本",
-      "match_count": 39,
+      "match_count": 42,
       "titles": [
         {
           "title": "2名日本人被中方拘留，外交部回应",
@@ -1983,6 +2328,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时29分 ~ 05时10分]"
+        },
+        {
+          "title": "主导电动车之后，中国发动机也对日本穷追不舍",
+          "url": "https://news.ifeng.com/c/8uFLQzUmjSj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时34分]"
         },
         {
           "title": "日本韩国世界杯死亡前景",
@@ -2056,15 +2412,15 @@
           "time_info": "[06时46分 ~ 08时05分]"
         },
         {
-          "title": "主导电动车之后，中国发动机也对日本穷追不舍",
-          "url": "https://news.ifeng.com/c/8uFLQzUmjSj",
-          "source": "凤凰网",
+          "title": "詹俊预测日本vs瑞典",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A9%B9%E4%BF%8A%E9%A2%84%E6%B5%8B%E6%97%A5%E6%9C%ACvs%E7%91%9E%E5%85%B8",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "日本内阁官房长官：核设施未发生异常情况，未出现伤亡。",
@@ -2249,9 +2605,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "日本vs瑞典",
+          "url": "https://www.douyin.com/hot/2547468",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "胶囊旅馆为什么在日本那么盛行，在中国却难以推广？",
@@ -2331,6 +2698,17 @@
           "time_info": "16时20分"
         },
         {
+          "title": "日本砸钱洗白二战侵略史",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E7%A0%B8%E9%92%B1%E6%B4%97%E7%99%BD%E4%BA%8C%E6%88%98%E4%BE%B5%E7%95%A5%E5%8F%B2",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "日本未来一周或再次强震",
           "url": "https://www.toutiao.com/trending/7655130295582215706/",
           "source": "今日头条",
@@ -2367,7 +2745,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 36,
       "titles": [
         {
           "title": "霓虹AI超美?实则组队打工仔",
@@ -2381,8 +2759,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时29分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[01时29分 ~ 21时34分]"
         },
         {
           "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
@@ -2397,6 +2775,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[03时12分 ~ 19时14分]"
+        },
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时05分 ~ 21时34分]"
         },
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
@@ -2449,19 +2840,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时29分 ~ 08时05分]"
-        },
-        {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 19时14分]"
         },
         {
           "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
@@ -2520,8 +2898,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 21时34分]"
+        },
+        {
+          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
+          "url": "https://www.cls.cn/detail/2409082",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时20分 ~ 19时14分]"
+          "time_info": "[19时13分 ~ 21时34分]"
         },
         {
           "title": "用AI小卡应援世界杯",
@@ -2549,6 +2939,18 @@
           "time_info": "[01时29分 ~ 05时10分]"
         },
         {
+          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时34分]"
+        },
+        {
           "title": "建议大家不要和AI太好了",
           "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%92%8CAI%E5%A4%AA%E5%A5%BD%E4%BA%86&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -2572,17 +2974,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时29分 ~ 08时05分]"
-        },
-        {
-          "title": "一图看懂 | AI赛道利润格局“大洗牌”，上游材料躺赚红利",
-          "url": "https://www.cls.cn/detail/2409082",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "AI时代计算机专业怎么选",
@@ -2619,17 +3010,6 @@
           "time_info": "12时42分"
         },
         {
-          "title": "黄仁勋：AI已正式进入获利阶段，本轮AI基建周期达数十年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33449692",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
-        },
-        {
           "title": "美光强劲财报引爆芯片股盘后行情 高通AI前景助推股价飙升",
           "url": "https://flash.jin10.com/detail/20260625061135675800",
           "source": "金十数据",
@@ -2640,6 +3020,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时46分 ~ 08时05分]"
+        },
+        {
+          "title": "“AI教母”李飞飞：未来的职场将只剩下这两种人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33450214",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "黄仁勋：本轮AI基建周期长达数十年",
@@ -2662,6 +3053,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "【每日收评】创业板指涨近3%，两市成交额再超3.5万亿，半导体、AI硬件持续爆发",
+          "url": "https://www.cls.cn/detail/2409159",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "美国参议员沃伦将呼吁对AI进行反垄断审查和改革并购审查机制",
@@ -2695,6 +3097,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时05分"
+        },
+        {
+          "title": "你对AI脸产生生理性厌恶了吗",
+          "url": "https://www.baidu.com/s?wd=%E4%BD%A0%E5%AF%B9AI%E8%84%B8%E4%BA%A7%E7%94%9F%E7%94%9F%E7%90%86%E6%80%A7%E5%8E%8C%E6%81%B6%E4%BA%86%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "SpaceX投资者Andreessen：“星舰”为太空AI发展铺平了道路",
@@ -2766,7 +3179,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 26,
+      "match_count": 32,
       "titles": [
         {
           "title": "黄金跌破4000美元关口 美元走强与加息预期重创贵金属市场",
@@ -2782,6 +3195,31 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时29分 ~ 12时42分]"
+        },
+        {
+          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
+          "url": "https://wallstreetcn.com/articles/3775429",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时05分 ~ 21时34分]"
+        },
+        {
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时42分 ~ 21时34分]"
         },
         {
           "title": "黄金跌破 4000 美元，白银跌破 60 美元，近 7 个月入场的投资者都已被套，普通投资者该如何应对？",
@@ -2809,31 +3247,6 @@
           "time_info": "[01时29分 ~ 05时10分]"
         },
         {
-          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
-          "url": "https://wallstreetcn.com/articles/3775429",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时05分 ~ 19时14分]"
-        },
-        {
-          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时42分 ~ 19时14分]"
-        },
-        {
           "title": "【早报】美股芯片股盘后逆袭，美光、高通大涨16%；多资产集体跳水！黄金跌破4000美元、原油暴跌、比特币下探59000美元",
           "url": "https://www.cls.cn/detail/2408547",
           "source": "财联社热门",
@@ -2844,6 +3257,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时05分 ~ 16时20分]"
+        },
+        {
+          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
+          "url": "https://www.zhihu.com/question/2053415711725151834",
+          "source": "知乎",
+          "ranks": [
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 21时34分]"
         },
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -2883,16 +3308,16 @@
           "time_info": "[01时29分 ~ 03时12分]"
         },
         {
-          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
-          "url": "https://www.zhihu.com/question/2053415711725151834",
-          "source": "知乎",
+          "title": "跌破4000美元！现货黄金价格创去年11月初以来新低",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446231",
+          "source": "澎湃新闻",
           "ranks": [
-            13,
-            17
+            20,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时20分 ~ 19时14分]"
+          "time_info": "[19时13分 ~ 21时34分]"
         },
         {
           "title": "科技股承压，美股指涨跌互现，美债美元齐涨，黄金暴跌，美光盘后暴涨12%",
@@ -2918,6 +3343,17 @@
           "time_info": "[06时46分 ~ 08时05分]"
         },
         {
+          "title": "黄金回到“8”字头 金店柜台被挤爆",
+          "url": "https://www.toutiao.com/trending/7654193215595970601/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "受美元走强及加息预期影响，金价收于4000美元下方",
           "url": "https://flash.jin10.com/detail/20260625023404741800",
           "source": "金十数据",
@@ -2927,17 +3363,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
-        },
-        {
-          "title": "跌破4000美元！现货黄金价格创去年11月初以来新低",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446231",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "黄金跌破4000美元可以抄底吗",
@@ -2962,6 +3387,39 @@
           "time_info": "03时12分"
         },
         {
+          "title": "经济数据提振，美股盘前上涨、存储板块走高，美光绩后大涨17%，黄金重回4000，白银转涨",
+          "url": "https://wallstreetcn.com/articles/3775470",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "现货黄金延续涨势，向上触及4020美元/盎司，日内涨0.49%。",
+          "url": "https://flash.jin10.com/detail/20260625210047184800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "俄罗斯至6月19日当周央行黄金和外汇储备 7438亿美元，前值7293亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625210004471800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
           "title": "金十图示：2026年06月25日（周四）黄金ETF持仓报告",
           "url": "https://flash.jin10.com/detail/20260625115153126800",
           "source": "金十数据",
@@ -2971,6 +3429,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "美元指数短线走低，美国国债、现货黄金上涨 通胀数据温和降低了加息预期",
+          "url": "https://wallstreetcn.com/livenews/3124689",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "金价跌至去年10月水平",
@@ -3001,9 +3470,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "初请数据公布后，黄金多头拉升，是反转还是反弹？金十VIP正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260625205215493800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "现货黄金跌破3960美元/盎司，日内跌3.64%。",
@@ -3075,8 +3555,20 @@
     },
     {
       "keyword_group": "谷歌",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时13分 ~ 21时34分]"
+        },
         {
           "title": "谷歌(GOOG.O)：将于今年晚些时候推出注册应用商店计划，以简化应用安装流程。",
           "url": "https://flash.jin10.com/detail/20260625190451794800",
@@ -3084,9 +3576,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
+        },
+        {
+          "title": "据The Information：谷歌(GOOG.O)计划重组人工智能编程“突击队”，旨在追赶Anthropic的步伐。",
+          "url": "https://flash.jin10.com/detail/20260625210533271800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
+        {
+          "title": "谷歌正对新的AI编码工具“突击队”进行重组",
+          "url": "https://wallstreetcn.com/livenews/3124704",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
         },
         {
           "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
@@ -3106,20 +3620,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
-        },
-        {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时13分 ~ 19时14分]"
         },
         {
           "title": "谷歌(GOOG.O)：英国开发者自6月30日起可享受更低的谷歌Play服务费用及自主计费选项。",
@@ -3128,7 +3631,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -3150,7 +3653,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         },
@@ -3268,7 +3771,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时14分"
         }
@@ -3314,6 +3817,45 @@
       ]
     },
     {
+      "keyword_group": "内存 存储颗粒",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国内存芯片股盘前走强，闪迪(SNDK.O)上涨12.4%，西部数据(WDC.O)上涨12.1%，希捷科技(STX.O)上涨8.7%。",
+          "url": "https://flash.jin10.com/detail/20260625160633975800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "摩根大通：内存作为通用人工智能中战略资产的作用依然不变",
+          "url": "https://flash.jin10.com/detail/20260625160535102800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "内存成本飙升，苹果上调MacBook和iPad价格，iPhone不受影响",
+          "url": "https://flash.jin10.com/detail/20260625205110003800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        }
+      ]
+    },
+    {
       "keyword_group": "CPU 英特尔",
       "match_count": 3,
       "titles": [
@@ -3322,11 +3864,12 @@
           "url": "https://wallstreetcn.com/articles/3775441",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时20分 ~ 19时14分]"
+          "appearance_count": 4,
+          "time_info": "[16时20分 ~ 21时34分]"
         },
         {
           "title": "高通数据中心主管：公司将于2028年中期推出数据中心CPU。",
@@ -3353,30 +3896,19 @@
       ]
     },
     {
-      "keyword_group": "内存 存储颗粒",
-      "match_count": 2,
+      "keyword_group": "DeepSeek",
+      "match_count": 1,
       "titles": [
         {
-          "title": "美国内存芯片股盘前走强，闪迪(SNDK.O)上涨12.4%，西部数据(WDC.O)上涨12.1%，希捷科技(STX.O)上涨8.7%。",
-          "url": "https://flash.jin10.com/detail/20260625160633975800",
-          "source": "金十数据",
+          "title": "屎山BUG半决赛之DeepSeek",
+          "url": "https://search.bilibili.com/all?keyword=%E5%B1%8E%E5%B1%B1BUG%E5%8D%8A%E5%86%B3%E8%B5%9B%E4%B9%8BDeepSeek",
+          "source": "bilibili 热搜",
           "ranks": [
-            15
+            27
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时20分"
-        },
-        {
-          "title": "摩根大通：内存作为通用人工智能中战略资产的作用依然不变",
-          "url": "https://flash.jin10.com/detail/20260625160535102800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
+          "time_info": "21时34分"
         }
       ]
     },
