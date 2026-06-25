@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T12:42:48.884292+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-06-25T16:20:30.188478+08:00",
+  "total_titles_processed": 1076,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美元",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "GTA6开预购,80美元买空气",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 12时42分]"
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 16时20分]"
         },
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
@@ -86,9 +87,32 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "怎么看待《GTA6》售价公布：标准版售价 79.99 美元，终极版售价 99.99 美元，价格高了还是低了?",
+          "url": "https://www.zhihu.com/question/2053231216510374205",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时20分]"
+        },
+        {
+          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
+          "url": "https://wallstreetcn.com/articles/3775448",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时20分]"
         },
         {
           "title": "摩根大通将美光科技目标价从550美元上调至1540美元。 Susquehanna将美光科技目标价从1750美元上调至2000美元。 D.A. Davidson将美光科技目标价从1500美元上调至2000美元。",
@@ -97,7 +121,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -111,6 +135,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "亚马逊宣布到2030年将在印度投资480亿美元",
+          "url": "https://wallstreetcn.com/livenews/3124535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "美财长贝森特：美元主导地位至关重要 降息未必会削弱美元",
+          "url": "https://www.cls.cn/detail/2408518",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时20分]"
         },
         {
           "title": "如何看待 Shams 报道，奥斯汀 - 里夫斯预计 4 年 1.85 亿美元顶薪续约湖人?",
@@ -136,15 +183,15 @@
           "time_info": "[06时46分 ~ 08时05分]"
         },
         {
-          "title": "手握千亿美元保底长单！美光电话会：内存已成AI时代战略资产，看不清供应何时才能赶上需求（附问答全文）",
-          "url": "https://wallstreetcn.com/articles/3775448",
-          "source": "华尔街见闻",
+          "title": "亚马逊(AMZN.O)：2010至2030年在印度累计投资将超880亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625161046577800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "16时20分"
         },
         {
           "title": "周三（6月24日），美联储隔夜逆回购协议（RRP）使用规模为45.34亿美元（交易对手7家），上个交易日报64.84亿美元。",
@@ -202,35 +249,13 @@
           "time_info": "08时05分"
         },
         {
-          "title": "怎么看待《GTA6》售价公布：标准版售价 79.99 美元，终极版售价 99.99 美元，价格高了还是低了?",
-          "url": "https://www.zhihu.com/question/2053231216510374205",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
           "title": "贝森特：伊朗谈判纳入美元结算要求，经济增长有望年内重返3%",
           "url": "https://wallstreetcn.com/articles/3775417",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "美财长贝森特：美元主导地位至关重要 降息未必会削弱美元",
-          "url": "https://www.cls.cn/detail/2408518",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -290,6 +315,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "亚马逊(AMZN.O)：到2030年，将额外投资130亿美元以扩展和支持印度的人工智能和云基础设施。",
+          "url": "https://flash.jin10.com/detail/20260625160809975800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "纽约银日内跌幅达10.0%，报56.26美元/盎司；现货白银日内跌幅达9.5%，报55.6美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3124188",
           "source": "华尔街见闻-快讯",
@@ -310,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "亚马逊(AMZN.O)首席执行官安迪·贾西在印度会见印度总理莫迪，宣布计划在2026年至2030年间向印度投资480亿美元。",
+          "url": "https://flash.jin10.com/detail/20260625160736146800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "数字货币市场快速下跌，比特币跌向5.9万美元",
@@ -340,7 +387,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -612,7 +659,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -696,6 +743,17 @@
           "time_info": "[05时10分 ~ 06时46分]"
         },
         {
+          "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
+          "url": "https://news.ifeng.com/c/8uFCJ6kPTr8",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "美国总统特朗普：今天，与多家石油公司会谈。 石油公司对汽油的降价力度还不够。 埃克森美孚、雪佛龙等多家公司正被调查，这是汽油价格飙涨问题的一部分。",
           "url": "https://wallstreetcn.com/livenews/3124237",
           "source": "华尔街见闻-快讯",
@@ -749,6 +807,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
+          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时20分]"
         },
         {
           "title": "美国总统特朗普：乌克兰总统泽连斯基表现得相当不错。",
@@ -812,9 +881,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "特朗普炮轰石油公司“宰客”：汽油价格降得太慢太少，要求司法部调查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33445001",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "据Punchbowl：一位共和党参议员形容特朗普的这次会议“更像是总统的一次发泄会”。",
@@ -839,15 +919,15 @@
           "time_info": "05时10分"
         },
         {
-          "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
-          "url": "https://news.ifeng.com/c/8uEoIOrELpr",
-          "source": "凤凰网",
+          "title": "欧盟在特朗普设定的最后期限前批准了与美国的贸易协定。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3124531",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时42分"
+          "time_info": "16时20分"
         },
         {
           "title": "市场消息：美国总统特朗普在与共和党议员进行午宴时，“90%”的时间都在抨击丽莎·穆尔科斯基、比尔·卡西迪和米奇·麦康奈尔这些“名义上的共和党人”（RINO）。",
@@ -878,7 +958,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -900,7 +980,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -914,6 +994,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：希望与伊朗的谈判能取得积极成果。 我们并不想不惜一切代价与伊朗达成协议。 霍尔木兹海峡不属于任何国家。 霍尔木兹海峡是国际水道。 对霍尔木兹海峡通行收费将开创不可接受的先例。 特朗普在通行收费问题上的立场一贯明确无误。",
+          "url": "https://wallstreetcn.com/livenews/3124528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "美国总统特朗普：与立法者进行了很好的会晤。",
@@ -955,7 +1046,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -966,7 +1057,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -988,7 +1079,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1010,7 +1101,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1021,7 +1112,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1032,7 +1123,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1054,9 +1145,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "被特朗普与国内右翼双重锁死，内塔尼亚胡底牌尽失？",
+          "url": "https://flash.jin10.com/detail/20260625160209183800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "特朗普回应拒签住房法案：比任何人都懂房地产 降息才是关键",
@@ -1117,7 +1219,7 @@
     },
     {
       "keyword_group": "美国",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "岚目镜观｜“我是谁？”：250岁的美国面临自我审判（上）",
@@ -1350,6 +1452,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "阿里巴巴已起诉美国国防部",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E5%B7%B2%E8%B5%B7%E8%AF%89%E7%BE%8E%E5%9B%BD%E5%9B%BD%E9%98%B2%E9%83%A8%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "美国能源部长赖特：预计在本届政府任期内能够将委内瑞拉的石油出口量提高至每天200万桶。",
@@ -1619,7 +1732,7 @@
     },
     {
       "keyword_group": "日本",
-      "match_count": 29,
+      "match_count": 35,
       "titles": [
         {
           "title": "2名日本人被中方拘留，外交部回应",
@@ -1791,7 +1904,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1813,7 +1926,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1829,15 +1942,37 @@
           "time_info": "08时05分"
         },
         {
+          "title": "日本韩国世界杯死亡前景",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%9F%A9%E5%9B%BD%E4%B8%96%E7%95%8C%E6%9D%AF%E6%AD%BB%E4%BA%A1%E5%89%8D%E6%99%AF%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "美地震学家：委内瑞拉、日本连发强震无关联",
           "url": "https://wallstreetcn.com/livenews/3124432",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "“印度设限挡不住中国车企进入，日本车企压力来了”",
+          "url": "https://news.ifeng.com/c/8uF0REWD0lE",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "日本近海6.9级地震 东京震感明显",
@@ -1879,9 +2014,31 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "胶囊旅馆为什么在日本那么盛行，在中国却难以推广？",
+          "url": "https://www.zhihu.com/question/20626290",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "索尼将终止在日本销售机器狗AIBO ERS-1000。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3124517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "据日本媒体25日报道，日本岩手县附近海域当天发生6.9级地震。",
@@ -1912,9 +2069,31 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "商务部回应近期日本经济界人士接连访华",
+          "url": "https://wallstreetcn.com/livenews/3124509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "日本本州7.1级地震",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E7.1%E7%BA%A7%E5%9C%B0%E9%9C%87%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "日本未来一周或再次强震",
@@ -1923,7 +2102,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -1945,7 +2124,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         }
@@ -1953,8 +2132,22 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 27,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "霓虹AI超美?实则组队打工仔",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
+          "source": "贴吧",
+          "ranks": [
+            8,
+            10,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时29分 ~ 16时20分]"
+        },
         {
           "title": "美光财报前瞻：AI存储龙头今夜迎大考，能否成科技股多头“定心丸”？",
           "url": "https://www.cls.cn/detail/2408054",
@@ -1966,6 +2159,20 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时29分 ~ 08时05分]"
+        },
+        {
+          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
+          "url": "https://wallstreetcn.com/articles/3775422",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时12分 ~ 16时20分]"
         },
         {
           "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
@@ -1980,19 +2187,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时29分 ~ 08时05分]"
-        },
-        {
-          "title": "霓虹AI超美?实则组队打工仔",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355608&amp;topic_name=%E9%9C%93%E8%99%B9AI%E8%B6%85%E7%BE%8E%3F%E5%AE%9E%E5%88%99%E7%BB%84%E9%98%9F%E6%89%93%E5%B7%A5%E4%BB%94",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时29分 ~ 12时42分]"
         },
         {
           "title": "用AI制作一部玄幻短片",
@@ -2019,20 +2213,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时29分 ~ 08时05分]"
-        },
-        {
-          "title": "美光财报今夜揭晓：AI交易临界点逼近，存储龙头能否延续超级周期？",
-          "url": "https://wallstreetcn.com/articles/3775422",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时12分 ~ 12时42分]"
         },
         {
           "title": "米游AI女友上线,玩家有福了",
@@ -2066,8 +2246,20 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时46分 ~ 16时20分]"
+        },
+        {
+          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3775443",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时46分 ~ 12时42分]"
+          "time_info": "[08时05分 ~ 16时20分]"
         },
         {
           "title": "用AI小卡应援世界杯",
@@ -2095,16 +2287,16 @@
           "time_info": "[01时29分 ~ 05时10分]"
         },
         {
-          "title": "美光季报炸裂！营收增超三倍、净利增近14倍，料AI存储供应紧张持续至2027年后 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3775443",
-          "source": "华尔街见闻",
+          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
+          "source": "澎湃新闻",
           "ranks": [
-            3,
-            2
+            10,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 16时20分]"
         },
         {
           "title": "“AI需求可见度”延伸至2028年！美银美林：存储在此之前不会“供过于求”，半导体设备将大幅增长",
@@ -2120,18 +2312,6 @@
           "time_info": "[01时29分 ~ 08时05分]"
         },
         {
-          "title": "财晓得丨豆包正式开始收费，AI公司都有哪些赚钱途径？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33359576",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时42分]"
-        },
-        {
           "title": "Hugging Face CEO：来自Hugging Face生态系统的AI模型计划将被集成并部署到高通平台上。",
           "url": "https://flash.jin10.com/detail/20260625044048197800",
           "source": "金十数据",
@@ -2143,13 +2323,24 @@
           "time_info": "05时10分"
         },
         {
+          "title": "AI机器女友发布,仿真拉满",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355638&amp;topic_name=AI%E6%9C%BA%E5%99%A8%E5%A5%B3%E5%8F%8B%E5%8F%91%E5%B8%83%2C%E4%BB%BF%E7%9C%9F%E6%8B%89%E6%BB%A1",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "英力股份：公司暂未取得戴尔AIPC结构件订单",
           "url": "https://flash.jin10.com/detail/20260625120704496800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -2186,6 +2377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时29分"
+        },
+        {
+          "title": "AI时代计算机专业怎么选",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E6%80%8E%E4%B9%88%E9%80%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "美国参议员沃伦将呼吁对AI进行反垄断审查和改革并购审查机制",
@@ -2232,6 +2434,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "建议大家不要和AI太好了",
+          "url": "https://s.weibo.com/weibo?q=%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E4%B8%8D%E8%A6%81%E5%92%8CAI%E5%A4%AA%E5%A5%BD%E4%BA%86&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "黄仁勋：本轮AI基建周期长达数十年",
           "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%EF%BC%9A%E6%9C%AC%E8%BD%AEAI%E5%9F%BA%E5%BB%BA%E5%91%A8%E6%9C%9F%E9%95%BF%E8%BE%BE%E6%95%B0%E5%8D%81%E5%B9%B4",
           "source": "百度热搜",
@@ -2249,7 +2462,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -2260,9 +2473,20 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "机构：AI产业正从基础设施建设转向企业级应用爆发",
+          "url": "https://wallstreetcn.com/livenews/3124507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "主流AI Coding开发鹅腿识别",
@@ -2271,7 +2495,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         }
@@ -2279,7 +2503,7 @@
     },
     {
       "keyword_group": "金价 黄金",
-      "match_count": 19,
+      "match_count": 23,
       "titles": [
         {
           "title": "黄金跌破4000美元关口 美元走强与加息预期重创贵金属市场",
@@ -2330,8 +2554,44 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 16时20分]"
+        },
+        {
+          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时42分]"
+          "time_info": "[12时42分 ~ 16时20分]"
+        },
+        {
+          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
+          "url": "https://wallstreetcn.com/articles/3775429",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 16时20分]"
+        },
+        {
+          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
+          "url": "https://www.cls.cn/detail/2408544",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 16时20分]"
         },
         {
           "title": "现货黄金价格跌破4000美元大关",
@@ -2357,41 +2617,6 @@
           "time_info": "06时46分"
         },
         {
-          "title": "标普三连跌，美元突破13个月高点，黄金跌破4000、油价跌破70、比特币跌破60000大关，美光、高通拉动芯片股大反弹",
-          "url": "https://wallstreetcn.com/articles/3775351",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "黄金盘中跌3.6%破4000美元，期银大跌10%，三年金银牛市戛然而止?",
-          "url": "https://wallstreetcn.com/articles/3775429",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时42分]"
-        },
-        {
-          "title": "贵金属全线暴跌金价失守4000美元关口 日本大举押注AI与半导体 | 环球市场",
-          "url": "https://www.cls.cn/detail/2408544",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时42分]"
-        },
-        {
           "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日减少4.282吨，当前持仓量为1013.355吨。",
           "url": "https://flash.jin10.com/detail/20260625062158762800",
           "source": "金十数据",
@@ -2415,6 +2640,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 16时20分]"
+        },
+        {
           "title": "上海黄金交易所黄金T+D 6月24日（周三）晚盘收盘下跌2.18%报873.16元/克；<br/>上海黄金交易所白银T+D 6月24日（周三）晚盘收盘下跌5.77%报13969.0元/千克。",
           "url": "https://flash.jin10.com/detail/20260625023111236800",
           "source": "金十数据",
@@ -2432,7 +2668,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -2443,9 +2679,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "如何看待现货黄金跌破 4000 美元 / 盎司关口？",
+          "url": "https://www.zhihu.com/question/2053415711725151834",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "黄金白银原油集体暴跌",
@@ -2459,17 +2706,6 @@
           "time_info": "08时05分"
         },
         {
-          "title": "现货黄金价格跌破4000美元大关",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33446112",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
           "title": "现货黄金跌破3960美元/盎司，日内跌3.64%。",
           "url": "https://flash.jin10.com/detail/20260625020428624800",
           "source": "金十数据",
@@ -2481,6 +2717,17 @@
           "time_info": "03时12分"
         },
         {
+          "title": "黄金价格年内下跌超5%",
+          "url": "https://www.toutiao.com/trending/7655161705609039366/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
           "title": "纽约期金周三跌3.2%，现货黄金失守4000美元整数位心理关口，白银跌超6%",
           "url": "https://wallstreetcn.com/livenews/3124240",
           "source": "华尔街见闻-快讯",
@@ -2490,6 +2737,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时46分"
+        },
+        {
+          "title": "金十图示：2026年06月25日（周四）上海黄金交易所市场行情",
+          "url": "https://flash.jin10.com/detail/20260625160201028800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "上海黄金交易所6月25日（周四）交易行情",
+          "url": "https://flash.jin10.com/detail/20260625160158000800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         },
         {
           "title": "现货黄金跌破4000美元/盎司关口",
@@ -2506,7 +2775,7 @@
     },
     {
       "keyword_group": "谷歌",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌将Gemini 3.5 Pro发布日期推后至7月份。 因为他们还在花更多时间收集早期测试者的反馈并调整模型。（Business Insider）",
@@ -2562,6 +2831,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "谷歌前CEO批中国AI开源",
+          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "美股AI芯片股盘前涨跌不一，高通(QCOM.O)大涨13%，英特尔(INTC.O)涨近6%，AMD(AMD.O)涨近4%，百度(BIDU.O)跌2%，谷歌(GOOG.O)跌1.4%。",
+          "url": "https://flash.jin10.com/detail/20260625160211701800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         }
       ]
     },
@@ -2601,8 +2892,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时05分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[08时05分 ~ 16时20分]"
         },
         {
           "title": "英伟达将于十分钟后举行年度股东大会。",
@@ -2619,8 +2910,19 @@
     },
     {
       "keyword_group": "openai chatgpt",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "商汤科技正研发新图像模型：代号U1 Pro，内部称将对标OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3124540",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
         {
           "title": "博通CEO：OpenAI芯片标志着实验室转向构建定制硬件的趋势",
           "url": "https://flash.jin10.com/detail/20260625011003961800",
@@ -2647,7 +2949,7 @@
     },
     {
       "keyword_group": "CPU 英特尔",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "高通数据中心主管：公司将于2028年中期推出数据中心CPU。",
@@ -2670,6 +2972,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时12分"
+        },
+        {
+          "title": "高通全面进军AI数据中心：Meta签多代CPU大单、微软部署HBC芯片，料到2029年业务收入150亿",
+          "url": "https://wallstreetcn.com/articles/3775441",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "内存 存储颗粒",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国内存芯片股盘前走强，闪迪(SNDK.O)上涨12.4%，西部数据(WDC.O)上涨12.1%，希捷科技(STX.O)上涨8.7%。",
+          "url": "https://flash.jin10.com/detail/20260625160633975800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
+        },
+        {
+          "title": "摩根大通：内存作为通用人工智能中战略资产的作用依然不变",
+          "url": "https://flash.jin10.com/detail/20260625160535102800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时20分"
         }
       ]
     },
@@ -2684,7 +3025,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         }
