@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-29T01:04:11.521614+08:00",
-  "total_titles_processed": 322,
+  "generated_at": "2026-06-29T02:42:50.944949+08:00",
+  "total_titles_processed": 372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美国",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "下周重磅日程：美国非农、中国PMI、沃什出席欧洲央行论坛，半导体“7月涨价潮”",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
           "title": "“我们太依赖美国，结果被关税坑惨了”",
@@ -26,8 +26,57 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
+        },
+        {
+          "title": "美国股灾告诉你泡沫如何收割散户",
+          "url": "https://www.toutiao.com/trending/7656455001794940458/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
+        },
+        {
+          "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
+          "url": "https://www.cls.cn/detail/2411069",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
+        },
+        {
+          "title": "美国海军陆战队接收首批「无雷达」F-35，没有雷达在现代战争中意味着什么？",
+          "url": "https://www.zhihu.com/question/2053970381673861771",
+          "source": "知乎",
+          "ranks": [
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
+        },
+        {
+          "title": "美国230斤男孩在家中去世父母被捕",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD230%E6%96%A4%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96%E7%88%B6%E6%AF%8D%E8%A2%AB%E6%8D%95%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            26,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
           "title": "报道：美国和伊朗即将举行的谈判已被取消。",
@@ -36,98 +85,68 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
-        },
-        {
-          "title": "美国股灾告诉你泡沫如何收割散户",
-          "url": "https://www.toutiao.com/trending/7656455001794940458/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "周末要闻汇总：前5月电子行业利润翻倍；美国再对伊朗实施军事打击",
-          "url": "https://www.cls.cn/detail/2411069",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "美国海军陆战队接收首批「无雷达」F-35，没有雷达在现代战争中意味着什么？",
-          "url": "https://www.zhihu.com/question/2053970381673861771",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "美国230斤男孩在家中去世父母被捕",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD230%E6%96%A4%E7%94%B7%E5%AD%A9%E5%9C%A8%E5%AE%B6%E4%B8%AD%E5%8E%BB%E4%B8%96%E7%88%B6%E6%AF%8D%E8%A2%AB%E6%8D%95%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
         },
         {
           "title": "美国纽约市长：初选结果表明选民渴望一种新型政治",
           "url": "https://wallstreetcn.com/livenews/3125690",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时42分]"
         },
         {
           "title": "据AXIOS：美国要求以色列对协议文本作出两项修改，以确保协议达成，其中包括以色列从目前处于其占领下的黎巴嫩南部一个村庄撤军，以及明确表示这将标志着从黎巴嫩撤出的更广泛进程的开始。",
           "url": "https://flash.jin10.com/detail/20260629001624038800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时42分]"
         },
         {
           "title": "美国史上最大风电场投产，行业却步入低谷",
           "url": "https://wallstreetcn.com/livenews/3125688",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时42分]"
         },
         {
           "title": "伊朗敦促美国为以色列“无条件”撤出黎巴嫩设定时间表",
           "url": "https://flash.jin10.com/detail/20260628234842222800",
           "source": "金十数据",
           "ranks": [
-            16
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时42分]"
+        },
+        {
+          "title": "美国和伊朗即将举行的谈判已被取消。（以色列i24NEWS）",
+          "url": "https://wallstreetcn.com/livenews/3125699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时04分"
+          "time_info": "02时42分"
         },
         {
           "title": "美国“反悔”？鲁比奥：美俄安克雷奇会晤并未达成协议",
@@ -136,7 +155,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         },
@@ -147,7 +166,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         }
@@ -165,8 +184,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
           "title": "专访｜前白宫科技顾问：特朗普政策逆风，难阻美国清洁能源的市场扩张",
@@ -176,8 +195,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
           "title": "特朗普发扛地球AI照，伊以都不服！",
@@ -187,19 +206,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
           "title": "美伊又开打，特朗普威胁：伊朗未来或将不复存在",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470517",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
           "title": "美军连续第二天空袭伊朗，特朗普威胁伊朗或将不复存在，局势会再度持续升温吗？美方此轮袭击想达成哪些目标？",
@@ -209,8 +229,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
           "title": "特朗普称美军打击伊朗导弹和无人机储存地点",
@@ -220,30 +240,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
           "title": "美国众议长约翰逊：下周一将移交住房立法草案给总统特朗普。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3125689",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时42分]"
         },
         {
           "title": "特朗普政府质询美国纽约州在农业用地上的光伏项目",
           "url": "https://wallstreetcn.com/livenews/3125682",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            16,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时42分]"
         },
         {
           "title": "美国众议院议长约翰逊：将于周一把住房法案提交给美国总统特朗普。",
@@ -252,7 +274,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         }
@@ -260,19 +282,8 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "人民日报评“AI脸看腻了”",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        },
         {
           "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
           "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
@@ -281,19 +292,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
-          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
-          "url": "https://wallstreetcn.com/articles/3775685",
-          "source": "华尔街见闻",
+          "title": "人民日报评“AI脸看腻了”",
+          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E2%80%9CAI%E8%84%B8%E7%9C%8B%E8%85%BB%E4%BA%86%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
-            3
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -303,8 +315,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
+        },
+        {
+          "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
+          "url": "https://wallstreetcn.com/articles/3775685",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
           "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
@@ -314,19 +338,31 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
           "title": "大家用 grill-me(拷问我) 这个 AI Agent Skill 的体验如何？",
           "url": "https://www.zhihu.com/question/2054005413406946147",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
+        },
+        {
+          "title": "轻量化AI设备需求激增，分析师：AI眼镜正加速迎来规模化拐点",
+          "url": "https://wallstreetcn.com/livenews/3125707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
         }
       ]
     },
@@ -339,11 +375,24 @@
           "url": "https://www.zhihu.com/question/2054536470178653026",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
+        },
+        {
+          "title": "日本媒体人：警惕日本再次成为战争加害国",
+          "url": "https://wallstreetcn.com/livenews/3125694",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "time_info": "[01时04分 ~ 02时42分]"
         },
         {
           "title": "世界杯小组赛结束，亚足联仅日本澳大利亚进入 32 强，远不及扩军前给亚足联的世界杯名额，对此你怎么看？",
@@ -355,17 +404,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 01时04分]"
-        },
-        {
-          "title": "日本媒体人：警惕日本再次成为战争加害国",
-          "url": "https://wallstreetcn.com/livenews/3125694",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
         }
       ]
     },
@@ -378,11 +416,12 @@
           "url": "https://www.cls.cn/detail/2411046",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
           "title": "豆包和DeepSeek的博弈",
@@ -399,6 +438,34 @@
       ]
     },
     {
+      "keyword_group": "金价 黄金",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金大跌带崩“黄金爱马仕”老铺黄金",
+          "url": "https://www.toutiao.com/trending/7656438161974758922/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时03分 ~ 01时04分]"
+        },
+        {
+          "title": "韩国黄金一代为何耻辱出局",
+          "url": "https://www.toutiao.com/trending/7655636603664580659/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -407,11 +474,12 @@
           "url": "https://www.toutiao.com/trending/7656406731290840586/",
           "source": "今日头条",
           "ranks": [
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         },
         {
           "title": "“央行的央行”发出警告：AI万亿美元投资狂潮，恐演变为“投资萧条”",
@@ -420,7 +488,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时04分"
         }
@@ -435,22 +503,24 @@
           "url": "https://wallstreetcn.com/livenews/3125692",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时42分]"
         },
         {
           "title": "AI初创公司Firmus将与英伟达合作建设印尼数据中心",
           "url": "https://flash.jin10.com/detail/20260629000635210800",
           "source": "金十数据",
           "ranks": [
-            14
+            14,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时04分 ~ 02时42分]"
         }
       ]
     },
@@ -466,25 +536,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价 黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "黄金大跌带崩“黄金爱马仕”老铺黄金",
-          "url": "https://www.toutiao.com/trending/7656438161974758922/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时03分 ~ 01时04分]"
+          "appearance_count": 3,
+          "time_info": "[01时03分 ~ 02时42分]"
         }
       ]
     }
